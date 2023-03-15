@@ -134,6 +134,8 @@ Metas de la transparencia  ^tgUsvEZH
 Esta meta está relacionada con la ocultación de la naturaleza distribuida del sistema. Cuanto más se parezca un sistema distribuido a uno centralizado, en lo que respecta a su
 uso o su programación, mayor grado de transparencia se habrá logrado. ^sEicacKN
 
+wwerwerewr ^Tcb6tikw
+
 
 # Embedded files
 0ffe14c447fdccd4f7f14ca4823c513ff997afee: [[Pasted Image 20230315171113_770.png]]
@@ -22129,6 +22131,40 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Esta meta está relacionada con la ocultación de la naturaleza distribuida del sistema. Cuanto más se parezca un sistema distribuido a uno centralizado, en lo que respecta a su\nuso o su programación, mayor grado de transparencia se habrá logrado."
+		},
+		{
+			"id": "Tcb6tikw",
+			"type": "text",
+			"x": 3177.1396772107173,
+			"y": -2433.182270691772,
+			"width": 150.27590942382812,
+			"height": 33.6,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#bfbfbf",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 70,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 113347485,
+			"version": 11,
+			"versionNonce": 1919265149,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1678920941602,
+			"link": null,
+			"locked": false,
+			"text": "wwerwerewr",
+			"rawText": "wwerwerewr",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "wwerwerewr"
 		}
 	],
 	"appState": {
