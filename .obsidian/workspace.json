@@ -11,19 +11,23 @@
             "id": "d44a15c9ae9e7e5d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md"
+                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "685c2bce54d3aa0b",
+            "id": "f986e0632861e1a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,18 +168,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "685c2bce54d3aa0b",
+  "active": "f986e0632861e1a2",
   "lastOpenFiles": [
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
+    "imagenes/Pasted Image 20230315180856_344.png",
+    "imagenes/Pasted Image 20230315174118_592.png",
+    "imagenes/Pasted Image 20230315173806_689.png",
+    "imagenes/Pasted Image 20230315173720_736.png",
+    "imagenes/Pasted Image 20230315173648_728.png",
+    "imagenes/Pasted Image 20230315171216_766.png",
+    "imagenes/Pasted Image 20230315171113_770.png",
+    "imagenes",
+    "Excalidraw/Metas de los sistemas distribuidos.md",
     "Pasted Image 20230315180856_344.png",
     "Pasted Image 20230315173806_689.png",
     "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Pasted Image 20230315173720_736.png",
-    "Pasted Image 20230315173648_728.png",
-    "Pasted Image 20230315174118_592.png",
-    "Pasted Image 20230315171216_766.png",
-    "Pasted Image 20230315171113_770.png",
     "Excalidraw/Untitled.md",
     "2023-02-27.md",
     "Excalidraw"
