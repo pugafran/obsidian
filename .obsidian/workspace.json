@@ -21,14 +21,34 @@
             "id": "685c2bce54d3aa0b",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted Image 20230315171113_770.png"
+              }
+            }
+          },
+          {
+            "id": "b9ccb3c350591239",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted Image 20230315174118_592.png"
+              }
+            }
+          },
+          {
+            "id": "f0a6a5497bc6087d",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md"
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md"
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
               }
             }
           },
@@ -155,27 +175,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "685c2bce54d3aa0b",
+  "active": "e8c5a875ba725b9d",
   "lastOpenFiles": [
-    "Pasted Image 20230315180856_344.png",
-    "Pasted Image 20230315173806_689.png",
-    "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
-    "Pasted Image 20230315173720_736.png",
-    "Pasted Image 20230315173648_728.png",
-    "Pasted Image 20230315174118_592.png",
-    "Pasted Image 20230315171216_766.png",
-    "Pasted Image 20230315171113_770.png",
+    "imagenes/Pasted Image 20230315174118_592.png",
+    "imagenes/Pasted Image 20230315180856_344.png",
+    "imagenes/Pasted Image 20230315171216_766.png",
+    "imagenes/Pasted Image 20230315171113_770.png",
+    "imagenes",
+    "Excalidraw/Metas de los sistemas distribuidos.md",
+    "imagenes/Pasted Image 20230315173806_689.png",
+    "imagenes/Pasted Image 20230315173720_736.png",
+    "imagenes/Pasted Image 20230315173648_728.png",
     "Excalidraw/Untitled.md",
     "2023-02-27.md",
     "Excalidraw"
