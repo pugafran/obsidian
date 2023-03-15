@@ -11,40 +11,13 @@
             "id": "d44a15c9ae9e7e5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "685c2bce54d3aa0b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "imagenes/Pasted Image 20230315171113_770.png"
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
               }
-            }
-          },
-          {
-            "id": "b9ccb3c350591239",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imagenes/Pasted Image 20230315174118_592.png"
-              }
-            }
-          },
-          {
-            "id": "f0a6a5497bc6087d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
+              }
             }
           },
           {
@@ -176,15 +153,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0a6a5497bc6087d",
+  "active": "d44a15c9ae9e7e5d",
   "lastOpenFiles": [
+    "imagenes/Pasted Image 20230315171113_770.png",
+    "imagenes/Pasted Image 20230315174118_592.png",
     "Excalidraw/Metas de los sistemas distribuidos.md",
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
-    "imagenes/Pasted Image 20230315174118_592.png",
     "imagenes/Pasted Image 20230315180856_344.png",
     "imagenes/Pasted Image 20230315171216_766.png",
-    "imagenes/Pasted Image 20230315171113_770.png",
     "imagenes",
     "imagenes/Pasted Image 20230315173806_689.png",
     "imagenes/Pasted Image 20230315173720_736.png",
