@@ -11,10 +11,8 @@
             "id": "d44a15c9ae9e7e5d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -41,10 +39,8 @@
             "id": "f0a6a5497bc6087d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "f0a6a5497bc6087d",
   "lastOpenFiles": [
+    "Excalidraw/Metas de los sistemas distribuidos.md",
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "imagenes/Pasted Image 20230315174118_592.png",
@@ -193,7 +186,6 @@
     "imagenes/Pasted Image 20230315171216_766.png",
     "imagenes/Pasted Image 20230315171113_770.png",
     "imagenes",
-    "Excalidraw/Metas de los sistemas distribuidos.md",
     "imagenes/Pasted Image 20230315173806_689.png",
     "imagenes/Pasted Image 20230315173720_736.png",
     "imagenes/Pasted Image 20230315173648_728.png",
