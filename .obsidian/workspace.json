@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8446a5e148dcec11",
+        "id": "1962f2f36cca299d",
         "type": "split",
         "children": [
           {
@@ -77,11 +77,11 @@
             "currentTab": 2
           },
           {
-            "id": "a9fcdf194eb5964e",
+            "id": "17b6386e10e198dd",
             "type": "tabs",
             "children": [
               {
-                "id": "23c1be2fe66f000f",
+                "id": "3b53cb9dc3c09045",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -101,7 +101,7 @@
                       },
                       "serial": {
                         "columns": 170,
-                        "data": "Microsoft Windows [Versión 10.0.19044.2364]\r\n(c) Microsoft Corporation. Todos los derechos reservados.\r\n\r\nC:\\Users\\pugaf\\Documents\\obsidian>^C",
+                        "data": " \r\nC:\\Users\\pugaf\\Documents\\obsidian>git add .\r\nwarning: in the working copy of '.obsidian/plugins/obsidian-git/data.json', LF will be replaced by CRLF the next time Gi\r\nt touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it    \r\n\r\nC:\\Users\\pugaf\\Documents\\obsidian>git comm",
                         "rows": 24
                       }
                     }
@@ -244,7 +244,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "23c1be2fe66f000f",
+  "active": "3b53cb9dc3c09045",
   "lastOpenFiles": [
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Metas de los sistemas distribuidos.md",
