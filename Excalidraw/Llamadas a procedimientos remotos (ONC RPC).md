@@ -1,4 +1,3 @@
-
 ---
 
 excalidraw-plugin: parsed
@@ -261,13 +260,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 130,
-			"versionNonce": 1219524536,
-=======
 			"version": 126,
 			"versionNonce": 1307477292,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "vJCdJoIbIVH3uxIIY9RrZ",
 			"fillStyle": "hachure",
@@ -276,21 +270,12 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -104.20923743110822,
-			"y": 203,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0.34310782594356226,
-			"height": 131.63667673995306,
-=======
 			"x": -104.2092374059961,
 			"y": 203,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.34310784461661115,
 			"height": 131.6366767399635,
->>>>>>> origin/main
 			"seed": 1297278953,
 			"groupIds": [],
 			"roundness": {
@@ -302,11 +287,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					"id": "Lb0I27Uo"
 				}
 			],
-<<<<<<< HEAD
-			"updated": 1678921752205,
-=======
 			"updated": 1678919808728,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -328,25 +309,15 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-<<<<<<< HEAD
-					-0.34310782594356226,
-					-131.63667673995306
-=======
 					-0.34310784461661115,
 					-131.6366767399635
->>>>>>> origin/main
 				]
 			]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD
-			"version": 15,
-			"versionNonce": 1378307016,
-=======
 			"version": 14,
 			"versionNonce": 104526252,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "Lb0I27Uo",
 			"fillStyle": "hachure",
@@ -355,13 +326,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -125.8907782215214,
-			"y": 125.18166163002348,
-=======
 			"x": -125.89077820574582,
 			"y": 125.18166163001825,
->>>>>>> origin/main
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 43.01997375488281,
@@ -370,11 +336,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752400,
-=======
 			"updated": 1678919827009,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -735,13 +697,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 338,
-			"versionNonce": 1480438984,
-=======
 			"version": 334,
 			"versionNonce": 401009684,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "N5sKZOeq_oK-QPkhKyxeU",
 			"fillStyle": "hachure",
@@ -751,19 +708,11 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"opacity": 100,
 			"angle": 0,
 			"x": -653.072199993808,
-<<<<<<< HEAD
-			"y": -15.401472417916267,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 451.3128973946817,
-			"height": 25.08300582586376,
-=======
 			"y": -15.401472414073979,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 451.31289739402376,
 			"height": 25.08300582268479,
->>>>>>> origin/main
 			"seed": 619288105,
 			"groupIds": [],
 			"roundness": {
@@ -775,11 +724,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					"id": "5im5LRzK"
 				}
 			],
-<<<<<<< HEAD
-			"updated": 1678921752207,
-=======
 			"updated": 1678919808730,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -801,25 +746,15 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-<<<<<<< HEAD
-					451.3128973946817,
-					25.08300582586376
-=======
 					451.31289739402376,
 					25.08300582268479
->>>>>>> origin/main
 				]
 			]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD
-			"version": 44,
-			"versionNonce": 1067070648,
-=======
 			"version": 43,
 			"versionNonce": 1147621140,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "5im5LRzK",
 			"fillStyle": "hachure",
@@ -828,13 +763,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -575.305628615803,
-			"y": -14.859969504984386,
-=======
 			"x": -575.305628616132,
 			"y": -14.859969502731584,
->>>>>>> origin/main
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 295.7797546386719,
@@ -843,11 +773,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752400,
-=======
 			"updated": 1678919827010,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -861,13 +787,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 154,
-			"versionNonce": 456842168,
-=======
 			"version": 152,
 			"versionNonce": 1868336940,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "F4LfUu4npeb-wMFBA4Y9X",
 			"fillStyle": "hachure",
@@ -893,11 +814,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					"id": "FILLGX5X"
 				}
 			],
-<<<<<<< HEAD
-			"updated": 1678921752207,
-=======
 			"updated": 1678919808730,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -964,13 +881,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 88,
-			"versionNonce": 717663688,
-=======
 			"version": 86,
 			"versionNonce": 330817172,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "Q9vIHX9iHH0USvUUwww2J",
 			"fillStyle": "hachure",
@@ -991,11 +903,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752206,
-=======
 			"updated": 1678919808729,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1099,13 +1007,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 97,
-			"versionNonce": 1134008,
-=======
 			"version": 93,
 			"versionNonce": 1439413292,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "nG4i3H-cVbWvXaA0ASpiL",
 			"fillStyle": "hachure",
@@ -1114,32 +1017,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -727.5882694785689,
-			"y": 76.24359888732124,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0.7040316871830328,
-			"height": 62.65466128676465,
-=======
 			"x": -727.5861399403832,
 			"y": 76.24359888732124,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.7052739309629033,
 			"height": 62.65469038421634,
->>>>>>> origin/main
 			"seed": 1605516745,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752208,
-=======
 			"updated": 1678919808731,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1161,13 +1051,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-<<<<<<< HEAD
-					-0.7040316871830328,
-					62.65466128676465
-=======
 					-0.7052739309629033,
 					62.65469038421634
->>>>>>> origin/main
 				]
 			]
 		},
@@ -1248,13 +1133,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 78,
-			"versionNonce": 1936932792,
-=======
 			"version": 74,
 			"versionNonce": 745904428,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "AswLet6T9FJMNrN8toByN",
 			"fillStyle": "hachure",
@@ -1263,32 +1143,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -728.080390764282,
-			"y": 232.1374461593367,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 0.7003528755761863,
-			"height": 28.658727451752753,
-=======
 			"x": -728.0765224211855,
 			"y": 232.13731491398397,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 0.7021251640286437,
 			"height": 28.658840970026915,
->>>>>>> origin/main
 			"seed": 1013896007,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752208,
-=======
 			"updated": 1678919808731,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1310,13 +1177,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-<<<<<<< HEAD
-					-0.7003528755761863,
-					28.658727451752753
-=======
 					-0.7021251640286437,
 					28.658840970026915
->>>>>>> origin/main
 				]
 			]
 		},
@@ -1451,11 +1313,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		{
 			"type": "text",
 			"version": 306,
-<<<<<<< HEAD
-			"versionNonce": 1507808563,
-=======
 			"versionNonce": 602576916,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "QfmIiDgI",
 			"fillStyle": "hachure",
@@ -1474,11 +1332,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678919299016,
-=======
 			"updated": 1678919808732,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1785,13 +1639,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 56,
-			"versionNonce": 325224632,
-=======
 			"version": 52,
 			"versionNonce": 2067895212,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "NvAjsh0np0Sk6Uckiawbr",
 			"fillStyle": "hachure",
@@ -1800,32 +1649,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -103.34075234104944,
-			"y": 303.85839914291273,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 3.06614976726911,
-			"height": 38.892018308016645,
-=======
 			"x": -103.33395863184133,
 			"y": 303.85839914291273,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 3.0693834079221602,
 			"height": 38.89197232098735,
->>>>>>> origin/main
 			"seed": 1412516873,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752209,
-=======
 			"updated": 1678919808731,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1847,25 +1683,15 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-<<<<<<< HEAD
-					-3.06614976726911,
-					38.892018308016645
-=======
 					-3.0693834079221602,
 					38.89197232098735
->>>>>>> origin/main
 				]
 			]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD
-			"version": 81,
-			"versionNonce": 703707832,
-=======
 			"version": 77,
 			"versionNonce": 1587124396,
->>>>>>> origin/main
 			"isDeleted": false,
 			"id": "GE3AuZ8bzgQHzoVP_AsA8",
 			"fillStyle": "hachure",
@@ -1874,32 +1700,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD
-			"x": -102.44879127051577,
-			"y": 432.74031880078354,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 1.3372022422796448,
-			"height": 29.335980865416047,
-=======
 			"x": -102.44451334445705,
 			"y": 432.7403003219276,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1.3391475890027635,
 			"height": 29.3360126523055,
->>>>>>> origin/main
 			"seed": 359022951,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD
-			"updated": 1678921752209,
-=======
 			"updated": 1678919808732,
->>>>>>> origin/main
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1921,13 +1734,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-<<<<<<< HEAD
-					-1.3372022422796448,
-					29.335980865416047
-=======
 					-1.3391475890027635,
 					29.3360126523055
->>>>>>> origin/main
 				]
 			]
 		},
@@ -2015,17 +1823,10 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-<<<<<<< HEAD
-		"scrollX": 1010.2691811768403,
-		"scrollY": 184.19631980177212,
-		"zoom": {
-			"value": 0.9
-=======
 		"scrollX": 850.2691811768403,
 		"scrollY": 234.75187535732766,
 		"zoom": {
 			"value": 0.8
->>>>>>> origin/main
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
