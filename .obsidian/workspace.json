@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2de0bd17c9502361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
+                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
+                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
+                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md"
               }
             }
           },
@@ -155,11 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84098311f64de453",
+  "active": "2de0bd17c9502361",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Metas de los sistemas distribuidos.md",
-    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
     "imagenes/Pasted Image 20230315180856_344.png",
