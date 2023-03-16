@@ -64,7 +64,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.17",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
 	"elements": [
 		{
 			"type": "text",
@@ -260,8 +260,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 126,
-			"versionNonce": 1307477292,
+			"version": 134,
+			"versionNonce": 676291198,
 			"isDeleted": false,
 			"id": "vJCdJoIbIVH3uxIIY9RrZ",
 			"fillStyle": "hachure",
@@ -270,12 +270,12 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -104.2092374059961,
+			"x": -104.20923743123691,
 			"y": 203,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.34310784461661115,
-			"height": 131.6366767399635,
+			"width": 0.34310782584786637,
+			"height": 131.63667673995303,
 			"seed": 1297278953,
 			"groupIds": [],
 			"roundness": {
@@ -287,7 +287,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					"id": "Lb0I27Uo"
 				}
 			],
-			"updated": 1678919808728,
+			"updated": 1678931163016,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -309,15 +309,15 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-					-0.34310784461661115,
-					-131.6366767399635
+					-0.34310782584786637,
+					-131.63667673995303
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 14,
-			"versionNonce": 104526252,
+			"version": 16,
+			"versionNonce": 138635810,
 			"isDeleted": false,
 			"id": "Lb0I27Uo",
 			"fillStyle": "hachure",
@@ -326,8 +326,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -125.89077820574582,
-			"y": 125.18166163001825,
+			"x": -125.89077822160226,
+			"y": 125.18166163002348,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 43.01997375488281,
@@ -336,7 +336,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1678919827009,
+			"updated": 1678931173377,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -697,8 +697,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 334,
-			"versionNonce": 401009684,
+			"version": 342,
+			"versionNonce": 371756962,
 			"isDeleted": false,
 			"id": "N5sKZOeq_oK-QPkhKyxeU",
 			"fillStyle": "hachure",
@@ -708,11 +708,11 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"opacity": 100,
 			"angle": 0,
 			"x": -653.072199993808,
-			"y": -15.401472414073979,
+			"y": -15.40147241791645,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 451.31289739402376,
-			"height": 25.08300582268479,
+			"width": 451.3128973946818,
+			"height": 25.083005825863914,
 			"seed": 619288105,
 			"groupIds": [],
 			"roundness": {
@@ -724,7 +724,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					"id": "5im5LRzK"
 				}
 			],
-			"updated": 1678919808730,
+			"updated": 1678931163017,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -746,15 +746,15 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-					451.31289739402376,
-					25.08300582268479
+					451.3128973946818,
+					25.083005825863914
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 1147621140,
+			"version": 45,
+			"versionNonce": 530137342,
 			"isDeleted": false,
 			"id": "5im5LRzK",
 			"fillStyle": "hachure",
@@ -763,8 +763,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -575.305628616132,
-			"y": -14.859969502731584,
+			"x": -575.305628615803,
+			"y": -14.859969504984491,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 295.7797546386719,
@@ -773,7 +773,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1678919827010,
+			"updated": 1678931173377,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -787,8 +787,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 152,
-			"versionNonce": 1868336940,
+			"version": 156,
+			"versionNonce": 706950014,
 			"isDeleted": false,
 			"id": "F4LfUu4npeb-wMFBA4Y9X",
 			"fillStyle": "hachure",
@@ -814,7 +814,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					"id": "FILLGX5X"
 				}
 			],
-			"updated": 1678919808730,
+			"updated": 1678931163017,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -881,8 +881,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 86,
-			"versionNonce": 330817172,
+			"version": 90,
+			"versionNonce": 542792674,
 			"isDeleted": false,
 			"id": "Q9vIHX9iHH0USvUUwww2J",
 			"fillStyle": "hachure",
@@ -903,7 +903,7 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1678919808729,
+			"updated": 1678931163016,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1007,8 +1007,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 93,
-			"versionNonce": 1439413292,
+			"version": 101,
+			"versionNonce": 1269754878,
 			"isDeleted": false,
 			"id": "nG4i3H-cVbWvXaA0ASpiL",
 			"fillStyle": "hachure",
@@ -1017,19 +1017,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -727.5861399403832,
+			"x": -727.5883459787431,
 			"y": 76.24359888732124,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.7052739309629033,
-			"height": 62.65469038421634,
+			"width": 0.7039870616260941,
+			"height": 62.654660241617165,
 			"seed": 1605516745,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1678919808731,
+			"updated": 1678931163017,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1051,8 +1051,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-					-0.7052739309629033,
-					62.65469038421634
+					-0.7039870616260941,
+					62.654660241617165
 				]
 			]
 		},
@@ -1133,8 +1133,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 74,
-			"versionNonce": 745904428,
+			"version": 82,
+			"versionNonce": 252085374,
 			"isDeleted": false,
 			"id": "AswLet6T9FJMNrN8toByN",
 			"fillStyle": "hachure",
@@ -1143,19 +1143,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -728.0765224211855,
-			"y": 232.13731491398397,
+			"x": -728.0808395508491,
+			"y": 232.13746137729387,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.7021251640286437,
-			"height": 28.658840970026915,
+			"width": 0.7001472638305586,
+			"height": 28.658714292414203,
 			"seed": 1013896007,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1678919808731,
+			"updated": 1678931163018,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1177,8 +1177,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-					-0.7021251640286437,
-					28.658840970026915
+					-0.7001472638305586,
+					28.658714292414203
 				]
 			]
 		},
@@ -1639,8 +1639,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		},
 		{
 			"type": "arrow",
-			"version": 52,
-			"versionNonce": 2067895212,
+			"version": 60,
+			"versionNonce": 1325221054,
 			"isDeleted": false,
 			"id": "NvAjsh0np0Sk6Uckiawbr",
 			"fillStyle": "hachure",
@@ -1649,19 +1649,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -103.33395863184133,
+			"x": -103.34135194137826,
 			"y": 303.85839914291273,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 3.0693834079221602,
-			"height": 38.89197232098735,
+			"width": 3.065864372087617,
+			"height": 38.8920223693936,
 			"seed": 1412516873,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1678919808731,
+			"updated": 1678931163018,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1683,15 +1683,15 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-					-3.0693834079221602,
-					38.89197232098735
+					-3.065864372087617,
+					38.8920223693936
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 77,
-			"versionNonce": 1587124396,
+			"version": 85,
+			"versionNonce": 933604670,
 			"isDeleted": false,
 			"id": "GE3AuZ8bzgQHzoVP_AsA8",
 			"fillStyle": "hachure",
@@ -1700,19 +1700,19 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -102.44451334445705,
-			"y": 432.7403003219276,
+			"x": -102.44927503507489,
+			"y": 432.7403208853888,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.3391475890027635,
-			"height": 29.3360126523055,
+			"width": 1.336982255339592,
+			"height": 29.335977278295786,
 			"seed": 359022951,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1678919808732,
+			"updated": 1678931163018,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1734,8 +1734,8 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 					0
 				],
 				[
-					-1.3391475890027635,
-					29.3360126523055
+					-1.336982255339592,
+					29.335977278295786
 				]
 			]
 		},
@@ -1823,10 +1823,10 @@ Llamadas a procedimientos remotos (ONC RPC) ^3TWddPzn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 850.2691811768403,
-		"scrollY": 234.75187535732766,
+		"scrollX": 1010.2691811768402,
+		"scrollY": 168.08520869066092,
 		"zoom": {
-			"value": 0.8
+			"value": 1.2000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

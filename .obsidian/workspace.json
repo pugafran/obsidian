@@ -11,11 +11,9 @@
             "id": "84098311f64de453",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md"
               }
             }
           },
@@ -33,11 +31,9 @@
             "id": "03eb98337ede4e1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md"
               }
             }
           }
@@ -108,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md"
               }
             }
           },
@@ -180,9 +176,9 @@
   },
   "active": "03eb98337ede4e1b",
   "lastOpenFiles": [
+    "Excalidraw/Metas de los sistemas distribuidos.md",
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Metas de los sistemas distribuidos.md",
     "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
     "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Excalidraw/Drawing 2023-03-16 02.43.23.excalidraw.md",
