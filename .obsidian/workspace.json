@@ -23,16 +23,26 @@
             "id": "2de0bd17c9502361",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "52203b52b42b79b4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md"
+                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
               }
             }
           },
@@ -168,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2de0bd17c9502361",
+  "active": "52203b52b42b79b4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Metas de los sistemas distribuidos.md",
     "conflict-files-obsidian-git.md",
