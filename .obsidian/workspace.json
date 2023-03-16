@@ -11,8 +11,12 @@
             "id": "84098311f64de453",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md"
+              }
             }
           },
           {
@@ -150,6 +158,8 @@
   "active": "84098311f64de453",
   "lastOpenFiles": [
     "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
+    "Excalidraw/Metas de los sistemas distribuidos.md",
+    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
     "imagenes/Pasted Image 20230315180856_344.png",
@@ -160,10 +170,8 @@
     "imagenes/Pasted Image 20230315171216_766.png",
     "imagenes/Pasted Image 20230315171113_770.png",
     "imagenes",
-    "Excalidraw/Metas de los sistemas distribuidos.md",
     "Pasted Image 20230315180856_344.png",
     "Pasted Image 20230315173806_689.png",
-    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Pasted Image 20230315173720_736.png",
     "Excalidraw/Untitled.md",
     "2023-02-27.md",
