@@ -156,12 +156,6 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 	"elements": [
 		{
 			"type": "rectangle",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 456,
-			"versionNonce": 124072903,
-			"isDeleted": false,
-			"id": "BlqltkkSnNkt3RV5tkWO4",
-=======
 			"version": 529,
 			"versionNonce": 2038136596,
 			"isDeleted": false,
@@ -194,48 +188,14 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"versionNonce": 223259692,
 			"isDeleted": false,
 			"id": "9knlBa3OdXWUuNsaOTdLb",
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": -474.55900212008487,
-			"y": 1199.298161524464,
-			"strokeColor": "#000000",
-			"backgroundColor": "#bfbfbf",
-			"width": 2803.673268085433,
-			"height": 2002.823854761637,
-			"seed": 2079208295,
-			"groupIds": [],
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1678900313018,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 144,
-			"versionNonce": 1861806889,
-			"isDeleted": false,
-			"id": "9knlBa3OdXWUuNsaOTdLb",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 70,
-			"angle": 0,
-			"x": 1509.2051754428205,
-			"y": -575.9865576696452,
-=======
 			"x": 1524.2051754428205,
 			"y": -3160.986557669645,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "#e64980",
 			"width": 814.6918075416899,
@@ -2392,8 +2352,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "arrow",
-			"version": 179,
-			"versionNonce": 718740787,
+			"version": 180,
+			"versionNonce": 772039103,
 			"isDeleted": false,
 			"id": "Hc1qLOTNZVbL_xwpxJtKq",
 			"fillStyle": "solid",
@@ -2419,7 +2379,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					"id": "joJmxifz"
 				}
 			],
-			"updated": 1678920305958,
+			"updated": 1679239973994,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6719,13 +6679,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 94,
-			"versionNonce": 173646776,
-=======
-			"version": 317,
-			"versionNonce": 1583656733,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 319,
+			"versionNonce": 1894318033,
 			"isDeleted": false,
 			"id": "BXO7WhhCcdeqer-8IPPPo",
 			"fillStyle": "solid",
@@ -6735,11 +6690,11 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 29.962398039633683,
-			"y": -2183.991117178958,
+			"y": -2183.9911171789577,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 123.51083517484437,
-			"height": 2.3771100567919348,
+			"width": 123.51083517484449,
+			"height": 2.3771100567923895,
 			"seed": 1544954983,
 			"groupIds": [],
 			"roundness": {
@@ -6751,11 +6706,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					"id": "4rzRRZBd"
 				}
 			],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752372,
-=======
-			"updated": 1678920305958,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973994,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6777,20 +6728,15 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					0
 				],
 				[
-					123.51083517484437,
-					-2.3771100567919348
+					123.51083517484449,
+					-2.3771100567923895
 				]
 			]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 22,
-			"versionNonce": 643666909,
-=======
-			"version": 95,
-			"versionNonce": 948887852,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 96,
+			"versionNonce": 497339729,
 			"isDeleted": false,
 			"id": "4rzRRZBd",
 			"fillStyle": "solid",
@@ -6799,13 +6745,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 50.35379875086397,
-			"y": 390.2204055308752,
-=======
-			"x": 65.35379875086397,
-			"y": -2194.7795944691247,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"x": 65.35783790488796,
+			"y": -2194.779672207354,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 52.71995544433594,
@@ -6814,11 +6755,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678919299218,
-=======
-			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239974406,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -7068,13 +7005,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "ellipse",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 1069,
-			"versionNonce": 1205628088,
-=======
-			"version": 1143,
-			"versionNonce": 117636819,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 1144,
+			"versionNonce": 800051679,
 			"isDeleted": false,
 			"id": "1vzf0Uzi5h6-AmgBg-avl",
 			"fillStyle": "hachure",
@@ -7083,13 +7015,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 4.602018897977848,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 135.48787083334392,
-			"y": 942.8145581382813,
-=======
-			"x": 150.48787083334395,
+			"x": 150.48787083334398,
 			"y": -1642.1854418617186,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 52,
@@ -7109,23 +7036,14 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					"id": "l8Vbs9S3"
 				}
 			],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752372,
-=======
-			"updated": 1678920305958,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 204,
-			"versionNonce": 66575048,
-=======
-			"version": 278,
-			"versionNonce": 500124637,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 279,
+			"versionNonce": 1096155025,
 			"isDeleted": false,
 			"id": "l8Vbs9S3",
 			"fillStyle": "solid",
@@ -7134,13 +7052,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 157.10709995462258,
-			"y": 960.7691216556512,
-=======
-			"x": 172.1070999546226,
+			"x": 172.10709995462264,
 			"y": -1624.2308783443486,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 8.991989135742188,
@@ -7149,11 +7062,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752372,
-=======
-			"updated": 1678920305958,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973995,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -7565,7 +7474,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"y": -1580.1449667940124,
 			"strokeColor": "#000000",
 			"backgroundColor": "#000000",
-			"width": 72.1875,
+			"width": 86.31991577148438,
 			"height": 24,
 			"seed": 1720456457,
 			"groupIds": [],
@@ -7686,13 +7595,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 554,
-			"versionNonce": 474846152,
-=======
-			"version": 702,
-			"versionNonce": 1738195837,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 703,
+			"versionNonce": 1815797169,
 			"isDeleted": false,
 			"id": "2KmtYGgS_FHwYQSfSjCbS",
 			"fillStyle": "solid",
@@ -7705,13 +7609,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"y": -1646.7755827889964,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"width": 305.05175393464367,
-			"height": 7.814551434057762,
-=======
 			"width": 305.0560201782467,
 			"height": 7.814660722988265,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"seed": 2133796553,
 			"groupIds": [],
 			"roundness": {
@@ -7723,11 +7622,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					"id": "ucSNAiOF"
 				}
 			],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752372,
-=======
-			"updated": 1678920305958,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7745,25 +7640,15 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					0
 				],
 				[
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-					305.05175393464367,
-					7.814551434057762
-=======
 					305.0560201782467,
 					7.814660722988265
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 				]
 			]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 185,
-			"versionNonce": 1171952328,
-=======
-			"version": 258,
-			"versionNonce": 2008932957,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 259,
+			"versionNonce": 366357567,
 			"isDeleted": false,
 			"id": "ucSNAiOF",
 			"fillStyle": "solid",
@@ -7772,13 +7657,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": -41.88977421026979,
-			"y": 932.5316929280326,
-=======
-			"x": -26.889774210269792,
-			"y": -1652.4683070719675,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"x": -26.887641088468285,
+			"y": -1652.4682524275022,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 40.51197814941406,
@@ -7787,11 +7667,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752402,
-=======
-			"updated": 1678920305939,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239974406,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -20768,13 +20644,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "ellipse",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 1035,
-			"versionNonce": 2077928745,
-=======
 			"version": 1108,
 			"versionNonce": 1035001620,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "qND2z5z52fxlPgfFoPTSQ",
 			"fillStyle": "solid",
@@ -20783,13 +20654,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1534.9736515972177,
-			"y": -285.39114130268615,
-=======
 			"x": 1549.9736515972177,
 			"y": -2870.3911413026863,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 117,
@@ -20815,13 +20681,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 926,
-			"versionNonce": 248292393,
-=======
 			"version": 1000,
 			"versionNonce": 1091815485,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "Fm7eO8ZN",
 			"fillStyle": "solid",
@@ -20830,13 +20691,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1560.2879204617695,
-			"y": -263.4033346115059,
-=======
 			"x": 1575.2879204617695,
 			"y": -2848.403334611506,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 66.63996887207031,
@@ -20845,11 +20701,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900136476,
-=======
 			"updated": 1678920305959,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20863,13 +20715,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 867,
-			"versionNonce": 1008604600,
-=======
-			"version": 1015,
-			"versionNonce": 1652665459,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 1016,
+			"versionNonce": 649608703,
 			"isDeleted": false,
 			"id": "2HMcjXvliObojz6WgBzvx",
 			"fillStyle": "solid",
@@ -20878,21 +20725,12 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1662.3778642545396,
-			"y": -233.29025766962624,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 423.21039051590947,
-			"height": 3.7438301696757037,
-=======
 			"x": 1677.3778617989365,
 			"y": -2818.2902576479037,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 423.21039297151265,
 			"height": 3.743830191398075,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"seed": 792591337,
 			"groupIds": [],
 			"roundness": {
@@ -20904,22 +20742,13 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					"id": "Npdoxzx0"
 				}
 			],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752373,
-=======
-			"updated": 1678920305959,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "qND2z5z52fxlPgfFoPTSQ",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-				"gap": 10.659950699729073,
-				"focus": -0.09119588065420997
-=======
 				"gap": 10.659948251457642,
 				"focus": -0.09119588065420473
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -20938,13 +20767,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 372,
-			"versionNonce": 815337533,
-=======
-			"version": 446,
-			"versionNonce": 1431158259,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 447,
+			"versionNonce": 2065759025,
 			"isDeleted": false,
 			"id": "Npdoxzx0",
 			"fillStyle": "solid",
@@ -20953,13 +20777,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1715.8031889070257,
-			"y": -247.1621727544641,
-=======
-			"x": 1730.8031889070257,
-			"y": -2832.162172754464,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"x": 1730.803187679224,
+			"y": -2832.1621727436027,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 316.3597412109375,
@@ -20968,11 +20787,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678919299218,
-=======
-			"updated": 1678920305940,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239974406,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -20986,13 +20801,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 540,
-			"versionNonce": 1099839209,
-=======
 			"version": 613,
 			"versionNonce": 1380135212,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "7R1d4h0m",
 			"fillStyle": "solid",
@@ -21001,13 +20811,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1545.032910673844,
-			"y": -400.64385193908345,
-=======
 			"x": 1560.032910673844,
 			"y": -2985.6438519390836,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 197.03982543945312,
@@ -21016,11 +20821,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21034,13 +20835,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "ellipse",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 601,
-			"versionNonce": 247711783,
-=======
 			"version": 674,
 			"versionNonce": 1269090196,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "InApzUcHjODC-lJqk-sTL",
 			"fillStyle": "solid",
@@ -21049,13 +20845,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2097.0680404165037,
-			"y": -324.4346871700133,
-=======
 			"x": 2112.0680404165037,
 			"y": -2909.4346871700136,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 64,
@@ -21085,13 +20876,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 325,
-			"versionNonce": 106525129,
-=======
 			"version": 398,
 			"versionNonce": 1134308268,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "Xwhc0yof",
 			"fillStyle": "solid",
@@ -21100,13 +20886,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2122.060626165116,
-			"y": -306.79433721501647,
-=======
 			"x": 2137.060626165116,
 			"y": -2891.7943372150166,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 13.759994506835938,
@@ -21115,11 +20896,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21174,13 +20951,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 393,
-			"versionNonce": 1203392681,
-=======
 			"version": 467,
 			"versionNonce": 394822803,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "3s2OUAqq",
 			"fillStyle": "solid",
@@ -21189,13 +20961,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2234.664481439982,
-			"y": -204.78789005548342,
-=======
 			"x": 2249.664481439982,
 			"y": -2789.787890055484,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 38.9599609375,
@@ -21204,11 +20971,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920305960,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21263,13 +21026,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 324,
-			"versionNonce": 727470985,
-=======
 			"version": 397,
 			"versionNonce": 1338176940,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "slvWsZAV",
 			"fillStyle": "solid",
@@ -21278,13 +21036,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2242.2343958518923,
-			"y": -313.78558826032884,
-=======
 			"x": 2257.2343958518923,
 			"y": -2898.785588260329,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 10.759994506835938,
@@ -21293,11 +21046,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21311,13 +21060,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 1434,
-			"versionNonce": 1560380088,
-=======
-			"version": 1659,
-			"versionNonce": 1540389427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 1663,
+			"versionNonce": 1328979615,
 			"isDeleted": false,
 			"id": "kvn45EtA3Y-wKg4FIy21N",
 			"fillStyle": "solid",
@@ -21326,45 +21070,23 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2264.6514048368704,
-			"y": -267.22104984483747,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 2.4511306283516205,
-			"height": 35.647619302435004,
-=======
 			"x": 2279.65164240915,
 			"y": -2852.224504938615,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 2.451371776430733,
 			"height": 35.65112640027155,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"seed": 2022756745,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752375,
-=======
-			"updated": 1678920305961,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973996,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "TVILxBi_v1OiZX5yX1rlt",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-				"gap": 8.661289948276345,
-				"focus": -0.6017891750971991
-			},
-			"endBinding": {
-				"elementId": "6PQnmMK8lxq27f87V1bB-",
-				"gap": 3.560682054910231,
-				"focus": 0.14658291301030246
-=======
 				"gap": 8.65820777388016,
 				"focus": -0.6017891750971862
 			},
@@ -21372,7 +21094,6 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 				"elementId": "6PQnmMK8lxq27f87V1bB-",
 				"gap": 3.5606304399798816,
 				"focus": 0.14658291301029247
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -21383,25 +21104,15 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					0
 				],
 				[
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-					-2.4511306283516205,
-					35.647619302435004
-=======
 					-2.451371776430733,
 					35.65112640027155
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 				]
 			]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 1435,
-			"versionNonce": 1944680888,
-=======
-			"version": 1660,
-			"versionNonce": 1335050685,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 1664,
+			"versionNonce": 328582783,
 			"isDeleted": false,
 			"id": "erxQSerURVTUmTZOR1-VK",
 			"fillStyle": "solid",
@@ -21410,32 +21121,19 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2224.614179645012,
-			"y": -213.82180109222682,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 71.86111392385737,
-			"height": 52.537722259049104,
-=======
 			"x": 2239.614253983348,
 			"y": -2798.821746743405,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 71.86472865092128,
 			"height": 52.540364989117734,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"seed": 381998535,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752374,
-=======
-			"updated": 1678920305960,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973996,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21457,25 +21155,15 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					0
 				],
 				[
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-					-71.86111392385737,
-					-52.537722259049104
-=======
 					-71.86472865092128,
 					-52.540364989117734
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 				]
 			]
 		},
 		{
 			"type": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 1196,
-			"versionNonce": 1479568312,
-=======
-			"version": 1421,
-			"versionNonce": 1791540179,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"version": 1425,
+			"versionNonce": 1833398975,
 			"isDeleted": false,
 			"id": "IsUOLhB9-IWfo1o83qaTk",
 			"fillStyle": "solid",
@@ -21484,32 +21172,19 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2166.048392047933,
-			"y": -319.3669471547802,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 45.925866939890966,
-			"height": 1.1168857322634267,
-=======
 			"x": 2181.0400713586705,
 			"y": -2904.3667448012975,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 45.93912358976149,
 			"height": 1.1172081249387702,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"seed": 735115719,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678921752375,
-=======
-			"updated": 1678920305961,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
+			"updated": 1679239973997,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -21531,25 +21206,15 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 					0
 				],
 				[
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-					45.925866939890966,
-					-1.1168857322634267
-=======
 					45.93912358976149,
 					-1.1172081249387702
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 				]
 			]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 465,
-			"versionNonce": 1457636681,
-=======
 			"version": 538,
 			"versionNonce": 1348355372,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "filkUmqK",
 			"fillStyle": "solid",
@@ -21558,13 +21223,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1652.664186614565,
-			"y": -128.62260530867604,
-=======
 			"x": 1667.664186614565,
 			"y": -2713.622605308676,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 502.2596130371094,
@@ -21573,11 +21233,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -21591,13 +21247,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "ellipse",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 392,
-			"versionNonce": 1425985479,
-=======
 			"version": 465,
 			"versionNonce": 527758228,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "lsEIPPebIbMtXNVfgErh4",
 			"fillStyle": "solid",
@@ -21606,13 +21257,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1759.0345549064027,
-			"y": 114.18395228967029,
-=======
 			"x": 1774.0345549064027,
 			"y": -2470.8160477103297,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 267,
@@ -21634,13 +21280,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 415,
-			"versionNonce": 451687465,
-=======
 			"version": 488,
 			"versionNonce": 1966391212,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "I9osFite",
 			"fillStyle": "solid",
@@ -21649,13 +21290,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1810.0198404505181,
-			"y": 201.68849786016528,
-=======
 			"x": 1825.0198404505181,
 			"y": -2383.311502139835,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 165.23191833496094,
@@ -21664,11 +21300,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -21682,13 +21314,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "ellipse",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 500,
-			"versionNonce": 4144871,
-=======
 			"version": 573,
 			"versionNonce": 892952852,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "ZyGuq0xPqXdv9XuGXgAVu",
 			"fillStyle": "solid",
@@ -21697,13 +21324,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1630.3443602410387,
-			"y": 150.94582421196662,
-=======
 			"x": 1645.3443602410387,
 			"y": -2434.0541757880333,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 69,
@@ -21725,13 +21347,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 390,
-			"versionNonce": 1616197031,
-=======
 			"version": 464,
 			"versionNonce": 269475549,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "dVHFs1Ei",
 			"fillStyle": "solid",
@@ -21740,13 +21357,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1662.7811770225246,
-			"y": 175.30419365162402,
-=======
 			"x": 1677.7811770225246,
 			"y": -2409.6958063483758,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 4.33599853515625,
@@ -21755,11 +21367,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900136477,
-=======
 			"updated": 1678920305961,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -21826,11 +21434,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900136477,
-=======
 			"updated": 1678920305961,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -21897,11 +21501,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900136477,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -21968,11 +21568,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900136477,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22039,11 +21635,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900136477,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -22057,13 +21649,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "line",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 386,
-			"versionNonce": 1354239623,
-=======
 			"version": 459,
 			"versionNonce": 72758420,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "UM4EzxO4nkW41X3WgwQg7",
 			"fillStyle": "solid",
@@ -22072,13 +21659,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1710.7692725480174,
-			"y": 188.15890176491587,
-=======
 			"x": 1725.7692725480174,
 			"y": -2396.8410982350842,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 41.599754924542594,
@@ -22089,11 +21671,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22114,13 +21692,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "line",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 346,
-			"versionNonce": 1098596713,
-=======
 			"version": 419,
 			"versionNonce": 985927340,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "oCyZRvirAZtTTHfQaEhnU",
 			"fillStyle": "solid",
@@ -22129,13 +21702,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1720.4338620759418,
-			"y": 341.58969413551176,
-=======
 			"x": 1735.4338620759418,
 			"y": -2243.4103058644882,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 48.48233367381363,
@@ -22146,11 +21714,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22171,13 +21735,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "line",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 373,
-			"versionNonce": 400729511,
-=======
 			"version": 446,
 			"versionNonce": 1313505812,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "S6n6aClNxmLBRkjdPDUIf",
 			"fillStyle": "solid",
@@ -22186,13 +21745,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1934.9891985598024,
-			"y": 370.05459087855036,
-=======
 			"x": 1949.9891985598024,
 			"y": -2214.9454091214498,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 8.483683910943455,
@@ -22203,11 +21757,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22228,13 +21778,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "line",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 342,
-			"versionNonce": 1229007945,
-=======
 			"version": 415,
 			"versionNonce": 1931827500,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "FdoNSOkmQesuhEkOw2Ep7",
 			"fillStyle": "solid",
@@ -22243,13 +21788,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2027.9329909539083,
-			"y": 304.74978577757054,
-=======
 			"x": 2042.9329909539083,
 			"y": -2280.2502142224293,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 62.60973215915965,
@@ -22260,11 +21800,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22285,13 +21821,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "line",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 349,
-			"versionNonce": 1206737095,
-=======
 			"version": 422,
 			"versionNonce": 1062805396,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "cYVdbpsuw878JnHiUx-7a",
 			"fillStyle": "solid",
@@ -22300,13 +21831,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 2025.1582249949915,
-			"y": 186.1375970585509,
-=======
 			"x": 2040.1582249949915,
 			"y": -2398.862402941449,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 50.032725097333696,
@@ -22317,11 +21843,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 				"type": 2
 			},
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -22342,13 +21864,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 966,
-			"versionNonce": 2059844393,
-=======
 			"version": 1039,
 			"versionNonce": 1442403244,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "MY5IwlAM",
 			"fillStyle": "solid",
@@ -22357,13 +21874,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1645.6535246192611,
-			"y": 519.4598419929487,
-=======
 			"x": 1660.6535246192611,
 			"y": -2065.540158007051,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 533.57958984375,
@@ -22372,11 +21884,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22390,13 +21898,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 403,
-			"versionNonce": 108308455,
-=======
 			"version": 476,
 			"versionNonce": 532155668,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "BgRnXWGH",
 			"fillStyle": "solid",
@@ -22405,13 +21908,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1623.0718751083064,
-			"y": 661.8759298476509,
-=======
 			"x": 1638.0718751083064,
 			"y": -1923.124070152349,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 609.3594970703125,
@@ -22420,11 +21918,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22458,11 +21952,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22496,11 +21986,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -22514,13 +22000,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 300,
-			"versionNonce": 55493865,
-=======
 			"version": 373,
 			"versionNonce": 1046567084,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "st5r6yQ1",
 			"fillStyle": "solid",
@@ -22529,13 +22010,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": 1558.4902648960383,
-			"y": 797.2387021776645,
-=======
 			"x": 1573.4902648960383,
 			"y": -1787.7612978223356,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "#e64980",
 			"width": 730.8594360351562,
@@ -22544,11 +22020,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900118759,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -22562,13 +22034,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "image",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 400,
-			"versionNonce": 406177181,
-=======
 			"version": 394,
 			"versionNonce": 1434376212,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "n_hud4zbxvO1ffC0RqJTk",
 			"fillStyle": "solid",
@@ -22577,13 +22044,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": -332.8456396470526,
-			"y": 1451.3312304848832,
-=======
 			"x": -366.9341813137196,
 			"y": -1164.1635611817828,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "transparent",
 			"backgroundColor": "#e64980",
 			"width": 2489.096619323204,
@@ -22592,11 +22054,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678919384005,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -22628,11 +22086,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900157989,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -22646,13 +22100,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		},
 		{
 			"type": "text",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"version": 241,
-			"versionNonce": 108109801,
-=======
 			"version": 314,
 			"versionNonce": 1234351508,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"isDeleted": false,
 			"id": "sEicacKN",
 			"fillStyle": "solid",
@@ -22661,13 +22110,8 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"roughness": 0,
 			"opacity": 70,
 			"angle": 0,
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"x": -329.09905322974805,
-			"y": 1322.481906904394,
-=======
 			"x": -314.09905322974805,
 			"y": -1262.518093095606,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"strokeColor": "#000000",
 			"backgroundColor": "#bfbfbf",
 			"width": 2515.295166015625,
@@ -22676,11 +22120,7 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-			"updated": 1678900353873,
-=======
 			"updated": 1678920170427,
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -22691,43 +22131,40 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Esta meta está relacionada con la ocultación de la naturaleza distribuida del sistema. Cuanto más se parezca un sistema distribuido a uno centralizado, en lo que respecta a su\nuso o su programación, mayor grado de transparencia se habrá logrado."
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-=======
 		},
 		{
-			"id": "Tcb6tikw",
 			"type": "text",
-			"x": 3177.1396772107173,
-			"y": -2433.182270691772,
-			"width": 150.27590942382812,
-			"height": 33.6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#bfbfbf",
+			"version": 11,
+			"versionNonce": 1919265149,
+			"isDeleted": false,
+			"id": "Tcb6tikw",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 70,
+			"angle": 0,
+			"x": 3177.1396772107173,
+			"y": -2433.182270691772,
+			"strokeColor": "#000000",
+			"backgroundColor": "#bfbfbf",
+			"width": 150.27590942382812,
+			"height": 33.6,
+			"seed": 113347485,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 113347485,
-			"version": 11,
-			"versionNonce": 1919265149,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1678920941602,
 			"link": null,
 			"locked": false,
-			"text": "wwerwerewr",
-			"rawText": "wwerwerewr",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "wwerwerewr",
+			"rawText": "wwerwerewr",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "wwerwerewr"
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 		}
 	],
 	"appState": {
@@ -22745,17 +22182,10 @@ d3653544420447332c82714a99626e253d02bd09: [[Pasted Image 20230315173720_736.png]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-<<<<<<< HEAD:Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md
-		"scrollX": 2719.3890347440347,
-		"scrollY": 1123.3645623584387,
-		"zoom": {
-			"value": 0.15000000000000002
-=======
-		"scrollX": 2992.7223680773686,
-		"scrollY": 3675.682270691772,
+		"scrollX": 2166.07170774277,
+		"scrollY": 3289.432270691772,
 		"zoom": {
 			"value": 0.2
->>>>>>> origin/main:Excalidraw/Metas de los sistemas distribuidos.md
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
