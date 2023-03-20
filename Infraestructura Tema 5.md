@@ -15,3 +15,5 @@ Deben ser del mismo tipo (HDD o SDD), y es recomendable que sean de la misma cap
 Mediante una partición geométricamente idéntica en todos los discos de un grupo.
 
 Mediante una LUN (Logical Unit Number)
+
+Red de administración
