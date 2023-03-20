@@ -13,3 +13,5 @@ Mediante un nivel de RAID, habitualmente 0, 1, 10, 5, o 6.
 Deben ser del mismo tipo (HDD o SDD), y es recomendable que sean de la misma capacidad.
 
 Mediante una partición geométricamente idéntica en todos los discos de un grupo.
+
+Mediante una LUN (Logical Unit Number)
