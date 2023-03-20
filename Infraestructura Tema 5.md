@@ -3,3 +3,5 @@ Una cabina de almacenamiento (Disk storage systems) es un equipo informático di
 En los sistemas actuales este bus se implementa siguiendo el estandar SAS.
 
 Son los elementos de conexión de la cabina de almacenamiento a la red de almacenamiento. Habitualmente serán ethernet, fibre channel, o SAS.
+
+Elemento de conexión del sistema de almacenamiento a una consola de administración. Es de tipo ethernet.
