@@ -8,3 +8,4 @@ Elemento de conexión del sistema de almacenamiento a una consola de administrac
 
 Esta arquitectura requiere discos con doble puerto, por lo que deben ser de tipo SAS.
 
+Mediante un nivel de RAID, habitualmente 0, 1, 10, 5, o 6.
