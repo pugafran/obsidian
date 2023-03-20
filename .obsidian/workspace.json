@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa94a057220be6be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestructura Tema 5.md",
+                "file": "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestructura Tema 5.md",
+                "file": "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestructura Tema 5.md"
+                "file": "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md"
               }
             }
           },
@@ -177,10 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cecd2315072c2c2",
+  "active": "aa94a057220be6be",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Infraestructura Tema 5.md",
+    "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Infra",
     "conflict-files-obsidian-git.md",
     "Excalidraw/cola circular.md",
