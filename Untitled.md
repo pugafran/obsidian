@@ -1,0 +1,1 @@
+Una cabina de almacenamiento (Disk storage systems) es un equipo informático diseñado para contener discos duros y dispositivos SSD.
