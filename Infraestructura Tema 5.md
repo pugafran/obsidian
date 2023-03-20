@@ -22,4 +22,4 @@ Volúmenes
 
 Los servidores
 
-En principio todos los volúmenes configurados en una cabina de almacenamiento conectada a una red de almacenamiento 
+En principio todos los volúmenes configurados en una cabina de almacenamiento conectada a una red de almacenamiento son visibles(accesibles) a todos los servidores conectados a la misma red.
