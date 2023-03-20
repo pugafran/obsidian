@@ -17,3 +17,8 @@ Mediante una partición geométricamente idéntica en todos los discos de un gru
 Mediante una LUN (Logical Unit Number)
 
 Red de administración
+
+Volúmenes
+
+Los servidores
+
