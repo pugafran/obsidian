@@ -7,3 +7,4 @@ Son los elementos de conexión de la cabina de almacenamiento a la red de almace
 Elemento de conexión del sistema de almacenamiento a una consola de administración. Es de tipo ethernet.
 
 Esta arquitectura requiere discos con doble puerto, por lo que deben ser de tipo SAS.
+
