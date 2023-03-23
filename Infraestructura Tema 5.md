@@ -29,3 +29,5 @@ Como si fuera un disco interno del propio servidor.
 La vinculación de un volumen es el proceso de registro del mismo por parte del sistema operativo de un servidor. Una vez registrado, el volumen se comporta como un disco interno del propio servidor.
 
 Se trata de la capacidad de establecer los volúmenes (identificados por sus correspondientes LUN) que serán visibles a cada servidor conectado a la red. Esto facilita las tareas de configuración de los servidores  y evita errores innecesarios 
+
+Se trata de la capacidad de mantener permanentemente replicados uno o varios volúmenes de una cabina de almacenamiento en otra cabina
