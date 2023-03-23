@@ -36,3 +36,4 @@ FC 16Gb/s o Ethernet 10 Gbit/s (ópticos) | Ethernet 1 Gbit/s (RJ-45) | RJ45 ser
 
 Es un contenedor de discos gestionado por uno o dos expansores SAS.
 
+Proporcionar un sistema de expansión para las cabinas de almacenamiento,
