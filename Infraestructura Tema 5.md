@@ -27,3 +27,4 @@ En principio todos los volúmenes configurados en una cabina de almacenamiento c
 Como si fuera un disco interno del propio servidor.
 
 La vinculación de un volumen es el proceso de registro del mismo por parte del sistema operativo de un servidor. Una vez registrado, el volumen se comporta como un disco interno del propio servidor.
+

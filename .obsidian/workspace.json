@@ -43,9 +43,11 @@
             "id": "c4a339c70f82ebec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md"
+                "file": "Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+                "file": "Infraestructura Tema 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+                "file": "Infraestructura Tema 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md"
+                "file": "Infraestructura Tema 5.md"
               }
             }
           },
@@ -199,8 +201,8 @@
   },
   "active": "c4a339c70f82ebec",
   "lastOpenFiles": [
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Pasted Image 20230323011206_662.png",
     "Pasted Image 20230323011105_521.png",
     "Pasted Image 20230323003821_842.png",
