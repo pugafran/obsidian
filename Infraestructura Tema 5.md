@@ -43,3 +43,7 @@ Una bandeja de discos no puede operar en solitario: funciona siempre de forma su
 Ancho: x4 (canales)
 
 Estándar: SAS-3
+
+Anchi de banda: 1200 MB/s
+
+A
