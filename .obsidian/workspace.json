@@ -43,9 +43,9 @@
             "id": "c4a339c70f82ebec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md"
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md"
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
               }
             }
           },
@@ -197,15 +197,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4a339c70f82ebec",
+  "active": "e8c5a875ba725b9d",
   "lastOpenFiles": [
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Pasted Image 20230323011206_662.png",
     "Pasted Image 20230323011105_521.png",
     "Pasted Image 20230323003821_842.png",
     "Pasted Image 20230323003716_803.png",
     "imagenes/Pasted Image 20230322210300_593.png",
     "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infraestructura Tema 5.md",
     "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Infra",
@@ -220,8 +221,6 @@
     "imagenes/Pasted Image 20230315174118_592.png",
     "imagenes/Pasted Image 20230315173806_689.png",
     "imagenes/Pasted Image 20230315173720_736.png",
-    "imagenes/Pasted Image 20230315173648_728.png",
-    "imagenes/Pasted Image 20230315171216_766.png",
     "imagenes",
     "Excalidraw/Untitled.md",
     "2023-02-27.md",
