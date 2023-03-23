@@ -32,3 +32,4 @@ Se trata de la capacidad de establecer los volúmenes (identificados por sus cor
 
 Se trata de la capacidad de mantener permanentemente replicados uno o varios volúmenes de una cabina de almacenamiento en otra cabina remota. La replicación entre cada volumen origen y remoto es coordinada automáticamente por las cabinas de almacenamiento.
 
+FC 16Gb/s o Ethernet 10 Gbit/s (ópticos) 
