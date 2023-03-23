@@ -43,9 +43,9 @@
             "id": "c4a339c70f82ebec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "c4a339c70f82ebec",
   "lastOpenFiles": [
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Pasted Image 20230323011206_662.png",
     "Pasted Image 20230323011105_521.png",
     "Pasted Image 20230323003821_842.png",
