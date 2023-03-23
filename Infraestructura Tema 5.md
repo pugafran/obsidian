@@ -46,4 +46,4 @@ Estándar: SAS-3
 
 Anchi de banda: 1200 MB/s
 
-A
+Ancho de banda total: 4 * 1200 = 4800 MB/s
