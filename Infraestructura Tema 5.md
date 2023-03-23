@@ -39,3 +39,7 @@ Es un contenedor de discos gestionado por uno o dos expansores SAS.
 Proporcionar un sistema de expansión para las cabinas de almacenamiento (sistemas con controlador) de modo que se pueda incrementar muy significativamente el numero de discos gestionados por un controlador.
 
 Una bandeja de discos no puede operar en solitario: funciona siempre de forma subordinada a una cabina con controlador
+
+Ancho: x4 (canales)
+
+Estándar: SAS-3
