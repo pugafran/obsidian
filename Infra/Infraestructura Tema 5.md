@@ -64,4 +64,6 @@ Redes de almacenamiento.
 
 Es el protocolo de la capa de interfaz FC4 encargada de mapear el protocolo SCSI sobre la infraestructura de comunicación fiber channel.
 
-Se basa en la utilización de switches fiber channel para la interconexión de dispositivos fiber channel. Los switches FC pueden interconectarse entre ellos formando topologías de interconexión complejas. (Fibre Channel dabri)
+Se basa en la utilización de switches fiber channel para la interconexión de dispositivos fiber channel. Los switches FC pueden interconectarse entre ellos formando topologías de interconexión complejas. 
+
+Es el conjunto de switches y cables FC que forman una red FC.
