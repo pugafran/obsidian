@@ -80,4 +80,5 @@ En un HBA de un servidor.
 
 Atender las solicitudes de acceso del iniciador que corresponda.
 
-En una cabina de almacenamiento.
+En una cabina de almacenamiento, los puertos de datos de las cabinas funcionan como targets.
+
