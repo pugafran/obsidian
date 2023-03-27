@@ -72,4 +72,4 @@ Fibra óptica.
 
 LC (Lucent connector)
 
-Es un dispositi
+Es un dispositivo que transforma las señales electricas manejadas en los puertos de los switches fiber channel en las señales de luz enviadas a través de los cables de fibra.
