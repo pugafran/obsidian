@@ -47,3 +47,5 @@ Estándar: SAS-3
 Anchi de banda: 1200 MB/s
 
 Ancho de banda total: 4 * 1200 = 4800 MB/s
+
+Es un sistema formado por un controlador y una o más bandejas de discos interconectados mediante un bus SAS simple o múltiple.
