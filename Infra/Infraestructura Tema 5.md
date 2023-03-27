@@ -70,4 +70,6 @@ Es el conjunto de switches y cables FC que forman una red FC.
 
 Fibra óptica.
 
-LC
+LC (Lucent connector)
+
+Es un dispositi
