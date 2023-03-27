@@ -59,3 +59,6 @@ Sí, las dos rutas gestionan tráfico simultaneamente.
 Sí, aunque una de las rutas se rompa, el controlador puede continuar las comunicaciones por la otra ruta.
 
 Se trata de una tecnología de comunicación de red tipo serie y bidireccional que utiliza como medio físico de transmisión canal de fibra óptica.
+
+Redes de almacenamiento.
+
