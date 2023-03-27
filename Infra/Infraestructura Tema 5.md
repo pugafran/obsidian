@@ -77,3 +77,7 @@ Es un dispositivo que transforma las señales electricas manejadas en los puerto
 Iniciar el proceso de comunicación con un target y gobernar el proceso de acceso al mismo.
 
 En un HBA de un servidor.
+
+Atender las solicitudes de acceso del iniciador que corresponda.
+
+En una cabina de almacenamiento.
