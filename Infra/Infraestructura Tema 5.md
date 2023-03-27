@@ -83,3 +83,5 @@ Atender las solicitudes de acceso del iniciador que corresponda.
 En una cabina de almacenamiento, los puertos de datos de las cabinas funcionan como targets.
 
 Los identificadores únicos a nivel mundial reciben la denominación de WWN(World Wide Name)
+
+Es un indentificador numérico para identificar cada volumen dentro de un target.
