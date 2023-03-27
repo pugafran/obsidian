@@ -62,3 +62,4 @@ Se trata de una tecnología de comunicación de red tipo serie y bidireccional q
 
 Redes de almacenamiento.
 
+Es el protocolo de la capa de interfaz FC4 encargada de mapear el protocolo SCSI sobre la infraestructura de comunicación fiber channel.
