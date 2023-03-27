@@ -52,4 +52,4 @@ Es un sistema formado por un controlador y una o más bandejas de discos interco
 
 Implementar infraestructuras de almacenamiento escalables en capacidad permitiendo alcanzar capacidades de almacenamiento extraordinariamente elevadas.
 
-48/48 72/72 120/120
+48/48 96/96 180/120 (Gestionar tal cantidad de discos para SSD sería demasiado para un solo controlador)
