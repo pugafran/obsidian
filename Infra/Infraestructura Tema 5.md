@@ -56,4 +56,4 @@ Implementar infraestructuras de almacenamiento escalables en capacidad permitien
 
 Sí, las dos rutas gestionan tráfico simultaneamente.
 
-Sí, aunque una de las rutas se rompa, el controlador puede continuar las co
+Sí, aunque una de las rutas se rompa, el controlador puede continuar las comunicaciones por la otra ruta.
