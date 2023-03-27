@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestructura Tema 5.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestructura Tema 5.md",
+                "file": "Infra/Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5252948d42ec65b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted Image 20230323011206_662.png"
+              }
+            }
+          },
+          {
+            "id": "a3c779a4472ee81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infra/Infraestructura Tema 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestructura Tema 5.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestructura Tema 5.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestructura Tema 5.md"
+                "file": "Infra/Infraestructura Tema 5.md"
               }
             }
           },
@@ -199,17 +221,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4a339c70f82ebec",
+  "active": "a3c779a4472ee81f",
   "lastOpenFiles": [
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+    "imagenes/Pasted Image 20230323011105_521.png",
+    "imagenes/Pasted Image 20230323011206_662.png",
+    "imagenes/Pasted Image 20230323003821_842.png",
+    "imagenes/Pasted Image 20230323003716_803.png",
+    "Infra/Infraestructura Tema 5.md",
     "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Excalidraw/Metas de los sistemas distribuidos.md",
-    "Infraestructura Tema 5.md",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
-    "Pasted Image 20230323011206_662.png",
-    "Pasted Image 20230323011105_521.png",
-    "Pasted Image 20230323003821_842.png",
-    "Pasted Image 20230323003716_803.png",
     "imagenes/Pasted Image 20230322210300_593.png",
     "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Infra",
