@@ -6896,11 +6896,16 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 				"type": 3
 			},
 			"seed": 964482839,
-			"version": 120,
-			"versionNonce": 51082169,
+			"version": 121,
+			"versionNonce": 721790967,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1680163078904,
+			"boundElements": [
+				{
+					"id": "veSlL8to4eBuYppk5qlG3",
+					"type": "arrow"
+				}
+			],
+			"updated": 1680164703218,
 			"link": null,
 			"locked": false
 		},
@@ -7811,6 +7816,94 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "[2, 1]"
+		},
+		{
+			"id": "LW24IZ0-AaoLRm2OLVrRE",
+			"type": "rectangle",
+			"x": 2920.2310051365357,
+			"y": -618.2922193273274,
+			"width": 649.206041623248,
+			"height": 556.7296484610971,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1646897079,
+			"version": 156,
+			"versionNonce": 706449687,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "veSlL8to4eBuYppk5qlG3",
+					"type": "arrow"
+				}
+			],
+			"updated": 1680164703218,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "veSlL8to4eBuYppk5qlG3",
+			"type": "arrow",
+			"x": 3191.5259294749058,
+			"y": 272.3206791347178,
+			"width": 223.39832373054196,
+			"height": 329.1629748313005,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 314299255,
+			"version": 168,
+			"versionNonce": 2009793303,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680164705201,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-163.50129081502382,
+					-192.6849965409524
+				],
+				[
+					59.89703291551814,
+					-329.1629748313005
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "vVa78OJFFJhFKcHg8KouO",
+				"focus": 0.04662859889438663,
+				"gap": 7.7183084213245365
+			},
+			"endBinding": {
+				"elementId": "LW24IZ0-AaoLRm2OLVrRE",
+				"focus": -0.6023246122849252,
+				"gap": 4.720275169647607
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -7828,8 +7921,8 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2482.8801644458936,
-		"scrollY": 680.0447724375958,
+		"scrollX": -2493.645335434132,
+		"scrollY": 545.4801350846107,
 		"zoom": {
 			"value": 0.743137290502879
 		},
