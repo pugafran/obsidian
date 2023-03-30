@@ -101,3 +101,5 @@ Cables y switches Ethernet.
 Se trata de que un servidor exporte su sistema de ficheros local a través de una red de datos de modo que dicho sistema de ficheros sea accesible a otros ordenadores clientes conectados a la red.
 
 Componente software que conecta el sistema de ficheros local de un servidor a la red.
+
+Componente software que permite a un ordenador cliente conectarse a un sistema de ficheros de red.
