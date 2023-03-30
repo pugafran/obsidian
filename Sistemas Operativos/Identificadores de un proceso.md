@@ -21,7 +21,7 @@ w => escritura
 x => ejecutable
 
 --- | --- | rwx (No puedes entrar, todo el mundo menos tu)
---- | rwx | rwx (No puedes entrar, todo el mundo menos tu)
+--- | rwx | rwx (No puedes entrar, todo el mundo menos tu y todos los de tu grupo menos tu)
 
 Programación con llamadas al sistema: Práctica 1
 
