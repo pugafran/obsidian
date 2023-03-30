@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "7942571d46256c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa94a057220be6be",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Infraestructura Tema 5.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Infraestructura Tema 5.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Infraestructura Tema 5.md"
+                "file": "Sistemas Operativos/Identificadores de un proceso.md"
               }
             }
           },
@@ -253,8 +265,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9fb64588fa0e2cb",
+  "active": "7942571d46256c02",
   "lastOpenFiles": [
+    "Infra/Infraestructura Tema 5.md",
+    "Sistemas Operativos/Identificadores de un proceso.md",
     "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
     "Distribuidos/Arquitectura descentralizada.md",
     "Ingeniería de redes",
@@ -265,7 +279,6 @@
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
-    "Infra/Infraestructura Tema 5.md",
     "Distribuidos.md",
     "Distribuidos",
     "imagenes/Pasted Image 20230323011105_521.png",
