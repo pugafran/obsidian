@@ -153,6 +153,8 @@ Finger: 6 ^2cXoQW8w
 
 Finger: 1 ^YVsLgnK1
 
+(No es bidireccional) ^gcEyjPwA
+
 %%
 # Drawing
 ```json
@@ -5040,6 +5042,40 @@ Finger: 1 ^YVsLgnK1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Finger: 1"
+		},
+		{
+			"id": "gcEyjPwA",
+			"type": "text",
+			"x": 827.7592336662037,
+			"y": 1352.0100694741654,
+			"width": 155.31190490722656,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 366567193,
+			"version": 122,
+			"versionNonce": 569369817,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680162844106,
+			"link": null,
+			"locked": false,
+			"text": "(No es bidireccional)",
+			"rawText": "(No es bidireccional)",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "(No es bidireccional)"
 		}
 	],
 	"appState": {
@@ -5057,8 +5093,8 @@ Finger: 1 ^YVsLgnK1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -464.75832489179595,
-		"scrollY": -989.4377172652001,
+		"scrollX": -466.48604899814694,
+		"scrollY": -1030.9030958176243,
 		"zoom": {
 			"value": 1.1575922293658603
 		},
