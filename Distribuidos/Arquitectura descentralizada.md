@@ -121,7 +121,9 @@ Clave n ^Dl0DC4fx
 
 Peer 4 ^1mtks0xk
 
-Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
+        Cada nodo recibe un GUI: Identificador único
+(Se saca cogiendo un número al azar entre una cifra inmensurable)
+Ej: GUI = Número [ ^5OpsRpmV
 
 %%
 # Drawing
@@ -3777,10 +3779,10 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 		{
 			"id": "5OpsRpmV",
 			"type": "text",
-			"x": 733.1899103578542,
+			"x": 732.9530978472101,
 			"y": 987.9841300939822,
-			"width": 358.22381591796875,
-			"height": 19.2,
+			"width": 529.4717407226562,
+			"height": 57.599999999999994,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3792,8 +3794,8 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1015321625,
-			"version": 132,
-			"versionNonce": 1885166871,
+			"version": 239,
+			"versionNonce": 1055882073,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3801,25 +3803,25 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 					"type": "arrow"
 				}
 			],
-			"updated": 1680162239162,
+			"updated": 1680162399366,
 			"link": null,
 			"locked": false,
-			"text": "Cada nodo recibe un GUI: Identificador único",
-			"rawText": "Cada nodo recibe un GUI: Identificador único",
+			"text": "        Cada nodo recibe un GUI: Identificador único\n(Se saca cogiendo un número al azar entre una cifra inmensurable)\nEj: GUI = Número [",
+			"rawText": "        Cada nodo recibe un GUI: Identificador único\n(Se saca cogiendo un número al azar entre una cifra inmensurable)\nEj: GUI = Número [",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Cada nodo recibe un GUI: Identificador único"
+			"originalText": "        Cada nodo recibe un GUI: Identificador único\n(Se saca cogiendo un número al azar entre una cifra inmensurable)\nEj: GUI = Número ["
 		},
 		{
 			"id": "xHeYcQrWGQYooZ9Ig1beP",
 			"type": "arrow",
-			"x": 908.9798802627554,
+			"x": 924.9166492075622,
 			"y": 824.2807202735892,
-			"width": 5.683500255466697,
-			"height": 151.89084781995996,
+			"width": 45.63259851503858,
+			"height": 151.89084781995984,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3833,11 +3835,11 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 				"type": 2
 			},
 			"seed": 1915358873,
-			"version": 74,
-			"versionNonce": 471968505,
+			"version": 288,
+			"versionNonce": 301508665,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680162239162,
+			"updated": 1680162399367,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3846,8 +3848,8 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 					0
 				],
 				[
-					-5.683500255466697,
-					151.89084781995996
+					45.63259851503858,
+					151.89084781995984
 				]
 			],
 			"lastCommittedPoint": null,
