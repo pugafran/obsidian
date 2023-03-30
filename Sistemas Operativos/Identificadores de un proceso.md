@@ -1,7 +1,7 @@
 PID - PPID 
-UID real/propietario - GID real/propietario: El que originó el proceso, inicialmente vale 1
+UID real/propietario - GID real/propietario: El que originó el proceso, inicialmente vale 1 getuid getgid
 
-UID efectivo - GID efectivo (Relevantes, con estos ya sabes que pasa)
+UID efectivo - GID efectivo (Relevantes, con estos ya sabes que pasa) geteuid getegid
 
 UID guardado  - GID guardado
 
