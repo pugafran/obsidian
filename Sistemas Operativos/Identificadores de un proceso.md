@@ -20,6 +20,9 @@ r => lectura
 w => escritura
 x => ejecutable
 
+--- | --- | rwx (No puedes entrar, todo el mundo menos tu)
+--- | rwx | rwx (No puedes entrar, todo el mundo menos tu)
+
 Programación con llamadas al sistema: Práctica 1
 
 1.  ¿Qué dos procesos especiales existen en UNIX? ¿Qué jerarquía tienen los procesos en UNIX y quién está en el tope de dicha jerarquía? Proceso Init y Kernel. En la parte superior de esta jerarquía se encuentra el proceso init, que es el padre de todos los procesos en el sistema. Todos los demás procesos en el sistema son hijos o nietos de este proceso.
