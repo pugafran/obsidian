@@ -124,7 +124,7 @@ Peer 4 ^1mtks0xk
         Cada nodo recibe un GUI: Identificador único (UUID)
 
 Se saca cogiendo un número al azar entre una cifra inmensurable
-Ej: GUI = Número [0-2^160]
+Ej: GUI = Número [0-2^160] => N = 160 (160 fingers)
 
 Se saca cogiendo valores de la fecha más valores locales para generar el GUI
 Ej GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420 ^5OpsRpmV
@@ -3932,8 +3932,8 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1015321625,
-			"version": 473,
-			"versionNonce": 1073231673,
+			"version": 502,
+			"versionNonce": 450599033,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3941,17 +3941,17 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 					"type": "arrow"
 				}
 			],
-			"updated": 1680163881330,
+			"updated": 1680164833068,
 			"link": null,
 			"locked": false,
-			"text": "        Cada nodo recibe un GUI: Identificador único (UUID)\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160]\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420",
-			"rawText": "        Cada nodo recibe un GUI: Identificador único (UUID)\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160]\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420",
+			"text": "        Cada nodo recibe un GUI: Identificador único (UUID)\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160] => N = 160 (160 fingers)\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420",
+			"rawText": "        Cada nodo recibe un GUI: Identificador único (UUID)\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160] => N = 160 (160 fingers)\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "        Cada nodo recibe un GUI: Identificador único (UUID)\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160]\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420"
+			"originalText": "        Cada nodo recibe un GUI: Identificador único (UUID)\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160] => N = 160 (160 fingers)\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420"
 		},
 		{
 			"id": "dx8ZWaW34wgjDogMBCgpe",
@@ -3973,11 +3973,11 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 				"type": 2
 			},
 			"seed": 950695351,
-			"version": 175,
-			"versionNonce": 70563031,
+			"version": 204,
+			"versionNonce": 1151534999,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680163881333,
+			"updated": 1680164833069,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7921,8 +7921,8 @@ en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2690.1097059694885,
-		"scrollY": 1089.121269990674,
+		"scrollX": -2480.1888716988306,
+		"scrollY": 1062.2083425200774,
 		"zoom": {
 			"value": 0.743137290502879
 		},
