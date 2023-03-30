@@ -8,7 +8,7 @@ UID guardado  - GID guardado
 
 
 
-Para máximos privilegios se mira el UID efectivo.
+Para máximos privilegios se mira el UID efectivo. ( 0 Max privilegios != 0 no privilegios)
 
 Programación con llamadas al sistema: Práctica 1
 
