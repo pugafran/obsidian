@@ -212,6 +212,9 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 
 6667 ^Ofh26aLJ
 
+hash(clave) => hash("mamahuevo") => 7
+el fichero mamahuevo está en el nodo 7 ^rQziz9Fa
+
 %%
 # Drawing
 ```json
@@ -7184,6 +7187,40 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"originalText": "6667"
 		},
 		{
+			"id": "rQziz9Fa",
+			"type": "text",
+			"x": 3587.1036385480716,
+			"y": -163.04132913056276,
+			"width": 312.79986572265625,
+			"height": 38.4,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1735942359,
+			"version": 105,
+			"versionNonce": 754751097,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680164299478,
+			"link": null,
+			"locked": false,
+			"text": "hash(clave) => hash(\"mamahuevo\") => 7\nel fichero mamahuevo está en el nodo 7",
+			"rawText": "hash(clave) => hash(\"mamahuevo\") => 7\nel fichero mamahuevo está en el nodo 7",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "hash(clave) => hash(\"mamahuevo\") => 7\nel fichero mamahuevo está en el nodo 7"
+		},
+		{
 			"id": "EEGgjgDiI4A5Qc01T1nRk",
 			"type": "ellipse",
 			"x": 789.9703357656865,
@@ -8313,10 +8350,10 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2596.902506977756,
-		"scrollY": 50.341892474206674,
+		"scrollX": -1823.5389664834352,
+		"scrollY": 548.2852959057933,
 		"zoom": {
-			"value": 0.9094722608076218
+			"value": 0.5103300231946437
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
