@@ -26,7 +26,7 @@ x => ejecutable (atravesar el directorio, si no se tiene no se puede acceder a e
 Yo si es mi archivo puedo ponerle los permisos que yo quiera
 pero el propietario solo lo pueden cambiar los administradores
 
-Permiso S => Es un permiso solo para ejecutables, se puede poner a cosas que no sean ejecutables pero no tiene sentido.
+Permiso S => Es un permiso solo para ejecutables, se puede poner a cosas que no sean ejecutables pero no tiene sentido. Solo está en l
 
 Programación con llamadas al sistema: Práctica 1
 
