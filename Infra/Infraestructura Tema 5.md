@@ -105,3 +105,5 @@ Componente software que conecta el sistema de ficheros local de un servidor a la
 Componente software que permite a un ordenador cliente conectarse a un sistema de ficheros de red.
 
 Es un servidor que proporciona la funcionalidad de sistema de ficheros en red.
+
+Se trata de servidores diseñados y configurados especificamente para proporcionar la funcionalidad de servidor de ficheros.
