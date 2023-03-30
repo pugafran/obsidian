@@ -231,6 +231,10 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 
 2 ^2K9QdIA1
 
+[0, 7, 6, 4, 3] ^3NKOmK8x
+
+[0, 7, 6, 4, 3] ^zwZFTONz
+
 %%
 # Drawing
 ```json
@@ -7740,71 +7744,72 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 			"originalText": "2"
 		},
 		{
-			"type": "ellipse",
-			"version": 125,
-			"versionNonce": 699164633,
-			"isDeleted": true,
-			"id": "0eY7gsTUpUj9VaELtElz9",
+			"id": "3NKOmK8x",
+			"type": "text",
+			"x": 3294.4468513253596,
+			"y": -814.3833832512765,
+			"width": 115.29594421386719,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 3692.7510658734636,
-			"y": -829.8142194553476,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 83,
-			"height": 72,
-			"seed": 1242292665,
 			"groupIds": [],
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "ibud2vww"
-				}
-			],
-			"updated": 1680164477926,
+			"roundness": null,
+			"seed": 995993881,
+			"version": 124,
+			"versionNonce": 559688663,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680164527958,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"text": "[0, 7, 6, 4, 3]",
+			"rawText": "[0, 7, 6, 4, 3]",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "[0, 7, 6, 4, 3]"
 		},
 		{
 			"type": "text",
-			"version": 38,
-			"versionNonce": 1670471223,
-			"isDeleted": true,
-			"id": "ibud2vww",
+			"version": 309,
+			"versionNonce": 747639191,
+			"isDeleted": false,
+			"id": "zwZFTONz",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3728.710135308714,
-			"y": -803.3700635780633,
+			"x": 3694.7969814529174,
+			"y": -885.1892675222983,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 11.391998291015625,
+			"width": 115.29594421386719,
 			"height": 19.2,
-			"seed": 375845463,
+			"seed": 1387159833,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1680164477926,
+			"updated": 1680164534014,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "2",
-			"rawText": "2",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "0eY7gsTUpUj9VaELtElz9",
-			"originalText": "2"
+			"text": "[0, 7, 6, 4, 3]",
+			"rawText": "[0, 7, 6, 4, 3]",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "[0, 7, 6, 4, 3]"
 		}
 	],
 	"appState": {
