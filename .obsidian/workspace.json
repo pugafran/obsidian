@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Metas de los sistemas distribuidos.md"
+                "file": "Distribuidos/Metas de los sistemas distribuidos.md"
               }
             }
           },
@@ -79,7 +79,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md"
+                "file": "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md"
               }
             }
           },
@@ -233,25 +233,25 @@
   },
   "active": "f77d94fdf8f477ab",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
+    "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
+    "Distribuidos/Arquitectura descentralizada.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Infra/Infraestructura Tema 5.md",
-    "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md",
     "Distribuidos.md",
     "Distribuidos",
     "imagenes/Pasted Image 20230323011105_521.png",
     "imagenes/Pasted Image 20230323011206_662.png",
     "imagenes/Pasted Image 20230323003821_842.png",
     "imagenes/Pasted Image 20230323003716_803.png",
-    "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
-    "Excalidraw/Metas de los sistemas distribuidos.md",
+    "Distribuidos/Metas de los sistemas distribuidos.md",
     "imagenes/Pasted Image 20230322210300_593.png",
-    "Excalidraw/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Infra",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/cola circular.md",
-    "Excalidraw/Drawing 2023-03-14 16.07.13.excalidraw.md",
-    "Excalidraw/Llamadas a procedimientos remotos (ONC RPC).md",
+    "Distribuidos/cola circular.md",
+    "Distribuidos/Llamadas a procedimientos remotos (ONC RPC).md",
     "Excalidraw/Drawing 2023-03-16 02.33.38.excalidraw.md",
     "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
     "imagenes/Pasted Image 20230315180856_344.png",
