@@ -91,3 +91,5 @@ La conexión de los servidores a los volúmenes configurados en los sistemas de 
 1GCC, 2GCC, 3GCC, 4GCC, 8GCC
 
 16GCC, 32GCC
+
+La idea básica de la tecnología SCSI es la transmisión del protocolo SCSI 
