@@ -215,6 +215,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 hash(clave) => hash("mamahuevo") => 7
 el fichero mamahuevo está en el nodo 7 ^rQziz9Fa
 
+Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
+
 %%
 # Drawing
 ```json
@@ -7221,6 +7223,40 @@ el fichero mamahuevo está en el nodo 7 ^rQziz9Fa
 			"originalText": "hash(clave) => hash(\"mamahuevo\") => 7\nel fichero mamahuevo está en el nodo 7"
 		},
 		{
+			"id": "BJ0uZHfJ",
+			"type": "text",
+			"x": 3559.877078050962,
+			"y": -95.85900653198911,
+			"width": 353.74383544921875,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 849480761,
+			"version": 244,
+			"versionNonce": 1378354809,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680164401581,
+			"link": null,
+			"locked": false,
+			"text": "Si no existe 7 va a por el nodo mayor que 7",
+			"rawText": "Si no existe 7 va a por el nodo mayor que 7",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Si no existe 7 va a por el nodo mayor que 7"
+		},
+		{
 			"id": "EEGgjgDiI4A5Qc01T1nRk",
 			"type": "ellipse",
 			"x": 789.9703357656865,
@@ -8350,8 +8386,8 @@ el fichero mamahuevo está en el nodo 7 ^rQziz9Fa
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1823.5389664834352,
-		"scrollY": 548.2852959057933,
+		"scrollX": -2090.033183595424,
+		"scrollY": 493.41883944156,
 		"zoom": {
 			"value": 0.5103300231946437
 		},
