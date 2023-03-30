@@ -94,3 +94,7 @@ La conexión de los servidores a los volúmenes configurados en los sistemas de 
 
 La idea básica de la tecnología SCSI es la transmisión del protocolo SCSI sobre el protocolo TCP/IP y consecuentemente sobre infraestructura física de red tipo ethernet.
 
+Redes de almacenamiento.
+
+Cables y switches Ethernet.
+
