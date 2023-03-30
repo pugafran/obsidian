@@ -23,8 +23,10 @@ x => ejecutable (atravesar el directorio, si no se tiene no se puede acceder a e
 --- | --- | rwx (No puedes entrar, todo el mundo menos tu)
 --- | rwx | rwx (No puedes entrar, todo el mundo menos tu y todos los de tu grupo menos tu)
 
-Yo si es mi archivo puedo ponerle los archivos que yo quiera
+Yo si es mi archivo puedo ponerle los permisos que yo quiera
 pero el propietario solo lo pueden cambiar los administradores
+
+Permiso S 
 
 Programación con llamadas al sistema: Práctica 1
 
