@@ -1,7 +1,7 @@
 PID - PPID 
 UID real/propietario - GID real/propietario: El que originó el proceso, inicialmente vale 1 getuid getgid
 
-UID efectivo - GID efectivo (Relevantes, con estos ya sabes que pasa, ¿son los actuales? geteuid getegid) Mediante una llamada al sistema o 
+UID efectivo - GID efectivo (Relevantes, con estos ya sabes que pasa, por defecto son iguales que los reales propietarios ¿son los actuales? geteuid getegid) Se pueden cambiar ediante una llamada al sistema o 
 
 UID guardado  - GID guardado
 
