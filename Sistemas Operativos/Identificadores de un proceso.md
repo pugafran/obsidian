@@ -26,7 +26,7 @@ x => ejecutable (atravesar el directorio, si no se tiene no se puede acceder a e
 Yo si es mi archivo puedo ponerle los permisos que yo quiera
 pero el propietario solo lo pueden cambiar los administradores
 
-Permiso S => Es un permiso solo para ejecutables, se puede poner a cosas que no sean ejecutables pero no tiene sentido. Solo está en los 3 primeros o los tres segundos. Si aparece en la parte de propietario el proceso c
+Permiso S => Es un permiso solo para ejecutables, se puede poner a cosas que no sean ejecutables pero no tiene sentido. Solo está en los 3 primeros o los tres segundos. Si aparece en la parte de propietario el proceso que se crea va a tener el UID efectivo del UID propietario del archivo.
 
 Programación con llamadas al sistema: Práctica 1
 
