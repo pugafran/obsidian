@@ -103,3 +103,5 @@ Se trata de que un servidor exporte su sistema de ficheros local a través de un
 Componente software que conecta el sistema de ficheros local de un servidor a la red.
 
 Componente software que permite a un ordenador cliente conectarse a un sistema de ficheros de red.
+
+Es un servidor que proporciona la funcionalidad de sistema de ficheros en red.
