@@ -88,3 +88,6 @@ Es un indentificador numérico para identificar cada volumen dentro de un target
 
 La conexión de los servidores a los volúmenes configurados en los sistemas de almacenamiento.
 
+1GCC, 2GCC, 3GCC, 4GCC, 8GCC
+
+16GCC, 32GCC
