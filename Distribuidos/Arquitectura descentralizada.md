@@ -237,6 +237,8 @@ Para asignar contenido se aplica una función de hash al contenido a guardar,
 el número obtenido es el GUI del nodo que se debe guardar la información,
 si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 
+6667 ^Ofh26aLJ
+
 %%
 # Drawing
 ```json
@@ -7182,8 +7184,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		},
 		{
 			"type": "line",
-			"version": 198,
-			"versionNonce": 743463897,
+			"version": 275,
+			"versionNonce": 762757177,
 			"isDeleted": false,
 			"id": "-iuZD-bWiO-pX8DOSJcEI",
 			"fillStyle": "solid",
@@ -7192,17 +7194,17 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3561.959921823074,
+			"x": 3561.831069624882,
 			"y": 188.17391849205262,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 120.79171413651238,
-			"height": 31.720461723955225,
+			"width": 137.92046634954477,
+			"height": 2.184846693716935,
 			"seed": 1701623575,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1680163040482,
+			"updated": 1680163776618,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7216,8 +7218,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 					0
 				],
 				[
-					-120.79171413651238,
-					31.720461723955225
+					-137.92046634954477,
+					-2.184846693716935
 				]
 			]
 		},
@@ -8077,8 +8079,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		},
 		{
 			"type": "text",
-			"version": 366,
-			"versionNonce": 1634244759,
+			"version": 439,
+			"versionNonce": 1512890071,
 			"isDeleted": false,
 			"id": "SBsn2Y22",
 			"fillStyle": "solid",
@@ -8087,8 +8089,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3215.1714071948686,
-			"y": 197.14799961747246,
+			"x": 3215.484947543803,
+			"y": 198.0628502246379,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 30.205413818359375,
@@ -8097,7 +8099,7 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1680163097414,
+			"updated": 1680163772507,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.117555310776128,
@@ -8244,8 +8246,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		},
 		{
 			"type": "text",
-			"version": 437,
-			"versionNonce": 1497190903,
+			"version": 466,
+			"versionNonce": 321534169,
 			"isDeleted": false,
 			"id": "Yvvpq8cL",
 			"fillStyle": "solid",
@@ -8254,8 +8256,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3214.1469404418244,
-			"y": 232.7800094492215,
+			"x": 3212.9400248520897,
+			"y": 232.53089519938302,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 34.75459289550781,
@@ -8264,7 +8266,7 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1680163147241,
+			"updated": 1680163762536,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.117555310776128,
@@ -8343,6 +8345,40 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Para asignar contenido se aplica una función de hash al contenido a guardar,\nel número obtenido es el GUI del nodo que se debe guardar la información,\nsi el nodo no existiera se asignará al siguiente que exista."
+		},
+		{
+			"type": "text",
+			"version": 568,
+			"versionNonce": 1961019321,
+			"isDeleted": false,
+			"id": "Ofh26aLJ",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3215.0843830403396,
+			"y": 272.8106835094899,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.224365234375,
+			"height": 15.6,
+			"seed": 1883879095,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1680163760318,
+			"link": null,
+			"locked": false,
+			"fontSize": 13.117555310776128,
+			"fontFamily": 1,
+			"text": "6667",
+			"rawText": "6667",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "6667"
 		}
 	],
 	"appState": {
@@ -8360,8 +8396,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2764.032398179738,
-		"scrollY": 224.06901622363853,
+		"scrollX": -2836.6019562016522,
+		"scrollY": -6.834122936996865,
 		"zoom": {
 			"value": 0.9094722608076218
 		},
