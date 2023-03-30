@@ -7,7 +7,7 @@ UID guardado  - GID guardado
 
 Programación con llamadas al sistema: Práctica 1
 
-1.  ¿Qué dos procesos especiales existen en UNIX? ¿Qué jerarquía tienen los procesos en UNIX y quién está en el tope de dicha jerarquía? Init 
+1.  ¿Qué dos procesos especiales existen en UNIX? ¿Qué jerarquía tienen los procesos en UNIX y quién está en el tope de dicha jerarquía? Proceso Init y Kernel. En la parte superior de esta jerarquía se encuentra el proceso init, que es el padre de todos los procesos en el sistema. Todos los demás procesos en el sistema son hijos o nietos de este proceso.
     
 2.  Cita TODOS los identificadores de proceso que existen en UNIX e indica cuáles están relacionados con la seguridad del sistema.
     
