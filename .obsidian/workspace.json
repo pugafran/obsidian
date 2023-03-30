@@ -74,6 +74,16 @@
             }
           },
           {
+            "id": "f77d94fdf8f477ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "aa94a057220be6be",
             "type": "leaf",
             "state": {
@@ -84,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Infraestructura Tema 5.md",
+                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Infraestructura Tema 5.md",
+                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Infraestructura Tema 5.md"
+                "file": "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md"
               }
             }
           },
@@ -221,15 +231,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3c779a4472ee81f",
+  "active": "f77d94fdf8f477ab",
   "lastOpenFiles": [
+    "Distribuidos.md",
+    "Excalidraw/Drawing 2023-03-30 09.10.22.excalidraw.md",
+    "Distribuidos",
+    "Infra/Infraestructura Tema 5.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "imagenes/Pasted Image 20230323011105_521.png",
     "imagenes/Pasted Image 20230323011206_662.png",
     "imagenes/Pasted Image 20230323003821_842.png",
     "imagenes/Pasted Image 20230323003716_803.png",
-    "Infra/Infraestructura Tema 5.md",
     "Excalidraw/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Excalidraw/Metas de los sistemas distribuidos.md",
     "imagenes/Pasted Image 20230322210300_593.png",
