@@ -1,3 +1,4 @@
 PID - PPID 
-UID real/propietario - GID real/propietario
-UID guardado/respaldo  - GID guardado
+UID real/propietario - GID real/propietario 
+UID efectivo - GID efectivo (Relevantes)
+UID guardado  - GID guardado
