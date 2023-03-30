@@ -2150,8 +2150,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		},
 		{
 			"type": "arrow",
-			"version": 648,
-			"versionNonce": 884985463,
+			"version": 752,
+			"versionNonce": 312138391,
 			"isDeleted": false,
 			"id": "2mRlCAA-GAkbqSlHbet0G",
 			"fillStyle": "hachure",
@@ -2160,12 +2160,12 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1537.0390625,
+			"x": 1536.8930300087152,
 			"y": 345.87109375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 287.75390625,
-			"height": 2.15234375,
+			"width": 321.9426895036952,
+			"height": 48.529520872312105,
 			"seed": 374805689,
 			"groupIds": [],
 			"roundness": {
@@ -2177,15 +2177,19 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 					"id": "72Ur8T62"
 				}
 			],
-			"updated": 1680161037136,
+			"updated": 1680163917658,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "9LrIQ0uY",
-				"focus": -0.2782792974111422,
-				"gap": 10.724899291992188
+				"focus": -0.6584706202258184,
+				"gap": 10.578866800707374
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "FRXla961",
+				"focus": -0.24131772007063795,
+				"gap": 18.613157050839618
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -2195,15 +2199,15 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 					0
 				],
 				[
-					287.75390625,
-					-2.15234375
+					321.9426895036952,
+					48.529520872312105
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 51,
-			"versionNonce": 845223095,
+			"version": 52,
+			"versionNonce": 1531056121,
 			"isDeleted": false,
 			"id": "72Ur8T62",
 			"fillStyle": "hachure",
@@ -2212,7 +2216,7 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1544.9581146240234,
+			"x": 1544.8120821327386,
 			"y": 320.828125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -2222,7 +2226,7 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680161032305,
+			"updated": 1680163914387,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2236,8 +2240,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		},
 		{
 			"type": "text",
-			"version": 164,
-			"versionNonce": 1864209241,
+			"version": 165,
+			"versionNonce": 1057067161,
 			"isDeleted": false,
 			"id": "FRXla961",
 			"fillStyle": "hachure",
@@ -2259,9 +2263,13 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 				{
 					"id": "asbbfDZiK1dL35FQE9EBn",
 					"type": "arrow"
+				},
+				{
+					"id": "2mRlCAA-GAkbqSlHbet0G",
+					"type": "arrow"
 				}
 			],
-			"updated": 1680161698463,
+			"updated": 1680163917223,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8305,8 +8313,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1310.4421602256402,
-		"scrollY": 76.73082266399359,
+		"scrollX": -2596.902506977756,
+		"scrollY": 50.341892474206674,
 		"zoom": {
 			"value": 0.9094722608076218
 		},
