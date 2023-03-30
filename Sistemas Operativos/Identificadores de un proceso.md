@@ -32,7 +32,9 @@ Si pertenecen a UID 0 y tiene la S kgaste, empieza con maximos privilegios.
 
 -rwx
 
-Que vale el UID y GID real y efectivo que 
+Que vale el UID y GID real y efectivo del proceso que se origina al ejecutar ese programa
+
+
 
 
 Programación con llamadas al sistema: Práctica 1
