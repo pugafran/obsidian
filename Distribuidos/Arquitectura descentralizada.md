@@ -153,7 +153,8 @@ Finger: 6 ^2cXoQW8w
 
 Finger: 1 ^YVsLgnK1
 
-(No es bidireccional) ^gcEyjPwA
+   Arquitectura Descentralizada Estructurada
+               (No es bidireccional) ^gcEyjPwA
 
 %%
 # Drawing
@@ -5046,10 +5047,10 @@ Finger: 1 ^YVsLgnK1
 		{
 			"id": "gcEyjPwA",
 			"type": "text",
-			"x": 827.7592336662037,
-			"y": 1352.0100694741654,
-			"width": 155.31190490722656,
-			"height": 19.2,
+			"x": 739.6318063977214,
+			"y": 1354.941643950794,
+			"width": 321.2281799316406,
+			"height": 31.2,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -5061,21 +5062,21 @@ Finger: 1 ^YVsLgnK1
 			"groupIds": [],
 			"roundness": null,
 			"seed": 366567193,
-			"version": 122,
-			"versionNonce": 569369817,
+			"version": 382,
+			"versionNonce": 2122828185,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680162844106,
+			"updated": 1680162916615,
 			"link": null,
 			"locked": false,
-			"text": "(No es bidireccional)",
-			"rawText": "(No es bidireccional)",
-			"fontSize": 16,
+			"text": "   Arquitectura Descentralizada Estructurada\n               (No es bidireccional)",
+			"rawText": "   Arquitectura Descentralizada Estructurada\n               (No es bidireccional)",
+			"fontSize": 13.660720380385072,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(No es bidireccional)"
+			"originalText": "   Arquitectura Descentralizada Estructurada\n               (No es bidireccional)"
 		}
 	],
 	"appState": {
@@ -5093,8 +5094,8 @@ Finger: 1 ^YVsLgnK1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -466.48604899814694,
-		"scrollY": -1030.9030958176243,
+		"scrollX": -514.8623239759746,
+		"scrollY": -918.6010289048113,
 		"zoom": {
 			"value": 1.1575922293658603
 		},
