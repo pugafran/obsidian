@@ -109,3 +109,7 @@ Es un servidor que proporciona la funcionalidad de sistema de ficheros en red.
 Se trata de servidores diseñados y configurados especificamente para proporcionar la funcionalidad de servidor de ficheros.
 
 Las cabinas de almacenamiento equipadas con puestos ethernet además de proporcionar la funcionalidad de exportar volúmenes a una SAN pueden también funcionar como dispositivos NAS.
+
+Ficheros
+
+Bloques de disco de bajo nivel
