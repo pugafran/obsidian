@@ -5,7 +5,7 @@ UID efectivo - GID efectivo (Relevantes, con estos ya sabes que pasa, por defect
 
 UID guardado  - GID guardado
 
-
+El root no es el administrador, es administrador cualquier usuario con uid 0
 
 
 Para máximos privilegios se mira el UID efectivo. ( 0 Max privilegios != 0 no privilegios)
