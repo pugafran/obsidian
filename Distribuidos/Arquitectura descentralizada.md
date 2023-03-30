@@ -122,8 +122,16 @@ Clave n ^Dl0DC4fx
 Peer 4 ^1mtks0xk
 
         Cada nodo recibe un GUI: Identificador único
-(Se saca cogiendo un número al azar entre una cifra inmensurable)
-Ej: GUI = Número [ ^5OpsRpmV
+
+Se saca cogiendo un número al azar entre una cifra inmensurable
+Ej: GUI = Número [0-2^160]
+
+Se saca cogiendo valores de la fecha más valores locales para generar el GUI
+Ej GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420 ^5OpsRpmV
+
+1 ^OjT89uO3
+
+1 ^tiRgRPtZ
 
 %%
 # Drawing
@@ -3781,8 +3789,8 @@ Ej: GUI = Número [ ^5OpsRpmV
 			"type": "text",
 			"x": 732.9530978472101,
 			"y": 987.9841300939822,
-			"width": 529.4717407226562,
-			"height": 57.599999999999994,
+			"width": 632.3675537109375,
+			"height": 134.4,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3794,8 +3802,8 @@ Ej: GUI = Número [ ^5OpsRpmV
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1015321625,
-			"version": 239,
-			"versionNonce": 1055882073,
+			"version": 464,
+			"versionNonce": 1916841431,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3803,25 +3811,25 @@ Ej: GUI = Número [ ^5OpsRpmV
 					"type": "arrow"
 				}
 			],
-			"updated": 1680162399366,
+			"updated": 1680162577631,
 			"link": null,
 			"locked": false,
-			"text": "        Cada nodo recibe un GUI: Identificador único\n(Se saca cogiendo un número al azar entre una cifra inmensurable)\nEj: GUI = Número [",
-			"rawText": "        Cada nodo recibe un GUI: Identificador único\n(Se saca cogiendo un número al azar entre una cifra inmensurable)\nEj: GUI = Número [",
+			"text": "        Cada nodo recibe un GUI: Identificador único\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160]\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420",
+			"rawText": "        Cada nodo recibe un GUI: Identificador único\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160]\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "        Cada nodo recibe un GUI: Identificador único\n(Se saca cogiendo un número al azar entre una cifra inmensurable)\nEj: GUI = Número ["
+			"originalText": "        Cada nodo recibe un GUI: Identificador único\n\nSe saca cogiendo un número al azar entre una cifra inmensurable\nEj: GUI = Número [0-2^160]\n\nSe saca cogiendo valores de la fecha más valores locales para generar el GUI\nEj GUI = 10-02-23 => 125410000 segundos + MAC GPU => 420 = 125410420"
 		},
 		{
 			"id": "xHeYcQrWGQYooZ9Ig1beP",
 			"type": "arrow",
-			"x": 924.9166492075622,
-			"y": 824.2807202735892,
-			"width": 45.63259851503858,
-			"height": 151.89084781995984,
+			"x": 931.0066520028367,
+			"y": 824.2807202735893,
+			"width": 65.30394028681258,
+			"height": 151.89084781995996,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3835,11 +3843,11 @@ Ej: GUI = Número [ ^5OpsRpmV
 				"type": 2
 			},
 			"seed": 1915358873,
-			"version": 288,
-			"versionNonce": 301508665,
+			"version": 738,
+			"versionNonce": 1136319223,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680162399367,
+			"updated": 1680162577632,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3848,8 +3856,8 @@ Ej: GUI = Número [ ^5OpsRpmV
 					0
 				],
 				[
-					45.63259851503858,
-					151.89084781995984
+					65.30394028681258,
+					151.89084781995996
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3865,6 +3873,140 @@ Ej: GUI = Número [ ^5OpsRpmV
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "EEGgjgDiI4A5Qc01T1nRk",
+			"type": "ellipse",
+			"x": 773.644202678905,
+			"y": 1187.6834055731001,
+			"width": 78,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 438750425,
+			"version": 77,
+			"versionNonce": 1267580311,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "OjT89uO3"
+				}
+			],
+			"updated": 1680162642718,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "OjT89uO3",
+			"type": "text",
+			"x": 810.3990389450515,
+			"y": 1215.5669012786047,
+			"width": 4.33599853515625,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1088680473,
+			"version": 8,
+			"versionNonce": 1265093465,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680162642718,
+			"link": null,
+			"locked": false,
+			"text": "1",
+			"rawText": "1",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "EEGgjgDiI4A5Qc01T1nRk",
+			"originalText": "1"
+		},
+		{
+			"type": "ellipse",
+			"version": 79,
+			"versionNonce": 1386082551,
+			"isDeleted": false,
+			"id": "9gTIOkPdmvE83OEbRLAPL",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 768.3037323101807,
+			"y": 1186.1441242539113,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 78,
+			"height": 75,
+			"seed": 1481634487,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "tiRgRPtZ"
+				}
+			],
+			"updated": 1680162643318,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 10,
+			"versionNonce": 590282233,
+			"isDeleted": false,
+			"id": "tiRgRPtZ",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 805.0585685763273,
+			"y": 1214.027619959416,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4.33599853515625,
+			"height": 19.2,
+			"seed": 182908985,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1680162643318,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 1,
+			"text": "1",
+			"rawText": "1",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "9gTIOkPdmvE83OEbRLAPL",
+			"originalText": "1"
 		},
 		{
 			"id": "aCn9yGRC",
@@ -3916,8 +4058,8 @@ Ej: GUI = Número [ ^5OpsRpmV
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -349.94912351734075,
-		"scrollY": -524.9218465236462,
+		"scrollX": -387.3933604945325,
+		"scrollY": -1042.0089285896254,
 		"zoom": {
 			"value": 1.1216679358584205
 		},
