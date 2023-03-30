@@ -227,7 +227,7 @@ Peer 4 ^2fcs0Ej1
 
 Key ^L2bkKb3h
 
-Hash en base al índice ^uDAtVZJk
+Hash criptográfico en base al índice ^uDAtVZJk
 
 3562 ^Yvvpq8cL
 
@@ -8211,10 +8211,10 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		{
 			"id": "uDAtVZJk",
 			"type": "text",
-			"x": 3175.7568213643917,
-			"y": 26.815688881552433,
-			"width": 177.31190490722656,
-			"height": 19.2,
+			"x": 3156.012840956677,
+			"y": 17.215688881552524,
+			"width": 216.79986572265625,
+			"height": 38.4,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -8226,21 +8226,21 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2079994551,
-			"version": 57,
-			"versionNonce": 109525177,
+			"version": 82,
+			"versionNonce": 493878905,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680163127807,
+			"updated": 1680163725510,
 			"link": null,
 			"locked": false,
-			"text": "Hash en base al índice",
-			"rawText": "Hash en base al índice",
+			"text": "Hash criptográfico en base \nal índice",
+			"rawText": "Hash criptográfico en base al índice",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "AF-YvhHBceEbL7A9kGr-C",
-			"originalText": "Hash en base al índice"
+			"originalText": "Hash criptográfico en base al índice"
 		},
 		{
 			"type": "text",
@@ -8360,8 +8360,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2612.296049588462,
-		"scrollY": -66.20921586401697,
+		"scrollX": -2764.032398179738,
+		"scrollY": 224.06901622363853,
 		"zoom": {
 			"value": 0.9094722608076218
 		},
