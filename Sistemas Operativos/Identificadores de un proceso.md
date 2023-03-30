@@ -15,8 +15,8 @@ Para máximos privilegios se mira el UID efectivo. ( 0 Max privilegios != 0 no p
 
 Permisos Unix
 
-rwx | rwx | rwx ()
-
+rwx | rwx | rwx (Usuario propietario) (Grupo propietario) (Resto de gente)
+r => lectura => es
 
 Programación con llamadas al sistema: Práctica 1
 
