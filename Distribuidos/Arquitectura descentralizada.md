@@ -231,6 +231,12 @@ Hash en base al índice ^uDAtVZJk
 
 3562 ^Yvvpq8cL
 
+La key es también un número en el mismo rango que los GUI ^nx8PGsTr
+
+Para asignar contenido se aplica una función de hash al contenido a guardar,
+el número obtenido es el GUI del nodo que se debe guardar la información,
+si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
+
 %%
 # Drawing
 ```json
@@ -8269,6 +8275,74 @@ Hash en base al índice ^uDAtVZJk
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "3562"
+		},
+		{
+			"id": "nx8PGsTr",
+			"type": "text",
+			"x": 3287.4128469438438,
+			"y": 593.6957546771858,
+			"width": 477.32781982421875,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1618224601,
+			"version": 90,
+			"versionNonce": 566897079,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680163181884,
+			"link": null,
+			"locked": false,
+			"text": "La key es también un número en el mismo rango que los GUI",
+			"rawText": "La key es también un número en el mismo rango que los GUI",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "La key es también un número en el mismo rango que los GUI"
+		},
+		{
+			"id": "6pTvkygc",
+			"type": "text",
+			"x": 3240.7425807585855,
+			"y": 625.883033785627,
+			"width": 618.7677001953125,
+			"height": 57.599999999999994,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 399974937,
+			"version": 300,
+			"versionNonce": 2110490169,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680163260097,
+			"link": null,
+			"locked": false,
+			"text": "Para asignar contenido se aplica una función de hash al contenido a guardar,\nel número obtenido es el GUI del nodo que se debe guardar la información,\nsi el nodo no existiera se asignará al siguiente que exista.",
+			"rawText": "Para asignar contenido se aplica una función de hash al contenido a guardar,\nel número obtenido es el GUI del nodo que se debe guardar la información,\nsi el nodo no existiera se asignará al siguiente que exista.",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Para asignar contenido se aplica una función de hash al contenido a guardar,\nel número obtenido es el GUI del nodo que se debe guardar la información,\nsi el nodo no existiera se asignará al siguiente que exista."
 		}
 	],
 	"appState": {
@@ -8286,8 +8360,8 @@ Hash en base al índice ^uDAtVZJk
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2533.129259019101,
-		"scrollY": 65.73543508491764,
+		"scrollX": -2612.296049588462,
+		"scrollY": -66.20921586401697,
 		"zoom": {
 			"value": 0.9094722608076218
 		},
