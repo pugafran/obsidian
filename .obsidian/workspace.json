@@ -94,6 +94,16 @@
             }
           },
           {
+            "id": "c9fb64588fa0e2cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "aa94a057220be6be",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md",
+                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md",
+                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md"
+                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md"
               }
             }
           },
@@ -241,14 +251,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a9083fb25ce8db2",
+  "active": "c9fb64588fa0e2cb",
   "lastOpenFiles": [
+    "Distribuidos/Arquitectura descentralizada.md",
+    "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
+    "Ingeniería de redes",
     "Distribuidos/Cola circular.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos",
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Infra/Infraestructura Tema 5.md",
