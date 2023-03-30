@@ -17,8 +17,8 @@ Permisos Unix
 
 rwx | rwx | rwx (Usuario propietario) (Grupo propietario) (Resto de gente)
 r => lectura  (en directorios no puedes listar)
-w => escritura (en directorios crear y borrar archivos pero si modificarlos)
-x => ejecutable
+w => escritura (en directorios crear y borrar archivos mover si pero copiar no pero si modificarlos)
+x => ejecutable (atravesar el directorio, no se pu)
 
 --- | --- | rwx (No puedes entrar, todo el mundo menos tu)
 --- | rwx | rwx (No puedes entrar, todo el mundo menos tu y todos los de tu grupo menos tu)
