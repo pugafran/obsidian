@@ -215,7 +215,8 @@ si el nodo no existiera se asignará al siguiente que exista. ^6pTvkygc
 hash(clave) => hash("mamahuevo") => 7
 el fichero mamahuevo está en el nodo 7 ^rQziz9Fa
 
-Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
+Si no existe 7 va a por el nodo mayor que 7,
+en este caso 0. Si 7 aparece se borra de 0 ^BJ0uZHfJ
 
 1 ^N0hmIaK5
 
@@ -233,7 +234,7 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 
 [0, 7, 6, 4, 3] ^3NKOmK8x
 
-[0, 7, 6, 4, 3] ^zwZFTONz
+[2,1] ^zwZFTONz
 
 %%
 # Drawing
@@ -7209,8 +7210,8 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 		{
 			"id": "rQziz9Fa",
 			"type": "text",
-			"x": 3587.1036385480716,
-			"y": -163.04132913056276,
+			"x": 3416.5534735654555,
+			"y": -504.45178853344356,
 			"width": 312.79986572265625,
 			"height": 38.4,
 			"angle": 0,
@@ -7224,11 +7225,11 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1735942359,
-			"version": 105,
-			"versionNonce": 754751097,
+			"version": 217,
+			"versionNonce": 32887865,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680164299478,
+			"updated": 1680164589287,
 			"link": null,
 			"locked": false,
 			"text": "hash(clave) => hash(\"mamahuevo\") => 7\nel fichero mamahuevo está en el nodo 7",
@@ -7243,10 +7244,10 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 		{
 			"id": "BJ0uZHfJ",
 			"type": "text",
-			"x": 3559.877078050962,
-			"y": -95.85900653198911,
-			"width": 353.74383544921875,
-			"height": 19.2,
+			"x": 3398.199768843809,
+			"y": -437.8424169298495,
+			"width": 357.8558349609375,
+			"height": 38.4,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -7258,21 +7259,21 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 			"groupIds": [],
 			"roundness": null,
 			"seed": 849480761,
-			"version": 244,
-			"versionNonce": 1378354809,
+			"version": 428,
+			"versionNonce": 625001687,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1680164401581,
+			"updated": 1680164625233,
 			"link": null,
 			"locked": false,
-			"text": "Si no existe 7 va a por el nodo mayor que 7",
-			"rawText": "Si no existe 7 va a por el nodo mayor que 7",
+			"text": "Si no existe 7 va a por el nodo mayor que 7,\nen este caso 0. Si 7 aparece se borra de 0",
+			"rawText": "Si no existe 7 va a por el nodo mayor que 7,\nen este caso 0. Si 7 aparece se borra de 0",
 			"fontSize": 16,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Si no existe 7 va a por el nodo mayor que 7"
+			"originalText": "Si no existe 7 va a por el nodo mayor que 7,\nen este caso 0. Si 7 aparece se borra de 0"
 		},
 		{
 			"id": "G5GTWb9kGwu-nQzGRge4m",
@@ -7779,8 +7780,8 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 747639191,
+			"version": 385,
+			"versionNonce": 319277849,
 			"isDeleted": false,
 			"id": "zwZFTONz",
 			"fillStyle": "solid",
@@ -7789,27 +7790,27 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3694.7969814529174,
-			"y": -885.1892675222983,
+			"x": 3738.5462578860775,
+			"y": -884.574265078146,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 115.29594421386719,
+			"width": 35.69598388671875,
 			"height": 19.2,
 			"seed": 1387159833,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1680164534014,
+			"updated": 1680164638996,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "[0, 7, 6, 4, 3]",
-			"rawText": "[0, 7, 6, 4, 3]",
+			"text": "[2,1]",
+			"rawText": "[2,1]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "[0, 7, 6, 4, 3]"
+			"originalText": "[2,1]"
 		}
 	],
 	"appState": {
@@ -7827,8 +7828,8 @@ Si no existe 7 va a por el nodo mayor que 7 ^BJ0uZHfJ
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2719.7139261871544,
-		"scrollY": 1159.0948814142228,
+		"scrollX": -2803.1440013460024,
+		"scrollY": 1247.907542067193,
 		"zoom": {
 			"value": 0.743137290502879
 		},
