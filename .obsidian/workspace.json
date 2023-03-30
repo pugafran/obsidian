@@ -97,9 +97,11 @@
             "id": "c9fb64588fa0e2cb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md"
+                "file": "Infra/Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md"
+                "file": "Infra/Infraestructura Tema 5.md"
               }
             }
           },
@@ -253,8 +255,8 @@
   },
   "active": "c9fb64588fa0e2cb",
   "lastOpenFiles": [
-    "Distribuidos/Arquitectura descentralizada.md",
     "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
+    "Distribuidos/Arquitectura descentralizada.md",
     "Ingeniería de redes",
     "Distribuidos/Cola circular.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",

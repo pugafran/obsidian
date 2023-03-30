@@ -85,3 +85,6 @@ En una cabina de almacenamiento, los puertos de datos de las cabinas funcionan c
 Los identificadores únicos a nivel mundial reciben la denominación de WWN(World Wide Name)
 
 Es un indentificador numérico para identificar cada volumen dentro de un target.
+
+La conexión de los servidores a los volúmenes configurados en los sistemas de almacenamiento.
+
