@@ -7,7 +7,9 @@ UID guardado  - GID guardado
 
 El root no es el administrador, es administrador cualquier usuario con uid 0
 
-¿Que puede hacer un proceso que tiene privilegios "normales"? (U)
+¿Que puede hacer un proceso que tiene privilegios "normales"? (UID != 0):
+	- Llamadas al sistema que puedo usar
+	- Acceso a memoria secundaria mediante los permisos UNIX
 
 Para máximos privilegios se mira el UID efectivo. ( 0 Max privilegios != 0 no privilegios)
 
