@@ -28,6 +28,8 @@ pero el propietario solo lo pueden cambiar los administradores
 
 Permiso S => Es un permiso solo para ejecutables, se puede poner a cosas que no sean ejecutables pero no tiene sentido. Solo está en los 3 primeros o los tres segundos. Si aparece en la parte de propietario el proceso que se crea va a tener el UID efectivo del UID propietario del archivo.
 
+Si pertenecen a UID 0 y tiene la S kgaste, empieza con maximos privilegios.
+
 Programación con llamadas al sistema: Práctica 1
 
 1.  ¿Qué dos procesos especiales existen en UNIX? ¿Qué jerarquía tienen los procesos en UNIX y quién está en el tope de dicha jerarquía? Proceso Init y Kernel. En la parte superior de esta jerarquía se encuentra el proceso init, que es el padre de todos los procesos en el sistema. Todos los demás procesos en el sistema son hijos o nietos de este proceso.
