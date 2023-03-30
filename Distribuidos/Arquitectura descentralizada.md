@@ -1964,8 +1964,8 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 		},
 		{
 			"type": "text",
-			"version": 293,
-			"versionNonce": 127795321,
+			"version": 294,
+			"versionNonce": 680588279,
 			"isDeleted": false,
 			"id": "a6ShgJMN",
 			"fillStyle": "hachure",
@@ -1983,8 +1983,13 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 			"seed": 2095641369,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1680161032304,
+			"boundElements": [
+				{
+					"id": "xHeYcQrWGQYooZ9Ig1beP",
+					"type": "arrow"
+				}
+			],
+			"updated": 1680162239162,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3772,8 +3777,8 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 		{
 			"id": "5OpsRpmV",
 			"type": "text",
-			"x": 1368.95488562591,
-			"y": 844.7647992079142,
+			"x": 733.1899103578542,
+			"y": 987.9841300939822,
 			"width": 358.22381591796875,
 			"height": 19.2,
 			"angle": 0,
@@ -3787,11 +3792,16 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1015321625,
-			"version": 81,
-			"versionNonce": 1217893655,
+			"version": 132,
+			"versionNonce": 1885166871,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1680162185726,
+			"boundElements": [
+				{
+					"id": "xHeYcQrWGQYooZ9Ig1beP",
+					"type": "arrow"
+				}
+			],
+			"updated": 1680162239162,
 			"link": null,
 			"locked": false,
 			"text": "Cada nodo recibe un GUI: Identificador único",
@@ -3802,6 +3812,57 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Cada nodo recibe un GUI: Identificador único"
+		},
+		{
+			"id": "xHeYcQrWGQYooZ9Ig1beP",
+			"type": "arrow",
+			"x": 908.9798802627554,
+			"y": 824.2807202735892,
+			"width": 5.683500255466697,
+			"height": 151.89084781995996,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1915358873,
+			"version": 74,
+			"versionNonce": 471968505,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680162239162,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-5.683500255466697,
+					151.89084781995996
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "a6ShgJMN",
+				"focus": 0.018537745364625113,
+				"gap": 11.690876523589168
+			},
+			"endBinding": {
+				"elementId": "5OpsRpmV",
+				"focus": -0.054641995794834725,
+				"gap": 11.812562000433104
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "aCn9yGRC",
@@ -3853,8 +3914,8 @@ Cada nodo recibe un GUI: Identificador único ^5OpsRpmV
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -941.9246795377016,
-		"scrollY": -360.88042738547415,
+		"scrollX": -349.94912351734075,
+		"scrollY": -524.9218465236462,
 		"zoom": {
 			"value": 1.1216679358584205
 		},
