@@ -23,4 +23,6 @@
 [Enfoque Nómada](https://google.com "Productividad mamahuevo")
 <https://google.com>
 
-![Imagen]
+![Imagen](https://www.nintenderos.com/wp-content/uploads/2022/11/super-mario-dedo-e1668093509632.jpg)
+
+    Código
