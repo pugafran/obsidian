@@ -7,6 +7,17 @@
 > Esto es una cita
 
 
-## Numer
+## Numeradas
+- Hola
+- Adios
+- Mamahuevo
+
+1. Mamahuevo
+2. Mamahuevaso
+3. Amargo
+	- Elemento
+	- Elemento 1
+
+
 
 
