@@ -10,7 +10,7 @@
           {
             "id": "4e02dff1b1d5d524",
             "type": "tabs",
-            "dimension": 42.955326460481096,
+            "dimension": 21.477663230240545,
             "children": [
               {
                 "id": "58610389c9c2c7e5",
@@ -58,6 +58,41 @@
               }
             ],
             "currentTab": 2
+          },
+          {
+            "id": "681de62f33d94382",
+            "type": "tabs",
+            "dimension": 21.477663230240545,
+            "children": [
+              {
+                "id": "22fc40b8cf57d4cb",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\pugaf\\Documents\\obsidian",
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 170,
+                        "data": "Microsoft Windows [Versión 10.0.19044.2364]\r\n(c) Microsoft Corporation. Todos los derechos reservados.\r\n\r\nC:\\Users\\pugaf\\Documents\\obsidian>git add .",
+                        "rows": 7
+                      }
+                    }
+                  }
+                }
+              }
+            ]
           },
           {
             "id": "17b6386e10e198dd",
@@ -141,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,7 +243,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f673946e91251cfb",
+  "active": "22fc40b8cf57d4cb",
   "lastOpenFiles": [
     "Untitled.md",
     "imagenes/Pasted Image 20230323011206_662.png",
