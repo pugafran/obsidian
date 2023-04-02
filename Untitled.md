@@ -44,5 +44,10 @@ Como \*anular Markdown*
 
 
  | Hola | Que tal |
- |  | sdasd | 
+ | ---- |  ------ | 
+ | Jiudsad | dsadas |  
+ 
+ 
+ 
+  
  
