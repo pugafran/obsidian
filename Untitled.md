@@ -32,3 +32,7 @@ es
 epico 
 papus 
 ~~~
+
+También puedes usar `codigo` así
+
+Como *anular*
