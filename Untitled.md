@@ -35,4 +35,5 @@ papus
 
 También puedes usar `codigo` así
 
-Como *anular*
+Como \*anular Markdown* 
+
