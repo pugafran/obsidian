@@ -43,4 +43,6 @@ Como \*anular Markdown*
 | Celda 3,1   | Celda 3,2   | Celda 3,3   |
 
 
-| Hola | Que tal 
+ | Hola | Que tal |
+ |  | sdasd | 
+ 
