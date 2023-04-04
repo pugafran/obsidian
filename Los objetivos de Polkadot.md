@@ -50,7 +50,7 @@ Conclusión: Polkadot es una plataforma blockchain emocionante y prometedora que
 
 -------
 
-Introducción: En la actualidad, la tecnología blockchain está cambiando la forma en que se realizan las transacciones y se comparten los datos. Sin embargo, una de las principales limitaciones de las plataformas blockchain existentes es su falta de interoperabilidad, es decir, la capacidad de diferentes blockchains para comunicarse y trabajar juntas de manera efectiva. Es aquí donde entra en juego Polkadot, una plataforma blockchain que está abriendo nuevas posibilidades en términos de interoperabilidad y conectividad.
+Introducción: En la actualidad, la tecnología blockchain está cambiando la forma en que se realizan las transacciones y se comparten los datos. Sin embargo, una de las principales limitaciones de las plataformas blockchain existentes hoy en día es su falta de interoperabilidad, es decir, la capacidad de diferentes blockchains para comunicarse y trabajar juntas de manera efectiva. Es aquí donde entra en juego Polkadot, una plataforma blockchain que está abriendo nuevas posibilidades en términos de interoperabilidad y conectividad.
 
 ¿Qué es Polkadot? Polkadot es una plataforma blockchain de próxima generación que fue creada por el fundador de Ethereum, Gavin Wood, en 2016. La plataforma tiene como objetivo proporcionar una solución escalable y segura para la interoperabilidad entre diferentes blockchains. En lugar de ser una sola blockchain, Polkadot es una red de blockchains interconectadas, lo que permite la comunicación y el intercambio de información entre ellas.
 
