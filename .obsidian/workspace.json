@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "361b2281b62fe5cd",
+        "id": "39f0cfe597718a01",
         "type": "split",
         "children": [
           {
@@ -24,18 +24,34 @@
             ]
           },
           {
-            "id": "2f86bb7325b090fb",
+            "id": "589196f5fb2f2270",
             "type": "tabs",
             "children": [
               {
-                "id": "010c03235af632c5",
+                "id": "53120440b4e82ba1",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "terminal:terminal",
                   "state": {
-                    "file": "Untitled.md",
-                    "mode": "source",
-                    "source": false
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\pugaf\\Documents\\obsidian",
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 170,
+                        "data": "git status\r\nOn branch main\r\nYour branch is ahead of 'origin/main' by 1 commit.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\r\n\r\n\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[0mC:\\Users\\pugaf\\Documents\\obsidian>git add .\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\n\r\nC:\\Users\\pugaf\\Documents\\obsidian>  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[19A\u001b[34C",
+                        "rows": 24
+                      }
+                    }
                   }
                 }
               }
@@ -108,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,12 +191,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "53120440b4e82ba1",
   "lastOpenFiles": [
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Blockchain/Polkadot.md",
     "Distribuidos/Metas de los sistemas distribuidos.md",
-    "Untitled.md",
     "Blockchain",
     "imagenes/Pasted Image 20230323011206_662.png",
     "imagenes/Pasted Image 20230323011105_521.png",
