@@ -1,0 +1,1 @@
+En este vídeo haremos una breve explicación de que es Polkadot, en posteriores vídeos hablaremos 

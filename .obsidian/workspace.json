@@ -4,152 +4,143 @@
     "type": "split",
     "children": [
       {
-        "id": "53ad2ee87efe094f",
-        "type": "split",
+        "id": "4e02dff1b1d5d524",
+        "type": "tabs",
         "children": [
           {
-            "id": "4e02dff1b1d5d524",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cf43d4a02f17e30d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Distribuidos/Metas de los sistemas distribuidos.md"
-                  }
-                }
-              },
-              {
-                "id": "07abefc6298652aa",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md"
-                  }
-                }
-              },
-              {
-                "id": "9cecd2315072c2c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Infra/Infraestructura Tema 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c4a339c70f82ebec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Infra/Infraestructura Tema 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e5252948d42ec65b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "imagenes/Pasted Image 20230323011206_662.png"
-                  }
-                }
-              },
-              {
-                "id": "a3c779a4472ee81f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Infra/Infraestructura Tema 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f77d94fdf8f477ab",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md"
-                  }
-                }
-              },
-              {
-                "id": "3a9083fb25ce8db2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Distribuidos/Arquitectura descentralizada.md"
-                  }
-                }
-              },
-              {
-                "id": "c9fb64588fa0e2cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Infra/Infraestructura Tema 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7942571d46256c02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sistemas Operativos/Identificadores de un proceso.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aa94a057220be6be",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md"
-                  }
-                }
+            "id": "cf43d4a02f17e30d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Metas de los sistemas distribuidos.md"
               }
-            ],
-            "currentTab": 9
+            }
           },
           {
-            "id": "d2a20f11b3837f1a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fbc3bba4d2c1518a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
+            "id": "07abefc6298652aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md"
               }
-            ]
+            }
+          },
+          {
+            "id": "9cecd2315072c2c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infra/Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4a339c70f82ebec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infra/Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5252948d42ec65b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted Image 20230323011206_662.png"
+              }
+            }
+          },
+          {
+            "id": "a3c779a4472ee81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infra/Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f77d94fdf8f477ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3a9083fb25ce8db2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Arquitectura descentralizada.md"
+              }
+            }
+          },
+          {
+            "id": "c9fb64588fa0e2cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infra/Infraestructura Tema 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7942571d46256c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88edc2deaa16c009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer vídeo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa94a057220be6be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md"
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -215,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Primer vídeo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Primer vídeo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +245,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Primer vídeo.md"
+              }
             }
           },
           {
@@ -282,9 +277,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "88edc2deaa16c009",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Primer vídeo.md",
+    "Blockchain/Polkadot",
+    "Blockchain",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
