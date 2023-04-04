@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer vídeo.md",
+                "file": "Los objetivos de Polkadot.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer vídeo.md",
+                "file": "Los objetivos de Polkadot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer vídeo.md",
+                "file": "Los objetivos de Polkadot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer vídeo.md"
+                "file": "Los objetivos de Polkadot.md"
               }
             }
           },
@@ -279,7 +279,7 @@
   },
   "active": "88edc2deaa16c009",
   "lastOpenFiles": [
-    "Primer vídeo.md",
+    "Los objetivos de Polkadot.md",
     "Blockchain/Polkadot",
     "Blockchain",
     "conflict-files-obsidian-git.md",
