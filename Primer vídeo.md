@@ -1,3 +1,3 @@
 En este vídeo haremos una breve explicación de que es Polkadot, en posteriores vídeos hablaremos más extensamente del tema.
 
-Polkadot es una plataforma blockchain que a su vez alberga múltiples blockchains, cuyo objetivo es mejorar la interoperabilidad u
+Polkadot es una plataforma blockchain que a su vez alberga múltiples blockchains, cuyo objetivo es mejorar la interoperabilidad y la conexión entre estas, fomentar la innovación y experimentación 
