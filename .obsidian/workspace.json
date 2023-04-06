@@ -130,6 +130,16 @@
             }
           },
           {
+            "id": "a4aab5c68002075b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "aa94a057220be6be",
             "type": "leaf",
             "state": {
@@ -140,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Los objetivos de Polkadot.md",
+                "file": "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Los objetivos de Polkadot.md",
+                "file": "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Los objetivos de Polkadot.md"
+                "file": "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md"
               }
             }
           },
@@ -277,9 +287,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88edc2deaa16c009",
+  "active": "a4aab5c68002075b",
   "lastOpenFiles": [
     "Los objetivos de Polkadot.md",
+    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Blockchain/Polkadot",
     "Blockchain",
     "conflict-files-obsidian-git.md",
