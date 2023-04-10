@@ -2,6 +2,6 @@ Los equipos de la organización interconectan a través de una infraestrcutura d
 
 Interacción con el usuario.
 
-Ordenadores de escritorio
-Ordenadores portatiles (Desktops)
+Ordenadores de escritorio (Desktops)
+Ordenadores portatiles (Laptops)
 Dispositivos móviles (Smartpohones)
