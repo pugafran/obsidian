@@ -5,3 +5,5 @@ Interacción con el usuario.
 Ordenadores de escritorio (Desktops)
 Ordenadores portatiles (Laptops)
 Dispositivos móviles (Smartpohones)
+
+Dar soporte a aplicaciones o servicios que son accedidos a través de la red
