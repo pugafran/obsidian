@@ -1,0 +1,1 @@
+Los equipos de la organización interconectan a través de una infraestrcutura de red, en la red coexisten dos tipos de ordenadores: servidores y clientes.
