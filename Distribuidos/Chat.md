@@ -562,11 +562,20 @@ cliente-chat-simple 7070 ^C8ax4DjV
 				"type": 2
 			},
 			"seed": 1034323543,
-			"version": 171,
-			"versionNonce": 1417657975,
+			"version": 173,
+			"versionNonce": 571306999,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1681197672876,
+			"boundElements": [
+				{
+					"id": "tt2gB0YkNNChda01aYZD2",
+					"type": "arrow"
+				},
+				{
+					"id": "809MVX88ird9-S8jHqcug",
+					"type": "arrow"
+				}
+			],
+			"updated": 1681197818399,
 			"link": null,
 			"locked": false
 		},
@@ -764,8 +773,8 @@ cliente-chat-simple 7070 ^C8ax4DjV
 		},
 		{
 			"type": "ellipse",
-			"version": 275,
-			"versionNonce": 1940462201,
+			"version": 277,
+			"versionNonce": 521231545,
 			"isDeleted": false,
 			"id": "r22aTmIEIiK8P-_JTlxqQ",
 			"fillStyle": "hachure",
@@ -785,8 +794,17 @@ cliente-chat-simple 7070 ^C8ax4DjV
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
-			"updated": 1681197740450,
+			"boundElements": [
+				{
+					"id": "tt2gB0YkNNChda01aYZD2",
+					"type": "arrow"
+				},
+				{
+					"id": "809MVX88ird9-S8jHqcug",
+					"type": "arrow"
+				}
+			],
+			"updated": 1681197822166,
 			"link": null,
 			"locked": false
 		},
@@ -891,6 +909,116 @@ cliente-chat-simple 7070 ^C8ax4DjV
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "(192.168.0.3)"
+		},
+		{
+			"id": "tt2gB0YkNNChda01aYZD2",
+			"type": "arrow",
+			"x": -66.48828125,
+			"y": 54.78515625,
+			"width": 355.9453125,
+			"height": 21.08984375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1436358551,
+			"version": 149,
+			"versionNonce": 400883127,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197826748,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					176.2421875,
+					-18.94921875
+				],
+				[
+					355.9453125,
+					2.140625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "ZHmb0JUQFBSJDbuKZF84C",
+				"focus": -0.17645648520990598,
+				"gap": 13.868536362854261
+			},
+			"endBinding": {
+				"elementId": "r22aTmIEIiK8P-_JTlxqQ",
+				"focus": 0.16365803675162813,
+				"gap": 6.439242506866702
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "809MVX88ird9-S8jHqcug",
+			"type": "arrow",
+			"x": 291.41015625,
+			"y": 90.70703125,
+			"width": 364.4921875,
+			"height": 24.4296875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 601933431,
+			"version": 246,
+			"versionNonce": 331642105,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197824847,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-182.046875,
+					21.55859375
+				],
+				[
+					-364.4921875,
+					-2.87109375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "r22aTmIEIiK8P-_JTlxqQ",
+				"focus": -0.6968169256217006,
+				"gap": 11.636742495290477
+			},
+			"endBinding": {
+				"elementId": "ZHmb0JUQFBSJDbuKZF84C",
+				"focus": 0.6135219005792274,
+				"gap": 13.037729589617118
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -908,8 +1036,8 @@ cliente-chat-simple 7070 ^C8ax4DjV
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 391,
-		"scrollY": -559.1328125,
+		"scrollX": 451,
+		"scrollY": 338.8671875,
 		"zoom": {
 			"value": 1
 		},
