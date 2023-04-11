@@ -162,6 +162,16 @@
             }
           },
           {
+            "id": "cd450e8c22743bf5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Drawing 2023-04-11 09.06.11.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "aa94a057220be6be",
             "type": "leaf",
             "state": {
@@ -172,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -238,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
+                "file": "Distribuidos/Drawing 2023-04-11 09.06.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
+                "file": "Distribuidos/Drawing 2023-04-11 09.06.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md"
+                "file": "Distribuidos/Drawing 2023-04-11 09.06.11.excalidraw.md"
               }
             }
           },
@@ -309,10 +319,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "233a6f406ebf8d9d",
+  "active": "cd450e8c22743bf5",
   "lastOpenFiles": [
-    "Infra/Infraestructura Tema 6.md",
     "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
+    "Distribuidos/Drawing 2023-04-11 09.06.11.excalidraw.md",
+    "Infra/Infraestructura Tema 6.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Los objetivos de Polkadot.md",
     "Blockchain/Polkadot",
