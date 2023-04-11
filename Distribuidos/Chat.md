@@ -21,6 +21,10 @@ en el bind. ^oLtRe1Ix
 Mostrar al usuario con
 getsockname() ^6jzi7neB
 
+cliente-chat-simple 9090 ^VbX1TBDj
+
+/chat 192.168.0.3 7070 ^I01Q90QK
+
 %%
 # Drawing
 ```json
@@ -443,10 +447,10 @@ getsockname() ^6jzi7neB
 		{
 			"id": "aGEBMFamSd7VCxm3S8-L2",
 			"type": "line",
-			"x": -200.796875,
-			"y": 112.6796875,
-			"width": 93.89453125,
-			"height": 74.2578125,
+			"x": -150.24721284850625,
+			"y": 158.13224329668418,
+			"width": 81.21225027428456,
+			"height": 64.22785196630817,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -460,11 +464,11 @@ getsockname() ^6jzi7neB
 				"type": 2
 			},
 			"seed": 518836217,
-			"version": 317,
-			"versionNonce": 470348535,
+			"version": 360,
+			"versionNonce": 1992032599,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1681197650180,
+			"updated": 1681197672876,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -473,12 +477,12 @@ getsockname() ^6jzi7neB
 					0
 				],
 				[
-					48.73046875,
-					-74.2578125
+					42.148472029442104,
+					-64.22785196630817
 				],
 				[
-					93.89453125,
-					-1.3203125
+					81.21225027428456,
+					-1.1419786409580304
 				]
 			],
 			"lastCommittedPoint": null,
@@ -490,10 +494,10 @@ getsockname() ^6jzi7neB
 		{
 			"id": "A7f5XdivFKqtz_CoTnqFi",
 			"type": "line",
-			"x": -199.5078125,
-			"y": 110.9296875,
-			"width": 91.625,
-			"height": 0.95703125,
+			"x": -149.13226328780758,
+			"y": 156.61861480215993,
+			"width": 79.24926332044842,
+			"height": 0.8277655829429512,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -507,11 +511,11 @@ getsockname() ^6jzi7neB
 				"type": 2
 			},
 			"seed": 997006329,
-			"version": 64,
-			"versionNonce": 2067435737,
+			"version": 107,
+			"versionNonce": 1677763481,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1681197660356,
+			"updated": 1681197672876,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -520,8 +524,8 @@ getsockname() ^6jzi7neB
 					0
 				],
 				[
-					91.625,
-					-0.95703125
+					79.24926332044842,
+					-0.8277655829429512
 				]
 			],
 			"lastCommittedPoint": null,
@@ -533,10 +537,10 @@ getsockname() ^6jzi7neB
 		{
 			"id": "ZHmb0JUQFBSJDbuKZF84C",
 			"type": "ellipse",
-			"x": -254.70703125,
-			"y": -5.8046875,
-			"width": 69.30859375,
-			"height": 68.57421875,
+			"x": -139.16528994216793,
+			"y": 34.984375,
+			"width": 59.94712138023177,
+			"height": 59.31193799413677,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -550,13 +554,81 @@ getsockname() ^6jzi7neB
 				"type": 2
 			},
 			"seed": 1034323543,
-			"version": 54,
-			"versionNonce": 159375705,
+			"version": 171,
+			"versionNonce": 1417657975,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1681197665073,
+			"updated": 1681197672876,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "VbX1TBDj",
+			"type": "text",
+			"x": -215.1484375,
+			"y": 184.1796875,
+			"width": 239.03977966308594,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 813415993,
+			"version": 105,
+			"versionNonce": 1788390775,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197697490,
+			"link": null,
+			"locked": false,
+			"text": "cliente-chat-simple 9090",
+			"rawText": "cliente-chat-simple 9090",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "cliente-chat-simple 9090"
+		},
+		{
+			"id": "I01Q90QK",
+			"type": "text",
+			"x": -132,
+			"y": 282.8671875,
+			"width": 232.77987670898438,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 624341593,
+			"version": 27,
+			"versionNonce": 926814649,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197715904,
+			"link": null,
+			"locked": false,
+			"text": "/chat 192.168.0.3 7070",
+			"rawText": "/chat 192.168.0.3 7070",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "/chat 192.168.0.3 7070"
 		},
 		{
 			"id": "qvaXL2siAr5NuJRcikNuF",
@@ -602,8 +674,8 @@ getsockname() ^6jzi7neB
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 511,
-		"scrollY": 404.8671875,
+		"scrollX": 541,
+		"scrollY": 134.8671875,
 		"zoom": {
 			"value": 1
 		},
