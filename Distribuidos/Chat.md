@@ -441,6 +441,124 @@ getsockname() ^6jzi7neB
 			"originalText": "Mostrar al usuario con\ngetsockname()"
 		},
 		{
+			"id": "aGEBMFamSd7VCxm3S8-L2",
+			"type": "line",
+			"x": -200.796875,
+			"y": 112.6796875,
+			"width": 93.89453125,
+			"height": 74.2578125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 518836217,
+			"version": 317,
+			"versionNonce": 470348535,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197650180,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					48.73046875,
+					-74.2578125
+				],
+				[
+					93.89453125,
+					-1.3203125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "A7f5XdivFKqtz_CoTnqFi",
+			"type": "line",
+			"x": -199.5078125,
+			"y": 110.9296875,
+			"width": 91.625,
+			"height": 0.95703125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 997006329,
+			"version": 64,
+			"versionNonce": 2067435737,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197660356,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					91.625,
+					-0.95703125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ZHmb0JUQFBSJDbuKZF84C",
+			"type": "ellipse",
+			"x": -254.70703125,
+			"y": -5.8046875,
+			"width": 69.30859375,
+			"height": 68.57421875,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1034323543,
+			"version": 54,
+			"versionNonce": 159375705,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681197665073,
+			"link": null,
+			"locked": false
+		},
+		{
 			"id": "qvaXL2siAr5NuJRcikNuF",
 			"type": "ellipse",
 			"x": -288.93359375,
