@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+                "file": "Infra/Infraestructura Tema 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md"
+                "file": "Infra/Infraestructura Tema 5.md"
               }
             }
           },
@@ -192,8 +192,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 840,
-        "y": 47,
+        "x": 449,
+        "y": 293,
         "width": 600,
         "height": 600,
         "maximize": false,
@@ -201,10 +201,10 @@
       }
     ]
   },
-  "active": "a84cbff0df5f005b",
+  "active": "a3c779a4472ee81f",
   "lastOpenFiles": [
-    "Distribuidos/Sincronización de relojes lógicos.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+    "Distribuidos/Sincronización de relojes lógicos.md",
     "Infra/Infraestructura Tema 5.md",
     "Distribuidos/Sincronización de relojes físicos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
