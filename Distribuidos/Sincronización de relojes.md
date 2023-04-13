@@ -1,0 +1,1 @@
+El reloj del procesador nunca debería retroceder, es por ello que lo que se hace es atrasar la velocidad a la que el reloj ac

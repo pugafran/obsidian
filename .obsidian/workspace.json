@@ -187,9 +187,11 @@
             "id": "3220ba0e2c936560",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md"
+                "file": "Distribuidos/Sincronización de relojes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -270,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md",
+                "file": "Distribuidos/Sincronización de relojes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md",
+                "file": "Distribuidos/Sincronización de relojes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md"
+                "file": "Distribuidos/Sincronización de relojes.md"
               }
             }
           },
@@ -343,10 +345,10 @@
   },
   "active": "3220ba0e2c936560",
   "lastOpenFiles": [
+    "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md",
     "Pasted Image 20230413101834_993.png",
     "Pasted Image 20230413101114_921.png",
     "Distribuidos/Sincronización de relojes.md",
-    "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md",
     "Distribuidos/Chat.md",
     "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
     "Infra/Infraestructura Tema 6.md",
@@ -382,7 +384,6 @@
     "Excalidraw/Drawing 2023-03-15 16.45.55.excalidraw.md",
     "imagenes/Pasted Image 20230315180856_344.png",
     "imagenes/Pasted Image 20230315174118_592.png",
-    "imagenes/Pasted Image 20230315173806_689.png",
     "imagenes",
     "Excalidraw/Untitled.md",
     "2023-02-27.md",
