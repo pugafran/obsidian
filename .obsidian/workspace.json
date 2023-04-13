@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sincronización de relojes lógicos.md",
+                "file": "Distribuidos/Sincronización de relojes lógicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sincronización de relojes lógicos.md",
+                "file": "Distribuidos/Sincronización de relojes lógicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sincronización de relojes lógicos.md",
+                "file": "Distribuidos/Sincronización de relojes lógicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sincronización de relojes lógicos.md"
+                "file": "Distribuidos/Sincronización de relojes lógicos.md"
               }
             }
           },
@@ -358,8 +358,8 @@
   "active": "617429f41df32585",
   "lastOpenFiles": [
     "Distribuidos/Sincronización de relojes físicos.md",
-    "Sincronización de relojes lógicos.md",
-    "Distribuidos/Drawing 2023-04-13 10.10.59.excalidraw.md",
+    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
+    "Distribuidos/Sincronización de relojes lógicos.md",
     "Pasted Image 20230413103629_974.png",
     "Pasted Image 20230413103356_375.png",
     "Distribuidos/Metas de los sistemas distribuidos.md",
