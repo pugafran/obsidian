@@ -1,1 +1,1 @@
-Es un contador que permite deducir relaciones del t
+Es un contador que permite deducir relaciones del tipo A antes de B
