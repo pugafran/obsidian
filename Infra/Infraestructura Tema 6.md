@@ -35,3 +35,6 @@ Tiempo medio esperado entre los fallos de un componente, habitualmente se expres
 
 exp(-8766/50000) = 0.839
 
+1 - exp(-8766/50000) = 0.161
+
+Discos duros, fuentes de alimentación, y ventiladores.
