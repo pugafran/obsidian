@@ -41,4 +41,4 @@ Discos duros, fuentes de alimentación, y ventiladores.
 
 Sus características electromecánicas y la presencia de elementos móviles.
 
-Son debidos a roturas o defecto
+Son debidos a roturas o defectos del hardware, estos errores hacen que el chip dañado devuelva siempre datos erróneos.
