@@ -11,7 +11,9 @@ Dar soporte a aplicaciones o servicios que son accedidos a través de la red
 Mayor número de núcleos
 Memorias caché de mayor tamaño
 
-Proporcionar el soporte necesario para algunos tipos de aplicaciones que requieren grandes 
+Proporcionar el soporte necesario para algunos tipos de aplicaciones que requieren grandes cantidades:
+- Big data
+- Entornos de consolidación
 
 DDR4
 DIM-DDR4
@@ -21,3 +23,4 @@ Eleva las prestaciones mediante la técnica de la fragmentación de datos (data 
 
 Mejoran mucho las prestaciones respecto a los dispositivos HDD sobre todo en el acceso aleatorio.
 
+Es un espacio de tamaño estandarizado cuyo objetivo es albergar un dispositivo h
