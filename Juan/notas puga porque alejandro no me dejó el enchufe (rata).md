@@ -9,8 +9,11 @@
 - Los *algoritmos de aprendizaje generativo* tratan de modelar `p(x|y)` en lugar de `p(y|x)`.
 - Se utiliza la fórmula de Bayes.
 
-### Análisis discriminante gausiano (me la agarras con la mano)
+### Análisis discriminante gausiano (GDA)
 1. Obtener ejemplos de las distribuciones de las clases.
 2. Realizar gausianas de tantas variables como las descripciones de los ejemplos de entrada.
 3. Se establece una aproximación del número de casos en cada clase mediante Bernoulli.
 4. Se aplican las fórmulas sin optimizaciones ni hiperparámetros.
+
+## GDA y regresión logística
+La probabilidad de y condicionado a x `p(x|y)
