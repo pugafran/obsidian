@@ -6,4 +6,5 @@ Notas puga
 - Me estoy cagando encima
 
 # Algoritmos de aprendizaje generativo
-Los algoritmos que tratan de discriminar la clase de un dato en base a unos parámetros se llaman ****
+Los algoritmos que tratan de discriminar la clase de un dato en base a unos parámetros se llaman *algoritmos de aprendizaje discriminativo*.
+Los *algoritmos de aprendizaje generativo* tratan de modelar `p(x|y)` en lugar de `p(y|x)
