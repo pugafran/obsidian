@@ -6,3 +6,4 @@ Notas puga
 - Me estoy cagando encima
 
 # Algoritmos de aprendizaje generativo
+Los algoritmos que tratan de discriminar la clase de un dato en base a unos parámetros se llaman ****
