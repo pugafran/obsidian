@@ -25,4 +25,4 @@ Mejoran mucho las prestaciones respecto a los dispositivos HDD sobre todo en el 
 
 Es un espacio de tamaño estandarizado cuyo objetivo es albergar un dispositivo hardware habitualmente de almacenamiento.
 
-
+Es la probabilidad de que el componente funcoione correctamente hasta un determinado momento del tiempi
