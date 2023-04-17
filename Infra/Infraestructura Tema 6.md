@@ -38,3 +38,5 @@ exp(-8766/50000) = 0.839
 1 - exp(-8766/50000) = 0.161
 
 Discos duros, fuentes de alimentación, y ventiladores.
+
+Partes electromecánicas y la presencia de elemn
