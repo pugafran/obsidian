@@ -12,4 +12,4 @@ Notas puga
 
 ### Análisis discriminante gausiano (me la agarras con la mano)
 1. Obtener ejemplos de las distribuciones de las clases.
-2. 
+2. Realizar gausianas de tantas variables como las descripciones de los ejemplos de entrada.
