@@ -34,3 +34,4 @@ Tiempo
 Tiempo medio esperado entre los fallos de un componente, habitualmente se expresa en horas.
 
 exp(-8766/50000) = 0.839
+
