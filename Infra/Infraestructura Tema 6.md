@@ -11,8 +11,12 @@ Dar soporte a aplicaciones o servicios que son accedidos a través de la red
 Mayor número de núcleos
 Memorias caché de mayor tamaño
 
-PROPORCIONAR EL 
+Proporcionar el soporte necesario para algunos tipos de aplicaciones que requieren grandes 
 
 DDR4
 DIM-DDR4
 512GB
+
+Eleva las prestaciones mediante la técnica de la fragmentación de datos (data stripping)
+
+Mejoran mucho las prestaciones resp
