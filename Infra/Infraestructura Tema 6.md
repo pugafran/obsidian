@@ -40,3 +40,4 @@ exp(-8766/50000) = 0.839
 Discos duros, fuentes de alimentación, y ventiladores.
 
 Sus características electromecánicas y la presencia de elementos móviles.
+
