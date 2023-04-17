@@ -11,7 +11,7 @@ Dar soporte a aplicaciones o servicios que son accedidos a través de la red
 Mayor número de núcleos
 Memorias caché de mayor tamaño
 
-
+PROPORCIONAR EL 
 
 DDR4
 DIM-DDR4
