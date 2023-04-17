@@ -16,4 +16,6 @@
 4. Se aplican las fórmulas sin optimizaciones ni hiperparámetros.
 
 ## GDA y regresión logística
-La probabilidad de y condicionado a x `p(x|y)
+- La probabilidad de y condicionado a x `p(x|y)` sigue una función logística.
+- El modelo gausiano es teóricamente perfecto con muchos datos, pero prácticamente no (principalmente con pocos datos)
+- Probabilidad de que bahamonde pregunte a puga cuatro veces en 2h siguiendo una función a
