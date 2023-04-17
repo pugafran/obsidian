@@ -31,9 +31,9 @@
             "id": "fed51989165b00a2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "imagenes/Pasted Image 20230413103629_974.png"
+                "file": "Distribuidos/Sincronización de relojes físicos - Dibujo.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagenes/Pasted Image 20230413103629_974.png",
+                "file": "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagenes/Pasted Image 20230413103629_974.png",
+                "file": "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagenes/Pasted Image 20230413103629_974.png"
+                "file": "Distribuidos/Sincronización de relojes físicos - Dibujo.md"
               }
             }
           },
@@ -175,12 +175,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "fed51989165b00a2",
   "lastOpenFiles": [
+    "Distribuidos/Sincronización de relojes lógicos.md",
+    "Distribuidos/Cola circular.md",
+    "Distribuidos/Chat.md",
+    "Distribuidos/Arquitectura descentralizada.md",
+    "Blockchain/Polkadot/Untitled.md",
+    "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
     "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
-    "Untitled.md",
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Juan/notas puga porque alejandro no me dejó el enchufe (rata).md",
     "Juan",
@@ -189,22 +194,17 @@
     "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Infra/Infraestructura Tema 5.md",
-    "Distribuidos/Sincronización de relojes lógicos.md",
     "Distribuidos/Sincronización de relojes físicos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
-    "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "Distribuidos/Metas de los sistemas distribuidos.md",
-    "Distribuidos/Chat.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
-    "Los objetivos de Polkadot.md",
+    "Blockchain/Polkadot/Los objetivos de Polkadot.md",
     "Blockchain/Polkadot",
     "Blockchain",
     "conflict-files-obsidian-git.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "Ingeniería de redes",
-    "Distribuidos/Cola circular.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos",
