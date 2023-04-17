@@ -1,5 +1,4 @@
 ## Regresión logística
-Notas puga
 - Se buscan los parámetros que maximicen la probabilidad que se busca (máxima verosimilitud)
 - Se utiliza el descenso del gradiente como fórmula de actualización: ahora la regresión logística es no lineal.
 - En la regresión lineal, el resultado es un número contínuo, mientras que en regresión logística se devuelve una probabilidad entre 0 y 1. (repetido)
@@ -13,3 +12,4 @@ Notas puga
 ### Análisis discriminante gausiano (me la agarras con la mano)
 1. Obtener ejemplos de las distribuciones de las clases.
 2. Realizar gausianas de tantas variables como las descripciones de los ejemplos de entrada.
+3. 
