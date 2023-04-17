@@ -43,4 +43,4 @@ Sus características electromecánicas y la presencia de elementos móviles.
 
 Son debidos a roturas o defectos del hardware, estos errores hacen que el chip dañado devuelva siempre datos erróneos.
 
-Son errores aleatorios 
+Son errores aleatorios causados por perturbaciones eléctricas que alteran el estado de carga de las celdas variando su estado lógico. Se denominan blandos porque no son debidos a un mal funcionamiento del hardware de las celdas.
