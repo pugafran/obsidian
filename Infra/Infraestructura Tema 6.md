@@ -48,3 +48,5 @@ Son errores aleatorios causados por perturbaciones eléctricas que alteran el es
 Estableciendo mecanismos de detección y correción de errores en las memorias ram.
 
 Es un tipo de memoria que implementa mecanismo de detección y correción de errores
+
+Una ECC básica puede corregir un bit y detectar un fallo en dos bits en cada bloque de 64 bits,
