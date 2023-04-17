@@ -19,4 +19,5 @@ DIM-DDR4
 
 Eleva las prestaciones mediante la técnica de la fragmentación de datos (data stripping)
 
-Mejoran mucho las prestaciones resp
+Mejoran mucho las prestaciones respecto a los dispositivos HDD sobre todo en el acceso aleatorio.
+
