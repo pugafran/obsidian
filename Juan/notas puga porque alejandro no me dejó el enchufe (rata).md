@@ -12,4 +12,5 @@
 ### Análisis discriminante gausiano (me la agarras con la mano)
 1. Obtener ejemplos de las distribuciones de las clases.
 2. Realizar gausianas de tantas variables como las descripciones de los ejemplos de entrada.
-3. 
+3. Se establece una aproximación del número de casos en cada clase mediante Bernoulli.
+4. Se aplican las fórmulas sin optimizaciones ni hiperparámetros.
