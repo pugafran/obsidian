@@ -45,8 +45,11 @@ Son debidos a roturas o defectos del hardware, estos errores hacen que el chip d
 
 Son errores aleatorios causados por perturbaciones eléctricas que alteran el estado de carga de las celdas variando su estado lógico. Se denominan blandos porque no son debidos a un mal funcionamiento del hardware de las celdas. Se debe a la radiación cósmica, neutrones (neutrinos ?), impactan con el condensador correspondiente a una celda, y es posible que tenga energía suficiente como para hacerla conmutar.
 
+NO
+
 Estableciendo mecanismos de detección y correción de errores en las memorias ram.
 
 Es un tipo de memoria que implementa mecanismo de detección y correción de errores
 
-Una ECC básica puede corregir un bit y detectar un fallo en dos bits en cada bloque de 64 bits,
+Una ECC básica puede corregir un bit y detectar un fallo en dos bits en cada bloque de 64 bits.
+
