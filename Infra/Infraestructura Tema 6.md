@@ -53,3 +53,5 @@ Es un tipo de memoria que implementa mecanismo de detección y correción de err
 
 Una ECC básica puede corregir un bit y detectar un fallo en dos bits en cada bloque de 64 bits.
 
+Lo habitual es que usen memoria ECC salvo en algunos casos en servidores de bajo coste.
+
