@@ -65,4 +65,4 @@ Se reduce en el caso de un sistema de doble canal la reduccion es del 50%
 
 Se reduce debido a la perdida de paralelismo en el acceso a la ram.
 
-La informacion se escribe en la memoria de dos canales simultaneamente, para las lecturas un canal se comporta como activo y el otro como backup si en una lexctura se detecta un error no  corregible (mas de un bit) se utiliza el can
+La informacion se escribe en la memoria de dos canales simultaneamente, para las lecturas un canal se comporta como activo y el otro como backup si en una lexctura se detecta un error no  corregible (mas de un bit) se utiliza el canal de backup para completar la operación.
