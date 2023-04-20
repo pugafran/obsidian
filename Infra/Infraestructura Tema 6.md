@@ -64,3 +64,5 @@ Se trata de la capacidad de configurar un canal como "spare" (de repuesto) lo qu
 Se reduce en el caso de un sistema de doble canal la reduccion es del 50%
 
 Se reduce debido a la perdida de paralelismo en el acceso a la ram.
+
+La informacion se escribe en la memori
