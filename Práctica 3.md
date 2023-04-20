@@ -1,6 +1,6 @@
 
-Versión 1 dos fallos (exec) //Solo ejecuta uun 
+Versión 1 dos fallos (exec) //Solo ejecuta un comando con éc
 
-Versión 2 dos fallso (fork + exec)
+Versión 2 dos fallos (fork + exec)
 
 Versión 
