@@ -73,6 +73,6 @@ Se incrementa la disponiblidad del servidor debidoa.que esta tecnologia facilita
 
 En ambos casos el objetivo es la gestión remota de un sistema aprovechándose de la infraestrcutura de red
 
-Gestión remota cuando el sistema operativo se encuentra arrancado y en pleno funcionamiento.
+Gestión remota cuando el sistema operativo se encuentra arrancado y en pleno funcionamiento. Esto permite usar los recursos proporcionados por el sistema operativo para las tareas de gestión
 
-Esto permite usar los recursos proporcionados por el sistema operativo para las tareas de gestión
+El sistema principal que es sobre el que se ejecuta el sistema operativo
