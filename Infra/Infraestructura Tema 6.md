@@ -56,3 +56,6 @@ Una ECC básica puede corregir un bit y detectar un fallo en dos bits en cada bl
 Lo habitual es que usen memoria ECC salvo en algunos casos en servidores de bajo coste.
 
 Proporcionar un mecanismo de tolerancia a fallos de modo que aunque se produzca el fallo de un componente se pueda seguir el funcionamiento gracias a un componente redundante.
+
+Incrementa la disponibilidad del servidor.
+
