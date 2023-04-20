@@ -60,3 +60,5 @@ Proporcionar un mecanismo de tolerancia a fallos de modo que aunque se produzca 
 Incrementa la disponibilidad del servidor.
 
 Se trata de la capacidad de configurar un canal como "spare" (de repuesto) lo que hac eque no esté disponible para el funcionamiento normal. si la memoria en el otro canal rebasa un umbral de errores corregibles el contenido de la memoria de dicho canal se copia en la memoria del canal spare que se convierte en el canal activo.
+
+Se reduce en el caso de un sistema de doble canal la reduccion es del 50%
