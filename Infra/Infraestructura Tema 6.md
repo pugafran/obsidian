@@ -75,4 +75,4 @@ En ambos casos el objetivo es la gestión remota de un sistema aprovechándose d
 
 Gestión remota cuando el sistema operativo se encuentra arrancado y en pleno funcionamiento.
 
-Esto permite usa
+Esto permite usar los recursos proporcionados por el sistema operativo para las tareas de gestión
