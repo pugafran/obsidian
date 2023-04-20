@@ -59,3 +59,4 @@ Proporcionar un mecanismo de tolerancia a fallos de modo que aunque se produzca 
 
 Incrementa la disponibilidad del servidor.
 
+Se trata de la capacidad de configurar un canal como "spare" (de repuesto)
