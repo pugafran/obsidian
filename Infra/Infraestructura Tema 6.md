@@ -79,4 +79,4 @@ El sistema principal que es sobre el que se ejecuta el sistema operativo.
 
 Gestión remota realizada sin el concurso del sistema operativo
 
-Subsistema har
+Subsistema hardware especidico para la gestion fuera d elinea se trata de un subsistema adicional al sistema principal 
