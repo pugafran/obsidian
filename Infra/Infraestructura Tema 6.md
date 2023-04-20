@@ -72,3 +72,7 @@ Se trata de la capacidad de un servidor de permitir la conexion de dispositivos 
 Se incrementa la disponiblidad del servidor debidoa.que esta tecnologia facilita muy signifivativamente las teroirasn de mantenimiento (no hay que hacer paradas para sustituir los componentes fallidos)
 
 En ambos casos el objetivo es la gestión remota de un sistema aprovechándose de la infraestrcutura de red
+
+Gestión remota cuando el sistema operativo se encuentra arrancado y en pleno funcionamiento.
+
+Esto permite usa
