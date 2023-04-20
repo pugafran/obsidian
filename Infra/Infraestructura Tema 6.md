@@ -67,4 +67,6 @@ Se reduce debido a la perdida de paralelismo en el acceso a la ram.
 
 La informacion se escribe en la memoria de dos canales simultaneamente, para las lecturas un canal se comporta como activo y el otro como backup si en una lexctura se detecta un error no  corregible (mas de un bit) se utiliza el canal de backup para completar la operación.
 
-Se trata de la capacidad de un servidor de permitir la conexion de dispositivo
+Se trata de la capacidad de un servidor de permitir la conexion de dispositivos mientras el servidor se encuentra en pleno funcionamiento.
+
+Se incrementa la disponiblidad de
