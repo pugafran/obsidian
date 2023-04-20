@@ -4,3 +4,5 @@ Versión 1 dos fallos (exec) //Solo ejecuta un comando con éxito, como hace dir
 Versión 2 dos corrige fallos (fork + exec) por el n_args lo de comando vacío
 
 Versión  3 no tiene fallos (fixea los errores del 2)
+
+2-3 pruebas a la vez permite deducir 
