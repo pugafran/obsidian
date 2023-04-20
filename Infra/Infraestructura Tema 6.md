@@ -75,4 +75,8 @@ En ambos casos el objetivo es la gestión remota de un sistema aprovechándose d
 
 Gestión remota cuando el sistema operativo se encuentra arrancado y en pleno funcionamiento. Esto permite usar los recursos proporcionados por el sistema operativo para las tareas de gestión
 
-El sistema principal que es sobre el que se ejecuta el sistema operativo
+El sistema principal que es sobre el que se ejecuta el sistema operativo.
+
+Gestión remota realizada sin el concurso del sistema operativo
+
+Subsistema har
