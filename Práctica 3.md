@@ -3,4 +3,4 @@ Versión 1 dos fallos (exec) //Solo ejecuta un comando con éxito, como hace dir
 
 Versión 2 dos fallos (fork + exec)
 
-Versión 
+Versión  3 no tiene fallos (fixea los errores del 2)
