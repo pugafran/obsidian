@@ -7,4 +7,4 @@ Un programa es externo si es un programa ejecutable (compilado) en memoria secun
 
 Comando interno son comandos que están implementados en el propio intérprete.
 
-todo lo que afecte al interprete nunca será externo
+todo lo que afecte al interprete nunca será externo (prompt interno)
