@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Práctica 3.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0db6df28004c3084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Práctica 3.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Práctica 3.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Práctica 3.md"
+                "file": "Sistemas Operativos/Untitled.md"
               }
             }
           },
@@ -189,10 +201,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e06ab8ba1a237455",
+  "active": "0db6df28004c3084",
   "lastOpenFiles": [
-    "Infra/Infraestructura Tema 6.md",
+    "Sistemas Operativos/Identificadores de un proceso.md",
+    "Sistemas Operativos/Untitled.md",
+    "Untitled",
     "Práctica 3.md",
+    "Infra/Infraestructura Tema 6.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
     "Distribuidos/Cola circular.md",
@@ -218,7 +233,6 @@
     "Blockchain/Polkadot",
     "Blockchain",
     "conflict-files-obsidian-git.md",
-    "Sistemas Operativos/Identificadores de un proceso.md",
     "Ingeniería de redes",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
@@ -233,7 +247,6 @@
     "imagenes/Pasted Image 20230323003716_803.png",
     "imagenes/Pasted Image 20230322210300_593.png",
     "Infra",
-    "Distribuidos/Llamadas a procedimientos remotos (ONC RPC).md",
     "imagenes",
     "Excalidraw"
   ]
