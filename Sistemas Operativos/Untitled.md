@@ -1,4 +1,4 @@
 
 Tantos wait como hijos
 
-f
+fork -> wait
