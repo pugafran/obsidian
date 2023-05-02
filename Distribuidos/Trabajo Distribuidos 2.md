@@ -28,3 +28,4 @@ esto en el 0.1 no le pasamos & porque ahora es un vector:
 write(socknet, token, sizeof unsigned char  * 2)
 
 palilloslibres(token[1]);
+&token[1] o token+1 en alterar token
