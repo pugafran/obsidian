@@ -23,3 +23,5 @@ unsigned char token[2];
 inicializar a 0 token[0] = token[1] = 0;
 
 token 1 es palillos (Hay que comentarlo todo con los apartados //APARTADO 0.1)
+
+e
