@@ -29,3 +29,8 @@ write(socknet, token, sizeof unsigned char  * 2)
 
 palilloslibres(token[1]);
 &token[1] o token+1 en el argumento de alterartoken
+
+
+
+0.2 ------
+
