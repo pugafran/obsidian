@@ -24,5 +24,5 @@ inicializar a 0 token[0] = token[1] = 0;
 
 token 1 es palillos (Hay que comentarlo todo con los apartados //APARTADO 0.1)
 
-esto en el 0.1:
+esto en el 0.1 no le pasamos & porque ahora es un vector:
 write(socknet, token, sizeof unsigned char  * 2)
