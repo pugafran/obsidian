@@ -43,23 +43,9 @@
             "id": "e06ab8ba1a237455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0db6df28004c3084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md"
               }
             }
           },
@@ -86,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,12 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a036b02c65940cd7",
+  "active": "e06ab8ba1a237455",
   "lastOpenFiles": [
-    "Distribuidos/Trabajo Distribuidos 2.md",
-    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
-    "Sistemas Operativos/Untitled.md",
+    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
+    "Sistemas Operativos/Untitled.md",
+    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
+    "Distribuidos/Trabajo Distribuidos 2.md",
     "Untitled",
     "Práctica 3.md",
     "Infra/Infraestructura Tema 6.md",
@@ -252,7 +239,6 @@
     "Distribuidos/Sincronización de relojes físicos.md",
     "imagenes/Pasted Image 20230413103356_375.png",
     "Distribuidos/Metas de los sistemas distribuidos.md",
-    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Blockchain/Polkadot/Los objetivos de Polkadot.md",
     "Blockchain/Polkadot",
     "Blockchain",
