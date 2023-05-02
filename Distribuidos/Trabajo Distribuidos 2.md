@@ -12,5 +12,7 @@ token = token >> pos desplaza a la derecha los bits la cantidad de pos
 
 ocupado&= token (hace un AND de ocupado y token)
 
+00000001 (ocupado)
+00000001 (token)
+<<<<<<<< (AND)
 00000001
-000
