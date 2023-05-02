@@ -34,3 +34,4 @@ palilloslibres(token[1]);
 
 0.2 ------
 
+comparamos token con old token y si son distintos llamamos a print_token()
