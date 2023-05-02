@@ -41,3 +41,5 @@ antes de enviarlo despues de ret == -1 comparamos con odltoken y si es distinto 
 
 1 -----
 
+
+al switch hay que añadirle dos casos más,
