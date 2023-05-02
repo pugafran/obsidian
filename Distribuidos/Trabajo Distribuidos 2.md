@@ -6,5 +6,11 @@ El filosofo 0 es el socket que inserta el token.
 Comprobar el valor retornado por funciones de libreria y llamadas al sistema, por ejemplo pthread mutex lock 
 
 
-token = token >> pos desplaza a la derecha los b
+token = token >> pos desplaza a la derecha los bits la cantidad de pos
+00000010 >> 1
+00000001
+
 ocupado&= token (hace un AND de ocupado y token)
+
+00000001
+000
