@@ -16,3 +16,5 @@ ocupado&= token (hace un AND de ocupado y token)
 00000001 (token)
 <<<<<<<< (AND)
 00000001
+
+después de cada pthread_Cond_signal podrñias poner el unlock 
