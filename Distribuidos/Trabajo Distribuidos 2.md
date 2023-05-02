@@ -21,3 +21,5 @@ después de cada pthread_Cond_signal podrñias poner el unlock
 
 unsigned char token[2];
 inicializar a 0 token[0] = token[1] = 0;
+
+token 1 es palillos (Hay que comentarlo todo con los apartados //AOARTADO)
