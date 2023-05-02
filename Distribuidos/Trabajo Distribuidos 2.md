@@ -36,4 +36,8 @@ palilloslibres(token[1]);
 
 comparamos token con old token y si son distintos llamamos a print_token()
 
-antes de enviarlo despues de ret == -1 comparamos con odltoken y si es distinto llamamos a prtintk
+antes de enviarlo despues de ret == -1 comparamos con odltoken y si es distinto llamamos a prtint totken
+
+
+1 -----
+
