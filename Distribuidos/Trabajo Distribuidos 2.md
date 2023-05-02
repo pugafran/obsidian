@@ -20,5 +20,4 @@ ocupado&= token (hace un AND de ocupado y token)
 después de cada pthread_Cond_signal podrñias poner el unlock 
 
 unsigned char token[2];
-
-inicializar a 0
+inicializar a 0 token[0] = token[1] = 0;
