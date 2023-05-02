@@ -62,9 +62,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e939e5ab79a0954d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distribuidos/Trabajo Distribuidos 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a036b02c65940cd7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
+                "file": "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
+                "file": "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md"
+                "file": "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md"
               }
             }
           },
@@ -201,10 +223,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0db6df28004c3084",
+  "active": "a036b02c65940cd7",
   "lastOpenFiles": [
-    "Sistemas Operativos/Identificadores de un proceso.md",
+    "Distribuidos/Trabajo Distribuidos 2.md",
+    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "Sistemas Operativos/Untitled.md",
+    "Sistemas Operativos/Identificadores de un proceso.md",
     "Untitled",
     "Práctica 3.md",
     "Infra/Infraestructura Tema 6.md",
@@ -237,9 +261,7 @@
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
-    "Distribuidos.md",
     "Distribuidos",
     "imagenes/Pasted Image 20230323011105_521.png",
     "imagenes/Pasted Image 20230323011206_662.png",
