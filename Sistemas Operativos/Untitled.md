@@ -15,3 +15,6 @@ Comando interno comando externo
 sleep(1) no vale
 man 3 sleep 
 
+
+2 shell el padre no espera ejecuta todo en segundo plano
+
