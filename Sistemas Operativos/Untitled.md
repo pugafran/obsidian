@@ -18,3 +18,5 @@ man 3 sleep
 
 2 shell el padre no espera ejecuta todo en segundo plano
 
+el fork se ejecuta y sigue en las lineas de adelante del fork
+
