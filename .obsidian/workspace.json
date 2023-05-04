@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuidos/Trabajo Distribuidos 2.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuidos/Trabajo Distribuidos 2.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuidos/Trabajo Distribuidos 2.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuidos/Trabajo Distribuidos 2.md"
+                "file": "Sistemas Operativos/Untitled.md"
               }
             }
           },
@@ -213,11 +213,12 @@
   },
   "active": "e06ab8ba1a237455",
   "lastOpenFiles": [
-    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
-    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
+    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Untitled.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
+    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
+    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Untitled",
     "Práctica 3.md",
     "Infra/Infraestructura Tema 6.md",
@@ -236,7 +237,6 @@
     "Juan",
     "Ingeniería de redes/Escenario del examen.md",
     "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Infra/Infraestructura Tema 5.md",
     "Distribuidos/Sincronización de relojes físicos.md",
     "imagenes/Pasted Image 20230413103356_375.png",
