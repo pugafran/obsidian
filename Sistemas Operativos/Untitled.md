@@ -20,3 +20,5 @@ man 3 sleep
 
 el fork se ejecuta y sigue en las lineas de adelante del fork
 
+sleep => alarm + pause
+
