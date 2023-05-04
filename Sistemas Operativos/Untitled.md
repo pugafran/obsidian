@@ -12,3 +12,6 @@ todo lo que afecte al interprete nunca será externo (prompt interno)
 examen
 Comando interno comando externo
 
+sleep(1) no vale
+man 3 sleep 
+
