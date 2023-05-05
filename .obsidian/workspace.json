@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "2a53269765bc466a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPM/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e939e5ab79a0954d",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
+                "file": "CPM/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
+                "file": "CPM/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md"
+                "file": "CPM/Untitled.md"
               }
             }
           },
@@ -211,15 +223,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e06ab8ba1a237455",
+  "active": "2a53269765bc466a",
   "lastOpenFiles": [
+    "Sistemas Operativos/Untitled.md",
+    "CPM/Untitled.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
-    "Sistemas Operativos/Untitled.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
-    "Untitled",
+    "CPM",
     "Práctica 3.md",
     "Infra/Infraestructura Tema 6.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
@@ -247,7 +260,6 @@
     "conflict-files-obsidian-git.md",
     "Ingeniería de redes",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Distribuidos",
