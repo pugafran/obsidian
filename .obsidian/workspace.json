@@ -64,6 +64,16 @@
             }
           },
           {
+            "id": "39a088bb41b413a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "e939e5ab79a0954d",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,6 +141,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "87228b7407378a07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -152,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPM/Untitled.md",
+                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPM/Untitled.md",
+                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPM/Untitled.md"
+                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md"
               }
             }
           },
@@ -223,8 +241,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a53269765bc466a",
+  "active": "39a088bb41b413a6",
   "lastOpenFiles": [
+    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos/Untitled.md",
     "CPM/Untitled.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
@@ -257,9 +277,7 @@
     "Blockchain/Polkadot/Los objetivos de Polkadot.md",
     "Blockchain/Polkadot",
     "Blockchain",
-    "conflict-files-obsidian-git.md",
     "Ingeniería de redes",
-    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Distribuidos",
