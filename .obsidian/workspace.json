@@ -67,11 +67,9 @@
             "id": "39a088bb41b413a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md"
               }
             }
           },
@@ -172,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
+                "file": "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md",
+                "file": "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Untitled.md"
+                "file": "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md"
               }
             }
           },
@@ -245,12 +243,12 @@
   },
   "active": "39a088bb41b413a6",
   "lastOpenFiles": [
-    "Práctica 3.md",
+    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Untitled.md",
-    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
+    "Práctica 3.md",
     "CPM/Untitled.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
