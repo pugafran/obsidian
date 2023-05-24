@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Práctica 3.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Práctica 3.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Práctica 3.md",
+                "file": "Sistemas Operativos/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Práctica 3.md"
+                "file": "Sistemas Operativos/Untitled.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "39a088bb41b413a6",
   "lastOpenFiles": [
+    "Práctica 3.md",
     "Sistemas Operativos/Untitled.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
@@ -255,7 +256,6 @@
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "CPM",
-    "Práctica 3.md",
     "Infra/Infraestructura Tema 6.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
