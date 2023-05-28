@@ -13,9 +13,14 @@ historial.txt
 
 Leo el contenido de la sesion anterior linea a linea y 
 la voy introduciendo en la variable global historial, que
-es un vector de tipo string con tamaño máximo y circular   ^RgflCMSa
+es un vector de tipo string con tamaño máximo y circular.   ^RgflCMSa
 
 historial.txt ^DwTsMKfO
+
+Una vez terminado lo cierro. ^G7bmyL1r
+
+historial.txt
+(ifstream) ^z5Q3CIB7
 
 %%
 # Drawing
@@ -101,7 +106,7 @@ historial.txt ^DwTsMKfO
 			"type": "text",
 			"x": -699.3684210526317,
 			"y": -518.828947368421,
-			"width": 586.3395385742188,
+			"width": 591.8195190429688,
 			"height": 72,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -114,21 +119,21 @@ historial.txt ^DwTsMKfO
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1816172262,
-			"version": 581,
-			"versionNonce": 190041190,
+			"version": 582,
+			"versionNonce": 719621050,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290748299,
+			"updated": 1685290798251,
 			"link": null,
 			"locked": false,
-			"text": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular  ",
-			"rawText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular  ",
+			"text": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular.  ",
+			"rawText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular.  ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular  "
+			"originalText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular.  "
 		},
 		{
 			"id": "QH5L-wLTojwvxE-0A5eKa",
@@ -206,8 +211,8 @@ historial.txt ^DwTsMKfO
 			"type": "arrow",
 			"x": -439.3684210526317,
 			"y": -353.82894736842104,
-			"width": 1,
-			"height": 44,
+			"width": 0.9772727272727479,
+			"height": 43,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -221,11 +226,11 @@ historial.txt ^DwTsMKfO
 				"type": 2
 			},
 			"seed": 468787302,
-			"version": 295,
-			"versionNonce": 1512709670,
+			"version": 297,
+			"versionNonce": 220855034,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290748388,
+			"updated": 1685290793940,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -234,23 +239,128 @@ historial.txt ^DwTsMKfO
 					0
 				],
 				[
-					-1,
-					44
+					-0.9772727272727479,
+					43
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "wrdUe-ahmUt_ePQYPxK6w",
-				"focus": 0.03104596935376416,
-				"gap": 3
+				"gap": 3,
+				"focus": 0.03104596935376416
 			},
 			"endBinding": {
 				"elementId": "QH5L-wLTojwvxE-0A5eKa",
-				"focus": 0.029593943565037858,
-				"gap": 1
+				"gap": 1,
+				"focus": 0.029593943565037858
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "G7bmyL1r",
+			"type": "text",
+			"x": -575.2105263157896,
+			"y": -231.09210526315798,
+			"width": 278.27978515625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2089747578,
+			"version": 53,
+			"versionNonce": 678973626,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685290811544,
+			"link": null,
+			"locked": false,
+			"text": "Una vez terminado lo cierro.",
+			"rawText": "Una vez terminado lo cierro.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Una vez terminado lo cierro."
+		},
+		{
+			"type": "rectangle",
+			"version": 485,
+			"versionNonce": 69962982,
+			"isDeleted": false,
+			"id": "jt7GEWM_xQhZiO-ob7zxd",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -491.28947368421063,
+			"y": -434.0131578947369,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 169,
+			"height": 69,
+			"seed": 227765862,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"id": "7H1oxlQhHZAYPk3NFCYWa",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "z5Q3CIB7"
+				}
+			],
+			"updated": 1685290817334,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 295,
+			"versionNonce": 1005921210,
+			"isDeleted": false,
+			"id": "z5Q3CIB7",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -465.98940959729657,
+			"y": -423.5131578947369,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 118.39987182617188,
+			"height": 48,
+			"seed": 1517130490,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1685290817334,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "historial.txt\n(ifstream)",
+			"rawText": "historial.txt\n(ifstream)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "jt7GEWM_xQhZiO-ob7zxd",
+			"originalText": "historial.txt\n(ifstream)"
 		},
 		{
 			"id": "QS86fgd7",
