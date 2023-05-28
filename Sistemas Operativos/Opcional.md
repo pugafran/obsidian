@@ -27,7 +27,9 @@ sobrescribir para que cuando vuelva a la posición 0 vaya
 eliminando los valores más viejos. ^CRO0DAuL
 
 Cada vez que se lee un comando se mete en el vector historial
-comprobando que no sea solo espacios, tabulaciones o saltos de línea ^kfjcYPhD
+comprobando que no sea solo espacios, tabulaciones o saltos de línea.
+
+Si el comando tiene ";" se trata como comando múltiple y se borra el ";" ^kfjcYPhD
 
 %%
 # Drawing
@@ -406,10 +408,10 @@ comprobando que no sea solo espacios, tabulaciones o saltos de línea ^kfjcYPhD
 		{
 			"id": "kfjcYPhD",
 			"type": "text",
-			"x": 758.4736842105254,
-			"y": -404.7763157894741,
-			"width": 694.8394165039062,
-			"height": 48,
+			"x": 635.3157894736834,
+			"y": -418.4605263157899,
+			"width": 708.1795043945312,
+			"height": 96,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -421,21 +423,21 @@ comprobando que no sea solo espacios, tabulaciones o saltos de línea ^kfjcYPhD
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1810128038,
-			"version": 250,
-			"versionNonce": 1511976570,
+			"version": 473,
+			"versionNonce": 1185826150,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685291225937,
+			"updated": 1685291343647,
 			"link": null,
 			"locked": false,
-			"text": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea",
-			"rawText": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea",
+			"text": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea.\n\nSi el comando tiene \";\" se trata como comando múltiple y se borra el \";\"",
+			"rawText": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea.\n\nSi el comando tiene \";\" se trata como comando múltiple y se borra el \";\"",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea"
+			"originalText": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea.\n\nSi el comando tiene \";\" se trata como comando múltiple y se borra el \";\""
 		}
 	],
 	"appState": {
