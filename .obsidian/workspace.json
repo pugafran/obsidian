@@ -24,9 +24,21 @@
                 "file": "Sistemas Operativos/Opcional.md"
               }
             }
+          },
+          {
+            "id": "5bad2f1e617aa3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,6 +83,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c401b38294e57f7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -100,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Opcional.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Opcional.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Opcional.md"
+                "file": "Sistemas Operativos/Identificadores de un proceso.md"
               }
             }
           }
@@ -163,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3900cfa1e4f1a58",
+  "active": "5bad2f1e617aa3b3",
   "lastOpenFiles": [
     "Sistemas Operativos/Opcional.md",
     "imagenes/Pasted Image 20230413103629_974.png",
