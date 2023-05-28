@@ -13,7 +13,7 @@ historial.txt
 
 Leo el contenido de la sesion anterior linea a linea y 
 la voy introduciendo en la variable global historial, que
-es un vector de   ^RgflCMSa
+es un vector de tipo string con tamaño máximo y circular   ^RgflCMSa
 
 historial.txt ^DwTsMKfO
 
@@ -28,8 +28,8 @@ historial.txt ^DwTsMKfO
 		{
 			"id": "wrdUe-ahmUt_ePQYPxK6w",
 			"type": "rectangle",
-			"x": -573,
-			"y": -354.25,
+			"x": -520.3684210526317,
+			"y": -425.82894736842104,
 			"width": 169,
 			"height": 69,
 			"angle": 0,
@@ -45,8 +45,8 @@ historial.txt ^DwTsMKfO
 				"type": 3
 			},
 			"seed": 157444474,
-			"version": 402,
-			"versionNonce": 1642443514,
+			"version": 483,
+			"versionNonce": 884419450,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -58,15 +58,15 @@ historial.txt ^DwTsMKfO
 					"type": "arrow"
 				}
 			],
-			"updated": 1685290545764,
+			"updated": 1685290748299,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "bo9SIqbG",
 			"type": "text",
-			"x": -547.6999359130859,
-			"y": -343.75,
+			"x": -495.0683569657176,
+			"y": -415.32894736842104,
 			"width": 118.39987182617188,
 			"height": 48,
 			"angle": 0,
@@ -80,11 +80,11 @@ historial.txt ^DwTsMKfO
 			"groupIds": [],
 			"roundness": null,
 			"seed": 308126630,
-			"version": 213,
-			"versionNonce": 2021849190,
+			"version": 294,
+			"versionNonce": 1983832358,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290479834,
+			"updated": 1685290748299,
 			"link": null,
 			"locked": false,
 			"text": "historial.txt\n(ifstream)",
@@ -99,9 +99,9 @@ historial.txt ^DwTsMKfO
 		{
 			"id": "RgflCMSa",
 			"type": "text",
-			"x": -676,
-			"y": -440.25,
-			"width": 542.03955078125,
+			"x": -699.3684210526317,
+			"y": -518.828947368421,
+			"width": 586.3395385742188,
 			"height": 72,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -114,27 +114,27 @@ historial.txt ^DwTsMKfO
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1816172262,
-			"version": 390,
-			"versionNonce": 1784298790,
+			"version": 581,
+			"versionNonce": 190041190,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290645107,
+			"updated": 1685290748299,
 			"link": null,
 			"locked": false,
-			"text": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de  ",
-			"rawText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de  ",
+			"text": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular  ",
+			"rawText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular  ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de  "
+			"originalText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de tipo string con tamaño máximo y circular  "
 		},
 		{
 			"id": "QH5L-wLTojwvxE-0A5eKa",
 			"type": "rectangle",
-			"x": -561,
-			"y": -238.25,
+			"x": -508.3684210526317,
+			"y": -309.82894736842104,
 			"width": 131,
 			"height": 48,
 			"angle": 0,
@@ -150,8 +150,8 @@ historial.txt ^DwTsMKfO
 				"type": 3
 			},
 			"seed": 2111965690,
-			"version": 214,
-			"versionNonce": 1600734138,
+			"version": 295,
+			"versionNonce": 1575621882,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -163,15 +163,15 @@ historial.txt ^DwTsMKfO
 					"type": "arrow"
 				}
 			],
-			"updated": 1685290545764,
+			"updated": 1685290748299,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "DwTsMKfO",
 			"type": "text",
-			"x": -554.6999359130859,
-			"y": -226.25,
+			"x": -502.0683569657176,
+			"y": -297.82894736842104,
 			"width": 118.39987182617188,
 			"height": 24,
 			"angle": 0,
@@ -185,11 +185,11 @@ historial.txt ^DwTsMKfO
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1496469882,
-			"version": 134,
-			"versionNonce": 83277094,
+			"version": 215,
+			"versionNonce": 1562988454,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290541306,
+			"updated": 1685290748299,
 			"link": null,
 			"locked": false,
 			"text": "historial.txt",
@@ -204,8 +204,8 @@ historial.txt ^DwTsMKfO
 		{
 			"id": "7H1oxlQhHZAYPk3NFCYWa",
 			"type": "arrow",
-			"x": -492,
-			"y": -282.25,
+			"x": -439.3684210526317,
+			"y": -353.82894736842104,
 			"width": 1,
 			"height": 44,
 			"angle": 0,
@@ -221,11 +221,11 @@ historial.txt ^DwTsMKfO
 				"type": 2
 			},
 			"seed": 468787302,
-			"version": 50,
-			"versionNonce": 1589547430,
+			"version": 295,
+			"versionNonce": 1512709670,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290545764,
+			"updated": 1685290748388,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -379,10 +379,10 @@ historial.txt ^DwTsMKfO
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 787,
-		"scrollY": 580.75,
+		"scrollX": 809.9473684210527,
+		"scrollY": 710.5657894736843,
 		"zoom": {
-			"value": 1
+			"value": 0.95
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
