@@ -22,6 +22,10 @@ Una vez terminado lo cierro. ^G7bmyL1r
 historial.txt
 (ofstream) ^z5Q3CIB7
 
+Lo vuelvo a abrir en modo escritura sin , para
+que cuando vuelva a la posición 0 vaya
+eliminando los valores más viejos. ^CRO0DAuL
+
 %%
 # Drawing
 ```json
@@ -361,6 +365,40 @@ historial.txt
 			"verticalAlign": "middle",
 			"containerId": "jt7GEWM_xQhZiO-ob7zxd",
 			"originalText": "historial.txt\n(ofstream)"
+		},
+		{
+			"id": "CRO0DAuL",
+			"type": "text",
+			"x": 60.57894736842104,
+			"y": -528.9868421052632,
+			"width": 461.79962158203125,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2030035110,
+			"version": 219,
+			"versionNonce": 1691593446,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685290922678,
+			"link": null,
+			"locked": false,
+			"text": "Lo vuelvo a abrir en modo escritura sin , para\nque cuando vuelva a la posición 0 vaya\neliminando los valores más viejos.",
+			"rawText": "Lo vuelvo a abrir en modo escritura sin , para\nque cuando vuelva a la posición 0 vaya\neliminando los valores más viejos.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Lo vuelvo a abrir en modo escritura sin , para\nque cuando vuelva a la posición 0 vaya\neliminando los valores más viejos."
 		}
 	],
 	"appState": {
