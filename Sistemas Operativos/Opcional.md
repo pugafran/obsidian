@@ -11,7 +11,9 @@ tags: [excalidraw]
 historial.txt
 (ifstream) ^bo9SIqbG
 
-Leo el contenido de la sesion anterior ^RgflCMSa
+Leo el contenido de la sesion anterior linea a linea y 
+la voy introduciendo en la variable global historial, que
+es un vector de   ^RgflCMSa
 
 historial.txt ^DwTsMKfO
 
@@ -97,10 +99,10 @@ historial.txt ^DwTsMKfO
 		{
 			"id": "RgflCMSa",
 			"type": "text",
-			"x": -663,
-			"y": -408.25,
-			"width": 375.0397033691406,
-			"height": 24,
+			"x": -676,
+			"y": -440.25,
+			"width": 542.03955078125,
+			"height": 72,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -112,21 +114,21 @@ historial.txt ^DwTsMKfO
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1816172262,
-			"version": 210,
-			"versionNonce": 260718906,
+			"version": 390,
+			"versionNonce": 1784298790,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290507233,
+			"updated": 1685290645107,
 			"link": null,
 			"locked": false,
-			"text": "Leo el contenido de la sesion anterior",
-			"rawText": "Leo el contenido de la sesion anterior",
+			"text": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de  ",
+			"rawText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de  ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Leo el contenido de la sesion anterior"
+			"originalText": "Leo el contenido de la sesion anterior linea a linea y \nla voy introduciendo en la variable global historial, que\nes un vector de  "
 		},
 		{
 			"id": "QH5L-wLTojwvxE-0A5eKa",
