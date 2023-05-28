@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "cea86cbf39ca9abc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Operativos/Opcional.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemas Operativos/Opcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemas Operativos/Opcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemas Operativos/Opcional.md"
+              }
             }
           }
         ]
@@ -148,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f03cc228b5edef2",
+  "active": "c3900cfa1e4f1a58",
   "lastOpenFiles": [
+    "Sistemas Operativos/Opcional.md",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413101834_993.png",
@@ -160,7 +176,6 @@
     "imagenes/Pasted Image 20230323003716_803.png",
     "imagenes/Pasted Image 20230322210300_593.png",
     "imagenes/Pasted Image 20230315180856_344.png",
-    "imagenes/Pasted Image 20230315174118_592.png",
     "imagenes",
     "Sistemas Operativos/Untitled.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
