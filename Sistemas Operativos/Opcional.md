@@ -22,9 +22,12 @@ Una vez terminado lo cierro. ^G7bmyL1r
 historial.txt
 (ofstream) ^z5Q3CIB7
 
-Lo vuelvo a abrir en modo escritura sin , para
-que cuando vuelva a la posición 0 vaya
+Lo vuelvo a abrir en modo escritura con la capacidad de
+sobrescribir para que cuando vuelva a la posición 0 vaya
 eliminando los valores más viejos. ^CRO0DAuL
+
+Cada vez que se lee un comando se mete en el vector historial
+comprobando que no sea solo espacios, tabulaciones o saltos de línea ^kfjcYPhD
 
 %%
 # Drawing
@@ -371,7 +374,7 @@ eliminando los valores más viejos. ^CRO0DAuL
 			"type": "text",
 			"x": 60.57894736842104,
 			"y": -528.9868421052632,
-			"width": 461.79962158203125,
+			"width": 568.6195678710938,
 			"height": 72,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -384,21 +387,55 @@ eliminando los valores más viejos. ^CRO0DAuL
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2030035110,
-			"version": 219,
-			"versionNonce": 1691593446,
+			"version": 269,
+			"versionNonce": 1548998502,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1685290922678,
+			"updated": 1685290970352,
 			"link": null,
 			"locked": false,
-			"text": "Lo vuelvo a abrir en modo escritura sin , para\nque cuando vuelva a la posición 0 vaya\neliminando los valores más viejos.",
-			"rawText": "Lo vuelvo a abrir en modo escritura sin , para\nque cuando vuelva a la posición 0 vaya\neliminando los valores más viejos.",
+			"text": "Lo vuelvo a abrir en modo escritura con la capacidad de\nsobrescribir para que cuando vuelva a la posición 0 vaya\neliminando los valores más viejos.",
+			"rawText": "Lo vuelvo a abrir en modo escritura con la capacidad de\nsobrescribir para que cuando vuelva a la posición 0 vaya\neliminando los valores más viejos.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Lo vuelvo a abrir en modo escritura sin , para\nque cuando vuelva a la posición 0 vaya\neliminando los valores más viejos."
+			"originalText": "Lo vuelvo a abrir en modo escritura con la capacidad de\nsobrescribir para que cuando vuelva a la posición 0 vaya\neliminando los valores más viejos."
+		},
+		{
+			"id": "kfjcYPhD",
+			"type": "text",
+			"x": 758.4736842105254,
+			"y": -404.7763157894741,
+			"width": 694.8394165039062,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1810128038,
+			"version": 250,
+			"versionNonce": 1511976570,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1685291225937,
+			"link": null,
+			"locked": false,
+			"text": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea",
+			"rawText": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Cada vez que se lee un comando se mete en el vector historial\ncomprobando que no sea solo espacios, tabulaciones o saltos de línea"
 		}
 	],
 	"appState": {
@@ -416,8 +453,8 @@ eliminando los valores más viejos. ^CRO0DAuL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 809.9473684210527,
-		"scrollY": 710.5657894736843,
+		"scrollX": 68.89473684210611,
+		"scrollY": 752.6710526315794,
 		"zoom": {
 			"value": 0.95
 		},
