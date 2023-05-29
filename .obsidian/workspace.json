@@ -36,9 +36,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f7ad557af3b1beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3b5b57b2bedf227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -168,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bad2f1e617aa3b3",
+  "active": "c3b5b57b2bedf227",
   "lastOpenFiles": [
+    "Sistemas Operativos/Identificadores de un proceso.md",
+    "conflict-files-obsidian-git.md",
     "Sistemas Operativos/Opcional.md",
+    "Sistemas Operativos/Untitled.md",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413101834_993.png",
@@ -197,9 +223,7 @@
     "imagenes/Pasted Image 20230322210300_593.png",
     "imagenes/Pasted Image 20230315180856_344.png",
     "imagenes",
-    "Sistemas Operativos/Untitled.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
-    "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos",
@@ -225,7 +249,6 @@
     "Distribuidos/cola circular.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Distribuidos/Chat.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "Distribuidos",
     "CPM",
     "Blockchain/Polkadot",
