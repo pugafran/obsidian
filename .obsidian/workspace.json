@@ -1,70 +1,39 @@
 {
   "main": {
-    "id": "8bbe994c081f0100",
+    "id": "936eb7b6b47f247d",
     "type": "split",
     "children": [
       {
-        "id": "bffac6ea79d39635",
+        "id": "4e02dff1b1d5d524",
         "type": "tabs",
         "children": [
           {
-            "id": "9f03cc228b5edef2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cea86cbf39ca9abc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Sistemas Operativos/Opcional.md"
-              }
-            }
-          },
-          {
-            "id": "5bad2f1e617aa3b3",
+            "id": "a036b02c65940cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7ad557af3b1beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "file": "Distribuidos/Sincronización de relojes físicos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2f501ba6e942bed0",
+    "id": "8457fbe8a21c880d",
     "type": "split",
     "children": [
       {
-        "id": "6dd66222c0765c75",
+        "id": "d9fa20613d3da09c",
         "type": "tabs",
         "children": [
           {
-            "id": "c3900cfa1e4f1a58",
+            "id": "e8c5a875ba725b9d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +43,7 @@
             }
           },
           {
-            "id": "f68b31c9a3ab989e",
+            "id": "5e9ca4fb26fecb99",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +58,7 @@
             }
           },
           {
-            "id": "4bc371da3ac56f97",
+            "id": "0c99484fb85be5e3",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -97,7 +66,7 @@
             }
           },
           {
-            "id": "c401b38294e57f7a",
+            "id": "87228b7407378a07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,28 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "924a86bd6f21203e",
+    "id": "258f0305d4f318ea",
     "type": "split",
     "children": [
       {
-        "id": "135e29f07b7d729c",
+        "id": "fa6aef1b7ce16cd3",
         "type": "tabs",
         "children": [
           {
-            "id": "e01d9a0d6d18e32f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "545dd7ed14cdffbe",
+            "id": "ac942f734e9bb1e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "file": "Distribuidos/Sincronización de relojes físicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,19 +105,19 @@
             }
           },
           {
-            "id": "83126af4428ecd7c",
+            "id": "08b68313b08bb1c2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
+                "file": "Distribuidos/Sincronización de relojes físicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1d124b73da42b00d",
+            "id": "6ff8cfff1a9a8d07",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,13 +128,21 @@
             }
           },
           {
-            "id": "88b008bab89a0e7a",
+            "id": "6e2cff9e39796a02",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md"
+                "file": "Distribuidos/Sincronización de relojes físicos.md"
               }
+            }
+          },
+          {
+            "id": "5962ec52fdf69434",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -185,62 +154,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "terminal:Open terminal": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f7ad557af3b1beb",
+  "active": "a036b02c65940cd7",
   "lastOpenFiles": [
-    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Opcional.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
-    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos/Untitled.md",
-    "conflict-files-obsidian-git.md",
+    "Práctica 3.md",
+    "CPM/Untitled.md",
+    "Distribuidos/Trabajo Distribuidos 2.md",
+    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
+    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
+    "CPM",
+    "Infra/Infraestructura Tema 6.md",
+    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
+    "Distribuidos/Sincronización de relojes lógicos.md",
+    "Distribuidos/Cola circular.md",
+    "Distribuidos/Chat.md",
+    "Distribuidos/Arquitectura descentralizada.md",
+    "Blockchain/Polkadot/Untitled.md",
     "imagenes/Pasted Image 20230413103629_974.png",
-    "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
-    "imagenes/Pasted Image 20230323011206_662.png",
-    "imagenes/Pasted Image 20230323011105_521.png",
-    "imagenes/Pasted Image 20230323003821_842.png",
-    "imagenes/Pasted Image 20230323003716_803.png",
-    "imagenes/Pasted Image 20230322210300_593.png",
-    "imagenes/Pasted Image 20230315180856_344.png",
-    "imagenes",
-    "Sistemas Operativos",
-    "Práctica 3.md",
+    "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
+    "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Juan/notas puga porque alejandro no me dejó el enchufe (rata).md",
     "Juan",
     "Ingeniería de redes/Escenario del examen.md",
     "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
-    "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
-    "Ingeniería de redes",
     "Infra/Infraestructura Tema 5.md",
-    "Infra/Infraestructura Tema 6.md",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
-    "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
-    "Infra",
-    "Distribuidos/Trabajo Distribuidos 2.md",
-    "Distribuidos/Sincronización de relojes lógicos.md",
     "Distribuidos/Sincronización de relojes físicos.md",
-    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
-    "Distribuidos/Llamadas a procedimientos remotos (ONC RPC).md",
+    "imagenes/Pasted Image 20230413103356_375.png",
     "Distribuidos/Metas de los sistemas distribuidos.md",
-    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
-    "Distribuidos/cola circular.md",
-    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
-    "Distribuidos/Chat.md",
-    "Distribuidos",
-    "CPM",
     "Blockchain/Polkadot",
-    "Blockchain"
+    "Blockchain",
+    "Ingeniería de redes",
+    "Sistemas Operativos",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+    "Distribuidos",
+    "imagenes/Pasted Image 20230323011105_521.png",
+    "imagenes/Pasted Image 20230323011206_662.png",
+    "imagenes/Pasted Image 20230323003821_842.png",
+    "imagenes/Pasted Image 20230323003716_803.png",
+    "imagenes/Pasted Image 20230322210300_593.png",
+    "Infra",
+    "imagenes",
+    "Excalidraw"
   ]
 }
