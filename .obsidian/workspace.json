@@ -28,9 +28,19 @@
                 "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "faf5909e29430b20",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md"
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md"
               }
             }
           },
@@ -175,10 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e97cc7e238f58af8",
+  "active": "faf5909e29430b20",
   "lastOpenFiles": [
-    "Sistemas Operativos/Untitled 1.md",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
+    "Sistemas Operativos/Untitled 1.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
@@ -207,7 +218,6 @@
     "Juan/notas puga porque alejandro no me dejó el enchufe (rata).md",
     "Juan",
     "Ingeniería de redes/Escenario del examen.md",
-    "Ingeniería de redes/Drawing 2023-04-10 12.07.50.excalidraw.md",
     "imagenes/Pasted Image 20230413103356_375.png",
     "Blockchain/Polkadot",
     "Blockchain",
