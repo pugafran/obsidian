@@ -20,27 +20,17 @@
             }
           },
           {
-            "id": "e97cc7e238f58af8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "faf5909e29430b20",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md"
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md"
+                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md"
               }
             }
           },
@@ -187,8 +177,8 @@
   },
   "active": "faf5909e29430b20",
   "lastOpenFiles": [
-    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Sistemas Operativos/Untitled 1.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
