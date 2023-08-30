@@ -166,12 +166,40 @@ Servicios ^Q2X1TdYh
 			"updated": 1693418022580,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "Chw4s55UMwfoglUA_HORE",
+			"type": "rectangle",
+			"x": -600.0625,
+			"y": 98.4921875,
+			"width": 294.0703125,
+			"height": 371.453125,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 698619788,
+			"version": 255,
+			"versionNonce": 1135644084,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693418045194,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#2b8a3e",
+		"currentItemStrokeColor": "#862e9c",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
