@@ -34,6 +34,8 @@ Mañana
 
 MAÑANAS 9:00 - 14:00 ^SoBhyFUi
 
+TARDES 14:00 - 20:00 ^LVWdOJ3h
+
 %%
 # Drawing
 ```json
@@ -360,6 +362,40 @@ MAÑANAS 9:00 - 14:00 ^SoBhyFUi
 			"updated": 1693418331736,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "LVWdOJ3h",
+			"type": "text",
+			"x": -570.25390625,
+			"y": 498.83203125,
+			"width": 233.15988159179688,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 524242484,
+			"version": 152,
+			"versionNonce": 1796670260,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693418367136,
+			"link": null,
+			"locked": false,
+			"text": "TARDES 14:00 - 20:00",
+			"rawText": "TARDES 14:00 - 20:00",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "TARDES 14:00 - 20:00"
 		}
 	],
 	"appState": {
@@ -377,10 +413,10 @@ MAÑANAS 9:00 - 14:00 ^SoBhyFUi
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1139,
-		"scrollY": 83.7421875,
+		"scrollX": 1374.2575865778265,
+		"scrollY": 580.7516711117972,
 		"zoom": {
-			"value": 1
+			"value": 0.7374763277173041
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
