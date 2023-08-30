@@ -14,6 +14,8 @@ Cálculo
 
 Redes
 
+Est Datos
+
 Isoft
 
 GTI 
@@ -37,8 +39,8 @@ Servicios ^Q2X1TdYh
 			"type": "text",
 			"x": -548.80859375,
 			"y": -360.1875,
-			"width": 189.0911560058594,
-			"height": 727.5853415013715,
+			"width": 217.90415954589844,
+			"height": 816,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -50,29 +52,29 @@ Servicios ^Q2X1TdYh
 			"groupIds": [],
 			"roundness": null,
 			"seed": 453784588,
-			"version": 255,
-			"versionNonce": 1196089228,
+			"version": 293,
+			"versionNonce": 1652955660,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1693417857722,
+			"updated": 1693417934394,
 			"link": null,
 			"locked": false,
-			"text": "Cálculo\n\nÁlgebra\n\nRedes\n\nIsoft\n\nGTI \n\nSeguridad\n\nWeb\n\nServicios",
-			"rawText": "Cálculo\n\nÁlgebra\n\nRedes\n\nIsoft\n\nGTI \n\nSeguridad\n\nWeb\n\nServicios",
+			"text": "Cálculo\n\nÁlgebra\n\nRedes\n\nEst Datos\n\nIsoft\n\nGTI \n\nSeguridad\n\nWeb\n\nServicios",
+			"rawText": "Cálculo\n\nÁlgebra\n\nRedes\n\nEst Datos\n\nIsoft\n\nGTI \n\nSeguridad\n\nWeb\n\nServicios",
 			"fontSize": 40.42140786118726,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Cálculo\n\nÁlgebra\n\nRedes\n\nIsoft\n\nGTI \n\nSeguridad\n\nWeb\n\nServicios"
+			"originalText": "Cálculo\n\nÁlgebra\n\nRedes\n\nEst Datos\n\nIsoft\n\nGTI \n\nSeguridad\n\nWeb\n\nServicios"
 		},
 		{
 			"id": "TuqtMcFK6m9nx2vqpNqKx",
 			"type": "line",
-			"x": -571.2421875,
-			"y": -44.6953125,
-			"width": 168.9609375,
-			"height": 0.94921875,
+			"x": -573.671875,
+			"y": 47.7890625,
+			"width": 176.83984375,
+			"height": 0.5703125,
 			"angle": 0,
 			"strokeColor": "#ff0000",
 			"backgroundColor": "transparent",
@@ -86,11 +88,11 @@ Servicios ^Q2X1TdYh
 				"type": 2
 			},
 			"seed": 1818168844,
-			"version": 195,
-			"versionNonce": 744040844,
+			"version": 625,
+			"versionNonce": 734662580,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1693417878440,
+			"updated": 1693417975322,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -99,8 +101,8 @@ Servicios ^Q2X1TdYh
 					0
 				],
 				[
-					168.9609375,
-					-0.94921875
+					176.83984375,
+					0.5703125
 				]
 			],
 			"lastCommittedPoint": null,
@@ -125,8 +127,8 @@ Servicios ^Q2X1TdYh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 667,
-		"scrollY": 485.7421875,
+		"scrollX": 651,
+		"scrollY": 427.7421875,
 		"zoom": {
 			"value": 1
 		},
