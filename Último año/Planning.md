@@ -29,8 +29,8 @@ Servicios ^Q2X1TdYh
 Tardes
 14:00 - 20:00 ^O4P3dsI5
 
-Tardes
-14:00 - 20:00 ^aISSRpil
+Mañana
+9:00 - 14:00 ^aISSRpil
 
 %%
 # Drawing
@@ -204,10 +204,10 @@ Tardes
 		{
 			"id": "O4P3dsI5",
 			"type": "text",
-			"x": -450.33984375,
-			"y": 113.91015625,
-			"width": 131.7081669345498,
-			"height": 45.4296875,
+			"x": -914.5625,
+			"y": 119.31640625,
+			"width": 131.645263671875,
+			"height": 43.199999999999996,
 			"angle": 0,
 			"strokeColor": "#862e9c",
 			"backgroundColor": "transparent",
@@ -219,11 +219,11 @@ Tardes
 			"groupIds": [],
 			"roundness": null,
 			"seed": 524072756,
-			"version": 257,
-			"versionNonce": 1353742004,
+			"version": 339,
+			"versionNonce": 1392073868,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1693418174104,
+			"updated": 1693418217027,
 			"link": null,
 			"locked": false,
 			"text": "Tardes\n14:00 - 20:00",
@@ -237,8 +237,8 @@ Tardes
 		},
 		{
 			"type": "text",
-			"version": 257,
-			"versionNonce": 1353742004,
+			"version": 351,
+			"versionNonce": 1502831540,
 			"isDeleted": false,
 			"id": "aISSRpil",
 			"fillStyle": "hachure",
@@ -247,33 +247,61 @@ Tardes
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -199.8540834672749,
-			"y": -169.97265625,
+			"x": -908.8658022172749,
+			"y": -39.1171875,
 			"strokeColor": "#862e9c",
 			"backgroundColor": "transparent",
-			"width": 131.7081669345498,
-			"height": 45.4296875,
+			"width": 116.67955017089844,
+			"height": 43.199999999999996,
 			"seed": 1329679244,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1693418186421,
+			"updated": 1693418242336,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.929036458333325,
 			"fontFamily": 1,
-			"text": "Tardes\n14:00 - 20:00",
-			"rawText": "Tardes\n14:00 - 20:00",
+			"text": "Mañana\n9:00 - 14:00",
+			"rawText": "Mañana\n9:00 - 14:00",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Tardes\n14:00 - 20:00"
+			"originalText": "Mañana\n9:00 - 14:00"
+		},
+		{
+			"id": "B_ziOe30__3mwLd792o6N",
+			"type": "rectangle",
+			"x": -645.42578125,
+			"y": -444.8671875,
+			"width": 389.296875,
+			"height": 462.90234375,
+			"angle": 0,
+			"strokeColor": "#2f9d90",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 2014367756,
+			"version": 207,
+			"versionNonce": 1957299596,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693418271687,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#862e9c",
+		"currentItemStrokeColor": "#2f9d90",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
@@ -285,8 +313,8 @@ Tardes
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 959,
-		"scrollY": 511.7421875,
+		"scrollX": 1083,
+		"scrollY": 571.7421875,
 		"zoom": {
 			"value": 1
 		},
