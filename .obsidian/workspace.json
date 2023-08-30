@@ -4,20 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4e02dff1b1d5d524",
+        "id": "6fc5614c939fb990",
         "type": "tabs",
         "children": [
           {
-            "id": "faf5909e29430b20",
+            "id": "f8df62e508e6f0db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e145aeb4d436fba",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md"
+                "file": "Último año/Planning.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
+                "file": "Último año/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
+                "file": "Último año/Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md"
+                "file": "Último año/Planning.md"
               }
             }
           },
@@ -164,9 +173,11 @@
   },
   "active": "e8c5a875ba725b9d",
   "lastOpenFiles": [
+    "Último año/Planning.md",
+    "Último año/Untitled.md",
+    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Último año",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Sistemas Operativos/Untitled 1.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
@@ -193,7 +204,6 @@
     "imagenes/Pasted Image 20230413101114_921.png",
     "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
-    "Juan/notas puga porque alejandro no me dejó el enchufe (rata).md",
     "Juan",
     "imagenes/Pasted Image 20230413103356_375.png",
     "Blockchain/Polkadot",
@@ -208,7 +218,6 @@
     "imagenes/Pasted Image 20230323003716_803.png",
     "imagenes/Pasted Image 20230322210300_593.png",
     "Infra",
-    "imagenes",
-    "Excalidraw"
+    "imagenes"
   ]
 }
