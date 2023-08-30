@@ -26,6 +26,9 @@ Web
 
 Servicios ^Q2X1TdYh
 
+Tardes
+14:00 - 20:0 ^O4P3dsI5
+
 %%
 # Drawing
 ```json
@@ -194,6 +197,40 @@ Servicios ^Q2X1TdYh
 			"updated": 1693418045194,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "O4P3dsI5",
+			"type": "text",
+			"x": -398.18359375,
+			"y": 115.9453125,
+			"width": 125.39993286132812,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 524072756,
+			"version": 177,
+			"versionNonce": 1739750964,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693418147680,
+			"link": null,
+			"locked": false,
+			"text": "Tardes\n14:00 - 20:0",
+			"rawText": "Tardes\n14:00 - 20:0",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Tardes\n14:00 - 20:0"
 		}
 	],
 	"appState": {
@@ -211,8 +248,8 @@ Servicios ^Q2X1TdYh
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 657,
-		"scrollY": 393.7421875,
+		"scrollX": 859,
+		"scrollY": 467.7421875,
 		"zoom": {
 			"value": 1
 		},
