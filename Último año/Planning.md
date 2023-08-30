@@ -32,6 +32,8 @@ Tardes
 Mañana
 9:00 - 14:00 ^aISSRpil
 
+MAÑANAS 9:00 - 14:00 ^SoBhyFUi
+
 %%
 # Drawing
 ```json
@@ -275,7 +277,7 @@ Mañana
 			"x": -645.42578125,
 			"y": -444.8671875,
 			"width": 389.296875,
-			"height": 462.90234375,
+			"height": 523.1875,
 			"angle": 0,
 			"strokeColor": "#2f9d90",
 			"backgroundColor": "transparent",
@@ -289,11 +291,73 @@ Mañana
 				"type": 3
 			},
 			"seed": 2014367756,
-			"version": 207,
-			"versionNonce": 1957299596,
+			"version": 285,
+			"versionNonce": 586955700,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1693418271687,
+			"updated": 1693418279903,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "SoBhyFUi",
+			"type": "text",
+			"x": -559.7421875,
+			"y": -423.69140625,
+			"width": 228.6798858642578,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#2f9d90",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1631575732,
+			"version": 147,
+			"versionNonce": 758113804,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693418294613,
+			"link": null,
+			"locked": false,
+			"text": "MAÑANAS 9:00 - 14:00",
+			"rawText": "MAÑANAS 9:00 - 14:00",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "MAÑANAS 9:00 - 14:00"
+		},
+		{
+			"id": "yd8w104-47eeqJsUn_7D-",
+			"type": "rectangle",
+			"x": -642.0234375,
+			"y": 87.9921875,
+			"width": 383.10546875,
+			"height": 457.109375,
+			"angle": 0,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 215958668,
+			"version": 232,
+			"versionNonce": 2003405620,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693418331736,
 			"link": null,
 			"locked": false
 		}
@@ -301,7 +365,7 @@ Mañana
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#2f9d90",
+		"currentItemStrokeColor": "#ff004c",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
@@ -313,8 +377,8 @@ Mañana
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1083,
-		"scrollY": 571.7421875,
+		"scrollX": 1139,
+		"scrollY": 83.7421875,
 		"zoom": {
 			"value": 1
 		},
