@@ -27,7 +27,10 @@ Web
 Servicios ^Q2X1TdYh
 
 Tardes
-14:00 - 20:0 ^O4P3dsI5
+14:00 - 20:00 ^O4P3dsI5
+
+Tardes
+14:00 - 20:00 ^aISSRpil
 
 %%
 # Drawing
@@ -201,10 +204,10 @@ Tardes
 		{
 			"id": "O4P3dsI5",
 			"type": "text",
-			"x": -398.18359375,
-			"y": 115.9453125,
-			"width": 125.39993286132812,
-			"height": 48,
+			"x": -450.33984375,
+			"y": 113.91015625,
+			"width": 131.7081669345498,
+			"height": 45.4296875,
 			"angle": 0,
 			"strokeColor": "#862e9c",
 			"backgroundColor": "transparent",
@@ -216,21 +219,55 @@ Tardes
 			"groupIds": [],
 			"roundness": null,
 			"seed": 524072756,
-			"version": 177,
-			"versionNonce": 1739750964,
+			"version": 257,
+			"versionNonce": 1353742004,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1693418147680,
+			"updated": 1693418174104,
 			"link": null,
 			"locked": false,
-			"text": "Tardes\n14:00 - 20:0",
-			"rawText": "Tardes\n14:00 - 20:0",
-			"fontSize": 20,
+			"text": "Tardes\n14:00 - 20:00",
+			"rawText": "Tardes\n14:00 - 20:00",
+			"fontSize": 18.929036458333325,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Tardes\n14:00 - 20:0"
+			"originalText": "Tardes\n14:00 - 20:00"
+		},
+		{
+			"type": "text",
+			"version": 257,
+			"versionNonce": 1353742004,
+			"isDeleted": false,
+			"id": "aISSRpil",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -199.8540834672749,
+			"y": -169.97265625,
+			"strokeColor": "#862e9c",
+			"backgroundColor": "transparent",
+			"width": 131.7081669345498,
+			"height": 45.4296875,
+			"seed": 1329679244,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1693418186421,
+			"link": null,
+			"locked": false,
+			"fontSize": 18.929036458333325,
+			"fontFamily": 1,
+			"text": "Tardes\n14:00 - 20:00",
+			"rawText": "Tardes\n14:00 - 20:00",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Tardes\n14:00 - 20:00"
 		}
 	],
 	"appState": {
@@ -248,8 +285,8 @@ Tardes
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 859,
-		"scrollY": 467.7421875,
+		"scrollX": 959,
+		"scrollY": 511.7421875,
 		"zoom": {
 			"value": 1
 		},
