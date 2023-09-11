@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e08a191d8c0365ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Exámenes.md",
+                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Exámenes.md",
+                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Exámenes.md"
+                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
               }
             }
           },
@@ -173,10 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e145aeb4d436fba",
+  "active": "e08a191d8c0365ae",
   "lastOpenFiles": [
-    "Último año/Planning.md",
     "Último año/Exámenes.md",
+    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+    "Último año/GTI",
+    "Último año/Planning.md",
     "Último año/Untitled.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Último año",
@@ -205,7 +217,6 @@
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
-    "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
     "Juan",
     "imagenes/Pasted Image 20230413103356_375.png",
     "Blockchain/Polkadot",
@@ -219,7 +230,6 @@
     "imagenes/Pasted Image 20230323003821_842.png",
     "imagenes/Pasted Image 20230323003716_803.png",
     "imagenes/Pasted Image 20230322210300_593.png",
-    "Infra",
-    "imagenes"
+    "Infra"
   ]
 }
