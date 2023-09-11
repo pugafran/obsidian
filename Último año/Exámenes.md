@@ -7,3 +7,5 @@ Seguridad (PL) - L 11 Dic, M 12 Dic, J 14 Dic, V 15 Dic
 Servicios - 10 de Octubre (Bloques 1 y 2)
 Servicios - 8 de Noviembre (Bloques 3 y 4)
 Servicios - 11 de Enero (Bloques 5 6 y 7)
+GTI - 23 de Octubre
+GTI - 28 de Noviembre
