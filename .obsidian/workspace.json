@@ -19,9 +19,11 @@
             "id": "8e145aeb4d436fba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Planning.md"
+                "file": "Último año/Exámenes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Planning.md",
+                "file": "Último año/Exámenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Planning.md",
+                "file": "Último año/Exámenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Planning.md"
+                "file": "Último año/Exámenes.md"
               }
             }
           },
@@ -171,9 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "8e145aeb4d436fba",
   "lastOpenFiles": [
     "Último año/Planning.md",
+    "Último año/Exámenes.md",
     "Último año/Untitled.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Último año",
@@ -203,7 +206,6 @@
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
     "Ingeniería de redes/Drawing 2023-03-30 11.15.07.excalidraw.md",
-    "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Juan",
     "imagenes/Pasted Image 20230413103356_375.png",
     "Blockchain/Polkadot",
