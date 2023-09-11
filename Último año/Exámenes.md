@@ -9,3 +9,19 @@ Servicios - 8 de Noviembre (Bloques 3 y 4)
 Servicios - 11 de Enero (Bloques 5 6 y 7)
 GTI - 23 de Octubre
 GTI - 28 de Noviembre
+
+Defensa de trabajos en equipo en sesiones de prácticas de laboratorio (1): ****23, 24 y 26  de Octubre****
+
+****Defensa de trabajos en equipo en sesiones de teoría: 27 y 30  **de Noviembre**  
+****
+
+**27/11** =>  equipos: 
+
+**30/11** => equipos: 
+
+******Defensa de trabajos en equipo en sesiones de prácticas de laboratorio (2): ****11, 12** **y 14 de Diciembre**********  
+
+Presentación de trabajos sobre Apolo 13: ************11** **y 15 de Diciembre************
+
+Cierre de las memorias de los trabajos: ************17** **de Diciembre************
+
