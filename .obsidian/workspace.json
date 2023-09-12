@@ -48,9 +48,19 @@
                 "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "45487dc90d20f064",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
               }
             }
           },
@@ -195,12 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "45487dc90d20f064",
   "lastOpenFiles": [
+    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Servicios",
     "Pasted Image 20230912163112_251.png",
     "Último año/Web/Intro.md",
-    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Web",
     "Último año/Exámenes.md",
@@ -238,7 +249,6 @@
     "Ingeniería de redes",
     "Sistemas Operativos",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
-    "Distribuidos",
     "imagenes/Pasted Image 20230323011105_521.png",
     "imagenes/Pasted Image 20230323011206_662.png",
     "imagenes/Pasted Image 20230323003821_842.png",
