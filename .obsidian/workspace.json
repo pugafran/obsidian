@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15869ff720e96124",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Web/Intro.md",
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Web/Intro.md",
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Web/Intro.md"
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
               }
             }
           },
@@ -185,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e08a191d8c0365ae",
+  "active": "15869ff720e96124",
   "lastOpenFiles": [
-    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Web/Intro.md",
+    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Web",
     "Último año/Exámenes.md",
     "Último año/GTI",
@@ -216,7 +227,6 @@
     "Infra/Infraestructura Tema 6.md",
     "Distribuidos/Cola circular.md",
     "Distribuidos/Chat.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
