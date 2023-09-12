@@ -31,9 +31,11 @@
             "id": "e08a191d8c0365ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
+                "file": "Último año/Web/Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+                "file": "Último año/Web/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+                "file": "Último año/Web/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
+                "file": "Último año/Web/Intro.md"
               }
             }
           },
@@ -185,8 +187,10 @@
   },
   "active": "e08a191d8c0365ae",
   "lastOpenFiles": [
-    "Último año/Exámenes.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+    "Último año/Web/Intro.md",
+    "Último año/Web",
+    "Último año/Exámenes.md",
     "Último año/GTI",
     "Último año/Planning.md",
     "Último año/Untitled.md",
@@ -213,7 +217,6 @@
     "Distribuidos/Cola circular.md",
     "Distribuidos/Chat.md",
     "Distribuidos/Arquitectura descentralizada.md",
-    "Blockchain/Polkadot/Untitled.md",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
@@ -229,7 +232,6 @@
     "imagenes/Pasted Image 20230323011206_662.png",
     "imagenes/Pasted Image 20230323003821_842.png",
     "imagenes/Pasted Image 20230323003716_803.png",
-    "imagenes/Pasted Image 20230322210300_593.png",
-    "Infra"
+    "imagenes/Pasted Image 20230322210300_593.png"
   ]
 }
