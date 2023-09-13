@@ -53,9 +53,11 @@
             "id": "45487dc90d20f064",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+                "file": "Último año/Servicios/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+                "file": "Último año/Servicios/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+                "file": "Último año/Servicios/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+                "file": "Último año/Servicios/Untitled.md"
               }
             }
           },
@@ -207,9 +209,10 @@
   },
   "active": "45487dc90d20f064",
   "lastOpenFiles": [
+    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/Servicios/Untitled.md",
     "Pasted Image 20230913182409_645.png",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Pasted Image 20230912173650_229.png",
     "Pasted Image 20230912173335_063.png",
     "Último año/Servicios",
@@ -251,7 +254,6 @@
     "Ingeniería de redes",
     "Sistemas Operativos",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
-    "imagenes/Pasted Image 20230323011105_521.png",
-    "imagenes/Pasted Image 20230323011206_662.png"
+    "imagenes/Pasted Image 20230323011105_521.png"
   ]
 }
