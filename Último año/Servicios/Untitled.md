@@ -5,4 +5,6 @@
 
 ```Java
 
-System.out.println()
+System.out.println("UwU");
+
+```
