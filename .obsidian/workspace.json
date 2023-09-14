@@ -50,6 +50,16 @@
             }
           },
           {
+            "id": "8494345cf41b6b35",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "45487dc90d20f064",
             "type": "leaf",
             "state": {
@@ -62,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md"
               }
             }
           },
@@ -207,11 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15869ff720e96124",
+  "active": "8494345cf41b6b35",
   "lastOpenFiles": [
+    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+    "Último año/ED",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Servicios/Untitled.md",
-    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Pasted Image 20230913182409_645.png",
     "Pasted Image 20230912173650_229.png",
     "Pasted Image 20230912173335_063.png",
@@ -243,7 +255,6 @@
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "CPM",
-    "Infra/Infraestructura Tema 6.md",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
@@ -252,7 +263,6 @@
     "Blockchain/Polkadot",
     "Blockchain",
     "Ingeniería de redes",
-    "Sistemas Operativos",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "imagenes/Pasted Image 20230323011105_521.png"
   ]
