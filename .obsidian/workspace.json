@@ -11,8 +11,10 @@
             "id": "f8df62e508e6f0db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md"
+              }
             }
           },
           {
@@ -25,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuidos/Metas de los sistemas distribuidos.md",
+                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuidos/Metas de los sistemas distribuidos.md",
+                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuidos/Metas de los sistemas distribuidos.md"
+                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md"
               }
             }
           },
@@ -171,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eaafd24e177108ea",
+  "active": "f8df62e508e6f0db",
   "lastOpenFiles": [
+    "Distribuidos/Metas de los sistemas distribuidos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes físicos.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
@@ -210,7 +212,6 @@
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
-    "Sistemas Operativos/Untitled.md",
     "CPM",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
