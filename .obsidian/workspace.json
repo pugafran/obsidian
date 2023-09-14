@@ -28,38 +28,6 @@
             }
           },
           {
-            "id": "e08a191d8c0365ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/Web/Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15869ff720e96124",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8494345cf41b6b35",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "45487dc90d20f064",
             "type": "leaf",
             "state": {
@@ -72,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+                "file": "Último año/Exámenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+                "file": "Último año/Exámenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md"
+                "file": "Último año/Exámenes.md"
               }
             }
           },
@@ -217,12 +185,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8494345cf41b6b35",
+  "active": "8e145aeb4d436fba",
   "lastOpenFiles": [
-    "Pasted Image 20230914154044_877.png",
-    "Pasted Image 20230914154019_827.png",
+    "Último año/Web/Intro.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+    "Pasted Image 20230914154044_877.png",
+    "Pasted Image 20230914154019_827.png",
     "Último año/ED",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Servicios/Untitled.md",
@@ -231,7 +200,6 @@
     "Pasted Image 20230912173335_063.png",
     "Último año/Servicios",
     "Pasted Image 20230912163112_251.png",
-    "Último año/Web/Intro.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Web",
     "Último año/Exámenes.md",
@@ -263,7 +231,6 @@
     "imagenes/Pasted Image 20230413103356_375.png",
     "Blockchain/Polkadot",
     "Blockchain",
-    "Ingeniería de redes",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
+    "Ingeniería de redes"
   ]
 }
