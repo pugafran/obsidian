@@ -21,7 +21,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md"
+                "file": "Distribuidos/Metas de los sistemas distribuidos.md"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+                "file": "Distribuidos/Metas de los sistemas distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+                "file": "Distribuidos/Metas de los sistemas distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md"
+                "file": "Distribuidos/Metas de los sistemas distribuidos.md"
               }
             }
           },
@@ -173,6 +173,13 @@
   },
   "active": "eaafd24e177108ea",
   "lastOpenFiles": [
+    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
+    "Distribuidos/Sincronización de relojes físicos.md",
+    "Distribuidos/Sincronización de relojes lógicos.md",
+    "Distribuidos/Trabajo Distribuidos 2.md",
+    "Distribuidos/Cola circular.md",
+    "Distribuidos/Chat.md",
+    "Distribuidos/Arquitectura descentralizada.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Seguridad",
     "Último año/Servicios/Untitled.md",
@@ -198,19 +205,12 @@
     "Último año",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
     "Sistemas Operativos/Untitled 1.md",
-    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
-    "Distribuidos/Sincronización de relojes lógicos.md",
-    "Distribuidos/Trabajo Distribuidos 2.md",
-    "Distribuidos/Sincronización de relojes físicos.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Opcional.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos/Untitled.md",
-    "Práctica 3.md",
-    "CPM/Untitled.md",
-    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "CPM",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
