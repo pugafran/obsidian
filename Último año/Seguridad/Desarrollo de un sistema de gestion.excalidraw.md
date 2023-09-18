@@ -88,7 +88,7 @@ descripcion.docx ^ZWNMc9pg
 
 04 - Documentar tratamientos ^YK4UpHOY
 
-0 - Documentar tratamientos ^0CjbkHHx
+03 - Registro ^0CjbkHHx
 
 
 # Embedded files
@@ -3049,8 +3049,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 862802363,
+			"version": 231,
+			"versionNonce": 1261313333,
 			"isDeleted": false,
 			"id": "0CjbkHHx",
 			"fillStyle": "hachure",
@@ -3063,23 +3063,23 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"y": 852.0701728212332,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 294.67974853515625,
+			"width": 136.3398895263672,
 			"height": 24,
 			"seed": 1433116379,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695059397480,
+			"updated": 1695059411266,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "0 - Documentar tratamientos",
-			"rawText": "0 - Documentar tratamientos",
+			"text": "03 - Registro",
+			"rawText": "03 - Registro",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "0 - Documentar tratamientos"
+			"originalText": "03 - Registro"
 		}
 	],
 	"appState": {
