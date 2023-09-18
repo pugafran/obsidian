@@ -16,29 +16,8 @@
                 "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "eaafd24e177108ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Distribuidos/Metas de los sistemas distribuidos.md"
-              }
-            }
-          },
-          {
-            "id": "dd8fdd098046072a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +144,7 @@
             }
           },
           {
-            "id": "72fd23b1a2aa56a7",
+            "id": "842f0a02e825502d",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -188,11 +167,10 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd8fdd098046072a",
+  "active": "f8df62e508e6f0db",
   "lastOpenFiles": [
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
