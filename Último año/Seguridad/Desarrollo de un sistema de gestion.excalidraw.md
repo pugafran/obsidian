@@ -62,6 +62,10 @@ GabrielPuga.xlsx ^fbqGtF7i
 
 JuanMier.xlsx ^JS54Yv1C
 
+PreferenciasViaje ^4kPXFxwp
+
+Cumpleaños ^708WagyC
+
 
 # Embedded files
 9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
@@ -1792,6 +1796,188 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"verticalAlign": "middle",
 			"containerId": "9dHJelbd9PAMaua58SCxg",
 			"originalText": "JuanMier.xlsx"
+		},
+		{
+			"type": "image",
+			"version": 995,
+			"versionNonce": 1135090421,
+			"isDeleted": false,
+			"id": "2yIqWsVh805Y0O4VvMX15",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -965.5778051199453,
+			"y": 146.51594488005617,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 141,
+			"height": 141,
+			"seed": 1717822677,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "1XMV_xMzyGIVP75ou5Xqx",
+					"type": "arrow"
+				},
+				{
+					"id": "2FVTL01oCOKubtTM3JR0T",
+					"type": "arrow"
+				},
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"id": "XXE7loa6k5zPOWnHEMn3N",
+					"type": "arrow"
+				},
+				{
+					"id": "QZRaq1qZyf4Uqa7C5IjRM",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "4kPXFxwp"
+				}
+			],
+			"updated": 1695058294592,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "9df9574a7b84e23f36f059e308cc196b3b8f8b41",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 1247,
+			"versionNonce": 2107111995,
+			"isDeleted": false,
+			"id": "4kPXFxwp",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -947.6021962942617,
+			"y": 209.81594488005618,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 105.04878234863281,
+			"height": 14.399999999999999,
+			"seed": 232341243,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695058294554,
+			"link": null,
+			"locked": false,
+			"fontSize": 12.621922909634772,
+			"fontFamily": 1,
+			"text": "PreferenciasViaje",
+			"rawText": "PreferenciasViaje",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "2yIqWsVh805Y0O4VvMX15",
+			"originalText": "PreferenciasViaje"
+		},
+		{
+			"type": "image",
+			"version": 1024,
+			"versionNonce": 879153205,
+			"isDeleted": false,
+			"id": "lE4LENidotaV4jtMctF82",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1158.1329521787684,
+			"y": 534.199768409468,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 141,
+			"height": 141,
+			"seed": 1051917019,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "1XMV_xMzyGIVP75ou5Xqx",
+					"type": "arrow"
+				},
+				{
+					"id": "2FVTL01oCOKubtTM3JR0T",
+					"type": "arrow"
+				},
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"id": "XXE7loa6k5zPOWnHEMn3N",
+					"type": "arrow"
+				},
+				{
+					"id": "QZRaq1qZyf4Uqa7C5IjRM",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "708WagyC"
+				}
+			],
+			"updated": 1695058296264,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "9df9574a7b84e23f36f059e308cc196b3b8f8b41",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 1286,
+			"versionNonce": 1936853339,
+			"isDeleted": false,
+			"id": "708WagyC",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1122.274805511288,
+			"y": 597.499768409468,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 69.28370666503906,
+			"height": 14.399999999999999,
+			"seed": 1983050837,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695058303458,
+			"link": null,
+			"locked": false,
+			"fontSize": 12.621922909634772,
+			"fontFamily": 1,
+			"text": "Cumpleaños",
+			"rawText": "Cumpleaños",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "lE4LENidotaV4jtMctF82",
+			"originalText": "Cumpleaños"
 		}
 	],
 	"appState": {
