@@ -56,8 +56,15 @@ DPD
 
 TRATAMIENTOS ^wSPmVPeq
 
-ContratoDPD
-2023-09-17.pdf ^hWkl1rnT
+Tratamiento
+cumpleaños ^hWkl1rnT
+
+Tratamiento
+tarjetas crédito ^fbqGtF7i
+
+Tratamiento
+preferencias de
+viaje ^JS54Yv1C
 
 
 # Embedded files
@@ -1567,8 +1574,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 761,
-			"versionNonce": 816813141,
+			"version": 785,
+			"versionNonce": 1062500853,
 			"isDeleted": false,
 			"id": "j4rfgkeiXGesBfNfbodOm",
 			"fillStyle": "hachure",
@@ -1577,8 +1584,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -918.5667757081801,
-			"y": 495.250319880056,
+			"x": -925.097106590533,
+			"y": 386.76226840946765,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 154,
@@ -1596,7 +1603,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"id": "hWkl1rnT"
 				}
 			],
-			"updated": 1695058059443,
+			"updated": 1695058093771,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1608,8 +1615,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1103,
-			"versionNonce": 587351931,
+			"version": 1173,
+			"versionNonce": 1774193627,
 			"isDeleted": false,
 			"id": "hWkl1rnT",
 			"fillStyle": "hachure",
@@ -1618,27 +1625,177 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -884.5618166017348,
-			"y": 559.050319880056,
+			"x": -882.969665184283,
+			"y": 450.5622684094676,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 85.99008178710938,
+			"width": 69.7451171875,
 			"height": 26.4,
 			"seed": 613243451,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058059443,
+			"updated": 1695058093771,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.409301932582796,
 			"fontFamily": 1,
-			"text": "ContratoDPD\n2023-09-17.pdf",
-			"rawText": "ContratoDPD\n2023-09-17.pdf",
+			"text": "Tratamiento\ncumpleaños",
+			"rawText": "Tratamiento\ncumpleaños",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "j4rfgkeiXGesBfNfbodOm",
-			"originalText": "ContratoDPD\n2023-09-17.pdf"
+			"originalText": "Tratamiento\ncumpleaños"
+		},
+		{
+			"type": "image",
+			"version": 797,
+			"versionNonce": 2038066587,
+			"isDeleted": false,
+			"id": "tPXIa3XAF0yLbCbhKIP3S",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -902.3167757081802,
+			"y": 634.294437527115,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 154,
+			"height": 154,
+			"seed": 571990971,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "fbqGtF7i"
+				}
+			],
+			"updated": 1695058080714,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb1c0c65607f1aa2313500ca2c0a83e6a148e28a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 1217,
+			"versionNonce": 1564175579,
+			"isDeleted": false,
+			"id": "fbqGtF7i",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -872.4386247682388,
+			"y": 698.0944375271149,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 94.24369812011719,
+			"height": 26.4,
+			"seed": 378898805,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695058088258,
+			"link": null,
+			"locked": false,
+			"fontSize": 11.409301932582796,
+			"fontFamily": 1,
+			"text": "Tratamiento\ntarjetas crédito",
+			"rawText": "Tratamiento\ntarjetas crédito",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "tPXIa3XAF0yLbCbhKIP3S",
+			"originalText": "Tratamiento\ntarjetas crédito"
+		},
+		{
+			"type": "image",
+			"version": 803,
+			"versionNonce": 522917909,
+			"isDeleted": false,
+			"id": "9dHJelbd9PAMaua58SCxg",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -677.3489448258274,
+			"y": 570.9948051741737,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 154,
+			"height": 154,
+			"seed": 452686677,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "JS54Yv1C"
+				}
+			],
+			"updated": 1695058105788,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb1c0c65607f1aa2313500ca2c0a83e6a148e28a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 1232,
+			"versionNonce": 412598651,
+			"isDeleted": false,
+			"id": "JS54Yv1C",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -643.0646888443821,
+			"y": 628.1948051741738,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 85.43148803710938,
+			"height": 39.599999999999994,
+			"seed": 992467067,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695058112833,
+			"link": null,
+			"locked": false,
+			"fontSize": 11.409301932582796,
+			"fontFamily": 1,
+			"text": "Tratamiento\npreferencias de\nviaje",
+			"rawText": "Tratamiento\npreferencias de\nviaje",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "9dHJelbd9PAMaua58SCxg",
+			"originalText": "Tratamiento\npreferencias de\nviaje"
 		}
 	],
 	"appState": {
