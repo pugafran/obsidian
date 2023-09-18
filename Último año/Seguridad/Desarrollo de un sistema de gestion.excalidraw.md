@@ -56,11 +56,9 @@ DPD
 
 TRATAMIENTOS ^wSPmVPeq
 
-Tratamiento
-cumpleaños ^hWkl1rnT
+ManoloLama.xlsx ^hWkl1rnT
 
-Tratamiento
-tarjetas crédito ^fbqGtF7i
+GabrielPuga.xlsx ^fbqGtF7i
 
 Tratamiento
 preferencias de
@@ -1574,8 +1572,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 785,
-			"versionNonce": 1062500853,
+			"version": 786,
+			"versionNonce": 1591650581,
 			"isDeleted": false,
 			"id": "j4rfgkeiXGesBfNfbodOm",
 			"fillStyle": "hachure",
@@ -1584,7 +1582,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -925.097106590533,
+			"x": -925.2257830611213,
 			"y": 386.76226840946765,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -1603,7 +1601,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"id": "hWkl1rnT"
 				}
 			],
-			"updated": 1695058093771,
+			"updated": 1695058155764,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1615,8 +1613,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1173,
-			"versionNonce": 1774193627,
+			"version": 1191,
+			"versionNonce": 859636827,
 			"isDeleted": false,
 			"id": "hWkl1rnT",
 			"fillStyle": "hachure",
@@ -1625,32 +1623,32 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -882.969665184283,
-			"y": 450.5622684094676,
+			"x": -894.0594393721565,
+			"y": 457.16226840946763,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 69.7451171875,
-			"height": 26.4,
+			"width": 91.66731262207031,
+			"height": 13.2,
 			"seed": 613243451,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058093771,
+			"updated": 1695058178675,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.409301932582796,
 			"fontFamily": 1,
-			"text": "Tratamiento\ncumpleaños",
-			"rawText": "Tratamiento\ncumpleaños",
+			"text": "ManoloLama.xlsx",
+			"rawText": "ManoloLama.xlsx",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "j4rfgkeiXGesBfNfbodOm",
-			"originalText": "Tratamiento\ncumpleaños"
+			"originalText": "ManoloLama.xlsx"
 		},
 		{
 			"type": "image",
-			"version": 797,
-			"versionNonce": 2038066587,
+			"version": 798,
+			"versionNonce": 728875259,
 			"isDeleted": false,
 			"id": "tPXIa3XAF0yLbCbhKIP3S",
 			"fillStyle": "hachure",
@@ -1659,7 +1657,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -902.3167757081802,
+			"x": -902.4592389434742,
 			"y": 634.294437527115,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -1678,7 +1676,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"id": "fbqGtF7i"
 				}
 			],
-			"updated": 1695058080714,
+			"updated": 1695058180418,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1690,8 +1688,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1217,
-			"versionNonce": 1564175579,
+			"version": 1253,
+			"versionNonce": 828329205,
 			"isDeleted": false,
 			"id": "fbqGtF7i",
 			"fillStyle": "hachure",
@@ -1700,27 +1698,27 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -872.4386247682388,
-			"y": 698.0944375271149,
+			"x": -871.195994314568,
+			"y": 704.6944375271149,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 94.24369812011719,
-			"height": 26.4,
+			"width": 91.4735107421875,
+			"height": 13.2,
 			"seed": 378898805,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058088258,
+			"updated": 1695058194065,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.409301932582796,
 			"fontFamily": 1,
-			"text": "Tratamiento\ntarjetas crédito",
-			"rawText": "Tratamiento\ntarjetas crédito",
+			"text": "GabrielPuga.xlsx",
+			"rawText": "GabrielPuga.xlsx",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "tPXIa3XAF0yLbCbhKIP3S",
-			"originalText": "Tratamiento\ntarjetas crédito"
+			"originalText": "GabrielPuga.xlsx"
 		},
 		{
 			"type": "image",
@@ -1813,8 +1811,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1313.331481590533,
-		"scrollY": 95.56218011994386,
+		"scrollX": 1280.3903051199452,
+		"scrollY": -26.79076105652677,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
