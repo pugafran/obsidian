@@ -86,6 +86,10 @@ CLIENTES ^ju1soXGK
 Clientes
 descripcion.docx ^ZWNMc9pg
 
+04 - Documentar tratamientos ^YK4UpHOY
+
+04 - Documentar tratamientos ^0CjbkHHx
+
 
 # Embedded files
 9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
@@ -2651,8 +2655,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 1205,
-			"versionNonce": 2026785429,
+			"version": 1206,
+			"versionNonce": 535478139,
 			"isDeleted": false,
 			"id": "wsPPTVROoM4Z831H24DS0",
 			"fillStyle": "hachure",
@@ -2710,9 +2714,13 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				{
 					"id": "byfD5lUYC7r9aMJ9S_6kB",
 					"type": "arrow"
+				},
+				{
+					"id": "7J_N2U1KOwkuSqd6PD-jv",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695059210772,
+			"updated": 1695059347471,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2813,8 +2821,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 1839,
-			"versionNonce": 1183488949,
+			"version": 2068,
+			"versionNonce": 754653211,
 			"isDeleted": false,
 			"id": "URHAHFgeoYBomjny_7d4R",
 			"fillStyle": "hachure",
@@ -2823,12 +2831,12 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -583.8852499728825,
-			"y": 836.1221029682922,
+			"x": -398.5405808552355,
+			"y": 793.2728382624099,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 230,
-			"height": 230,
+			"width": 142.35753676470577,
+			"height": 142.35753676470577,
 			"seed": 2022851547,
 			"groupIds": [],
 			"roundness": null,
@@ -2848,9 +2856,13 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				{
 					"type": "text",
 					"id": "ZWNMc9pg"
+				},
+				{
+					"id": "7J_N2U1KOwkuSqd6PD-jv",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695059331775,
+			"updated": 1695059347471,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2862,8 +2874,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 2598,
-			"versionNonce": 2092510805,
+			"version": 2994,
+			"versionNonce": 1802678133,
 			"isDeleted": false,
 			"id": "ZWNMc9pg",
 			"fillStyle": "hachure",
@@ -2872,20 +2884,20 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -533.061496615949,
-			"y": 930.7221029682922,
+			"x": -365.9426077609685,
+			"y": 852.4516066447628,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 128.3524932861328,
-			"height": 40.8,
+			"width": 77.16159057617188,
+			"height": 24,
 			"seed": 1133034325,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695059331224,
+			"updated": 1695059341589,
 			"link": null,
 			"locked": false,
-			"fontSize": 17.10084066085037,
+			"fontSize": 10.288296120344887,
 			"fontFamily": 1,
 			"text": "Clientes\ndescripcion.docx",
 			"rawText": "Clientes\ndescripcion.docx",
@@ -2893,6 +2905,181 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"verticalAlign": "middle",
 			"containerId": "URHAHFgeoYBomjny_7d4R",
 			"originalText": "Clientes\ndescripcion.docx"
+		},
+		{
+			"id": "7J_N2U1KOwkuSqd6PD-jv",
+			"type": "arrow",
+			"x": -435.42706982582354,
+			"y": 832.1124522329981,
+			"width": 32.23805147058806,
+			"height": 22.835477941176464,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1622603989,
+			"version": 42,
+			"versionNonce": 952060341,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695059347471,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					32.23805147058806,
+					22.835477941176464
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "wsPPTVROoM4Z831H24DS0",
+				"focus": -0.09593642735981192,
+				"gap": 9.504595588236583
+			},
+			"endBinding": {
+				"elementId": "URHAHFgeoYBomjny_7d4R",
+				"focus": -0.36355777638200476,
+				"gap": 4.6484375
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "YK4UpHOY",
+			"type": "text",
+			"x": -571.2634668846482,
+			"y": 993.1142904682921,
+			"width": 307.479736328125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1874988379,
+			"version": 127,
+			"versionNonce": 24884571,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695059363712,
+			"link": null,
+			"locked": false,
+			"text": "04 - Documentar tratamientos",
+			"rawText": "04 - Documentar tratamientos",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "04 - Documentar tratamientos"
+		},
+		{
+			"id": "wOgoAN69hd3EuOgpOgxxS",
+			"type": "rectangle",
+			"x": -606.7919595317071,
+			"y": 707.5674154682921,
+			"width": 371.41084558823536,
+			"height": 261.19485294117646,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 759767509,
+			"version": 102,
+			"versionNonce": 737561915,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695059369019,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 306,
+			"versionNonce": 127213115,
+			"isDeleted": false,
+			"id": "m16DSTtntvqKF82xZPbuN",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -135.93028673758863,
+			"y": 432.9488492918214,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 246.8382352941178,
+			"height": 395.11488970588226,
+			"seed": 1867282421,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": null,
+			"updated": 1695059388670,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 127,
+			"versionNonce": 24884571,
+			"isDeleted": false,
+			"id": "0CjbkHHx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -434.1301732840042,
+			"y": 954.3679669388802,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 307.479736328125,
+			"height": 24,
+			"seed": 1433116379,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695059391268,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "04 - Documentar tratamientos",
+			"rawText": "04 - Documentar tratamientos",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "04 - Documentar tratamientos"
 		}
 	],
 	"appState": {
@@ -2910,8 +3097,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1593.3314815905294,
-		"scrollY": -127.96723164476278,
+		"scrollX": 934.5079521787651,
+		"scrollY": -118.55546693888017,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
