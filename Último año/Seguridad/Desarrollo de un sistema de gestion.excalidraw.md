@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrTf1vJ
 
-01 - Delegado de protección de datos
+01 - Delegado de protección de datos (DPD)
 02 - Registro de tratamientos 
 03 - Registro de categorías de tratamientos
 04 - Documentar los tratamientos
@@ -25,7 +25,10 @@ Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrT
 13 - Descripción de las medidas de seguridad aplicadas
 14 - Auto-verificación del cumplimiento del RGPD ^3y8GZ4Yf
 
-DPD ^gco0lOcg
+DPD
+(01) ^gco0lOcg
+
+SGDPD ^Eiba5H48
 
 
 # Embedded files
@@ -91,29 +94,29 @@ DPD ^gco0lOcg
 			"groupIds": [],
 			"roundness": null,
 			"seed": 115311541,
-			"version": 786,
-			"versionNonce": 1416644539,
+			"version": 792,
+			"versionNonce": 1498498331,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695057039090,
+			"updated": 1695057111266,
 			"link": null,
 			"locked": false,
-			"text": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD",
-			"rawText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD",
+			"text": "01 - Delegado de protección de datos (DPD)\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD",
+			"rawText": "01 - Delegado de protección de datos (DPD)\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD"
+			"originalText": "01 - Delegado de protección de datos (DPD)\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD"
 		},
 		{
 			"id": "PKpYdfIlVFW1F20BJqD8a",
 			"type": "image",
-			"x": 276.8984375,
-			"y": -262.546875,
-			"width": 143.3046875,
-			"height": 143.3046875,
+			"x": 302.169921875,
+			"y": -61.53320312500001,
+			"width": 140.62109375,
+			"height": 140.62109375,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -125,16 +128,20 @@ DPD ^gco0lOcg
 			"groupIds": [],
 			"roundness": null,
 			"seed": 523131989,
-			"version": 135,
-			"versionNonce": 865440213,
+			"version": 354,
+			"versionNonce": 82637371,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "gco0lOcg"
+				},
+				{
+					"id": "1XMV_xMzyGIVP75ou5Xqx",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695057099871,
+			"updated": 1695057166432,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -147,10 +154,10 @@ DPD ^gco0lOcg
 		{
 			"id": "gco0lOcg",
 			"type": "text",
-			"x": 334.1809310913086,
-			"y": -198.09453125,
-			"width": 28.739700317382812,
-			"height": 14.399999999999999,
+			"x": 358.4659652709961,
+			"y": -5.622656250000006,
+			"width": 28.029006958007812,
+			"height": 28.799999999999997,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -162,29 +169,104 @@ DPD ^gco0lOcg
 			"groupIds": [],
 			"roundness": null,
 			"seed": 570900571,
-			"version": 203,
-			"versionNonce": 990809909,
+			"version": 559,
+			"versionNonce": 1891138645,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695057099871,
+			"updated": 1695057166432,
 			"link": null,
 			"locked": false,
-			"text": "DPD",
-			"rawText": "DPD",
-			"fontSize": 12.942202669902908,
+			"text": "DPD\n(01)",
+			"rawText": "DPD\n(01)",
+			"fontSize": 12.621922909634772,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "PKpYdfIlVFW1F20BJqD8a",
-			"originalText": "DPD"
+			"originalText": "DPD\n(01)"
 		},
 		{
-			"id": "P3ybgUVv",
+			"type": "image",
+			"version": 239,
+			"versionNonce": 975499739,
+			"isDeleted": false,
+			"id": "aLgb-QfwwA1q9YS5qnt3g",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 298.328125,
+			"y": -233.35546875,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 110.765625,
+			"height": 110.765625,
+			"seed": 1917632155,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Eiba5H48"
+				},
+				{
+					"id": "1XMV_xMzyGIVP75ou5Xqx",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695057150271,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "9df9574a7b84e23f36f059e308cc196b3b8f8b41",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"type": "text",
-			"x": 266.0234375,
-			"y": -185.56640625,
-			"width": 44.41996765136719,
-			"height": 24,
+			"version": 348,
+			"versionNonce": 847811445,
+			"isDeleted": false,
+			"id": "Eiba5H48",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 336.1093978881836,
+			"y": -183.37265625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 35.20307922363281,
+			"height": 10.799999999999999,
+			"seed": 886590613,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695057135055,
+			"link": null,
+			"locked": false,
+			"fontSize": 9.7323070217122,
+			"fontFamily": 1,
+			"text": "SGDPD",
+			"rawText": "SGDPD",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "aLgb-QfwwA1q9YS5qnt3g",
+			"originalText": "SGDPD"
+		},
+		{
+			"id": "1XMV_xMzyGIVP75ou5Xqx",
+			"type": "arrow",
+			"x": 356.2952730449768,
+			"y": -107.79825229211181,
+			"width": 0.12664564277298496,
+			"height": 40.33462089028953,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -194,23 +276,40 @@ DPD ^gco0lOcg
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
-			"roundness": null,
-			"seed": 1982321915,
-			"version": 51,
-			"versionNonce": 1227759509,
-			"isDeleted": true,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 227960117,
+			"version": 334,
+			"versionNonce": 372055445,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695057091671,
+			"updated": 1695057166432,
 			"link": null,
 			"locked": false,
-			"text": "DPD",
-			"rawText": "DPD",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "DPD"
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.12664564277298496,
+					40.33462089028953
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "aLgb-QfwwA1q9YS5qnt3g",
+				"gap": 14.791591457888197,
+				"focus": -0.055105177440083135
+			},
+			"endBinding": {
+				"elementId": "PKpYdfIlVFW1F20BJqD8a",
+				"gap": 5.930428276822288,
+				"focus": -0.23351521010754514
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
