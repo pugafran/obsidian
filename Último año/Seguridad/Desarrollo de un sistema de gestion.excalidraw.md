@@ -14,7 +14,16 @@ Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrT
 02 - Registro de tratamientos 
 03 - Registro de categorías de tratamientos
 04 - Documentar los tratamientos
-05 - Legitimidad y proporcionalidad ^3y8GZ4Yf
+05 - Legitimidad y proporcionalidad del tratamiento
+06 - Información de los interesados
+07 - Derechos de los interesados
+08 - Contrato entre responsable y encargado
+09 - Transferencias internacionales
+10 - Brechas de datos personales
+11 - Estimación de la necesidad de un análisis de riesgos
+12 - Realización de un análisis de riesgos básico o una EIPD
+13 - Descripción de las medidas de seguridad aplicadas
+14 - Auto-verificación del cumplimiento del RGPD ^3y8GZ4Yf
 
 %%
 # Drawing
@@ -61,10 +70,10 @@ Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrT
 		{
 			"id": "3y8GZ4Yf",
 			"type": "text",
-			"x": -376,
-			"y": -204.6796875,
-			"width": 455.2196350097656,
-			"height": 120,
+			"x": -529.75,
+			"y": -201.04296875,
+			"width": 602.759521484375,
+			"height": 336,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -76,21 +85,21 @@ Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrT
 			"groupIds": [],
 			"roundness": null,
 			"seed": 115311541,
-			"version": 236,
-			"versionNonce": 1497035579,
+			"version": 786,
+			"versionNonce": 1416644539,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695056817187,
+			"updated": 1695057039090,
 			"link": null,
 			"locked": false,
-			"text": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad",
-			"rawText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad",
+			"text": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD",
+			"rawText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad"
+			"originalText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD"
 		}
 	],
 	"appState": {
