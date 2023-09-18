@@ -56,6 +56,9 @@ DPD
 
 TRATAMIENTOS ^wSPmVPeq
 
+ContratoDPD
+2023-09-17.pdf ^hWkl1rnT
+
 
 # Embedded files
 9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
@@ -1561,6 +1564,81 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"type": "image",
+			"version": 761,
+			"versionNonce": 816813141,
+			"isDeleted": false,
+			"id": "j4rfgkeiXGesBfNfbodOm",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -918.5667757081801,
+			"y": 495.250319880056,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 154,
+			"height": 154,
+			"seed": 680146325,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "hWkl1rnT"
+				}
+			],
+			"updated": 1695058059443,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb1c0c65607f1aa2313500ca2c0a83e6a148e28a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 1103,
+			"versionNonce": 587351931,
+			"isDeleted": false,
+			"id": "hWkl1rnT",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -884.5618166017348,
+			"y": 559.050319880056,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 85.99008178710938,
+			"height": 26.4,
+			"seed": 613243451,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695058059443,
+			"link": null,
+			"locked": false,
+			"fontSize": 11.409301932582796,
+			"fontFamily": 1,
+			"text": "ContratoDPD\n2023-09-17.pdf",
+			"rawText": "ContratoDPD\n2023-09-17.pdf",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "j4rfgkeiXGesBfNfbodOm",
+			"originalText": "ContratoDPD\n2023-09-17.pdf"
 		}
 	],
 	"appState": {
@@ -1578,8 +1656,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1278.0373639434729,
-		"scrollY": 41.44453306112043,
+		"scrollX": 1313.331481590533,
+		"scrollY": 95.56218011994386,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
