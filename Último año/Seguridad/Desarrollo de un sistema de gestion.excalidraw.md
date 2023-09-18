@@ -60,9 +60,7 @@ ManoloLama.xlsx ^hWkl1rnT
 
 GabrielPuga.xlsx ^fbqGtF7i
 
-Tratamiento
-preferencias de
-viaje ^JS54Yv1C
+JuanMier.xlsx ^JS54Yv1C
 
 
 # Embedded files
@@ -1763,8 +1761,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1232,
-			"versionNonce": 412598651,
+			"version": 1284,
+			"versionNonce": 680800699,
 			"isDeleted": false,
 			"id": "JS54Yv1C",
 			"fillStyle": "hachure",
@@ -1773,27 +1771,27 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -643.0646888443821,
-			"y": 628.1948051741738,
+			"x": -637.4103004166477,
+			"y": 641.3948051741737,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 85.43148803710938,
-			"height": 39.599999999999994,
+			"width": 74.12271118164062,
+			"height": 13.2,
 			"seed": 992467067,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058112833,
+			"updated": 1695058209544,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.409301932582796,
 			"fontFamily": 1,
-			"text": "Tratamiento\npreferencias de\nviaje",
-			"rawText": "Tratamiento\npreferencias de\nviaje",
+			"text": "JuanMier.xlsx",
+			"rawText": "JuanMier.xlsx",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "9dHJelbd9PAMaua58SCxg",
-			"originalText": "Tratamiento\npreferencias de\nviaje"
+			"originalText": "JuanMier.xlsx"
 		}
 	],
 	"appState": {
