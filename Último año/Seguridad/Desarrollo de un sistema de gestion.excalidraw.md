@@ -83,6 +83,9 @@ Código ^JDHkI3JY
 
 CLIENTES ^ju1soXGK
 
+Clientes
+descripcion.docx ^ZWNMc9pg
+
 
 # Embedded files
 9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
@@ -2756,10 +2759,10 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "byfD5lUYC7r9aMJ9S_6kB",
 			"type": "arrow",
-			"x": -432.58729360181815,
+			"x": -431.5584478245563,
 			"y": 445.1455404682921,
-			"width": 95.85239470876118,
-			"height": 339.79469849974055,
+			"width": 96.26599764993766,
+			"height": 309.6154705585641,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -2773,40 +2776,123 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				"type": 2
 			},
 			"seed": 1442847957,
-			"version": 500,
-			"versionNonce": 1159483221,
+			"version": 555,
+			"versionNonce": 351202971,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695059220254,
+			"updated": 1695059282840,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
-					1.0288457772618216,
+					0,
 					0
 				],
 				[
-					93.3891594146435,
+					92.36031363738168,
 					156.85699593731914
 				],
 				[
-					-2.4632352941176805,
-					339.79469849974055
+					-3.90568401255598,
+					309.6154705585641
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "fwr-I2UJwds5-UwypKz9y",
-				"focus": -0.7311070611319495,
+				"focus": -0.7311070611319492,
 				"gap": 10.813474942446078
 			},
 			"endBinding": {
 				"elementId": "wsPPTVROoM4Z831H24DS0",
-				"focus": 0.7226328823844641,
-				"gap": 9.881136518124293
+				"focus": 0.474173425206068,
+				"gap": 9.46753357694783
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"type": "image",
+			"version": 1839,
+			"versionNonce": 1183488949,
+			"isDeleted": false,
+			"id": "URHAHFgeoYBomjny_7d4R",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -583.8852499728825,
+			"y": 836.1221029682922,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 230,
+			"height": 230,
+			"seed": 2022851547,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"id": "4_IEbtpZZY0XnSkhozlfG",
+					"type": "arrow"
+				},
+				{
+					"id": "H_TjVcDIu0ShBPTIIdS3E",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "ZWNMc9pg"
+				}
+			],
+			"updated": 1695059331775,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb1c0c65607f1aa2313500ca2c0a83e6a148e28a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 2598,
+			"versionNonce": 2092510805,
+			"isDeleted": false,
+			"id": "ZWNMc9pg",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -533.061496615949,
+			"y": 930.7221029682922,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 128.3524932861328,
+			"height": 40.8,
+			"seed": 1133034325,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695059331224,
+			"link": null,
+			"locked": false,
+			"fontSize": 17.10084066085037,
+			"fontFamily": 1,
+			"text": "Clientes\ndescripcion.docx",
+			"rawText": "Clientes\ndescripcion.docx",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "URHAHFgeoYBomjny_7d4R",
+			"originalText": "Clientes\ndescripcion.docx"
 		}
 	],
 	"appState": {
@@ -2824,8 +2910,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1322.743246296413,
-		"scrollY": -231.49664340946856,
+		"scrollX": 1593.3314815905294,
+		"scrollY": -127.96723164476278,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
