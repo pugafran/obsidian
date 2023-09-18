@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Planning.md"
+                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c40f2fce9c8cb5cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Planning.md",
+                "file": "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Planning.md",
+                "file": "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Planning.md"
+                "file": "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md"
               }
             }
           },
@@ -163,13 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8df62e508e6f0db",
+  "active": "e8c5a875ba725b9d",
   "lastOpenFiles": [
+    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
+    "Último año/Planning.md",
     "Pasted Image 20230918173744_534.png",
     "Último año/Exámenes.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
     "Distribuidos/Metas de los sistemas distribuidos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
@@ -193,7 +206,6 @@
     "Pasted Image 20230912163112_251.png",
     "Último año/Web",
     "Último año/GTI",
-    "Último año/Planning.md",
     "Último año/Untitled.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Último año",
@@ -208,7 +220,6 @@
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230413101114_921.png",
     "Juan",
-    "imagenes/Pasted Image 20230413103356_375.png",
     "Blockchain/Polkadot",
     "Blockchain"
   ]
