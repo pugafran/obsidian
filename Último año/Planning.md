@@ -339,6 +339,178 @@ Seguridad ^OsgRtaFo
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Seguridad"
+		},
+		{
+			"id": "0nObSSVOSs3FXxcv8CcY2",
+			"type": "line",
+			"x": -389.09706714877916,
+			"y": -115.13124365975182,
+			"width": 3.84102062744887,
+			"height": 575.1359349511704,
+			"angle": 0,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1075434645,
+			"version": 63,
+			"versionNonce": 1162123291,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695051590801,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.84102062744887,
+					575.1359349511704
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ecZaX04eFyYrmv_v4dkJn",
+			"type": "line",
+			"x": -196.135571627608,
+			"y": -201.2270097239017,
+			"width": 403.79084996114193,
+			"height": 500.5063267600715,
+			"angle": 0,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2101014325,
+			"version": 120,
+			"versionNonce": 1667514235,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695051586050,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					403.79084996114193,
+					500.5063267600715
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 238,
+			"versionNonce": 291001435,
+			"isDeleted": false,
+			"id": "9n4WR2rVFqXI3O4blapU8",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -386.3577192258326,
+			"y": -1202.4245868122193,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"width": 3.84102062744887,
+			"height": 575.1359349511704,
+			"seed": 285526805,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695051603335,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.84102062744887,
+					575.1359349511704
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 291,
+			"versionNonce": 325202549,
+			"isDeleted": false,
+			"id": "7pzx-kuCwQ-iBb5FxuTo_",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -964.843120663616,
+			"y": -1058.9474794304083,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"width": 403.79084996114193,
+			"height": 500.5063267600715,
+			"seed": 1653526581,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695051614556,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					403.79084996114193,
+					500.5063267600715
+				]
+			]
 		}
 	],
 	"appState": {
@@ -356,10 +528,10 @@ Seguridad ^OsgRtaFo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1216.595703125,
-		"scrollY": 825.283203125,
+		"scrollX": 1504.6005873715471,
+		"scrollY": 1166.7884654529228,
 		"zoom": {
-			"value": 0.8
+			"value": 0.5491704431176184
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
