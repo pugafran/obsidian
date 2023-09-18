@@ -56,7 +56,9 @@ DPD
 
 TRATAMIENTOS ^wSPmVPeq
 
-GabrielPuga.xlsx ^fbqGtF7i
+GabrielPuga.xlsx
+01 - Preferencias
+02- FechaCumple ^fbqGtF7i
 
 Documentación
 PreferenciasViaje ^4kPXFxwp
@@ -67,6 +69,9 @@ FechaCumpleaños ^708WagyC
 ... ^4GKkpApW
 
 ... ^CDVEbGGG
+
+Hay un excel con todos los tratamientos que hizo el responsable
+y luego carpetas asociadas a cada tratamiento con documentación. ^7oHNVBPw
 
 
 # Embedded files
@@ -1588,8 +1593,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 1100,
-			"versionNonce": 215493019,
+			"version": 1101,
+			"versionNonce": 1529964949,
 			"isDeleted": false,
 			"id": "tPXIa3XAF0yLbCbhKIP3S",
 			"fillStyle": "hachure",
@@ -1598,12 +1603,12 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -567.8682462964154,
-			"y": 553.6786287035856,
+			"x": -568.1669595317094,
+			"y": 553.3799154682915,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 118.40257352941182,
-			"height": 118.40257352941182,
+			"width": 119,
+			"height": 119,
 			"seed": 571990971,
 			"groupIds": [],
 			"roundness": null,
@@ -1621,7 +1626,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1695058512776,
+			"updated": 1695058601297,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1633,8 +1638,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1693,
-			"versionNonce": 1800212885,
+			"version": 1736,
+			"versionNonce": 975398459,
 			"isDeleted": false,
 			"id": "fbqGtF7i",
 			"fillStyle": "hachure",
@@ -1643,27 +1648,27 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -543.0898416117876,
-			"y": 608.0799154682915,
+			"x": -544.7715432719438,
+			"y": 598.4799154682916,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 68.84576416015625,
-			"height": 9.6,
+			"width": 72.20916748046875,
+			"height": 28.799999999999997,
 			"seed": 378898805,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058512776,
+			"updated": 1695058601297,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.588872858792135,
 			"fontFamily": 1,
-			"text": "GabrielPuga.xlsx",
-			"rawText": "GabrielPuga.xlsx",
+			"text": "GabrielPuga.xlsx\n01 - Preferencias\n02- FechaCumple",
+			"rawText": "GabrielPuga.xlsx\n01 - Preferencias\n02- FechaCumple",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "tPXIa3XAF0yLbCbhKIP3S",
-			"originalText": "GabrielPuga.xlsx"
+			"originalText": "GabrielPuga.xlsx\n01 - Preferencias\n02- FechaCumple"
 		},
 		{
 			"type": "image",
@@ -1968,10 +1973,10 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "4_IEbtpZZY0XnSkhozlfG",
 			"type": "arrow",
-			"x": -511.6127315905328,
-			"y": 521.8964595859385,
-			"width": 1.4705882352941444,
-			"height": 23.768382352941217,
+			"x": -511.61426268401203,
+			"y": 521.9212058842965,
+			"width": 1.4665553419563366,
+			"height": 23.70320071436913,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1985,11 +1990,11 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				"type": 2
 			},
 			"seed": 889514037,
-			"version": 72,
-			"versionNonce": 1690633243,
+			"version": 74,
+			"versionNonce": 1720340891,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695058512777,
+			"updated": 1695058601297,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1998,20 +2003,20 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					0
 				],
 				[
-					-1.4705882352941444,
-					23.768382352941217
+					-1.4665553419563366,
+					23.70320071436913
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "fwr-I2UJwds5-UwypKz9y",
-				"focus": -0.07914012523543476,
-				"gap": 4.904411764706225
+				"gap": 4.929158063064104,
+				"focus": -0.07914012523543476
 			},
 			"endBinding": {
 				"elementId": "tPXIa3XAF0yLbCbhKIP3S",
-				"focus": -0.13640625615025914,
-				"gap": 8.013786764705912
+				"gap": 8.054222104919994,
+				"focus": -0.13640625615025914
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -2283,6 +2288,40 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					-29.83915441176481
 				]
 			]
+		},
+		{
+			"id": "7oHNVBPw",
+			"type": "text",
+			"x": -706.272658061121,
+			"y": 725.1914963506443,
+			"width": 676.1795043945312,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 652275803,
+			"version": 150,
+			"versionNonce": 1140283541,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695058583735,
+			"link": null,
+			"locked": false,
+			"text": "Hay un excel con todos los tratamientos que hizo el responsable\ny luego carpetas asociadas a cada tratamiento con documentación.",
+			"rawText": "Hay un excel con todos los tratamientos que hizo el responsable\ny luego carpetas asociadas a cada tratamiento con documentación.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Hay un excel con todos los tratamientos que hizo el responsable\ny luego carpetas asociadas a cada tratamiento con documentación."
 		}
 	],
 	"appState": {
