@@ -24,6 +24,8 @@ Servicios ^9kBvaaWL
 
 Seguridad ^OsgRtaFo
 
+PA:  ^cDkB86Ra
+
 
 # Embedded files
 70cd18bd896f2a5e7aea38fd445d6affc838e815: [[Pasted Image 20230918173744_534.png]]
@@ -683,12 +685,46 @@ Seguridad ^OsgRtaFo
 					3.755664613505303
 				]
 			]
+		},
+		{
+			"id": "cDkB86Ra",
+			"type": "text",
+			"x": 91.80537502083348,
+			"y": -199.36889385345182,
+			"width": 41.17997741699219,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 156396187,
+			"version": 11,
+			"versionNonce": 1985309115,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695051703780,
+			"link": null,
+			"locked": false,
+			"text": "PA: ",
+			"rawText": "PA: ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "PA: "
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#ff004c",
+		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
@@ -700,10 +736,10 @@ Seguridad ^OsgRtaFo
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1504.6005873715471,
-		"scrollY": 1166.7884654529228,
+		"scrollX": 738.850888871949,
+		"scrollY": 683.0805352368557,
 		"zoom": {
-			"value": 0.5491704431176184
+			"value": 0.920018042623997
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
