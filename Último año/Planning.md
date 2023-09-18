@@ -24,7 +24,9 @@ Servicios ^9kBvaaWL
 
 Seguridad ^OsgRtaFo
 
-PA:  ^cDkB86Ra
+PA - Patrones ^cDkB86Ra
+
+PL -  ^asrKIPEb
 
 
 # Embedded files
@@ -689,9 +691,9 @@ PA:  ^cDkB86Ra
 		{
 			"id": "cDkB86Ra",
 			"type": "text",
-			"x": 91.80537502083348,
-			"y": -199.36889385345182,
-			"width": 41.17997741699219,
+			"x": 67.25193814993577,
+			"y": -263.338391197365,
+			"width": 143.23988342285156,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -704,21 +706,55 @@ PA:  ^cDkB86Ra
 			"groupIds": [],
 			"roundness": null,
 			"seed": 156396187,
-			"version": 11,
-			"versionNonce": 1985309115,
+			"version": 73,
+			"versionNonce": 1401271195,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695051703780,
+			"updated": 1695051856842,
 			"link": null,
 			"locked": false,
-			"text": "PA: ",
-			"rawText": "PA: ",
+			"text": "PA - Patrones",
+			"rawText": "PA - Patrones",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "PA: "
+			"originalText": "PA - Patrones"
+		},
+		{
+			"id": "asrKIPEb",
+			"type": "text",
+			"x": 86.22069157740293,
+			"y": -193.68340406717664,
+			"width": 53.41996765136719,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1260783189,
+			"version": 6,
+			"versionNonce": 710611643,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695051859416,
+			"link": null,
+			"locked": false,
+			"text": "PL - ",
+			"rawText": "PL - ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "PL - "
 		}
 	],
 	"appState": {
@@ -736,10 +772,10 @@ PA:  ^cDkB86Ra
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 738.850888871949,
-		"scrollY": 683.0805352368557,
+		"scrollX": 1278.1017488272391,
+		"scrollY": 992.7421696928957,
 		"zoom": {
-			"value": 0.920018042623997
+			"value": 0.694117440243181
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
