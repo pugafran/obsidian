@@ -78,8 +78,8 @@ CATRATAMIENTOS ^9puQPUT0
 
 GabrielPuga.xlsx
 
-01 - Preferencias
-02- FechaCumple ^JDHkI3JY
+Categoría
+Código ^JDHkI3JY
 
 
 # Embedded files
@@ -2559,8 +2559,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 1105,
-			"versionNonce": 1272046645,
+			"version": 1108,
+			"versionNonce": 1711148501,
 			"isDeleted": false,
 			"id": "-ZKnSz1LaxMznFzsEDzNx",
 			"fillStyle": "hachure",
@@ -2569,8 +2569,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -56.360893355236385,
-			"y": 657.4562022329978,
+			"x": -56.659606590530416,
+			"y": 657.1437022329978,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 119,
@@ -2596,7 +2596,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"id": "JDHkI3JY"
 				}
 			],
-			"updated": 1695058753477,
+			"updated": 1695058961834,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2608,8 +2608,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1740,
-			"versionNonce": 1163967739,
+			"version": 1822,
+			"versionNonce": 1813071413,
 			"isDeleted": false,
 			"id": "JDHkI3JY",
 			"fillStyle": "hachure",
@@ -2618,27 +2618,27 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -32.96547709547076,
-			"y": 697.7562022329978,
+			"x": -31.58248867060854,
+			"y": 697.4437022329978,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 72.20916748046875,
+			"width": 68.84576416015625,
 			"height": 38.4,
 			"seed": 1046184027,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058753477,
+			"updated": 1695058971164,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.588872858792135,
 			"fontFamily": 1,
-			"text": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple",
-			"rawText": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple",
+			"text": "GabrielPuga.xlsx\n\nCategoría\nCódigo",
+			"rawText": "GabrielPuga.xlsx\n\nCategoría\nCódigo",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "-ZKnSz1LaxMznFzsEDzNx",
-			"originalText": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple"
+			"originalText": "GabrielPuga.xlsx\n\nCategoría\nCódigo"
 		}
 	],
 	"appState": {
