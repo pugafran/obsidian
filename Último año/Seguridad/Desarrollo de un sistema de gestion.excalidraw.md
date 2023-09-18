@@ -88,7 +88,7 @@ descripcion.docx ^ZWNMc9pg
 
 04 - Documentar tratamientos ^YK4UpHOY
 
-04 - Documentar tratamientos ^0CjbkHHx
+0 - Documentar tratamientos ^0CjbkHHx
 
 
 # Embedded files
@@ -3049,8 +3049,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 24884571,
+			"version": 210,
+			"versionNonce": 862802363,
 			"isDeleted": false,
 			"id": "0CjbkHHx",
 			"fillStyle": "hachure",
@@ -3059,27 +3059,27 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -434.1301732840042,
-			"y": 954.3679669388802,
+			"x": -162.40682769576892,
+			"y": 852.0701728212332,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 307.479736328125,
+			"width": 294.67974853515625,
 			"height": 24,
 			"seed": 1433116379,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695059391268,
+			"updated": 1695059397480,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "04 - Documentar tratamientos",
-			"rawText": "04 - Documentar tratamientos",
+			"text": "0 - Documentar tratamientos",
+			"rawText": "0 - Documentar tratamientos",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "04 - Documentar tratamientos"
+			"originalText": "0 - Documentar tratamientos"
 		}
 	],
 	"appState": {
