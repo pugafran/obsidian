@@ -33,6 +33,9 @@ SGDPD ^Eiba5H48
 SeleccionPDP
 2023-09-17.pdf ^ZuiJFTqt
 
+ContratoPDP
+2023-09-17.pdf ^Bhk2UeKT
+
 
 # Embedded files
 9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
@@ -318,8 +321,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "WBddx1j2JvHWJW1VU0aJq",
 			"type": "image",
-			"x": 89.892578125,
-			"y": 170.591796875,
+			"x": -503.658203125,
+			"y": 621.818359375,
 			"width": 209.71484375,
 			"height": 209.71484375,
 			"angle": 0,
@@ -333,8 +336,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1308818069,
-			"version": 155,
-			"versionNonce": 1692385077,
+			"version": 213,
+			"versionNonce": 852940309,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -342,7 +345,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"id": "ZuiJFTqt"
 				}
 			],
-			"updated": 1695057281097,
+			"updated": 1695057293455,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -355,8 +358,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "ZuiJFTqt",
 			"type": "text",
-			"x": 134.74549102783203,
-			"y": 257.44921875,
+			"x": -458.80529022216797,
+			"y": 708.67578125,
 			"width": 120.00901794433594,
 			"height": 36,
 			"angle": 0,
@@ -370,11 +373,11 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1299004949,
-			"version": 375,
-			"versionNonce": 394964795,
+			"version": 433,
+			"versionNonce": 725156283,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695057281097,
+			"updated": 1695057293455,
 			"link": null,
 			"locked": false,
 			"text": "SeleccionPDP\n2023-09-17.pdf",
@@ -385,6 +388,77 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"verticalAlign": "middle",
 			"containerId": "WBddx1j2JvHWJW1VU0aJq",
 			"originalText": "SeleccionPDP\n2023-09-17.pdf"
+		},
+		{
+			"type": "image",
+			"version": 277,
+			"versionNonce": 1618643221,
+			"isDeleted": false,
+			"id": "UjPNlyMh9a1DOcTUQzUzk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -299.75,
+			"y": 620.6015625,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 210,
+			"height": 210,
+			"seed": 835129947,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Bhk2UeKT"
+				}
+			],
+			"updated": 1695057319205,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb1c0c65607f1aa2313500ca2c0a83e6a148e28a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 505,
+			"versionNonce": 1629355707,
+			"isDeleted": false,
+			"id": "Bhk2UeKT",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -254.75450897216797,
+			"y": 707.6015625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 120.00901794433594,
+			"height": 36,
+			"seed": 2142115029,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695057319205,
+			"link": null,
+			"locked": false,
+			"fontSize": 15.913533366533864,
+			"fontFamily": 1,
+			"text": "ContratoPDP\n2023-09-17.pdf",
+			"rawText": "ContratoPDP\n2023-09-17.pdf",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "UjPNlyMh9a1DOcTUQzUzk",
+			"originalText": "ContratoPDP\n2023-09-17.pdf"
 		}
 	],
 	"appState": {
@@ -402,8 +476,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 739,
-		"scrollY": 274.3203125,
+		"scrollX": 883,
+		"scrollY": -79.6796875,
 		"zoom": {
 			"value": 1
 		},
