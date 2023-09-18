@@ -57,6 +57,7 @@ DPD
 TRATAMIENTOS ^wSPmVPeq
 
 GabrielPuga.xlsx
+
 01 - Preferencias
 02- FechaCumple ^fbqGtF7i
 
@@ -1593,8 +1594,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 1101,
-			"versionNonce": 1529964949,
+			"version": 1103,
+			"versionNonce": 460660123,
 			"isDeleted": false,
 			"id": "tPXIa3XAF0yLbCbhKIP3S",
 			"fillStyle": "hachure",
@@ -1604,7 +1605,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -568.1669595317094,
-			"y": 553.3799154682915,
+			"y": 553.2420478212327,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 119,
@@ -1624,9 +1625,13 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				{
 					"id": "4_IEbtpZZY0XnSkhozlfG",
 					"type": "arrow"
+				},
+				{
+					"id": "ajHBR2k46RmUpuOF65wKP",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695058601297,
+			"updated": 1695058657222,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1638,8 +1643,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1736,
-			"versionNonce": 975398459,
+			"version": 1739,
+			"versionNonce": 1891430587,
 			"isDeleted": false,
 			"id": "fbqGtF7i",
 			"fillStyle": "hachure",
@@ -1649,26 +1654,26 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -544.7715432719438,
-			"y": 598.4799154682916,
+			"y": 593.5420478212327,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 72.20916748046875,
-			"height": 28.799999999999997,
+			"height": 38.4,
 			"seed": 378898805,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058601297,
+			"updated": 1695058604397,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.588872858792135,
 			"fontFamily": 1,
-			"text": "GabrielPuga.xlsx\n01 - Preferencias\n02- FechaCumple",
-			"rawText": "GabrielPuga.xlsx\n01 - Preferencias\n02- FechaCumple",
+			"text": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple",
+			"rawText": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "tPXIa3XAF0yLbCbhKIP3S",
-			"originalText": "GabrielPuga.xlsx\n01 - Preferencias\n02- FechaCumple"
+			"originalText": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple"
 		},
 		{
 			"type": "image",
@@ -1973,10 +1978,10 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "4_IEbtpZZY0XnSkhozlfG",
 			"type": "arrow",
-			"x": -511.61426268401203,
+			"x": -511.62519345640266,
 			"y": 521.9212058842965,
-			"width": 1.4665553419563366,
-			"height": 23.70320071436913,
+			"width": 1.4510400726130115,
+			"height": 23.266619832016318,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1990,11 +1995,11 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				"type": 2
 			},
 			"seed": 889514037,
-			"version": 74,
-			"versionNonce": 1720340891,
+			"version": 78,
+			"versionNonce": 1332508117,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695058601297,
+			"updated": 1695058605756,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2003,8 +2008,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					0
 				],
 				[
-					-1.4665553419563366,
-					23.70320071436913
+					-1.4510400726130115,
+					23.266619832016318
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2292,8 +2297,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "7oHNVBPw",
 			"type": "text",
-			"x": -706.272658061121,
-			"y": 725.1914963506443,
+			"x": -1388.7726580611206,
+			"y": 563.0453566447619,
 			"width": 676.1795043945312,
 			"height": 48,
 			"angle": 0,
@@ -2307,11 +2312,16 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 652275803,
-			"version": 150,
-			"versionNonce": 1140283541,
+			"version": 447,
+			"versionNonce": 1251439867,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695058583735,
+			"boundElements": [
+				{
+					"id": "ajHBR2k46RmUpuOF65wKP",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695058657222,
 			"link": null,
 			"locked": false,
 			"text": "Hay un excel con todos los tratamientos que hizo el responsable\ny luego carpetas asociadas a cada tratamiento con documentación.",
@@ -2322,6 +2332,61 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Hay un excel con todos los tratamientos que hizo el responsable\ny luego carpetas asociadas a cada tratamiento con documentación."
+		},
+		{
+			"id": "ajHBR2k46RmUpuOF65wKP",
+			"type": "arrow",
+			"x": -1057.9224742375882,
+			"y": 622.7788125271151,
+			"width": 480.12867647058806,
+			"height": 38.12040441176475,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 252788667,
+			"version": 412,
+			"versionNonce": 970994901,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695058666588,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					83.87408088235281,
+					29.02573529411768
+				],
+				[
+					480.12867647058806,
+					-9.094669117647072
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "7oHNVBPw",
+				"focus": 0.2711963636769794,
+				"gap": 11.733455882353155
+			},
+			"endBinding": {
+				"elementId": "tPXIa3XAF0yLbCbhKIP3S",
+				"focus": 0.08751425709843154,
+				"gap": 9.626838235290734
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -2339,8 +2404,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1327.4491286493562,
-		"scrollY": 119.09159188464972,
+		"scrollX": 1525.0961874728823,
+		"scrollY": -151.4966434094681,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
