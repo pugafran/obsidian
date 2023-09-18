@@ -76,6 +76,11 @@ y luego carpetas asociadas a cada tratamiento con documentación. ^7oHNVBPw
 
 CATRATAMIENTOS ^9puQPUT0
 
+GabrielPuga.xlsx
+
+01 - Preferencias
+02- FechaCumple ^JDHkI3JY
+
 
 # Embedded files
 9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
@@ -2396,8 +2401,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "image",
-			"version": 1139,
-			"versionNonce": 1600491413,
+			"version": 1331,
+			"versionNonce": 1358634997,
 			"isDeleted": false,
 			"id": "iF8EJ7Q31wT6R3n_sFcAx",
 			"fillStyle": "hachure",
@@ -2406,8 +2411,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -459.0061139434696,
-			"y": 851.0380037035856,
+			"x": -74.53460659052848,
+			"y": 445.60142282123263,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 141,
@@ -2457,7 +2462,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1695058702797,
+			"updated": 1695058733436,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2469,8 +2474,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		},
 		{
 			"type": "text",
-			"version": 1368,
-			"versionNonce": 1596760123,
+			"version": 1560,
+			"versionNonce": 666813915,
 			"isDeleted": false,
 			"id": "9puQPUT0",
 			"fillStyle": "hachure",
@@ -2479,8 +2484,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -449.4922208160282,
-			"y": 914.3380037035855,
+			"x": -65.02071346308708,
+			"y": 508.9014228212326,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 121.97221374511719,
@@ -2489,7 +2494,7 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695058702797,
+			"updated": 1695058733436,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.621922909634772,
@@ -2504,10 +2509,10 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		{
 			"id": "AzfSHEfarcaKbxx0ulLE7",
 			"type": "arrow",
-			"x": -419.0381136491991,
-			"y": 333.0867169388799,
-			"width": 22.608011322343202,
-			"height": 509.5634191176469,
+			"x": -329.7957314975921,
+			"y": 332.3145911287246,
+			"width": 246.87325726000483,
+			"height": 144.36759150610152,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -2521,11 +2526,11 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 				"type": 2
 			},
 			"seed": 1952352955,
-			"version": 356,
-			"versionNonce": 314761435,
+			"version": 740,
+			"versionNonce": 2101301883,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695058702798,
+			"updated": 1695058733436,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2534,8 +2539,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 					0
 				],
 				[
-					22.608011322343202,
-					509.5634191176469
+					246.87325726000483,
+					144.36759150610152
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2551,6 +2556,89 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"type": "image",
+			"version": 1105,
+			"versionNonce": 1272046645,
+			"isDeleted": false,
+			"id": "-ZKnSz1LaxMznFzsEDzNx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -56.360893355236385,
+			"y": 657.4562022329978,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 119,
+			"height": 119,
+			"seed": 1872035189,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "3YxJqJgXQRBvQ7y1d5YGB",
+					"type": "arrow"
+				},
+				{
+					"id": "4_IEbtpZZY0XnSkhozlfG",
+					"type": "arrow"
+				},
+				{
+					"id": "ajHBR2k46RmUpuOF65wKP",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "JDHkI3JY"
+				}
+			],
+			"updated": 1695058753477,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "bb1c0c65607f1aa2313500ca2c0a83e6a148e28a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 1740,
+			"versionNonce": 1163967739,
+			"isDeleted": false,
+			"id": "JDHkI3JY",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -32.96547709547076,
+			"y": 697.7562022329978,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 72.20916748046875,
+			"height": 38.4,
+			"seed": 1046184027,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695058753477,
+			"link": null,
+			"locked": false,
+			"fontSize": 8.588872858792135,
+			"fontFamily": 1,
+			"text": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple",
+			"rawText": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "-ZKnSz1LaxMznFzsEDzNx",
+			"originalText": "GabrielPuga.xlsx\n\n01 - Preferencias\n02- FechaCumple"
 		}
 	],
 	"appState": {
@@ -2568,8 +2656,8 @@ bb1c0c65607f1aa2313500ca2c0a83e6a148e28a: [[Pasted Image 20230918191434_682.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 595.684422767001,
-		"scrollY": 144.9739448258256,
+		"scrollX": 781.5667757081775,
+		"scrollY": 22.621003649354982,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
