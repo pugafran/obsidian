@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
+                "file": "Último año/Planning.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+                "file": "Último año/Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+                "file": "Último año/Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md"
+                "file": "Último año/Planning.md"
               }
             }
           },
@@ -163,8 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5962ec52fdf69434",
+  "active": "f8df62e508e6f0db",
   "lastOpenFiles": [
+    "Pasted Image 20230918173744_534.png",
+    "Último año/Exámenes.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
@@ -179,7 +181,6 @@
     "Distribuidos/Arquitectura descentralizada.md",
     "Último año/Seguridad",
     "Último año/Servicios/Untitled.md",
-    "Último año/Exámenes.md",
     "Último año/Web/Intro.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Pasted Image 20230914154044_877.png",
@@ -202,7 +203,6 @@
     "Sistemas Operativos/Opcional.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "CPM",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
