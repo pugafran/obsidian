@@ -25,6 +25,12 @@ Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrT
 13 - Descripción de las medidas de seguridad aplicadas
 14 - Auto-verificación del cumplimiento del RGPD ^3y8GZ4Yf
 
+DPD ^gco0lOcg
+
+
+# Embedded files
+9df9574a7b84e23f36f059e308cc196b3b8f8b41: [[Pasted Image 20230918191128_156.png]]
+
 %%
 # Drawing
 ```json
@@ -100,6 +106,111 @@ Desarrollo de un sistema de Gestión de la Protección de Datos Personales ^vXrT
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "01 - Delegado de protección de datos\n02 - Registro de tratamientos \n03 - Registro de categorías de tratamientos\n04 - Documentar los tratamientos\n05 - Legitimidad y proporcionalidad del tratamiento\n06 - Información de los interesados\n07 - Derechos de los interesados\n08 - Contrato entre responsable y encargado\n09 - Transferencias internacionales\n10 - Brechas de datos personales\n11 - Estimación de la necesidad de un análisis de riesgos\n12 - Realización de un análisis de riesgos básico o una EIPD\n13 - Descripción de las medidas de seguridad aplicadas\n14 - Auto-verificación del cumplimiento del RGPD"
+		},
+		{
+			"id": "PKpYdfIlVFW1F20BJqD8a",
+			"type": "image",
+			"x": 276.8984375,
+			"y": -262.546875,
+			"width": 143.3046875,
+			"height": 143.3046875,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 523131989,
+			"version": 135,
+			"versionNonce": 865440213,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "gco0lOcg"
+				}
+			],
+			"updated": 1695057099871,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "9df9574a7b84e23f36f059e308cc196b3b8f8b41",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "gco0lOcg",
+			"type": "text",
+			"x": 334.1809310913086,
+			"y": -198.09453125,
+			"width": 28.739700317382812,
+			"height": 14.399999999999999,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 570900571,
+			"version": 203,
+			"versionNonce": 990809909,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695057099871,
+			"link": null,
+			"locked": false,
+			"text": "DPD",
+			"rawText": "DPD",
+			"fontSize": 12.942202669902908,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "PKpYdfIlVFW1F20BJqD8a",
+			"originalText": "DPD"
+		},
+		{
+			"id": "P3ybgUVv",
+			"type": "text",
+			"x": 266.0234375,
+			"y": -185.56640625,
+			"width": 44.41996765136719,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1982321915,
+			"version": 51,
+			"versionNonce": 1227759509,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1695057091671,
+			"link": null,
+			"locked": false,
+			"text": "DPD",
+			"rawText": "DPD",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "DPD"
 		}
 	],
 	"appState": {
