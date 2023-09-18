@@ -386,7 +386,7 @@ Seguridad ^OsgRtaFo
 		{
 			"id": "ecZaX04eFyYrmv_v4dkJn",
 			"type": "line",
-			"x": -196.135571627608,
+			"x": -196.35607466362808,
 			"y": -201.2270097239017,
 			"width": 403.79084996114193,
 			"height": 500.5063267600715,
@@ -403,11 +403,11 @@ Seguridad ^OsgRtaFo
 				"type": 2
 			},
 			"seed": 2101014325,
-			"version": 120,
-			"versionNonce": 1667514235,
+			"version": 121,
+			"versionNonce": 1369569275,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695051586050,
+			"updated": 1695051625201,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -509,6 +509,178 @@ Seguridad ^OsgRtaFo
 				[
 					403.79084996114193,
 					500.5063267600715
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 581,
+			"versionNonce": 1122130171,
+			"isDeleted": false,
+			"id": "uJfzwpLMr6rHDUelnNClG",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -220.01942999314934,
+			"y": -567.3395171239256,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"width": 439.79686184289426,
+			"height": 456.3488155467337,
+			"seed": 194369845,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695051642127,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					439.79686184289426,
+					-456.3488155467337
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 775,
+			"versionNonce": 446861883,
+			"isDeleted": false,
+			"id": "ulp-f_JbWdcS7Vlr8XABw",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1019.2501163038168,
+			"y": 259.11059934214853,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"width": 439.79686184289426,
+			"height": 456.3488155467337,
+			"seed": 365430837,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695051648775,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					439.79686184289426,
+					-456.3488155467337
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1058,
+			"versionNonce": 1615335963,
+			"isDeleted": false,
+			"id": "bsbAX-KYB97H-jCqkN4yv",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1249.065379157127,
+			"y": -379.2235960035641,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"width": 608.2967463681459,
+			"height": 3.755664613505303,
+			"seed": 1144193781,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695051669885,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					608.2967463681459,
+					3.755664613505303
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1155,
+			"versionNonce": 1431986683,
+			"isDeleted": false,
+			"id": "ecWx7X1zdTQ4PY4BsmttJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -128.13202994522882,
+			"y": -368.9955044712673,
+			"strokeColor": "#ff004c",
+			"backgroundColor": "transparent",
+			"width": 608.2967463681459,
+			"height": 3.755664613505303,
+			"seed": 1536722779,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695051677168,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					608.2967463681459,
+					3.755664613505303
 				]
 			]
 		}
