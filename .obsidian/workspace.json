@@ -11,11 +11,9 @@
             "id": "67d454bd79b0649b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Último año/Web/Qué son los servlets.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Web/Qué son los servlets.md",
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Web/Qué son los servlets.md",
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Web/Qué son los servlets.md"
+                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
               }
             }
           },
@@ -167,8 +165,8 @@
   },
   "active": "67d454bd79b0649b",
   "lastOpenFiles": [
-    "Último año/Web/Qué son los beans.md",
     "Último año/Web/Qué son los servlets.md",
+    "Último año/Web/Qué son los beans.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Pasted Image 20230918191434_682.png",
