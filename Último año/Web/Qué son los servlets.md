@@ -13,3 +13,7 @@ Al trabajar con Servlets tenemos una solución técnica que nos facilita la ge
 • En el cliente se crea una cookie con el identificador de la sesión  
 • En cada petición, el cliente incluye su identificador de sesión
 
+Los dos método más importantes, que nos permiten gestionar la inforamción guardada en la sesión son:
+
+• setAttribute para registrar un atributo o modificar su valor 
+• getAttribute para recuparar su valor
