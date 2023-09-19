@@ -17,3 +17,5 @@ Los dos método más importantes, que nos permiten gestionar la inforamción 
 
 • setAttribute para registrar un atributo o modificar su valor 
 • getAttribute para recuparar su valor
+
+Contexto en servlets
