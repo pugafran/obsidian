@@ -11,9 +11,11 @@
             "id": "67d454bd79b0649b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
+                "file": "Último año/Web/Qué son los beans.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+                "file": "Último año/Web/Qué son los beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+                "file": "Último año/Web/Qué son los beans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md"
+                "file": "Último año/Web/Qué son los beans.md"
               }
             }
           },
@@ -165,6 +167,8 @@
   },
   "active": "67d454bd79b0649b",
   "lastOpenFiles": [
+    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+    "Último año/Web/Qué son los beans.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Pasted Image 20230918191434_682.png",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
@@ -173,7 +177,6 @@
     "Pasted Image 20230918173744_534.png",
     "Último año/Exámenes.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
     "Distribuidos/Metas de los sistemas distribuidos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
