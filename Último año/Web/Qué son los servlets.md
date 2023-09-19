@@ -19,3 +19,9 @@ Los dos método más importantes, que nos permiten gestionar la inforamción 
 • getAttribute para recuparar su valor
 
 Contexto en servlets
+
+Es común a todos los Servlets, nos permite compartir información y objetos entre los distintos usuarios.  
+Se accede con el objeto ServletContext. Sus dos métodos más importantes son:
+
+• setAttribute para registrar un atributo o modificar su valor 
+• getAttribute para recuparar su valor
