@@ -23,12 +23,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md"
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a24782b2d22a9aa3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md"
+                "file": "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md"
               }
             }
           },
@@ -174,9 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f0f37daa9efbe72",
+  "active": "a24782b2d22a9aa3",
   "lastOpenFiles": [
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
@@ -215,7 +226,6 @@
     "Último año/Web",
     "Último año/GTI",
     "Último año/Untitled.md",
-    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Último año",
     "CPM",
     "imagenes/Pasted Image 20230413103629_974.png",
