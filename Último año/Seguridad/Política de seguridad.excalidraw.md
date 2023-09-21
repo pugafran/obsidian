@@ -44,9 +44,12 @@ internacionales ^6wUkKM0W
 
 CAE EN EL EXAMEN ^LLpZ30SF
 
+Hay que saber las partes de una política ^fcW3P2uM
+
 
 # Embedded files
 cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]]
+e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]]
 
 %%
 # Drawing
@@ -498,6 +501,72 @@ cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]
 			"originalText": "CAE EN EL EXAMEN"
 		},
 		{
+			"id": "s1-3v49EHthDOtYuXcsBB",
+			"type": "image",
+			"x": -510.05859375,
+			"y": 615.28125,
+			"width": 682.03125,
+			"height": 485,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 543136245,
+			"version": 65,
+			"versionNonce": 1433519387,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1695304897342,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "fcW3P2uM",
+			"type": "text",
+			"x": -259,
+			"y": 1118.7421875,
+			"width": 413.11968994140625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1333669077,
+			"version": 42,
+			"versionNonce": 576899963,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695304905443,
+			"link": null,
+			"locked": false,
+			"text": "Hay que saber las partes de una política",
+			"rawText": "Hay que saber las partes de una política",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Hay que saber las partes de una política"
+		},
+		{
 			"id": "jvQsz6RI",
 			"type": "text",
 			"x": 972.95703125,
@@ -632,6 +701,40 @@ cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": ""
+		},
+		{
+			"id": "uMTvBS1O",
+			"type": "text",
+			"x": -174.04296875,
+			"y": 845.78125,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 351472763,
+			"version": 2,
+			"versionNonce": 1196224021,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1695304897343,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "s1-3v49EHthDOtYuXcsBB",
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -649,8 +752,8 @@ cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -459,
-		"scrollY": 7.7421875,
+		"scrollX": 617,
+		"scrollY": -406.2578125,
 		"zoom": {
 			"value": 1
 		},
