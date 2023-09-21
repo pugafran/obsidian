@@ -15,11 +15,15 @@ Estandar 27000
 
 Estandar 27001
 (Incluye requisitos a cumplir)
-(Incluye objetivos de control y controles, Anexo A, son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)
+(Incluye objetivos de control y controles, Anexo A: son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)
 (Es el único estandar certificable) ^qcL6P7y9
 
 Estandar 27002
-(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantiz) ^BDBNNn3K
+(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantizar el anexo A del 27001)
+(centrado en controles) ^BDBNNn3K
+
+Estandar 27003
+(Guía para implementar un SGSI centrado en los procesos) ^iWhYLT4E
 
 
 # Embedded files
@@ -168,8 +172,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 117,
-			"versionNonce": 882720597,
+			"version": 118,
+			"versionNonce": 482669659,
 			"isDeleted": false,
 			"id": "grPOGK7tEsHMXCMaiQkoE",
 			"fillStyle": "hachure",
@@ -179,7 +183,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -289.21875,
-			"y": 402.69140625,
+			"y": 402.55859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -195,14 +199,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "qcL6P7y9"
 				}
 			],
-			"updated": 1695302323541,
+			"updated": 1695302423330,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 439,
-			"versionNonce": 1582877819,
+			"version": 442,
+			"versionNonce": 1064425883,
 			"isDeleted": false,
 			"id": "qcL6P7y9",
 			"fillStyle": "hachure",
@@ -212,7 +216,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -283.4286193847656,
-			"y": 407.69140625,
+			"y": 407.55859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 339.41973876953125,
@@ -221,22 +225,22 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302323541,
+			"updated": 1695302426419,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y \ncontroles, Anexo A, son los que \nhay que checkear si tenemos \ncumplidos dentro del sistema de \ngestión de seguridad de la \ninformación o no)\n(Es el único estandar certificable)",
-			"rawText": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y controles, Anexo A, son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)\n(Es el único estandar certificable)",
+			"text": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y \ncontroles, Anexo A: son los que \nhay que checkear si tenemos \ncumplidos dentro del sistema de \ngestión de seguridad de la \ninformación o no)\n(Es el único estandar certificable)",
+			"rawText": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y controles, Anexo A: son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)\n(Es el único estandar certificable)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "grPOGK7tEsHMXCMaiQkoE",
-			"originalText": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y controles, Anexo A, son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)\n(Es el único estandar certificable)"
+			"originalText": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y controles, Anexo A: son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)\n(Es el único estandar certificable)"
 		},
 		{
 			"type": "rectangle",
-			"version": 98,
-			"versionNonce": 1212211803,
+			"version": 99,
+			"versionNonce": 1110695989,
 			"isDeleted": false,
 			"id": "QyAJbXOY084BtXpn6qnOm",
 			"fillStyle": "hachure",
@@ -246,7 +250,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -292.2421875,
-			"y": 640.5859375,
+			"y": 640.71484375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -262,14 +266,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "BDBNNn3K"
 				}
 			],
-			"updated": 1695302328057,
+			"updated": 1695302484346,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 441678267,
+			"version": 316,
+			"versionNonce": 1290479835,
 			"isDeleted": false,
 			"id": "BDBNNn3K",
 			"fillStyle": "hachure",
@@ -278,27 +282,94 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -273.7220764160156,
-			"y": 698.5859375,
+			"x": -285.0820617675781,
+			"y": 674.71484375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 313.95977783203125,
-			"height": 96,
+			"width": 336.67974853515625,
+			"height": 144,
 			"seed": 190524949,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302381773,
+			"updated": 1695302490590,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Estandar 27002\n(Guía de buenas prácticas, 93 \ncontroles de seguridad \nrecomendados para garantiz)",
-			"rawText": "Estandar 27002\n(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantiz)",
+			"text": "Estandar 27002\n(Guía de buenas prácticas, 93 \ncontroles de seguridad \nrecomendados para garantizar el \nanexo A del 27001)\n(centrado en controles)",
+			"rawText": "Estandar 27002\n(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantizar el anexo A del 27001)\n(centrado en controles)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "QyAJbXOY084BtXpn6qnOm",
-			"originalText": "Estandar 27002\n(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantiz)"
+			"originalText": "Estandar 27002\n(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantizar el anexo A del 27001)\n(centrado en controles)"
+		},
+		{
+			"type": "rectangle",
+			"version": 96,
+			"versionNonce": 679745243,
+			"isDeleted": false,
+			"id": "84mHs-CkK6VSEpvIcFiWb",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -298.89453125,
+			"y": 865.46875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 160853723,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "iWhYLT4E"
+				}
+			],
+			"updated": 1695302451526,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 240,
+			"versionNonce": 1837646939,
+			"isDeleted": false,
+			"id": "iWhYLT4E",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -288.9844207763672,
+			"y": 935.46875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 331.1797790527344,
+			"height": 72,
+			"seed": 1416675413,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302480502,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27003\n(Guía para implementar un SGSI \ncentrado en los procesos)",
+			"rawText": "Estandar 27003\n(Guía para implementar un SGSI centrado en los procesos)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "84mHs-CkK6VSEpvIcFiWb",
+			"originalText": "Estandar 27003\n(Guía para implementar un SGSI centrado en los procesos)"
 		}
 	],
 	"appState": {
