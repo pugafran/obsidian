@@ -23,7 +23,11 @@ Estandar 27002
 (centrado en controles) ^BDBNNn3K
 
 Estandar 27003
-(Guía para implementar un SGSI centrado en los procesos) ^iWhYLT4E
+(Guía para implementar un SGSI centrado en los procesos)
+En los anexos incluye un aspecto de marco de desarollo de politicas ^iWhYLT4E
+
+Estandar 27000
+(Terminología e introducción) ^6FYeahLE
 
 
 # Embedded files
@@ -339,8 +343,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "text",
-			"version": 240,
-			"versionNonce": 1837646939,
+			"version": 347,
+			"versionNonce": 754359259,
 			"isDeleted": false,
 			"id": "iWhYLT4E",
 			"fillStyle": "hachure",
@@ -349,27 +353,94 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -288.9844207763672,
-			"y": 935.46875,
+			"x": -293.88438415527344,
+			"y": 911.46875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 331.1797790527344,
-			"height": 72,
+			"width": 340.9797058105469,
+			"height": 120,
 			"seed": 1416675413,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302480502,
+			"updated": 1695302524631,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Estandar 27003\n(Guía para implementar un SGSI \ncentrado en los procesos)",
-			"rawText": "Estandar 27003\n(Guía para implementar un SGSI centrado en los procesos)",
+			"text": "Estandar 27003\n(Guía para implementar un SGSI \ncentrado en los procesos)\nEn los anexos incluye un aspecto \nde marco de desarollo de politicas",
+			"rawText": "Estandar 27003\n(Guía para implementar un SGSI centrado en los procesos)\nEn los anexos incluye un aspecto de marco de desarollo de politicas",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "84mHs-CkK6VSEpvIcFiWb",
-			"originalText": "Estandar 27003\n(Guía para implementar un SGSI centrado en los procesos)"
+			"originalText": "Estandar 27003\n(Guía para implementar un SGSI centrado en los procesos)\nEn los anexos incluye un aspecto de marco de desarollo de politicas"
+		},
+		{
+			"type": "rectangle",
+			"version": 34,
+			"versionNonce": 905467483,
+			"isDeleted": false,
+			"id": "HXT-Fo2qQsPFxevsp6ntS",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -284.5,
+			"y": 1083.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 637509915,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "6FYeahLE"
+				}
+			],
+			"updated": 1695302528476,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 1904330613,
+			"isDeleted": false,
+			"id": "6FYeahLE",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -247.68988037109375,
+			"y": 1165.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 277.3797607421875,
+			"height": 48,
+			"seed": 1947914773,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302528476,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27000\n(Terminología e introducción)",
+			"rawText": "Estandar 27000\n(Terminología e introducción)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "HXT-Fo2qQsPFxevsp6ntS",
+			"originalText": "Estandar 27000\n(Terminología e introducción)"
 		}
 	],
 	"appState": {
@@ -387,8 +458,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 721,
-		"scrollY": -260.2578125,
+		"scrollX": 745,
+		"scrollY": -534.2578125,
 		"zoom": {
 			"value": 1
 		},
