@@ -32,7 +32,12 @@ Las normas son una colección de requisitos que tienen que cumplir sistemas o pr
 Las pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para 
 alcanzar las mejores prácticas que sea posible.
 
-Los procedimientos  ^u8KX4s0a
+Los procedimientos son una secuencia obligatoria de acciones detalladas paso a paso que son necesarias para 
+completar con éxito una tarea. ^u8KX4s0a
+
+
+# Embedded files
+cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]]
 
 %%
 # Drawing
@@ -149,8 +154,8 @@ Los procedimientos  ^u8KX4s0a
 			"type": "text",
 			"x": -505.1328125,
 			"y": 353.609375,
-			"width": 1082.6590576171875,
-			"height": 216,
+			"width": 1114.899169921875,
+			"height": 240,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -162,21 +167,53 @@ Los procedimientos  ^u8KX4s0a
 			"groupIds": [],
 			"roundness": null,
 			"seed": 295446651,
-			"version": 420,
-			"versionNonce": 1091894235,
+			"version": 427,
+			"versionNonce": 1204465877,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695304274750,
+			"updated": 1695304287254,
 			"link": null,
 			"locked": false,
-			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos ",
-			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos ",
+			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos son una secuencia obligatoria de acciones detalladas paso a paso que son necesarias para \ncompletar con éxito una tarea.",
+			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos son una secuencia obligatoria de acciones detalladas paso a paso que son necesarias para \ncompletar con éxito una tarea.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos "
+			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos son una secuencia obligatoria de acciones detalladas paso a paso que son necesarias para \ncompletar con éxito una tarea."
+		},
+		{
+			"id": "Qn9C1mwkRxf05Ywane-88",
+			"type": "image",
+			"x": 612.8178772228034,
+			"y": 148.09765625,
+			"width": 730.5439330543933,
+			"height": 485,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 176888731,
+			"version": 102,
+			"versionNonce": 1800330107,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695304335564,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "cbaefaa211d0eea5c77ff96d2780e4fdfff0081a",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"id": "tyZWrp0p",
@@ -228,8 +265,8 @@ Los procedimientos  ^u8KX4s0a
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 717,
-		"scrollY": 83.7421875,
+		"scrollX": 291,
+		"scrollY": 117.7421875,
 		"zoom": {
 			"value": 1
 		},
