@@ -50,9 +50,12 @@ PDCA = PLAN DO CHECK ACT
 
 Parte interesada (La gente que gestiona la empresa) ^DHUWVWPa
 
+Realiza ^mRvxaB6W
+
 
 # Embedded files
 c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]]
+d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]]
 
 %%
 # Drawing
@@ -752,16 +755,20 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 				"type": 3
 			},
 			"seed": 971418709,
-			"version": 24,
-			"versionNonce": 1222973435,
+			"version": 25,
+			"versionNonce": 981109589,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "DHUWVWPa"
+				},
+				{
+					"id": "dGXQb8oPJW92EQEkZOzcH",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695302966358,
+			"updated": 1695302982870,
 			"link": null,
 			"locked": false
 		},
@@ -798,6 +805,133 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"verticalAlign": "middle",
 			"containerId": "hpamyw11SaFTLcBSYELy6",
 			"originalText": "Parte interesada (La gente que gestiona la empresa)"
+		},
+		{
+			"id": "dGXQb8oPJW92EQEkZOzcH",
+			"type": "arrow",
+			"x": 421.359375,
+			"y": 472.80078125,
+			"width": 190.93359375,
+			"height": 0.0625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1972681013,
+			"version": 104,
+			"versionNonce": 1068225941,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "mRvxaB6W"
+				}
+			],
+			"updated": 1695303028272,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					190.93359375,
+					0.0625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "hpamyw11SaFTLcBSYELy6",
+				"focus": -0.1895847309496788,
+				"gap": 13.94921875
+			},
+			"endBinding": {
+				"elementId": "8bXHfiDQ9Lr9LOQgZ6MIq",
+				"focus": -0.020383588260238318,
+				"gap": 4.793506419447567
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "mRvxaB6W",
+			"type": "text",
+			"x": 480.6961975097656,
+			"y": 460.83203125,
+			"width": 72.25994873046875,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1891531035,
+			"version": 10,
+			"versionNonce": 2145937467,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695302987974,
+			"link": null,
+			"locked": false,
+			"text": "Realiza",
+			"rawText": "Realiza",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "dGXQb8oPJW92EQEkZOzcH",
+			"originalText": "Realiza"
+		},
+		{
+			"id": "8bXHfiDQ9Lr9LOQgZ6MIq",
+			"type": "image",
+			"x": 617.0864751694476,
+			"y": 326.453125,
+			"width": 431.11313868613126,
+			"height": 287.10937499999994,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 928814005,
+			"version": 151,
+			"versionNonce": 1104525883,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "dGXQb8oPJW92EQEkZOzcH",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695303028272,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"id": "RZrNFhpr",
@@ -849,8 +983,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 165,
-		"scrollY": 173.7421875,
+		"scrollX": -41,
+		"scrollY": 171.7421875,
 		"zoom": {
 			"value": 1
 		},
