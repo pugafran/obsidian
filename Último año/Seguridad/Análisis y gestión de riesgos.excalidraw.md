@@ -41,7 +41,10 @@ Fase 4 ^65tM1GFo
 
 Acciones a realizar ^W2ZIr3Kw
 
-Valoración de las amenazas ^ov0WHb09
+Medidas organizativas
+Medidas de seguridad física ^ov0WHb09
+
+Medidas de seguridad lógica ^BqTpB8td
 
 %%
 # Drawing
@@ -720,8 +723,8 @@ Valoración de las amenazas ^ov0WHb09
 		},
 		{
 			"type": "text",
-			"version": 397,
-			"versionNonce": 1919161525,
+			"version": 400,
+			"versionNonce": 859881429,
 			"isDeleted": false,
 			"id": "65tM1GFo",
 			"fillStyle": "hachure",
@@ -747,9 +750,13 @@ Valoración de las amenazas ^ov0WHb09
 				{
 					"id": "tuYd1btoJSmqpbKD5RQIL",
 					"type": "arrow"
+				},
+				{
+					"id": "8ErmIvKUhxntbJ4tZq6VF",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695307551379,
+			"updated": 1695307653109,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -900,8 +907,8 @@ Valoración de las amenazas ^ov0WHb09
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 1829252987,
+			"version": 296,
+			"versionNonce": 711083003,
 			"isDeleted": false,
 			"id": "ov0WHb09",
 			"fillStyle": "hachure",
@@ -910,27 +917,117 @@ Valoración de las amenazas ^ov0WHb09
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -124.3378661319706,
-			"y": 596.66015625,
+			"x": -124.4589598819706,
+			"y": 596.46875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 273.8398132324219,
-			"height": 24,
+			"width": 276.79974365234375,
+			"height": 48,
 			"seed": 1359012059,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695307549149,
+			"updated": 1695307633361,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Valoración de las amenazas",
-			"rawText": "Valoración de las amenazas",
+			"text": "Medidas organizativas\nMedidas de seguridad física",
+			"rawText": "Medidas organizativas\nMedidas de seguridad física",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Valoración de las amenazas"
+			"originalText": "Medidas organizativas\nMedidas de seguridad física"
+		},
+		{
+			"id": "8ErmIvKUhxntbJ4tZq6VF",
+			"type": "arrow",
+			"x": -223.6484375,
+			"y": 568.1875,
+			"width": 94.50390625,
+			"height": 137.83984375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1997409435,
+			"version": 208,
+			"versionNonce": 958659893,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695307653109,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					94.50390625,
+					137.83984375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "65tM1GFo",
+				"focus": -1.031921514429695,
+				"gap": 11.818505938341787
+			},
+			"endBinding": {
+				"elementId": "BqTpB8td",
+				"focus": -1.0155907760587919,
+				"gap": 7.90625
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "BqTpB8td",
+			"type": "text",
+			"x": -121.23828125,
+			"y": 690.23046875,
+			"width": 276.29974365234375,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1298385563,
+			"version": 41,
+			"versionNonce": 917533371,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "8ErmIvKUhxntbJ4tZq6VF",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307650577,
+			"link": null,
+			"locked": false,
+			"text": "Medidas de seguridad lógica",
+			"rawText": "Medidas de seguridad lógica",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Medidas de seguridad lógica"
 		}
 	],
 	"appState": {
