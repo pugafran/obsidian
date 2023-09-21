@@ -37,7 +37,12 @@ Estandar 27006
 (Especifica requisitos para acreditar a los organismos que auditan y certifcian SGSIs, pero no es un estandar de acreditacion en si mismo) ^9hnLJdlN
 
 Estandar 27007
-(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011 a partir ) ^CuoWYPh1
+(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011, en este caso con la 27007 ^CuoWYPh1
+
+Todo esto puede
+caer en el examen, 
+enumerarlos y 
+explicarlos. ^bBHdiXz4
 
 
 # Embedded files
@@ -621,8 +626,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "text",
-			"version": 414,
-			"versionNonce": 395798683,
+			"version": 538,
+			"versionNonce": 1002171227,
 			"isDeleted": false,
 			"id": "CuoWYPh1",
 			"fillStyle": "hachure",
@@ -631,27 +636,61 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -313.32208251953125,
+			"x": -311.98207092285156,
 			"y": 1832.16015625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 340.6597900390625,
+			"width": 337.9797668457031,
 			"height": 168,
 			"seed": 1662002709,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302801823,
+			"updated": 1695302836648,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Estandar 27007\n(Una guía de auditoría de los \ncontroles seleccionados en la \nimplementaciond e un SGSI, hay un\nestandar unico para gestionar \ntodos los SGSI que es el 19011 a \npartir )",
-			"rawText": "Estandar 27007\n(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011 a partir )",
+			"text": "Estandar 27007\n(Una guía de auditoría de los \ncontroles seleccionados en la \nimplementaciond e un SGSI, hay un\nestandar unico para gestionar \ntodos los SGSI que es el 19011, \nen este caso con la 27007",
+			"rawText": "Estandar 27007\n(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011, en este caso con la 27007",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "NLfwuZNCrUiJ2QHf4rt5a",
-			"originalText": "Estandar 27007\n(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011 a partir )"
+			"originalText": "Estandar 27007\n(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011, en este caso con la 27007"
+		},
+		{
+			"id": "bBHdiXz4",
+			"type": "text",
+			"x": -604,
+			"y": 1396.7421875,
+			"width": 192.9998779296875,
+			"height": 96,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 184617269,
+			"version": 110,
+			"versionNonce": 1086185051,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695302889652,
+			"link": null,
+			"locked": false,
+			"text": "Todo esto puede\ncaer en el examen, \nenumerarlos y \nexplicarlos.",
+			"rawText": "Todo esto puede\ncaer en el examen, \nenumerarlos y \nexplicarlos.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Todo esto puede\ncaer en el examen, \nenumerarlos y \nexplicarlos."
 		}
 	],
 	"appState": {
