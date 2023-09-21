@@ -24,7 +24,12 @@ Política general de seguridad de la información
     * Política de seguridad de los recursos humanos
     * Política de seguridad física y del entorno. ^nqp2o7wx
 
- ^u8KX4s0a
+Hay que saber diferenciar normas de pautas/directrices y procedimientos
+
+
+Las pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente ^u8KX4s0a
+
+Ej: Norma interna de u ^tyZWrp0p
 
 %%
 # Drawing
@@ -141,8 +146,8 @@ Política general de seguridad de la información
 			"type": "text",
 			"x": -505,
 			"y": 353.7421875,
-			"width": 10,
-			"height": 24,
+			"width": 1086.01904296875,
+			"height": 96,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -154,21 +159,55 @@ Política general de seguridad de la información
 			"groupIds": [],
 			"roundness": null,
 			"seed": 295446651,
-			"version": 1,
-			"versionNonce": 0,
+			"version": 218,
+			"versionNonce": 871230773,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695304068599,
+			"updated": 1695304103145,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente",
+			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": ""
+			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente"
+		},
+		{
+			"id": "tyZWrp0p",
+			"type": "text",
+			"x": -490,
+			"y": 500.7421875,
+			"width": 224.35984802246094,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1191306229,
+			"version": 58,
+			"versionNonce": 1728256859,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695304128867,
+			"link": null,
+			"locked": false,
+			"text": "Ej: Norma interna de u",
+			"rawText": "Ej: Norma interna de u",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Ej: Norma interna de u"
 		}
 	],
 	"appState": {
@@ -186,8 +225,8 @@ Política general de seguridad de la información
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 667,
-		"scrollY": 485.7421875,
+		"scrollX": 717,
+		"scrollY": 83.7421875,
 		"zoom": {
 			"value": 1
 		},
