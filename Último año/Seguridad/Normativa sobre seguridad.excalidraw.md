@@ -44,6 +44,12 @@ caer en el examen,
 enumerarlos y 
 explicarlos. ^bBHdiXz4
 
+PDCA = PLAN DO CHECK ACT
+
+ ^uTrfFYSU
+
+Parte interesada (La gente que gestiona la empresa) ^DHUWVWPa
+
 
 # Embedded files
 c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]]
@@ -691,6 +697,141 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Todo esto puede\ncaer en el examen, \nenumerarlos y \nexplicarlos."
+		},
+		{
+			"id": "uTrfFYSU",
+			"type": "text",
+			"x": 304,
+			"y": 208.7421875,
+			"width": 303.079833984375,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 328439701,
+			"version": 35,
+			"versionNonce": 561173237,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695302937833,
+			"link": null,
+			"locked": false,
+			"text": "PDCA = PLAN DO CHECK ACT\n\n",
+			"rawText": "PDCA = PLAN DO CHECK ACT\n\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "PDCA = PLAN DO CHECK ACT\n\n"
+		},
+		{
+			"id": "hpamyw11SaFTLcBSYELy6",
+			"type": "rectangle",
+			"x": 241.41015625,
+			"y": 309.0703125,
+			"width": 166,
+			"height": 404,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 971418709,
+			"version": 24,
+			"versionNonce": 1222973435,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "DHUWVWPa"
+				}
+			],
+			"updated": 1695302966358,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "DHUWVWPa",
+			"type": "text",
+			"x": 250.3902130126953,
+			"y": 451.0703125,
+			"width": 148.03988647460938,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1962043227,
+			"version": 64,
+			"versionNonce": 1510947675,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695302963615,
+			"link": null,
+			"locked": false,
+			"text": "Parte \ninteresada (La\ngente que \ngestiona la \nempresa)",
+			"rawText": "Parte interesada (La gente que gestiona la empresa)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "hpamyw11SaFTLcBSYELy6",
+			"originalText": "Parte interesada (La gente que gestiona la empresa)"
+		},
+		{
+			"id": "RZrNFhpr",
+			"type": "text",
+			"x": 316,
+			"y": 416.7421875,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2134815323,
+			"version": 12,
+			"versionNonce": 185847733,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1695302950802,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -708,8 +849,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 771,
-		"scrollY": -1048.2578125,
+		"scrollX": 165,
+		"scrollY": 173.7421875,
 		"zoom": {
 			"value": 1
 		},
