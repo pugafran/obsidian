@@ -71,6 +71,11 @@ Clasificación de las medidas de seguridad ^SAIia92j
 
 Proceso de selección de medidas ^yuc74S3E
 
+Determinar el “nivel de riesgo residual” ^tHWBTKMd
+
+Reevaluación
+Considerar la externalización ^wxhC7fso
+
 %%
 # Drawing
 ```json
@@ -1698,8 +1703,8 @@ Proceso de selección de medidas ^yuc74S3E
 		},
 		{
 			"type": "text",
-			"version": 808,
-			"versionNonce": 925203221,
+			"version": 810,
+			"versionNonce": 373328277,
 			"isDeleted": false,
 			"id": "gtth8yaz",
 			"fillStyle": "hachure",
@@ -1725,9 +1730,17 @@ Proceso de selección de medidas ^yuc74S3E
 				{
 					"id": "jCn3JiaOw4QZdppT9xa70",
 					"type": "arrow"
+				},
+				{
+					"id": "JLga4rvuU5eRTjqUcyXRg",
+					"type": "arrow"
+				},
+				{
+					"id": "trlvwkoHnikBhvacEIYjO",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695307913775,
+			"updated": 1695308012940,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1909,6 +1922,186 @@ Proceso de selección de medidas ^yuc74S3E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Proceso de selección de medidas"
+		},
+		{
+			"id": "tHWBTKMd",
+			"type": "text",
+			"x": -121.67578125,
+			"y": 1502.80078125,
+			"width": 386.5996398925781,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 435982939,
+			"version": 28,
+			"versionNonce": 1308250549,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "JLga4rvuU5eRTjqUcyXRg",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307965173,
+			"link": null,
+			"locked": false,
+			"text": "Determinar el “nivel de riesgo residual”",
+			"rawText": "Determinar el “nivel de riesgo residual”",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Determinar el “nivel de riesgo residual”"
+		},
+		{
+			"id": "JLga4rvuU5eRTjqUcyXRg",
+			"type": "arrow",
+			"x": -218.3515625,
+			"y": 1407.921875,
+			"width": 84.15625,
+			"height": 103.45703125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1868565525,
+			"version": 77,
+			"versionNonce": 831731579,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695307965173,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					84.15625,
+					103.45703125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "gtth8yaz",
+				"focus": -0.9488261138290646,
+				"gap": 12.148599322130849
+			},
+			"endBinding": {
+				"elementId": "tHWBTKMd",
+				"focus": -0.9998755893137241,
+				"gap": 12.51953125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "wxhC7fso",
+			"type": "text",
+			"x": -127.6953125,
+			"y": 1552.515625,
+			"width": 284.95977783203125,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1134504053,
+			"version": 103,
+			"versionNonce": 1157926645,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "trlvwkoHnikBhvacEIYjO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695308012940,
+			"link": null,
+			"locked": false,
+			"text": "Reevaluación\nConsiderar la externalización",
+			"rawText": "Reevaluación\nConsiderar la externalización",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Reevaluación\nConsiderar la externalización"
+		},
+		{
+			"id": "trlvwkoHnikBhvacEIYjO",
+			"type": "arrow",
+			"x": -222.47265625,
+			"y": 1412.234375,
+			"width": 86.41015625,
+			"height": 152.95703125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1038441883,
+			"version": 66,
+			"versionNonce": 1393968699,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695308012940,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					86.41015625,
+					152.95703125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "gtth8yaz",
+				"focus": -0.895392585234271,
+				"gap": 8.027505572130849
+			},
+			"endBinding": {
+				"elementId": "wxhC7fso",
+				"focus": -0.9257325862178389,
+				"gap": 8.3671875
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "Oq7E0f2K",
