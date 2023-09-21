@@ -44,7 +44,20 @@ Acciones a realizar ^W2ZIr3Kw
 Medidas organizativas
 Medidas de seguridad física ^ov0WHb09
 
-Medidas de seguridad lógica ^BqTpB8td
+Medidas de seguridad lógica
+Medidas legales ^BqTpB8td
+
+Fase 5 ^BOAuLKyh
+
+Identificación de vulnerabilidades ^sPdv4aQR
+
+Valoración de vulnerabilidades ^xGfbVyci
+
+Fase 5 ^rrlfq6Cd
+
+Identificación de vulnerabilidades ^8Uu8YZTe
+
+Valoración de vulnerabilidades ^4eSAYEu1
 
 %%
 # Drawing
@@ -72,11 +85,11 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1355191413,
-			"version": 47,
-			"versionNonce": 1412897499,
+			"version": 48,
+			"versionNonce": 1886429077,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307383234,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"text": "Fases del análisis:\n\n1  Identificación de objetivos y restricciones\n2 Inventariado y valoración de activos\n3 Identificación y valoración de las amenazas\n4 Identificación de las medidas de seguridad existentes\n5 Identificación y valoración de vulnerabilidades\n6 Determinar el impacto\n7 Determinar el riesgo\n8 Identificación y selección de las medidas de protección",
@@ -106,8 +119,8 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 868174331,
-			"version": 127,
-			"versionNonce": 1916794555,
+			"version": 128,
+			"versionNonce": 68849723,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -119,7 +132,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307418768,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"text": "Fase 1",
@@ -151,11 +164,11 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"seed": 519946075,
-			"version": 46,
-			"versionNonce": 428526101,
+			"version": 47,
+			"versionNonce": 1287775477,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307413584,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -198,11 +211,11 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"seed": 1446166389,
-			"version": 79,
-			"versionNonce": 186978581,
+			"version": 80,
+			"versionNonce": 1148375259,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307418768,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -243,11 +256,11 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 535400405,
-			"version": 43,
-			"versionNonce": 128286901,
+			"version": 44,
+			"versionNonce": 226721365,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307429729,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"text": "Identificación de objetivos",
@@ -277,11 +290,11 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 682948027,
-			"version": 207,
-			"versionNonce": 1359368565,
+			"version": 208,
+			"versionNonce": 490339707,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307444103,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"text": "Identificación de restricciones",
@@ -295,8 +308,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 198,
-			"versionNonce": 771591291,
+			"version": 199,
+			"versionNonce": 1770711989,
 			"isDeleted": false,
 			"id": "rgZsq2JL",
 			"fillStyle": "hachure",
@@ -324,7 +337,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307453582,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -338,8 +351,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "arrow",
-			"version": 216,
-			"versionNonce": 1301182043,
+			"version": 217,
+			"versionNonce": 2041746971,
 			"isDeleted": false,
 			"id": "oNlEJpZdlroQcKzbkWb_u",
 			"fillStyle": "hachure",
@@ -360,7 +373,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307487078,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -389,8 +402,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "arrow",
-			"version": 150,
-			"versionNonce": 1764508955,
+			"version": 151,
+			"versionNonce": 553495829,
 			"isDeleted": false,
 			"id": "qLAVYVqSN3izZ8lz4BVHf",
 			"fillStyle": "hachure",
@@ -411,7 +424,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307453582,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -452,8 +465,8 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 160293749,
-			"version": 92,
-			"versionNonce": 1696392635,
+			"version": 93,
+			"versionNonce": 953096891,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -461,7 +474,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307487078,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"text": "Relación de los principales tipos de activos",
@@ -491,11 +504,11 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 516223739,
-			"version": 101,
-			"versionNonce": 2040437627,
+			"version": 102,
+			"versionNonce": 1397834357,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307511306,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"text": "Valoración de activos",
@@ -509,8 +522,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 887768693,
+			"version": 311,
+			"versionNonce": 926026587,
 			"isDeleted": false,
 			"id": "y3CXQkCJ",
 			"fillStyle": "hachure",
@@ -538,7 +551,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307520362,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -552,8 +565,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "arrow",
-			"version": 337,
-			"versionNonce": 1367139317,
+			"version": 338,
+			"versionNonce": 357247957,
 			"isDeleted": false,
 			"id": "ZeY_0vG8q1IlTL0Wxr1k6",
 			"fillStyle": "hachure",
@@ -574,7 +587,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307532228,
+			"updated": 1695307667159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -603,8 +616,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "arrow",
-			"version": 264,
-			"versionNonce": 873440251,
+			"version": 265,
+			"versionNonce": 422438907,
 			"isDeleted": false,
 			"id": "McA_zaE2xWQjJmFXZGifB",
 			"fillStyle": "hachure",
@@ -625,7 +638,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307520363,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -650,8 +663,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 202,
-			"versionNonce": 2019524245,
+			"version": 203,
+			"versionNonce": 1191242037,
 			"isDeleted": false,
 			"id": "uXMquYEm",
 			"fillStyle": "hachure",
@@ -675,7 +688,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307532227,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -689,8 +702,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 1186745979,
+			"version": 211,
+			"versionNonce": 1422209179,
 			"isDeleted": false,
 			"id": "z83mY0hc",
 			"fillStyle": "hachure",
@@ -709,7 +722,7 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695307540036,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -723,8 +736,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 859881429,
+			"version": 401,
+			"versionNonce": 702020245,
 			"isDeleted": false,
 			"id": "65tM1GFo",
 			"fillStyle": "hachure",
@@ -756,7 +769,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307653109,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -770,8 +783,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "arrow",
-			"version": 437,
-			"versionNonce": 1319913717,
+			"version": 438,
+			"versionNonce": 2074764603,
 			"isDeleted": false,
 			"id": "92IAT9uzJRKKUsOzmhLcs",
 			"fillStyle": "hachure",
@@ -792,7 +805,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307581807,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -821,8 +834,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "arrow",
-			"version": 353,
-			"versionNonce": 207888827,
+			"version": 354,
+			"versionNonce": 914743285,
 			"isDeleted": false,
 			"id": "tuYd1btoJSmqpbKD5RQIL",
 			"fillStyle": "hachure",
@@ -843,7 +856,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307551380,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -868,8 +881,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 286,
-			"versionNonce": 1490518933,
+			"version": 287,
+			"versionNonce": 1161823707,
 			"isDeleted": false,
 			"id": "W2ZIr3Kw",
 			"fillStyle": "hachure",
@@ -893,7 +906,7 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307581807,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -907,8 +920,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		},
 		{
 			"type": "text",
-			"version": 296,
-			"versionNonce": 711083003,
+			"version": 297,
+			"versionNonce": 856693077,
 			"isDeleted": false,
 			"id": "ov0WHb09",
 			"fillStyle": "hachure",
@@ -927,7 +940,7 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695307633361,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -943,9 +956,9 @@ Medidas de seguridad lógica ^BqTpB8td
 			"id": "8ErmIvKUhxntbJ4tZq6VF",
 			"type": "arrow",
 			"x": -223.6484375,
-			"y": 568.1875,
+			"y": 570.5084012529587,
 			"width": 94.50390625,
-			"height": 137.83984375,
+			"height": 158.4514196838012,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -959,11 +972,11 @@ Medidas de seguridad lógica ^BqTpB8td
 				"type": 2
 			},
 			"seed": 1997409435,
-			"version": 208,
-			"versionNonce": 958659893,
+			"version": 214,
+			"versionNonce": 1486393979,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307653109,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -973,7 +986,7 @@ Medidas de seguridad lógica ^BqTpB8td
 				],
 				[
 					94.50390625,
-					137.83984375
+					158.4514196838012
 				]
 			],
 			"lastCommittedPoint": null,
@@ -996,7 +1009,7 @@ Medidas de seguridad lógica ^BqTpB8td
 			"x": -121.23828125,
 			"y": 690.23046875,
 			"width": 276.29974365234375,
-			"height": 24,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1008,8 +1021,8 @@ Medidas de seguridad lógica ^BqTpB8td
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1298385563,
-			"version": 41,
-			"versionNonce": 917533371,
+			"version": 44,
+			"versionNonce": 147596981,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1017,17 +1030,445 @@ Medidas de seguridad lógica ^BqTpB8td
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307650577,
+			"updated": 1695307667160,
 			"link": null,
 			"locked": false,
-			"text": "Medidas de seguridad lógica",
-			"rawText": "Medidas de seguridad lógica",
+			"text": "Medidas de seguridad lógica\nMedidas legales",
+			"rawText": "Medidas de seguridad lógica\nMedidas legales",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Medidas de seguridad lógica"
+			"originalText": "Medidas de seguridad lógica\nMedidas legales"
+		},
+		{
+			"type": "text",
+			"version": 378,
+			"versionNonce": 329317851,
+			"isDeleted": false,
+			"id": "BOAuLKyh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -312.2853333309199,
+			"y": 844.0189222058561,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 68.97994995117188,
+			"height": 24,
+			"seed": 1514933141,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "1SBGE9OWsCvLzujOZQsCb",
+					"type": "arrow"
+				},
+				{
+					"id": "vlFsqWn26fJ1PiFAzfCue",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307674231,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Fase 5",
+			"rawText": "Fase 5",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Fase 5"
+		},
+		{
+			"type": "arrow",
+			"version": 418,
+			"versionNonce": 1359096885,
+			"isDeleted": false,
+			"id": "1SBGE9OWsCvLzujOZQsCb",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -232.19690864830272,
+			"y": 857.8809607384153,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 90.64595031738281,
+			"height": 30.823968571583237,
+			"seed": 1224467515,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307688788,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "BOAuLKyh",
+				"focus": 0.7345303053467525,
+				"gap": 11.108474731445312
+			},
+			"endBinding": {
+				"elementId": "sPdv4aQR",
+				"focus": 0.8729775163285809,
+				"gap": 8.392779698949312
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					90.64595031738281,
+					-30.823968571583237
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 334,
+			"versionNonce": 1820700341,
+			"isDeleted": false,
+			"id": "vlFsqWn26fJ1PiFAzfCue",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -230.74378364830272,
+			"y": 859.4177078297248,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 81.31782531738281,
+			"height": 43.24965187613131,
+			"seed": 1078972661,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307674232,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "BOAuLKyh",
+				"focus": -0.7126999534951339,
+				"gap": 12.561599731445312
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					81.31782531738281,
+					43.24965187613131
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 267,
+			"versionNonce": 1056493269,
+			"isDeleted": false,
+			"id": "sPdv4aQR",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -133.1581786319706,
+			"y": 815.67578125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 324.25970458984375,
+			"height": 24,
+			"seed": 168404187,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "1SBGE9OWsCvLzujOZQsCb",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307688788,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Identificación de vulnerabilidades",
+			"rawText": "Identificación de vulnerabilidades",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Identificación de vulnerabilidades"
+		},
+		{
+			"type": "text",
+			"version": 274,
+			"versionNonce": 1834115829,
+			"isDeleted": false,
+			"id": "xGfbVyci",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -131.7363036319706,
+			"y": 887.609375,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 290.499755859375,
+			"height": 24,
+			"seed": 812902997,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695307694954,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Valoración de vulnerabilidades",
+			"rawText": "Valoración de vulnerabilidades",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Valoración de vulnerabilidades"
+		},
+		{
+			"type": "text",
+			"version": 449,
+			"versionNonce": 1221292501,
+			"isDeleted": false,
+			"id": "rrlfq6Cd",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -330.1895233943965,
+			"y": 1031.1693128308561,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 68.97994995117188,
+			"height": 24,
+			"seed": 1060069301,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "spgyYF-agXkZV9E-0c-Ih",
+					"type": "arrow"
+				},
+				{
+					"id": "AkmdU7E7PbUkRrmyZRrR8",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307710747,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Fase 5",
+			"rawText": "Fase 5",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Fase 5"
+		},
+		{
+			"type": "arrow",
+			"version": 490,
+			"versionNonce": 1073525947,
+			"isDeleted": false,
+			"id": "spgyYF-agXkZV9E-0c-Ih",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -250.1010987117793,
+			"y": 1045.0313513634153,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 90.64595031738281,
+			"height": 30.823968571583237,
+			"seed": 364864027,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307710747,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "rrlfq6Cd",
+				"focus": 0.7319419300740986,
+				"gap": 11.108474731445312
+			},
+			"endBinding": {
+				"elementId": "8Uu8YZTe",
+				"focus": 0.8729775163285808,
+				"gap": 8.392779698949312
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					90.64595031738281,
+					-30.823968571583237
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 405,
+			"versionNonce": 2040292699,
+			"isDeleted": false,
+			"id": "AkmdU7E7PbUkRrmyZRrR8",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -248.6479737117793,
+			"y": 1046.5680984547248,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 81.31782531738281,
+			"height": 43.24965187613131,
+			"seed": 838050069,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307710747,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "rrlfq6Cd",
+				"focus": -0.7126999534951338,
+				"gap": 12.561599731445312
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					81.31782531738281,
+					43.24965187613131
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 337,
+			"versionNonce": 1390561397,
+			"isDeleted": false,
+			"id": "8Uu8YZTe",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -151.06236869544716,
+			"y": 1002.826171875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 324.25970458984375,
+			"height": 24,
+			"seed": 1365403323,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "spgyYF-agXkZV9E-0c-Ih",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307710747,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Identificación de vulnerabilidades",
+			"rawText": "Identificación de vulnerabilidades",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Identificación de vulnerabilidades"
+		},
+		{
+			"type": "text",
+			"version": 343,
+			"versionNonce": 763720117,
+			"isDeleted": false,
+			"id": "4eSAYEu1",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -149.64049369544716,
+			"y": 1074.759765625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 290.499755859375,
+			"height": 24,
+			"seed": 963163765,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695307710746,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Valoración de vulnerabilidades",
+			"rawText": "Valoración de vulnerabilidades",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Valoración de vulnerabilidades"
 		}
 	],
 	"appState": {
@@ -1045,8 +1486,8 @@ Medidas de seguridad lógica ^BqTpB8td
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 563,
-		"scrollY": -80.2578125,
+		"scrollX": 603,
+		"scrollY": -270.2578125,
 		"zoom": {
 			"value": 1
 		},
