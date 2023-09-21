@@ -18,8 +18,8 @@ Estandar 27001
 (Incluye objetivos de control y controles, Anexo A, son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)
 (Es el único estandar certificable) ^qcL6P7y9
 
-Estandar 27000
-(Terminología e introducción) ^BDBNNn3K
+Estandar 27002
+(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantiz) ^BDBNNn3K
 
 
 # Embedded files
@@ -235,8 +235,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 34,
-			"versionNonce": 1483684443,
+			"version": 98,
+			"versionNonce": 1212211803,
 			"isDeleted": false,
 			"id": "QyAJbXOY084BtXpn6qnOm",
 			"fillStyle": "hachure",
@@ -245,8 +245,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -319.5,
-			"y": 651.7421875,
+			"x": -292.2421875,
+			"y": 640.5859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -262,14 +262,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "BDBNNn3K"
 				}
 			],
-			"updated": 1695302326129,
+			"updated": 1695302328057,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 2018943861,
+			"version": 248,
+			"versionNonce": 441678267,
 			"isDeleted": false,
 			"id": "BDBNNn3K",
 			"fillStyle": "hachure",
@@ -278,27 +278,27 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -282.68988037109375,
-			"y": 733.7421875,
+			"x": -273.7220764160156,
+			"y": 698.5859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.3797607421875,
-			"height": 48,
+			"width": 313.95977783203125,
+			"height": 96,
 			"seed": 190524949,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302326129,
+			"updated": 1695302381773,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Estandar 27000\n(Terminología e introducción)",
-			"rawText": "Estandar 27000\n(Terminología e introducción)",
+			"text": "Estandar 27002\n(Guía de buenas prácticas, 93 \ncontroles de seguridad \nrecomendados para garantiz)",
+			"rawText": "Estandar 27002\n(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantiz)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "QyAJbXOY084BtXpn6qnOm",
-			"originalText": "Estandar 27000\n(Terminología e introducción)"
+			"originalText": "Estandar 27002\n(Guía de buenas prácticas, 93 controles de seguridad recomendados para garantiz)"
 		}
 	],
 	"appState": {
