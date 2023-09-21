@@ -53,7 +53,9 @@ Determinar el responsable de cada activo
 
 
 Evaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe
-delegar. ^Nvu7bQTc
+delegar.
+
+Determinar las amenazas ^Nvu7bQTc
 
 
 # Embedded files
@@ -642,7 +644,7 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 			"x": -413.87213126535164,
 			"y": 1395.084115693457,
 			"width": 947.71923828125,
-			"height": 168,
+			"height": 216,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -654,21 +656,21 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1580437749,
-			"version": 236,
-			"versionNonce": 606019733,
+			"version": 291,
+			"versionNonce": 179233819,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695306661193,
+			"updated": 1695306736464,
 			"link": null,
 			"locked": false,
-			"text": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.",
-			"rawText": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.",
+			"text": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.\n\nDeterminar las amenazas",
+			"rawText": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.\n\nDeterminar las amenazas",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar."
+			"originalText": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.\n\nDeterminar las amenazas"
 		},
 		{
 			"id": "jvQsz6RI",
