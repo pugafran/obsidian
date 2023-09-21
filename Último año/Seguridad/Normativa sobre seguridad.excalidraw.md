@@ -36,8 +36,8 @@ Estandar 27005
 Estandar 27006
 (Especifica requisitos para acreditar a los organismos que auditan y certifcian SGSIs, pero no es un estandar de acreditacion en si mismo) ^9hnLJdlN
 
-Estandar 27000
-(Terminología e introducción) ^CuoWYPh1
+Estandar 27007
+(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011 a partir ) ^CuoWYPh1
 
 
 # Embedded files
@@ -588,8 +588,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 61,
-			"versionNonce": 1037105979,
+			"version": 146,
+			"versionNonce": 1837213787,
 			"isDeleted": false,
 			"id": "NLfwuZNCrUiJ2QHf4rt5a",
 			"fillStyle": "hachure",
@@ -598,8 +598,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -312.22265625,
-			"y": 1841.2265625,
+			"x": -318.4921875,
+			"y": 1810.16015625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -615,14 +615,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "CuoWYPh1"
 				}
 			],
-			"updated": 1695302741893,
+			"updated": 1695302743989,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 3910133,
+			"version": 414,
+			"versionNonce": 395798683,
 			"isDeleted": false,
 			"id": "CuoWYPh1",
 			"fillStyle": "hachure",
@@ -631,27 +631,27 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -275.41253662109375,
-			"y": 1923.2265625,
+			"x": -313.32208251953125,
+			"y": 1832.16015625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.3797607421875,
-			"height": 48,
+			"width": 340.6597900390625,
+			"height": 168,
 			"seed": 1662002709,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302741893,
+			"updated": 1695302801823,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Estandar 27000\n(Terminología e introducción)",
-			"rawText": "Estandar 27000\n(Terminología e introducción)",
+			"text": "Estandar 27007\n(Una guía de auditoría de los \ncontroles seleccionados en la \nimplementaciond e un SGSI, hay un\nestandar unico para gestionar \ntodos los SGSI que es el 19011 a \npartir )",
+			"rawText": "Estandar 27007\n(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011 a partir )",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "NLfwuZNCrUiJ2QHf4rt5a",
-			"originalText": "Estandar 27000\n(Terminología e introducción)"
+			"originalText": "Estandar 27007\n(Una guía de auditoría de los controles seleccionados en la implementaciond e un SGSI, hay un estandar unico para gestionar todos los SGSI que es el 19011 a partir )"
 		}
 	],
 	"appState": {
