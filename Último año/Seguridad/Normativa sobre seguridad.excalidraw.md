@@ -30,8 +30,11 @@ Estandar 27004
 (Orientada a medir la eficacia de un SGSI)
  ^6FYeahLE
 
+Estandar 27005
+(Proporciona directrices para gestionar los riesgos, no es una metodología en si sino simplemente buenas prácticas para gestionar. Hay que conocer/acordarse de las palabras: valoracion tratamiento aceptacion comunicacion monitorizacion y revision de riesgos) ^Wrw4sLA0
+
 Estandar 27000
-(Terminología e introducción) ^Wrw4sLA0
+(Terminología e introducción) ^9hnLJdlN
 
 
 # Embedded files
@@ -448,8 +451,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 34,
-			"versionNonce": 1487478485,
+			"version": 94,
+			"versionNonce": 2125556629,
 			"isDeleted": false,
 			"id": "r3HCr_qnatEdgNr98v6Dl",
 			"fillStyle": "hachure",
@@ -458,12 +461,12 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -338.5,
-			"y": 1384.7421875,
+			"x": -308.4921875,
+			"y": 1317.07421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
-			"height": 212,
+			"height": 250,
 			"seed": 1881956373,
 			"groupIds": [],
 			"roundness": {
@@ -475,14 +478,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "Wrw4sLA0"
 				}
 			],
-			"updated": 1695302570902,
+			"updated": 1695302625721,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 896821339,
+			"version": 430,
+			"versionNonce": 662894549,
 			"isDeleted": false,
 			"id": "Wrw4sLA0",
 			"fillStyle": "hachure",
@@ -491,17 +494,84 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -301.68988037109375,
-			"y": 1466.7421875,
+			"x": -302.0120544433594,
+			"y": 1322.07421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.3797607421875,
-			"height": 48,
+			"width": 338.03973388671875,
+			"height": 240,
 			"seed": 1062803387,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302570902,
+			"updated": 1695302628084,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27005\n(Proporciona directrices para \ngestionar los riesgos, no es una \nmetodología en si sino simplemente\nbuenas prácticas para gestionar. \nHay que conocer/acordarse de las\npalabras: valoracion tratamiento \naceptacion comunicacion \nmonitorizacion y revision de \nriesgos)",
+			"rawText": "Estandar 27005\n(Proporciona directrices para gestionar los riesgos, no es una metodología en si sino simplemente buenas prácticas para gestionar. Hay que conocer/acordarse de las palabras: valoracion tratamiento aceptacion comunicacion monitorizacion y revision de riesgos)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "r3HCr_qnatEdgNr98v6Dl",
+			"originalText": "Estandar 27005\n(Proporciona directrices para gestionar los riesgos, no es una metodología en si sino simplemente buenas prácticas para gestionar. Hay que conocer/acordarse de las palabras: valoracion tratamiento aceptacion comunicacion monitorizacion y revision de riesgos)"
+		},
+		{
+			"type": "rectangle",
+			"version": 34,
+			"versionNonce": 1963058517,
+			"isDeleted": false,
+			"id": "-2uGwk03NcLTkig3ReKKa",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -454.5,
+			"y": 1538.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 294438549,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "9hnLJdlN"
+				}
+			],
+			"updated": 1695302673671,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 858749403,
+			"isDeleted": false,
+			"id": "9hnLJdlN",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -417.68988037109375,
+			"y": 1620.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 277.3797607421875,
+			"height": 48,
+			"seed": 796416315,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302673670,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -510,7 +580,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"rawText": "Estandar 27000\n(Terminología e introducción)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"containerId": "r3HCr_qnatEdgNr98v6Dl",
+			"containerId": "-2uGwk03NcLTkig3ReKKa",
 			"originalText": "Estandar 27000\n(Terminología e introducción)"
 		}
 	],
@@ -529,8 +599,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 739,
-		"scrollY": -758.2578125,
+		"scrollX": 771,
+		"scrollY": -1048.2578125,
 		"zoom": {
 			"value": 1
 		},
