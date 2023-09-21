@@ -29,7 +29,10 @@ Hay que saber diferenciar normas de pautas/directrices y procedimientos
 
 Las normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente
 
-Las pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos ^u8KX4s0a
+Las pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para 
+alcanzar las mejores prácticas que sea posible.
+
+Los procedimientos  ^u8KX4s0a
 
 %%
 # Drawing
@@ -144,10 +147,10 @@ Las pautas o directrices son colecciones de sugerencias especifcias para sistema
 		{
 			"id": "u8KX4s0a",
 			"type": "text",
-			"x": -505,
+			"x": -505.1328125,
 			"y": 353.609375,
 			"width": 1082.6590576171875,
-			"height": 144,
+			"height": 216,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -159,21 +162,21 @@ Las pautas o directrices son colecciones de sugerencias especifcias para sistema
 			"groupIds": [],
 			"roundness": null,
 			"seed": 295446651,
-			"version": 390,
-			"versionNonce": 2095197845,
+			"version": 420,
+			"versionNonce": 1091894235,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695304239078,
+			"updated": 1695304274750,
 			"link": null,
 			"locked": false,
-			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos",
-			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos",
+			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos ",
+			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos"
+			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos para \nalcanzar las mejores prácticas que sea posible.\n\nLos procedimientos "
 		},
 		{
 			"id": "tyZWrp0p",
