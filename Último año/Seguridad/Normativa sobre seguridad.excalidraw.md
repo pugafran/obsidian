@@ -26,8 +26,12 @@ Estandar 27003
 (Guía para implementar un SGSI centrado en los procesos)
 En los anexos incluye un aspecto de marco de desarollo de politicas ^iWhYLT4E
 
+Estandar 27004
+(Orientada a medir la eficacia de un SGSI)
+ ^6FYeahLE
+
 Estandar 27000
-(Terminología e introducción) ^6FYeahLE
+(Terminología e introducción) ^Wrw4sLA0
 
 
 # Embedded files
@@ -377,8 +381,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 34,
-			"versionNonce": 905467483,
+			"version": 69,
+			"versionNonce": 1817306171,
 			"isDeleted": false,
 			"id": "HXT-Fo2qQsPFxevsp6ntS",
 			"fillStyle": "hachure",
@@ -387,8 +391,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -284.5,
-			"y": 1083.7421875,
+			"x": -305.87109375,
+			"y": 1091.83203125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -404,14 +408,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "6FYeahLE"
 				}
 			],
-			"updated": 1695302528476,
+			"updated": 1695302530036,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 1904330613,
+			"version": 178,
+			"versionNonce": 1297350325,
 			"isDeleted": false,
 			"id": "6FYeahLE",
 			"fillStyle": "hachure",
@@ -420,17 +424,84 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -247.68988037109375,
-			"y": 1165.7421875,
+			"x": -297.2909698486328,
+			"y": 1149.83203125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.3797607421875,
-			"height": 48,
+			"width": 333.8397521972656,
+			"height": 96,
 			"seed": 1947914773,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302528476,
+			"updated": 1695302562271,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27004\n(Orientada a medir la eficacia de\nun SGSI)\n",
+			"rawText": "Estandar 27004\n(Orientada a medir la eficacia de un SGSI)\n",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "HXT-Fo2qQsPFxevsp6ntS",
+			"originalText": "Estandar 27004\n(Orientada a medir la eficacia de un SGSI)\n"
+		},
+		{
+			"type": "rectangle",
+			"version": 34,
+			"versionNonce": 1487478485,
+			"isDeleted": false,
+			"id": "r3HCr_qnatEdgNr98v6Dl",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -338.5,
+			"y": 1384.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 1881956373,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Wrw4sLA0"
+				}
+			],
+			"updated": 1695302570902,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 896821339,
+			"isDeleted": false,
+			"id": "Wrw4sLA0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -301.68988037109375,
+			"y": 1466.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 277.3797607421875,
+			"height": 48,
+			"seed": 1062803387,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302570902,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -439,7 +510,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"rawText": "Estandar 27000\n(Terminología e introducción)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"containerId": "HXT-Fo2qQsPFxevsp6ntS",
+			"containerId": "r3HCr_qnatEdgNr98v6Dl",
 			"originalText": "Estandar 27000\n(Terminología e introducción)"
 		}
 	],
@@ -458,8 +529,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 745,
-		"scrollY": -534.2578125,
+		"scrollX": 739,
+		"scrollY": -758.2578125,
 		"zoom": {
 			"value": 1
 		},
