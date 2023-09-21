@@ -53,11 +53,11 @@ Identificación de vulnerabilidades ^sPdv4aQR
 
 Valoración de vulnerabilidades ^xGfbVyci
 
-Fase 5 ^rrlfq6Cd
+Fase 6 ^rrlfq6Cd
 
-Identificación de vulnerabilidades ^8Uu8YZTe
+Impacto ^8Uu8YZTe
 
-Valoración de vulnerabilidades ^4eSAYEu1
+Clasificación del impacto ^4eSAYEu1
 
 %%
 # Drawing
@@ -1258,8 +1258,8 @@ Valoración de vulnerabilidades ^4eSAYEu1
 		},
 		{
 			"type": "text",
-			"version": 449,
-			"versionNonce": 1221292501,
+			"version": 606,
+			"versionNonce": 1534387861,
 			"isDeleted": false,
 			"id": "rrlfq6Cd",
 			"fillStyle": "hachure",
@@ -1268,11 +1268,11 @@ Valoración de vulnerabilidades ^4eSAYEu1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -330.1895233943965,
-			"y": 1031.1693128308561,
+			"x": -301.6348358943965,
+			"y": 1023.0247815808561,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 68.97994995117188,
+			"width": 69.41995239257812,
 			"height": 24,
 			"seed": 1060069301,
 			"groupIds": [],
@@ -1287,22 +1287,22 @@ Valoración de vulnerabilidades ^4eSAYEu1
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307710747,
+			"updated": 1695307798983,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Fase 5",
-			"rawText": "Fase 5",
+			"text": "Fase 6",
+			"rawText": "Fase 6",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Fase 5"
+			"originalText": "Fase 6"
 		},
 		{
 			"type": "arrow",
-			"version": 490,
-			"versionNonce": 1073525947,
+			"version": 974,
+			"versionNonce": 45761467,
 			"isDeleted": false,
 			"id": "spgyYF-agXkZV9E-0c-Ih",
 			"fillStyle": "hachure",
@@ -1311,29 +1311,29 @@ Valoración de vulnerabilidades ^4eSAYEu1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -250.1010987117793,
-			"y": 1045.0313513634153,
+			"x": -221.10640877037304,
+			"y": 1035.8795896964216,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 90.64595031738281,
-			"height": 30.823968571583237,
+			"width": 90.20594787597656,
+			"height": 34.63044672454191,
 			"seed": 364864027,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307710747,
+			"updated": 1695307798983,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "rrlfq6Cd",
-				"focus": 0.7319419300740986,
+				"focus": 0.7283112449462341,
 				"gap": 11.108474731445312
 			},
 			"endBinding": {
 				"elementId": "8Uu8YZTe",
-				"focus": 0.8729775163285808,
+				"focus": 0.8729775163285826,
 				"gap": 8.392779698949312
 			},
 			"lastCommittedPoint": null,
@@ -1345,15 +1345,15 @@ Valoración de vulnerabilidades ^4eSAYEu1
 					0
 				],
 				[
-					90.64595031738281,
-					-30.823968571583237
+					90.20594787597656,
+					-34.63044672454191
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 405,
-			"versionNonce": 2040292699,
+			"version": 717,
+			"versionNonce": 1338583413,
 			"isDeleted": false,
 			"id": "AkmdU7E7PbUkRrmyZRrR8",
 			"fillStyle": "hachure",
@@ -1362,24 +1362,24 @@ Valoración de vulnerabilidades ^4eSAYEu1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -248.6479737117793,
-			"y": 1046.5680984547248,
+			"x": -219.65328377037304,
+			"y": 1038.4770193491493,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 81.31782531738281,
-			"height": 43.24965187613131,
+			"width": 80.87782287597656,
+			"height": 43.086824731706855,
 			"seed": 838050069,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307710747,
+			"updated": 1695307798983,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "rrlfq6Cd",
-				"focus": -0.7126999534951338,
+				"focus": -0.712699953495132,
 				"gap": 12.561599731445312
 			},
 			"endBinding": null,
@@ -1392,15 +1392,15 @@ Valoración de vulnerabilidades ^4eSAYEu1
 					0
 				],
 				[
-					81.31782531738281,
-					43.24965187613131
+					80.87782287597656,
+					43.086824731706855
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 337,
-			"versionNonce": 1390561397,
+			"version": 498,
+			"versionNonce": 665544315,
 			"isDeleted": false,
 			"id": "8Uu8YZTe",
 			"fillStyle": "hachure",
@@ -1409,11 +1409,11 @@ Valoración de vulnerabilidades ^4eSAYEu1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -151.06236869544716,
-			"y": 1002.826171875,
+			"x": -122.50768119544716,
+			"y": 994.572265625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 324.25970458984375,
+			"width": 79.179931640625,
 			"height": 24,
 			"seed": 1365403323,
 			"groupIds": [],
@@ -1424,22 +1424,22 @@ Valoración de vulnerabilidades ^4eSAYEu1
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307710747,
+			"updated": 1695307798983,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Identificación de vulnerabilidades",
-			"rawText": "Identificación de vulnerabilidades",
+			"text": "Impacto",
+			"rawText": "Impacto",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Identificación de vulnerabilidades"
+			"originalText": "Impacto"
 		},
 		{
 			"type": "text",
-			"version": 343,
-			"versionNonce": 763720117,
+			"version": 531,
+			"versionNonce": 1678696219,
 			"isDeleted": false,
 			"id": "4eSAYEu1",
 			"fillStyle": "hachure",
@@ -1448,27 +1448,27 @@ Valoración de vulnerabilidades ^4eSAYEu1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -149.64049369544716,
-			"y": 1074.759765625,
+			"x": -121.08580619544716,
+			"y": 1066.505859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 290.499755859375,
+			"width": 239.27978515625,
 			"height": 24,
 			"seed": 963163765,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695307710746,
+			"updated": 1695307798983,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Valoración de vulnerabilidades",
-			"rawText": "Valoración de vulnerabilidades",
+			"text": "Clasificación del impacto",
+			"rawText": "Clasificación del impacto",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Valoración de vulnerabilidades"
+			"originalText": "Clasificación del impacto"
 		}
 	],
 	"appState": {
@@ -1486,8 +1486,8 @@ Valoración de vulnerabilidades ^4eSAYEu1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 603,
-		"scrollY": -270.2578125,
+		"scrollX": 933,
+		"scrollY": -272.2578125,
 		"zoom": {
 			"value": 1
 		},
