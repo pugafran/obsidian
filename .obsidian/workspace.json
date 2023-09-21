@@ -58,9 +58,19 @@
                 "file": "Último año/Seguridad/Política de seguridad.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "cdfdb173d7ef64c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Política de seguridad.excalidraw.md",
+                "file": "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Política de seguridad.excalidraw.md",
+                "file": "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Política de seguridad.excalidraw.md"
+                "file": "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md"
               }
             }
           },
@@ -206,12 +216,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee4185946bea4d6c",
+  "active": "cdfdb173d7ef64c0",
   "lastOpenFiles": [
+    "Último año/Seguridad/Política de seguridad.excalidraw.md",
+    "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Pasted Image 20230921160146_647.png",
     "Pasted Image 20230921155217_053.png",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
-    "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Pasted Image 20230921153028_616.png",
     "Pasted Image 20230921151516_479.png",
     "Último año/Seguridad/Sin título.md",
@@ -245,7 +256,6 @@
     "Pasted Image 20230914154019_827.png",
     "Último año/ED",
     "Pasted Image 20230913182409_645.png",
-    "Pasted Image 20230912173650_229.png",
     "Último año/Servicios",
     "Último año/Web",
     "Último año/GTI",
