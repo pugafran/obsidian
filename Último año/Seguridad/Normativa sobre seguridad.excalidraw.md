@@ -33,8 +33,11 @@ Estandar 27004
 Estandar 27005
 (Proporciona directrices para gestionar los riesgos, no es una metodología en si sino simplemente buenas prácticas para gestionar. Hay que conocer/acordarse de las palabras: valoracion tratamiento aceptacion comunicacion monitorizacion y revision de riesgos) ^Wrw4sLA0
 
+Estandar 27006
+(Especifica requisitos para acreditar a los organismos que auditan y certifcian SGSIs, pero no es un estandar de acreditacion en si mismo) ^9hnLJdlN
+
 Estandar 27000
-(Terminología e introducción) ^9hnLJdlN
+(Terminología e introducción) ^CuoWYPh1
 
 
 # Embedded files
@@ -518,8 +521,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 34,
-			"versionNonce": 1963058517,
+			"version": 130,
+			"versionNonce": 2083684987,
 			"isDeleted": false,
 			"id": "-2uGwk03NcLTkig3ReKKa",
 			"fillStyle": "hachure",
@@ -528,8 +531,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -454.5,
-			"y": 1538.7421875,
+			"x": -313.6953125,
+			"y": 1579.05859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -545,14 +548,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "9hnLJdlN"
 				}
 			],
-			"updated": 1695302673671,
+			"updated": 1695302676670,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 858749403,
+			"version": 315,
+			"versionNonce": 1091654779,
 			"isDeleted": false,
 			"id": "9hnLJdlN",
 			"fillStyle": "hachure",
@@ -561,17 +564,84 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -417.68988037109375,
-			"y": 1620.7421875,
+			"x": -304.8851776123047,
+			"y": 1613.05859375,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.3797607421875,
-			"height": 48,
+			"width": 333.3797302246094,
+			"height": 144,
 			"seed": 796416315,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302673670,
+			"updated": 1695302719629,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27006\n(Especifica requisitos para \nacreditar a los organismos que \nauditan y certifcian SGSIs, pero \nno es un estandar de \nacreditacion en si mismo)",
+			"rawText": "Estandar 27006\n(Especifica requisitos para acreditar a los organismos que auditan y certifcian SGSIs, pero no es un estandar de acreditacion en si mismo)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "-2uGwk03NcLTkig3ReKKa",
+			"originalText": "Estandar 27006\n(Especifica requisitos para acreditar a los organismos que auditan y certifcian SGSIs, pero no es un estandar de acreditacion en si mismo)"
+		},
+		{
+			"type": "rectangle",
+			"version": 34,
+			"versionNonce": 76857947,
+			"isDeleted": false,
+			"id": "NLfwuZNCrUiJ2QHf4rt5a",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -422.5,
+			"y": 1727.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 1988562203,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "CuoWYPh1"
+				}
+			],
+			"updated": 1695302740892,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 2125241205,
+			"isDeleted": false,
+			"id": "CuoWYPh1",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -385.68988037109375,
+			"y": 1809.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 277.3797607421875,
+			"height": 48,
+			"seed": 1662002709,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302740891,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -580,7 +650,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"rawText": "Estandar 27000\n(Terminología e introducción)",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"containerId": "-2uGwk03NcLTkig3ReKKa",
+			"containerId": "NLfwuZNCrUiJ2QHf4rt5a",
 			"originalText": "Estandar 27000\n(Terminología e introducción)"
 		}
 	],
