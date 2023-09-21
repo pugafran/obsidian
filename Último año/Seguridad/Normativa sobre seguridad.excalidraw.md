@@ -10,6 +10,12 @@ tags: [excalidraw]
 # Text Elements
 Hay que estudiárselo entero ^n5W9qRLF
 
+Estandar 27000
+(Terminología e introducción) ^jbr2OGTc
+
+Estandar 27000
+(Terminología e introducción) ^qcL6P7y9
+
 
 # Embedded files
 c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]]
@@ -87,6 +93,140 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Hay que estudiárselo entero"
+		},
+		{
+			"id": "pXjHb7Hjn8IsfjfzPIBr9",
+			"type": "rectangle",
+			"x": -287.70703125,
+			"y": 175.544921875,
+			"width": 351,
+			"height": 212,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1134760283,
+			"version": 32,
+			"versionNonce": 160030395,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "jbr2OGTc"
+				}
+			],
+			"updated": 1695302244216,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "jbr2OGTc",
+			"type": "text",
+			"x": -250.89691162109375,
+			"y": 257.544921875,
+			"width": 277.3797607421875,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 606567259,
+			"version": 60,
+			"versionNonce": 1534450203,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695302242769,
+			"link": null,
+			"locked": false,
+			"text": "Estandar 27000\n(Terminología e introducción)",
+			"rawText": "Estandar 27000\n(Terminología e introducción)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "pXjHb7Hjn8IsfjfzPIBr9",
+			"originalText": "Estandar 27000\n(Terminología e introducción)"
+		},
+		{
+			"type": "rectangle",
+			"version": 34,
+			"versionNonce": 1149040277,
+			"isDeleted": false,
+			"id": "grPOGK7tEsHMXCMaiQkoE",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -362.5,
+			"y": 403.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 2009016277,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "qcL6P7y9"
+				}
+			],
+			"updated": 1695302245488,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 1757836443,
+			"isDeleted": false,
+			"id": "qcL6P7y9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -325.68988037109375,
+			"y": 485.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 277.3797607421875,
+			"height": 48,
+			"seed": 1158130683,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302245488,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27000\n(Terminología e introducción)",
+			"rawText": "Estandar 27000\n(Terminología e introducción)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "grPOGK7tEsHMXCMaiQkoE",
+			"originalText": "Estandar 27000\n(Terminología e introducción)"
 		},
 		{
 			"id": "oAkHfZPm",
