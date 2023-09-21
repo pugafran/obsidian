@@ -19,6 +19,16 @@ Fases del análisis:
 7 Determinar el riesgo
 8 Identificación y selección de las medidas de protección ^LVCEd9Ut
 
+Fase 1.1
+
+Identificación de objetivos
+1 Identificar lo que se espera del Plan de Seguridad
+2
+3 Establecer objetivos específicos cualitativos y cuantitativos
+Analizar los objetivos estratégicos definidos en la Política de Seguridad referentes a un activo o grupo de activos
+4 También pueden definirse objetivos en relación a los niveles de Integridad, Confidencialidad y Disponibilidad necesarios
+5 Pueden identificarse fases limitando el alcance, teniendo en cuenta las restricciones identificadas ^VTlxar6K
+
 %%
 # Drawing
 ```json
@@ -60,6 +70,40 @@ Fases del análisis:
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Fases del análisis:\n\n1  Identificación de objetivos y restricciones\n2 Inventariado y valoración de activos\n3 Identificación y valoración de las amenazas\n4 Identificación de las medidas de seguridad existentes\n5 Identificación y valoración de vulnerabilidades\n6 Determinar el impacto\n7 Determinar el riesgo\n8 Identificación y selección de las medidas de protección"
+		},
+		{
+			"id": "VTlxar6K",
+			"type": "text",
+			"x": -306.890625,
+			"y": 43.94140625,
+			"width": 1185.3790283203125,
+			"height": 216,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 868174331,
+			"version": 81,
+			"versionNonce": 852821237,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695307342940,
+			"link": null,
+			"locked": false,
+			"text": "Fase 1.1\n\nIdentificación de objetivos\n1 Identificar lo que se espera del Plan de Seguridad\n2\n3 Establecer objetivos específicos cualitativos y cuantitativos\nAnalizar los objetivos estratégicos definidos en la Política de Seguridad referentes a un activo o grupo de activos\n4 También pueden definirse objetivos en relación a los niveles de Integridad, Confidencialidad y Disponibilidad necesarios\n5 Pueden identificarse fases limitando el alcance, teniendo en cuenta las restricciones identificadas",
+			"rawText": "Fase 1.1\n\nIdentificación de objetivos\n1 Identificar lo que se espera del Plan de Seguridad\n2\n3 Establecer objetivos específicos cualitativos y cuantitativos\nAnalizar los objetivos estratégicos definidos en la Política de Seguridad referentes a un activo o grupo de activos\n4 También pueden definirse objetivos en relación a los niveles de Integridad, Confidencialidad y Disponibilidad necesarios\n5 Pueden identificarse fases limitando el alcance, teniendo en cuenta las restricciones identificadas",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Fase 1.1\n\nIdentificación de objetivos\n1 Identificar lo que se espera del Plan de Seguridad\n2\n3 Establecer objetivos específicos cualitativos y cuantitativos\nAnalizar los objetivos estratégicos definidos en la Política de Seguridad referentes a un activo o grupo de activos\n4 También pueden definirse objetivos en relación a los niveles de Integridad, Confidencialidad y Disponibilidad necesarios\n5 Pueden identificarse fases limitando el alcance, teniendo en cuenta las restricciones identificadas"
 		},
 		{
 			"id": "n1YAXjpZ",
@@ -111,8 +155,8 @@ Fases del análisis:
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 667,
-		"scrollY": 485.7421875,
+		"scrollX": 635,
+		"scrollY": 497.7421875,
 		"zoom": {
 			"value": 1
 		},
