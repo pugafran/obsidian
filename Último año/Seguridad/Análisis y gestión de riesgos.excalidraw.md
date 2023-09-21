@@ -33,9 +33,15 @@ Valoración de activos ^oxNZiGv9
 
 Fase 3 ^y3CXQkCJ
 
-Relación de los principales tipos de activos ^uXMquYEm
+Identificación de las amenazas ^uXMquYEm
 
-Valoración de activos ^z83mY0hc
+Valoración de las amenazas ^z83mY0hc
+
+Fase 4 ^65tM1GFo
+
+Acciones a realizar ^W2ZIr3Kw
+
+Valoración de las amenazas ^ov0WHb09
 
 %%
 # Drawing
@@ -543,8 +549,8 @@ Valoración de activos ^z83mY0hc
 		},
 		{
 			"type": "arrow",
-			"version": 335,
-			"versionNonce": 1696837589,
+			"version": 337,
+			"versionNonce": 1367139317,
 			"isDeleted": false,
 			"id": "ZeY_0vG8q1IlTL0Wxr1k6",
 			"fillStyle": "hachure",
@@ -554,18 +560,18 @@ Valoración de activos ^z83mY0hc
 			"opacity": 100,
 			"angle": 0,
 			"x": -231.3291565731074,
-			"y": 384.3423456649092,
+			"y": 384.48955900294044,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 89.51875305175781,
-			"height": 28.965879640360527,
+			"height": 30.926081916653118,
 			"seed": 1423006331,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1695307520363,
+			"updated": 1695307532228,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -588,7 +594,7 @@ Valoración de activos ^z83mY0hc
 				],
 				[
 					89.51875305175781,
-					-28.965879640360527
+					-30.926081916653118
 				]
 			]
 		},
@@ -641,8 +647,8 @@ Valoración de activos ^z83mY0hc
 		},
 		{
 			"type": "text",
-			"version": 201,
-			"versionNonce": 15005595,
+			"version": 202,
+			"versionNonce": 2019524245,
 			"isDeleted": false,
 			"id": "uXMquYEm",
 			"fillStyle": "hachure",
@@ -655,7 +661,7 @@ Valoración de activos ^z83mY0hc
 			"y": 342.390625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 425.57958984375,
+			"width": 307.5997619628906,
 			"height": 24,
 			"seed": 1616270107,
 			"groupIds": [],
@@ -666,22 +672,22 @@ Valoración de activos ^z83mY0hc
 					"type": "arrow"
 				}
 			],
-			"updated": 1695307518742,
+			"updated": 1695307532227,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Relación de los principales tipos de activos",
-			"rawText": "Relación de los principales tipos de activos",
+			"text": "Identificación de las amenazas",
+			"rawText": "Identificación de las amenazas",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Relación de los principales tipos de activos"
+			"originalText": "Identificación de las amenazas"
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 1043942459,
+			"version": 210,
+			"versionNonce": 1186745979,
 			"isDeleted": false,
 			"id": "z83mY0hc",
 			"fillStyle": "hachure",
@@ -694,23 +700,237 @@ Valoración de activos ^z83mY0hc
 			"y": 414.4453125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 210.579833984375,
+			"width": 273.8398132324219,
 			"height": 24,
 			"seed": 893403157,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695307518742,
+			"updated": 1695307540036,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Valoración de activos",
-			"rawText": "Valoración de activos",
+			"text": "Valoración de las amenazas",
+			"rawText": "Valoración de las amenazas",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Valoración de activos"
+			"originalText": "Valoración de las amenazas"
+		},
+		{
+			"type": "text",
+			"version": 397,
+			"versionNonce": 1919161525,
+			"isDeleted": false,
+			"id": "65tM1GFo",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -304.8868958309199,
+			"y": 552.948609705856,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 69.41995239257812,
+			"height": 24,
+			"seed": 141609883,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "92IAT9uzJRKKUsOzmhLcs",
+					"type": "arrow"
+				},
+				{
+					"id": "tuYd1btoJSmqpbKD5RQIL",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307551379,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Fase 4",
+			"rawText": "Fase 4",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Fase 4"
+		},
+		{
+			"type": "arrow",
+			"version": 437,
+			"versionNonce": 1319913717,
+			"isDeleted": false,
+			"id": "92IAT9uzJRKKUsOzmhLcs",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -224.35846870689647,
+			"y": 566.7350530068702,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 90.33876037597656,
+			"height": 33.3739909183156,
+			"seed": 210210709,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307581807,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "65tM1GFo",
+				"focus": 0.7345303053467571,
+				"gap": 11.108474731445312
+			},
+			"endBinding": {
+				"elementId": "W2ZIr3Kw",
+				"focus": 0.8729775163285809,
+				"gap": 8.392779698949312
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					90.33876037597656,
+					-33.3739909183156
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 353,
+			"versionNonce": 207888827,
+			"isDeleted": false,
+			"id": "tuYd1btoJSmqpbKD5RQIL",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -222.90534370689647,
+			"y": 568.4246806989102,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80.87782287597656,
+			"height": 43.17236650694596,
+			"seed": 220897339,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307551380,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "65tM1GFo",
+				"focus": -0.7126999534951303,
+				"gap": 12.561599731445312
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80.87782287597656,
+					43.17236650694596
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 286,
+			"versionNonce": 1490518933,
+			"isDeleted": false,
+			"id": "W2ZIr3Kw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -125.6269286319706,
+			"y": 524.30078125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 189.03985595703125,
+			"height": 24,
+			"seed": 679138549,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "92IAT9uzJRKKUsOzmhLcs",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307581807,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Acciones a realizar",
+			"rawText": "Acciones a realizar",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Acciones a realizar"
+		},
+		{
+			"type": "text",
+			"version": 291,
+			"versionNonce": 1829252987,
+			"isDeleted": false,
+			"id": "ov0WHb09",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -124.3378661319706,
+			"y": 596.66015625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 273.8398132324219,
+			"height": 24,
+			"seed": 1359012059,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695307549149,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Valoración de las amenazas",
+			"rawText": "Valoración de las amenazas",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Valoración de las amenazas"
 		}
 	],
 	"appState": {
@@ -728,8 +948,8 @@ Valoración de activos ^z83mY0hc
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 431,
-		"scrollY": 325.7421875,
+		"scrollX": 563,
+		"scrollY": -80.2578125,
 		"zoom": {
 			"value": 1
 		},
