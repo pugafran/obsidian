@@ -52,6 +52,8 @@ Parte interesada (La gente que gestiona la empresa) ^DHUWVWPa
 
 Realiza ^mRvxaB6W
 
+Obtiene gestión ^LaF6Pb1z
+
 
 # Embedded files
 c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]]
@@ -755,8 +757,8 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 				"type": 3
 			},
 			"seed": 971418709,
-			"version": 25,
-			"versionNonce": 981109589,
+			"version": 26,
+			"versionNonce": 1445737307,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -766,9 +768,13 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 				{
 					"id": "dGXQb8oPJW92EQEkZOzcH",
 					"type": "arrow"
+				},
+				{
+					"id": "UYVlebMKapdkCFwh4XhT3",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695302982870,
+			"updated": 1695303034423,
 			"link": null,
 			"locked": false
 		},
@@ -812,7 +818,7 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 			"x": 421.359375,
 			"y": 472.80078125,
 			"width": 190.93359375,
-			"height": 0.0625,
+			"height": 0.06250000000005684,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -826,8 +832,8 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 				"type": 2
 			},
 			"seed": 1972681013,
-			"version": 104,
-			"versionNonce": 1068225941,
+			"version": 106,
+			"versionNonce": 892910299,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -835,7 +841,7 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 					"id": "mRvxaB6W"
 				}
 			],
-			"updated": 1695303028272,
+			"updated": 1695303028721,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -845,19 +851,19 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 				],
 				[
 					190.93359375,
-					0.0625
+					0.06250000000005684
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "hpamyw11SaFTLcBSYELy6",
-				"focus": -0.1895847309496788,
-				"gap": 13.94921875
+				"gap": 13.94921875,
+				"focus": -0.1895847309496788
 			},
 			"endBinding": {
 				"elementId": "8bXHfiDQ9Lr9LOQgZ6MIq",
-				"focus": -0.020383588260238318,
-				"gap": 4.793506419447567
+				"gap": 4.793506419447567,
+				"focus": -0.020383588260238318
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -914,16 +920,20 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 928814005,
-			"version": 151,
-			"versionNonce": 1104525883,
+			"version": 152,
+			"versionNonce": 1978548923,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "dGXQb8oPJW92EQEkZOzcH",
 					"type": "arrow"
+				},
+				{
+					"id": "UYVlebMKapdkCFwh4XhT3",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695303028272,
+			"updated": 1695303034423,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -932,6 +942,100 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "UYVlebMKapdkCFwh4XhT3",
+			"type": "arrow",
+			"x": 839.4140625,
+			"y": 634.546875,
+			"width": 429.9453125,
+			"height": 68.33203125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 296920955,
+			"version": 241,
+			"versionNonce": 159014811,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "LaF6Pb1z"
+				}
+			],
+			"updated": 1695303052607,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-170.25390625,
+					68.33203125
+				],
+				[
+					-429.9453125,
+					2.27734375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "8bXHfiDQ9Lr9LOQgZ6MIq",
+				"focus": -0.726984322597651,
+				"gap": 20.984375
+			},
+			"endBinding": {
+				"elementId": "hpamyw11SaFTLcBSYELy6",
+				"focus": 0.46666543208028255,
+				"gap": 2.05859375
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "LaF6Pb1z",
+			"type": "text",
+			"x": 713.4805450439453,
+			"y": 724.71875,
+			"width": 149.49984741210938,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1714778389,
+			"version": 31,
+			"versionNonce": 545497909,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695303046413,
+			"link": null,
+			"locked": false,
+			"text": "Obtiene gestión",
+			"rawText": "Obtiene gestión",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "UYVlebMKapdkCFwh4XhT3",
+			"originalText": "Obtiene gestión"
 		},
 		{
 			"id": "RZrNFhpr",
@@ -983,8 +1087,8 @@ d3f914be9fe96d0fef786fdbc5fe7acb3d62ace9: [[Pasted Image 20230921153028_616.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -41,
-		"scrollY": 171.7421875,
+		"scrollX": 61,
+		"scrollY": -30.2578125,
 		"zoom": {
 			"value": 1
 		},
