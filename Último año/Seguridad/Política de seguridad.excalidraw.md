@@ -20,9 +20,11 @@ Una política no es una descripción detallada de un problema y los pasos necesa
  ^RisfUey5
 
 Política general de seguridad de la información
-    * Polótoca de gestión de activos
+    * Política de gestión de activos
     * Política de seguridad de los recursos humanos
-    * Política de seguridad  ^nqp2o7wx
+    * Política de seguridad física y del entorno. ^nqp2o7wx
+
+ ^u8KX4s0a
 
 %%
 # Drawing
@@ -118,21 +120,55 @@ Política general de seguridad de la información
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1523681045,
-			"version": 204,
-			"versionNonce": 310609883,
+			"version": 267,
+			"versionNonce": 1383672309,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695303948841,
+			"updated": 1695303967573,
 			"link": null,
 			"locked": false,
-			"text": "Política general de seguridad de la información\n    * Polótoca de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad ",
-			"rawText": "Política general de seguridad de la información\n    * Polótoca de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad ",
+			"text": "Política general de seguridad de la información\n    * Política de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad física y del entorno.",
+			"rawText": "Política general de seguridad de la información\n    * Política de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad física y del entorno.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Política general de seguridad de la información\n    * Polótoca de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad "
+			"originalText": "Política general de seguridad de la información\n    * Política de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad física y del entorno."
+		},
+		{
+			"id": "u8KX4s0a",
+			"type": "text",
+			"x": -505,
+			"y": 353.7421875,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 295446651,
+			"version": 1,
+			"versionNonce": 0,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695304068599,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
