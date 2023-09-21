@@ -15,6 +15,10 @@ Niveles de políticas de seguridad:
     * Política militar o gubernamental
     * Polítca comercial ^GWfjrx7u
 
+Una política no es una descripción detallada de un problema y los pasos necesarios para resolverlo, 
+
+ ^RisfUey5
+
 %%
 # Drawing
 ```json
@@ -56,6 +60,40 @@ Niveles de políticas de seguridad:
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Niveles de políticas de seguridad:\n\n    * Política de confidencialidad\n    * Política de integridad\n    * Política militar o gubernamental\n    * Polítca comercial"
+		},
+		{
+			"id": "RisfUey5",
+			"type": "text",
+			"x": -540.49609375,
+			"y": -29.3984375,
+			"width": 1002.4391479492188,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1547866997,
+			"version": 169,
+			"versionNonce": 729957243,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695303875732,
+			"link": null,
+			"locked": false,
+			"text": "Una política no es una descripción detallada de un problema y los pasos necesarios para resolverlo, \n\n",
+			"rawText": "Una política no es una descripción detallada de un problema y los pasos necesarios para resolverlo, \n\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Una política no es una descripción detallada de un problema y los pasos necesarios para resolverlo, \n\n"
 		}
 	],
 	"appState": {
