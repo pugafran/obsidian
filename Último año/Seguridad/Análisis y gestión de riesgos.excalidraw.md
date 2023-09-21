@@ -59,6 +59,12 @@ Impacto ^8Uu8YZTe
 
 Clasificación del impacto ^4eSAYEu1
 
+Fase 7 ^FsUS0MYZ
+
+Tipos de estimaciones del riesgo ^XGJUAPww
+
+Clasificación del impacto ^bfOoJuep
+
 %%
 # Drawing
 ```json
@@ -1469,6 +1475,220 @@ Clasificación del impacto ^4eSAYEu1
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Clasificación del impacto"
+		},
+		{
+			"type": "text",
+			"version": 727,
+			"versionNonce": 1637206709,
+			"isDeleted": false,
+			"id": "FsUS0MYZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -287.8011261775996,
+			"y": 1206.4700940808561,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 67.37995910644531,
+			"height": 24,
+			"seed": 1700654523,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "0_BLreOKrTjuAaaOWASid",
+					"type": "arrow"
+				},
+				{
+					"id": "YxHbdyt_wwa1qRSvu6_Kw",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307859809,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Fase 7",
+			"rawText": "Fase 7",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Fase 7"
+		},
+		{
+			"type": "arrow",
+			"version": 1100,
+			"versionNonce": 1596213301,
+			"isDeleted": false,
+			"id": "0_BLreOKrTjuAaaOWASid",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -209.31269233970897,
+			"y": 1219.5387732214483,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 92.24594116210938,
+			"height": 30.531182018828986,
+			"seed": 437067637,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307886050,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "FsUS0MYZ",
+				"focus": 0.728311244946233,
+				"gap": 11.108474731445312
+			},
+			"endBinding": {
+				"elementId": "XGJUAPww",
+				"focus": 0.8729775163285779,
+				"gap": 8.392779698949312
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					92.24594116210938,
+					-30.531182018828986
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 838,
+			"versionNonce": 1269533627,
+			"isDeleted": false,
+			"id": "YxHbdyt_wwa1qRSvu6_Kw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -207.85956733970897,
+			"y": 1221.569381357348,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 82.91781616210938,
+			"height": 43.43977522350812,
+			"seed": 812547675,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1695307859811,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "FsUS0MYZ",
+				"focus": -0.712699953495132,
+				"gap": 12.561599731445312
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					82.91781616210938,
+					43.43977522350812
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 617,
+			"versionNonce": 237923029,
+			"isDeleted": false,
+			"id": "XGJUAPww",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -108.67397147865029,
+			"y": 1178.017578125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 318.15966796875,
+			"height": 24,
+			"seed": 847472853,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "0_BLreOKrTjuAaaOWASid",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695307886049,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Tipos de estimaciones del riesgo",
+			"rawText": "Tipos de estimaciones del riesgo",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Tipos de estimaciones del riesgo"
+		},
+		{
+			"type": "text",
+			"version": 648,
+			"versionNonce": 1661613755,
+			"isDeleted": false,
+			"id": "bfOoJuep",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -107.25209647865029,
+			"y": 1249.951171875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 239.27978515625,
+			"height": 24,
+			"seed": 946076411,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695307857751,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Clasificación del impacto",
+			"rawText": "Clasificación del impacto",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Clasificación del impacto"
 		}
 	],
 	"appState": {
@@ -1486,8 +1706,8 @@ Clasificación del impacto ^4eSAYEu1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 933,
-		"scrollY": -272.2578125,
+		"scrollX": 587,
+		"scrollY": -428.2578125,
 		"zoom": {
 			"value": 1
 		},
