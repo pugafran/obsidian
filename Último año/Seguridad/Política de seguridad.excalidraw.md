@@ -19,6 +19,11 @@ Una política no es una descripción detallada de un problema y los pasos necesa
 
  ^RisfUey5
 
+Política general de seguridad de la información
+    * Polótoca de gestión de activos
+    * Política de seguridad de los recursos humanos
+    * Política de seguridad  ^nqp2o7wx
+
 %%
 # Drawing
 ```json
@@ -94,6 +99,40 @@ Una política no es una descripción detallada de un problema y los pasos necesa
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Una política no es una descripción detallada de un problema y los pasos necesarios para resolverlo, \n\n"
+		},
+		{
+			"id": "nqp2o7wx",
+			"type": "text",
+			"x": -435,
+			"y": 167.7421875,
+			"width": 520.1795654296875,
+			"height": 96,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1523681045,
+			"version": 204,
+			"versionNonce": 310609883,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695303948841,
+			"link": null,
+			"locked": false,
+			"text": "Política general de seguridad de la información\n    * Polótoca de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad ",
+			"rawText": "Política general de seguridad de la información\n    * Polótoca de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Política general de seguridad de la información\n    * Polótoca de gestión de activos\n    * Política de seguridad de los recursos humanos\n    * Política de seguridad "
 		}
 	],
 	"appState": {
