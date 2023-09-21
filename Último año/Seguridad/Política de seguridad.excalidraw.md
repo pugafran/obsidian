@@ -47,6 +47,14 @@ CAE EN EL EXAMEN ^LLpZ30SF
 Hay que saber las partes de una política, no hay que
 saber literal pero si en general. ^fcW3P2uM
 
+Identificar activos a proteger
+
+Determinar el responsable de cada activo
+
+
+Evaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe
+delegar. ^Nvu7bQTc
+
 
 # Embedded files
 cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]]
@@ -629,6 +637,40 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 			"endArrowhead": "arrow"
 		},
 		{
+			"id": "Nvu7bQTc",
+			"type": "text",
+			"x": -413.87213126535164,
+			"y": 1395.084115693457,
+			"width": 947.71923828125,
+			"height": 168,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1580437749,
+			"version": 236,
+			"versionNonce": 606019733,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695306661193,
+			"link": null,
+			"locked": false,
+			"text": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.",
+			"rawText": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Identificar activos a proteger\n\nDeterminar el responsable de cada activo\n\n\nEvaluar los requisitos de: confidencialidad integridad y disponibilidad de cada activo, si no sabe\ndelegar."
+		},
+		{
 			"id": "jvQsz6RI",
 			"type": "text",
 			"x": 972.95703125,
@@ -848,8 +890,8 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 804.1149569774084,
-		"scrollY": 396.96959254386314,
+		"scrollX": 1027.1108573842982,
+		"scrollY": -279.45130535703544,
 		"zoom": {
 			"value": 0.5381264847517012
 		},
