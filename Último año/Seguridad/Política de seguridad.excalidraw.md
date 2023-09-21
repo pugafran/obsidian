@@ -35,6 +35,8 @@ alcanzar las mejores prácticas que sea posible.
 Los procedimientos son una secuencia obligatoria de acciones detalladas paso a paso que son necesarias para 
 completar con éxito una tarea. ^u8KX4s0a
 
++ - ^jGLzdMPG
+
 
 # Embedded files
 cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]]
@@ -216,6 +218,88 @@ cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]
 			]
 		},
 		{
+			"id": "cSY-D1FrWtCBNdeVi3Yf7",
+			"type": "arrow",
+			"x": 728.3515625,
+			"y": 351.1640625,
+			"width": 91.57421875,
+			"height": 109.375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 298088635,
+			"version": 112,
+			"versionNonce": 167484507,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "jGLzdMPG"
+				}
+			],
+			"updated": 1695304420778,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					91.57421875,
+					109.375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "jGLzdMPG",
+			"type": "text",
+			"x": 758.778678894043,
+			"y": 393.8515625,
+			"width": 30.719985961914062,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1924735349,
+			"version": 6,
+			"versionNonce": 1261975957,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695304423293,
+			"link": null,
+			"locked": false,
+			"text": "+ -",
+			"rawText": "+ -",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "cSY-D1FrWtCBNdeVi3Yf7",
+			"originalText": "+ -"
+		},
+		{
 			"id": "tyZWrp0p",
 			"type": "text",
 			"x": -490,
@@ -265,8 +349,8 @@ cbaefaa211d0eea5c77ff96d2780e4fdfff0081a: [[Pasted Image 20230921155217_053.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 291,
-		"scrollY": 117.7421875,
+		"scrollX": -251,
+		"scrollY": -66.2578125,
 		"zoom": {
 			"value": 1
 		},
