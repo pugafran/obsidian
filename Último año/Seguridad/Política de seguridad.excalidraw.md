@@ -44,7 +44,8 @@ internacionales ^6wUkKM0W
 
 CAE EN EL EXAMEN ^LLpZ30SF
 
-Hay que saber las partes de una política ^fcW3P2uM
+Hay que saber las partes de una política, no hay que
+saber literal pero si en general. ^fcW3P2uM
 
 
 # Embedded files
@@ -400,8 +401,8 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 				"type": 2
 			},
 			"seed": 460755963,
-			"version": 113,
-			"versionNonce": 1909696277,
+			"version": 114,
+			"versionNonce": 681339067,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -409,7 +410,7 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 					"id": "JNbLb35j"
 				}
 			],
-			"updated": 1695304561735,
+			"updated": 1695304906790,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -425,8 +426,8 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "6sgd-SoOn9AKVQJH56lN7",
-				"focus": -0.5733420807352295,
-				"gap": 12.333984375
+				"gap": 12.333984375,
+				"focus": -0.5733420807352295
 			},
 			"endBinding": null,
 			"startArrowhead": null,
@@ -518,11 +519,16 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 543136245,
-			"version": 65,
-			"versionNonce": 1433519387,
+			"version": 66,
+			"versionNonce": 604385915,
 			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1695304897342,
+			"boundElements": [
+				{
+					"id": "77qiVWE6-4N45kPAfzQph",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695304915829,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -535,10 +541,10 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 		{
 			"id": "fcW3P2uM",
 			"type": "text",
-			"x": -259,
-			"y": 1118.7421875,
-			"width": 413.11968994140625,
-			"height": 24,
+			"x": -443.33203125,
+			"y": 1176.92578125,
+			"width": 534.4996337890625,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -550,21 +556,77 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1333669077,
-			"version": 42,
-			"versionNonce": 576899963,
+			"version": 321,
+			"versionNonce": 377576629,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695304905443,
+			"boundElements": [
+				{
+					"id": "77qiVWE6-4N45kPAfzQph",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695304939911,
 			"link": null,
 			"locked": false,
-			"text": "Hay que saber las partes de una política",
-			"rawText": "Hay que saber las partes de una política",
+			"text": "Hay que saber las partes de una política, no hay que\nsaber literal pero si en general.",
+			"rawText": "Hay que saber las partes de una política, no hay que\nsaber literal pero si en general.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hay que saber las partes de una política"
+			"originalText": "Hay que saber las partes de una política, no hay que\nsaber literal pero si en general."
+		},
+		{
+			"id": "77qiVWE6-4N45kPAfzQph",
+			"type": "arrow",
+			"x": -182.46730558907385,
+			"y": 1174.359375,
+			"width": 0.43483117480585065,
+			"height": 71.33984375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1405694971,
+			"version": 431,
+			"versionNonce": 670957077,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695304939911,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.43483117480585065,
+					-71.33984375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "fcW3P2uM",
+				"focus": -0.02286173943547048,
+				"gap": 2.56640625
+			},
+			"endBinding": {
+				"elementId": "s1-3v49EHthDOtYuXcsBB",
+				"focus": 0.044829863234441755,
+				"gap": 2.73828125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "jvQsz6RI",
@@ -752,8 +814,8 @@ e5b5a9d37a68f7e15abb0a6e151c9d69349ebff2: [[Pasted Image 20230921160146_647.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 617,
-		"scrollY": -406.2578125,
+		"scrollX": 699,
+		"scrollY": -380.2578125,
 		"zoom": {
 			"value": 1
 		},
