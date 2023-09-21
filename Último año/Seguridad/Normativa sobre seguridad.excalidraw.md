@@ -18,6 +18,9 @@ Estandar 27001
 (Incluye objetivos de control y controles, Anexo A, son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)
 (Es el único estandar certificable) ^qcL6P7y9
 
+Estandar 27000
+(Terminología e introducción) ^BDBNNn3K
+
 
 # Embedded files
 c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]]
@@ -165,8 +168,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 36,
-			"versionNonce": 686329269,
+			"version": 117,
+			"versionNonce": 882720597,
 			"isDeleted": false,
 			"id": "grPOGK7tEsHMXCMaiQkoE",
 			"fillStyle": "hachure",
@@ -175,8 +178,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -362.6328125,
-			"y": 403.7421875,
+			"x": -289.21875,
+			"y": 402.69140625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 351,
@@ -192,14 +195,14 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 					"id": "qcL6P7y9"
 				}
 			],
-			"updated": 1695302305393,
+			"updated": 1695302323541,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 358,
-			"versionNonce": 1542835515,
+			"version": 439,
+			"versionNonce": 1582877819,
 			"isDeleted": false,
 			"id": "qcL6P7y9",
 			"fillStyle": "hachure",
@@ -208,8 +211,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -356.8426818847656,
-			"y": 408.7421875,
+			"x": -283.4286193847656,
+			"y": 407.69140625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 339.41973876953125,
@@ -218,7 +221,7 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1695302316292,
+			"updated": 1695302323541,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -229,6 +232,73 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 			"verticalAlign": "middle",
 			"containerId": "grPOGK7tEsHMXCMaiQkoE",
 			"originalText": "Estandar 27001\n(Incluye requisitos a cumplir)\n(Incluye objetivos de control y controles, Anexo A, son los que hay que checkear si tenemos cumplidos dentro del sistema de gestión de seguridad de la información o no)\n(Es el único estandar certificable)"
+		},
+		{
+			"type": "rectangle",
+			"version": 34,
+			"versionNonce": 1483684443,
+			"isDeleted": false,
+			"id": "QyAJbXOY084BtXpn6qnOm",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -319.5,
+			"y": 651.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 212,
+			"seed": 1814005019,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "BDBNNn3K"
+				}
+			],
+			"updated": 1695302326129,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 2018943861,
+			"isDeleted": false,
+			"id": "BDBNNn3K",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -282.68988037109375,
+			"y": 733.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 277.3797607421875,
+			"height": 48,
+			"seed": 190524949,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1695302326129,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Estandar 27000\n(Terminología e introducción)",
+			"rawText": "Estandar 27000\n(Terminología e introducción)",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "QyAJbXOY084BtXpn6qnOm",
+			"originalText": "Estandar 27000\n(Terminología e introducción)"
 		}
 	],
 	"appState": {
@@ -246,8 +316,8 @@ c54e92747f71a1cf2e1e5761d9e330a84d4f95aa: [[Pasted Image 20230921151516_479.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 681,
-		"scrollY": 281.7421875,
+		"scrollX": 721,
+		"scrollY": -260.2578125,
 		"zoom": {
 			"value": 1
 		},
