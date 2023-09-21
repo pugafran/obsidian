@@ -27,9 +27,9 @@ Política general de seguridad de la información
 Hay que saber diferenciar normas de pautas/directrices y procedimientos
 
 
-Las pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente ^u8KX4s0a
+Las normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente
 
-Ej: Norma interna de u ^tyZWrp0p
+Las pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos ^u8KX4s0a
 
 %%
 # Drawing
@@ -145,9 +145,9 @@ Ej: Norma interna de u ^tyZWrp0p
 			"id": "u8KX4s0a",
 			"type": "text",
 			"x": -505,
-			"y": 353.7421875,
-			"width": 1086.01904296875,
-			"height": 96,
+			"y": 353.609375,
+			"width": 1082.6590576171875,
+			"height": 144,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -159,28 +159,28 @@ Ej: Norma interna de u ^tyZWrp0p
 			"groupIds": [],
 			"roundness": null,
 			"seed": 295446651,
-			"version": 218,
-			"versionNonce": 871230773,
+			"version": 390,
+			"versionNonce": 2095197845,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695304103145,
+			"updated": 1695304239078,
 			"link": null,
 			"locked": false,
-			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente",
-			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente",
+			"text": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos",
+			"rawText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas pautas con una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente"
+			"originalText": "Hay que saber diferenciar normas de pautas/directrices y procedimientos\n\n\nLas normas son una colección de requisitos que tienen que cumplir sistemas o procedimientos obligatoriamente\n\nLas pautas o directrices son colecciones de sugerencias especifcias para sistemas o procedimientos"
 		},
 		{
 			"id": "tyZWrp0p",
 			"type": "text",
 			"x": -490,
 			"y": 500.7421875,
-			"width": 224.35984802246094,
+			"width": 10,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -193,21 +193,21 @@ Ej: Norma interna de u ^tyZWrp0p
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1191306229,
-			"version": 58,
-			"versionNonce": 1728256859,
-			"isDeleted": false,
+			"version": 81,
+			"versionNonce": 1354550005,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1695304128867,
+			"updated": 1695304205518,
 			"link": null,
 			"locked": false,
-			"text": "Ej: Norma interna de u",
-			"rawText": "Ej: Norma interna de u",
+			"text": "",
+			"rawText": "",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Ej: Norma interna de u"
+			"originalText": ""
 		}
 	],
 	"appState": {
