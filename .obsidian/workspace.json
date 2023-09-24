@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Untitled.md",
+                "file": "Último año/Web/Scopes.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Untitled.md",
+                "file": "Último año/Web/Scopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Untitled.md",
+                "file": "Último año/Web/Scopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Untitled.md"
+                "file": "Último año/Web/Scopes.md"
               }
             }
           },
@@ -230,7 +230,8 @@
   },
   "active": "018fc32c85018910",
   "lastOpenFiles": [
-    "Último año/Web/Scoops.md",
+    "Último año/Servicios/Untitled.md",
+    "Último año/Web/Scopes.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
@@ -247,7 +248,6 @@
     "Pasted Image 20230921151516_479.png",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
-    "Último año/Servicios/Untitled.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Web/Qué son los servlets.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
