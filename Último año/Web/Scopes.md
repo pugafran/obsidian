@@ -32,3 +32,6 @@ En práctica: Para casos especiales donde los otros alcances no se adaptan a tus
 
 Conclusión: Piensa en el "alcance" como la "longevidad" o "duración de vida" de tus beans. 
 Dependiendo de cuánto tiempo necesites que duren los datos, eliges el alcance adecuado. Desde el corto tiempo de un solo clic (@RequestScoped) hasta todo el tiempo que tu aplicación esté ejecutándose (@ApplicationScoped). ¡Espero que estos ejemplos te ayuden a entenderlo mejor!
+
+| Scoope | Longevidad |
+| --------| -  
