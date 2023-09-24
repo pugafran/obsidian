@@ -63,9 +63,11 @@
             "id": "018fc32c85018910",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
+                "file": "Último año/Servicios/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -154,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+                "file": "Último año/Servicios/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+                "file": "Último año/Servicios/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
+                "file": "Último año/Servicios/Untitled.md"
               }
             }
           },
@@ -228,10 +230,11 @@
   },
   "active": "018fc32c85018910",
   "lastOpenFiles": [
+    "Último año/Web/Scoops.md",
+    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
@@ -264,7 +267,6 @@
     "Pasted Image 20230918173744_534.png",
     "Último año/Seguridad",
     "Pasted Image 20230914154044_877.png",
-    "Pasted Image 20230914154019_827.png",
     "Último año/ED",
     "Último año/Servicios",
     "Último año/Web",
