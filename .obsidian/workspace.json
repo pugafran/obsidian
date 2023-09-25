@@ -23,9 +23,11 @@
             "id": "00607d65ed32ce0f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md"
+                "file": "Último año/GTI/Sin título.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
+                "file": "Último año/GTI/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
+                "file": "Último año/GTI/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md"
+                "file": "Último año/GTI/Sin título.md"
               }
             }
           },
@@ -242,8 +244,10 @@
   },
   "active": "00607d65ed32ce0f",
   "lastOpenFiles": [
-    "Último año/Servicios/NAT.md",
+    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+    "Último año/GTI/Sin título.md",
     "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
+    "Último año/Servicios/NAT.md",
     "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
@@ -272,8 +276,6 @@
     "Distribuidos/Sincronización de relojes lógicos.md",
     "Distribuidos/Llamadas a procedimientos remotos (ONC RPC).md",
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
-    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
-    "Distribuidos/Cola circular.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
