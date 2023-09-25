@@ -3,8 +3,11 @@ DHCP utiliza udp y hace dora dora dora dora dora:
 
 * Discovery, el cliente:
 	* Usa un broadcast UDP al puerto 67 para descubrir un servidor
-	* En el datagrama p
-* Offer
+	* En el datagrama puede especificar que IP prefiere (la última usada)
+	* Queda a la espera de respuestas en el puerto UDP 68
+* Offer, el servidor:
+	* Maneja un pool de IPs e información de configuración (DNS, router de salida, etc.)
+	* Elige una IP para el cliente
 * Request
 * Acknowledgement
 
