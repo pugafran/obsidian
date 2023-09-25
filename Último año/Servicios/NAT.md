@@ -1,0 +1,1 @@
+Es la modificación de la IP de un paquete a su paso por un router.
