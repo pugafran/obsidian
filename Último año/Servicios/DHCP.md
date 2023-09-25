@@ -14,7 +14,7 @@ DHCP utiliza udp y hace dora dora dora dora dora:
 	* El cliente se queda con una y solo una:
 		* Crea un datagrama de solicitud que contiene el id del servidor que hizo la oferta elegida
 		* Envía por broadcast dicho datagrama
-* Acknowledgement, el servidor:
+* Acknowledgement, el servidor, al recibir un datagrama de solicitud:
 	* 
 
 [![Mobile - Jojo's Bizarre Adventure: Diamond Records - Crazy Diamond - The  Models Resource](https://www.models-resource.com/resources/big_icons/32/31147.png?updated=1556440592)
