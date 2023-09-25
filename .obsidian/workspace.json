@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/DHCP.md",
+                "file": "Último año/Servicios/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/DHCP.md",
+                "file": "Último año/Servicios/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/DHCP.md",
+                "file": "Último año/Servicios/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/DHCP.md"
+                "file": "Último año/Servicios/Sin título.md"
               }
             }
           },
@@ -231,9 +231,10 @@
   },
   "active": "67d454bd79b0649b",
   "lastOpenFiles": [
+    "Último año/Servicios/DHCP.md",
+    "Último año/Servicios/Sin título.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Servicios/DHCP.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
     "Último año/Web/Scopes.md",
@@ -262,7 +263,6 @@
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Distribuidos/Cola circular.md",
     "Distribuidos/Chat.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
