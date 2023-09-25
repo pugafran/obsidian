@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "00607d65ed32ce0f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2f0f37daa9efbe72",
             "type": "leaf",
             "state": {
@@ -83,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/NAT.md",
+                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/NAT.md",
+                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/NAT.md"
+                "file": "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md"
               }
             }
           },
@@ -229,10 +240,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67d454bd79b0649b",
+  "active": "00607d65ed32ce0f",
   "lastOpenFiles": [
-    "Último año/Servicios/DHCP.md",
     "Último año/Servicios/NAT.md",
+    "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
+    "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
@@ -262,7 +274,6 @@
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
     "Distribuidos/Cola circular.md",
-    "Distribuidos/Chat.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
