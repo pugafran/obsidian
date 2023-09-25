@@ -11,9 +11,11 @@
             "id": "67d454bd79b0649b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+                "file": "Último año/Servicios/DHCP.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Sin título.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Sin título.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Sin título.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Sin título.md"
+                "file": "Último año/Servicios/DHCP.md"
               }
             }
           },
@@ -228,12 +229,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "018fc32c85018910",
+  "active": "67d454bd79b0649b",
   "lastOpenFiles": [
+    "Último año/Servicios/Untitled.md",
+    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/Servicios/DHCP.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
-    "Último año/Servicios/Sin título.md",
-    "Último año/Servicios/Untitled.md",
     "Último año/Web/Scopes.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
@@ -241,7 +243,6 @@
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Sin título.md",
-    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Pasted Image 20230921160146_647.png",
     "Pasted Image 20230921155217_053.png",

@@ -1,4 +1,3 @@
-
 DHCP utiliza udp y hace dora dora dora dora dora:
 
 * Discovery, el cliente:
@@ -13,7 +12,9 @@ DHCP utiliza udp y hace dora dora dora dora dora:
 	* Si no recibe respuestas puede reintentar el paso 1
 	* Puede recibir varias ofertas, cada una lleva un indetificador del servidor que la hizo
 	* El cliente se queda con una y solo una:
-		* Crea un datagrama de solicitud que contiene el id del servidor que hizo la o
-* Acknowledgement
+		* Crea un datagrama de solicitud que contiene el id del servidor que hizo la oferta elegida
+		* Envía por broadcast dicho datagrama
+* Acknowledgement, el servidor:
+	* 
 
 [![Mobile - Jojo's Bizarre Adventure: Diamond Records - Crazy Diamond - The  Models Resource](https://www.models-resource.com/resources/big_icons/32/31147.png?updated=1556440592)
