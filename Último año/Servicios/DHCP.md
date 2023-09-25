@@ -15,6 +15,8 @@ DHCP utiliza udp y hace dora dora dora dora dora:
 		* Crea un datagrama de solicitud que contiene el id del servidor que hizo la oferta elegida
 		* Envía por broadcast dicho datagrama
 * Acknowledgement, el servidor, al recibir un datagrama de solicitud:
-	* 
+	* Si el id no era el suyo, ignora el datagrama y devuelve la IP ofrecida al pool 
+	* Si lo era, da la IP por ocupada durante un tiempo (leasing)
+	* Envía un datagrama de reconocimiento al cliente, indicándole el leasing y otra información de configuración
 
 [![Mobile - Jojo's Bizarre Adventure: Diamond Records - Crazy Diamond - The  Models Resource](https://www.models-resource.com/resources/big_icons/32/31147.png?updated=1556440592)
