@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/GTI/Sin título.md",
+                "file": "Último año/Web/Scopes.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Sin título.md",
+                "file": "Último año/Web/Scopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Sin título.md",
+                "file": "Último año/Web/Scopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Sin título.md"
+                "file": "Último año/Web/Scopes.md"
               }
             }
           },
@@ -244,8 +244,13 @@
   },
   "active": "00607d65ed32ce0f",
   "lastOpenFiles": [
-    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
+    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+    "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
+    "Último año/Web/Intro.md",
+    "Último año/Web/Qué son los servlets.md",
+    "Último año/Web/Qué son los beans.md",
     "Último año/GTI/Sin título.md",
+    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
     "Último año/Servicios/NAT.md",
     "Último año/Servicios/DHCP.md",
@@ -266,16 +271,11 @@
     "Pasted Image 20230921153028_616.png",
     "Pasted Image 20230921151516_479.png",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
-    "Último año/Web/Qué son los servlets.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Metas de los sistemas distribuidos.md",
     "Distribuidos/Sincronización de relojes físicos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
-    "Distribuidos/Llamadas a procedimientos remotos (ONC RPC).md",
-    "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
