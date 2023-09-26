@@ -13,3 +13,5 @@ Recurso => contenido binario que lleva asociado un tipo (pdf jpg png)
 MIME existía antes de HTPP, era para los tipos del correo electronico. text/python
 
 xms microsoft
+
+apple se cargó flash
