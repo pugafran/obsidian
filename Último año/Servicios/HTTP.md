@@ -15,3 +15,6 @@ MIME existía antes de HTPP, era para los tipos del correo electronico. text/pyt
 xms microsoft
 
 apple se cargó flash
+
+
+url clave para terminal remota y pasarela de pago porque sino se robaba usuario contraseña y tarjetas etc..
