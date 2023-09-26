@@ -35,9 +35,11 @@
             "id": "1c9d68095ef8cd9b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md"
+                "file": "Último año/Web/Instalación.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
+                "file": "Último año/Web/Instalación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
+                "file": "Último año/Web/Instalación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md"
+                "file": "Último año/Web/Instalación.md"
               }
             }
           },
@@ -254,8 +256,9 @@
   },
   "active": "1c9d68095ef8cd9b",
   "lastOpenFiles": [
-    "Último año/GTI/Sin título 1.md",
     "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
+    "Último año/Web/Instalación.md",
+    "Último año/GTI/Sin título 1.md",
     "Último año/Web/Scopes.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
@@ -285,7 +288,6 @@
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Metas de los sistemas distribuidos.md",
-    "Distribuidos/Sincronización de relojes físicos.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
