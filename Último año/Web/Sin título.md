@@ -8,3 +8,6 @@ Sobre: Linea inicial => cabeceras => espacio en blanco (fin)
 Contenido: cualquier secuencia de bytes
 
 Recurso => contenido binario que lleva asociado un tipo (pdf jpg png)
+
+
+MIME existía antes de HTPP, era para los tipos del correo electronico.
