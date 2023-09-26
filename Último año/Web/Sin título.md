@@ -10,4 +10,4 @@ Contenido: cualquier secuencia de bytes
 Recurso => contenido binario que lleva asociado un tipo (pdf jpg png)
 
 
-MIME existía antes de HTPP, era para los tipos del correo electronico.
+MIME existía antes de HTPP, era para los tipos del correo electronico. text/python
