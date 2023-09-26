@@ -21,3 +21,5 @@ url clave para terminal remota y pasarela de pago porque sino se robaba usuario 
 
 
 DNS ascii o unicode
+
+al servidor se le manda de la barra a la almohadilla
