@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Web/Scopes.md",
+                "file": "Último año/GTI/Sin título 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1c9d68095ef8cd9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md"
               }
             }
           },
@@ -96,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Web/Scopes.md",
+                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Web/Scopes.md",
+                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Web/Scopes.md"
+                "file": "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md"
               }
             }
           },
@@ -242,8 +252,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00607d65ed32ce0f",
+  "active": "1c9d68095ef8cd9b",
   "lastOpenFiles": [
+    "Último año/GTI/Sin título 1.md",
+    "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
+    "Último año/Web/Scopes.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
     "Último año/Web/Intro.md",
@@ -258,7 +271,6 @@
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
-    "Último año/Web/Scopes.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
@@ -274,8 +286,6 @@
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Metas de los sistemas distribuidos.md",
     "Distribuidos/Sincronización de relojes físicos.md",
-    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
-    "Distribuidos/Sincronización de relojes lógicos.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
