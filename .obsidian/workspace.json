@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/HTTP.md",
+                "file": "Último año/Web/Scopes.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/HTTP.md",
+                "file": "Último año/Web/Scopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/HTTP.md",
+                "file": "Último año/Web/Scopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/HTTP.md"
+                "file": "Último año/Web/Scopes.md"
               }
             }
           },
@@ -254,10 +254,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "1c9d68095ef8cd9b",
   "lastOpenFiles": [
-    "Último año/Web/Instalación.md",
     "Último año/Servicios/HTTP.md",
+    "Último año/Web/Instalación.md",
     "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
     "Último año/GTI/Sin título 1.md",
     "Último año/Web/Scopes.md",
