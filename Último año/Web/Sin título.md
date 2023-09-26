@@ -7,4 +7,4 @@ En http 2.0 es asincrono le pueden llegar a trozos cada peticion al mismo tiempo
 Sobre: Linea inicial => cabeceras => espacio en blanco (fin)
 Contenido: cualquier secuencia de bytes
 
-Recurso => contenido binario que lleva asociado u nt
+Recurso => contenido binario que lleva asociado un tipo (pdf jpg png)
