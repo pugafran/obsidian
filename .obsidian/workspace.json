@@ -11,144 +11,13 @@
             "id": "67d454bd79b0649b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/Servicios/NAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00607d65ed32ce0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/GTI/Sin título 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c9d68095ef8cd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/Cálculo/Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca60e25bb2155cdc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0afe593777dbee10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Servicios/Practica 1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c6bef9665c0ea24a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9b269aa576e0b8d9",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "2f0f37daa9efbe72",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a24782b2d22a9aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/Seguridad/Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af482430ab27c286",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ee4185946bea4d6c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "018fc32c85018910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/Servicios/DHCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdfdb173d7ef64c0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,25 +163,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c5a875ba725b9d",
+  "active": "67d454bd79b0649b",
   "lastOpenFiles": [
+    "Último año/Servicios/NAT.md",
+    "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
+    "Último año/GTI/Sin título 1.md",
+    "Último año/Servicios/DHCP.md",
+    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.excalidraw.md",
-    "Último año/Servicios/NAT.md",
     "Último año/Servicios/Untitled.md",
-    "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
     "Último año/Cálculo/Sin título.md",
     "Último año/Web/Scopes.md",
     "Último año/Cálculo",
     "Último año/Web/Instalación.md",
     "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
-    "Último año/GTI/Sin título 1.md",
     "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
     "Último año/Web/Intro.md",
@@ -322,7 +192,6 @@
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
     "Pasted Image 20230921160146_647.png",
