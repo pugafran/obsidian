@@ -49,6 +49,12 @@ PUT necesita un puerto
 POST es enviar datos del servidor a algo.
 OPTIONS te devuelve el servidor que verbos puedes usar. ^bvcFSPKC
 
+CRUD
+CREATE POST
+READ GET
+UPDATE PUT
+DELETE DELETE ^HFRRJTGS
+
 %%
 # Drawing
 ```json
@@ -603,6 +609,40 @@ OPTIONS te devuelve el servidor que verbos puedes usar. ^bvcFSPKC
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "HEAD caga la cabecera\nPUT necesita un puerto \nPOST es enviar datos del servidor a algo.\nOPTIONS te devuelve el servidor que verbos puedes usar."
+		},
+		{
+			"id": "HFRRJTGS",
+			"type": "text",
+			"x": 232.39681743514393,
+			"y": 557.2572488888079,
+			"width": 178.19992065429688,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2143936373,
+			"version": 79,
+			"versionNonce": 1323517557,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695831917581,
+			"link": null,
+			"locked": false,
+			"text": "CRUD\nCREATE POST\nREAD GET\nUPDATE PUT\nDELETE DELETE",
+			"rawText": "CRUD\nCREATE POST\nREAD GET\nUPDATE PUT\nDELETE DELETE",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "CRUD\nCREATE POST\nREAD GET\nUPDATE PUT\nDELETE DELETE"
 		}
 	],
 	"appState": {
