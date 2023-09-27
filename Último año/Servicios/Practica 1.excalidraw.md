@@ -8,10 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
-    "Coña mala" ^AOT9XFoR
+    a = "Coña mala" ^AOT9XFoR
 
-.encode("utf8")
- ^j7GtjtjS
+a.encode("utf8") = > b'co\xc3\xb1a mala'
+bytes(a, "utf8") ^j7GtjtjS
 
 %%
 # Drawing
@@ -26,8 +26,8 @@ tags: [excalidraw]
 			"type": "text",
 			"x": -476.828125,
 			"y": -125.046875,
-			"width": 166.43540954589847,
-			"height": 25.510610163713878,
+			"width": 214.901123046875,
+			"height": 25.2,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -39,28 +39,28 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1393368408,
-			"version": 63,
-			"versionNonce": 2101175336,
+			"version": 68,
+			"versionNonce": 622015832,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695815261033,
+			"updated": 1695815375935,
 			"link": null,
 			"locked": false,
-			"text": "    \"Coña mala\"",
-			"rawText": "    \"Coña mala\"",
+			"text": "    a = \"Coña mala\"",
+			"rawText": "    a = \"Coña mala\"",
 			"fontSize": 21.258841803094906,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "    \"Coña mala\""
+			"originalText": "    a = \"Coña mala\""
 		},
 		{
 			"id": "j7GtjtjS",
 			"type": "text",
-			"x": -163,
-			"y": -290.390625,
-			"width": 145.0598602294922,
+			"x": -163.12109375,
+			"y": -290.6328125,
+			"width": 402.01971435546875,
 			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -73,21 +73,21 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 427850280,
-			"version": 18,
-			"versionNonce": 588186456,
+			"version": 30,
+			"versionNonce": 1644284248,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695815298991,
+			"updated": 1695815404982,
 			"link": null,
 			"locked": false,
-			"text": ".encode(\"utf8\")\n",
-			"rawText": ".encode(\"utf8\")\n",
+			"text": "a.encode(\"utf8\") = > b'co\\xc3\\xb1a mala'\nbytes(a, \"utf8\")",
+			"rawText": "a.encode(\"utf8\") = > b'co\\xc3\\xb1a mala'\nbytes(a, \"utf8\")",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": ".encode(\"utf8\")\n"
+			"originalText": "a.encode(\"utf8\") = > b'co\\xc3\\xb1a mala'\nbytes(a, \"utf8\")"
 		}
 	],
 	"appState": {
