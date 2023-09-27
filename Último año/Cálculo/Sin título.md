@@ -9,4 +9,4 @@ a:2; (a = 2)
 
 a=2 (sustituir a por un 2)
 
-v1.
+v1.v2 (producto escalar)
