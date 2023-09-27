@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "0afe593777dbee10",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Practica 1.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2f0f37daa9efbe72",
             "type": "leaf",
             "state": {
@@ -118,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
+                "file": "Último año/Servicios/Practica 1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
+                "file": "Último año/Servicios/Practica 1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md"
+                "file": "Último año/Servicios/Practica 1.excalidraw.md"
               }
             }
           },
@@ -264,10 +274,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca60e25bb2155cdc",
+  "active": "e8c5a875ba725b9d",
   "lastOpenFiles": [
-    "Último año/Cálculo/Sin título.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
+    "Último año/Servicios/Practica 1.excalidraw.md",
+    "Último año/Cálculo/Sin título.md",
     "Último año/Web/Scopes.md",
     "Último año/Cálculo",
     "Último año/Servicios/HTTP.md",
@@ -294,7 +305,6 @@
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Sin título.md",
-    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Pasted Image 20230921160146_647.png",
     "Pasted Image 20230921155217_053.png",
     "Pasted Image 20230921153028_616.png",
