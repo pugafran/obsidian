@@ -13,3 +13,4 @@ v1.v2 (producto escalar)
 
 f(x):=sin(x); (función)
 
+define(g(x),cos(x));
