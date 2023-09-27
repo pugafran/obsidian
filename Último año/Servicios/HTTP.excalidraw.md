@@ -94,6 +94,11 @@ Github ^FsCpORzq
 301
 (Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login) ^g0t984IR
 
+get /login ^24KGZrrp
+
+200 OK
+(Vale, eres pugafran) ^gfncqweZ
+
 %%
 # Drawing
 ```json
@@ -857,8 +862,8 @@ Github ^FsCpORzq
 				"type": 2
 			},
 			"seed": 981132699,
-			"version": 117,
-			"versionNonce": 1092798837,
+			"version": 119,
+			"versionNonce": 830153947,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -868,9 +873,17 @@ Github ^FsCpORzq
 				{
 					"id": "xoCE_KYmd0Vc_Z57gigyJ",
 					"type": "arrow"
+				},
+				{
+					"id": "uaFI_CRDUKjgTGJhnBPfo",
+					"type": "arrow"
+				},
+				{
+					"id": "LQVF_W4YA2eIvZSf590yw",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695832706006,
+			"updated": 1695832766653,
 			"link": null,
 			"locked": false
 		},
@@ -928,8 +941,8 @@ Github ^FsCpORzq
 				"type": 2
 			},
 			"seed": 2000812539,
-			"version": 340,
-			"versionNonce": 1412699157,
+			"version": 342,
+			"versionNonce": 1620927547,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -943,9 +956,17 @@ Github ^FsCpORzq
 				{
 					"id": "xoCE_KYmd0Vc_Z57gigyJ",
 					"type": "arrow"
+				},
+				{
+					"id": "uaFI_CRDUKjgTGJhnBPfo",
+					"type": "arrow"
+				},
+				{
+					"id": "LQVF_W4YA2eIvZSf590yw",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695832706006,
+			"updated": 1695832766653,
 			"link": null,
 			"locked": false
 		},
@@ -1078,6 +1099,194 @@ Github ^FsCpORzq
 			"originalText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)"
 		},
 		{
+			"id": "uaFI_CRDUKjgTGJhnBPfo",
+			"type": "arrow",
+			"x": -668.1438416054139,
+			"y": 1902.369963678013,
+			"width": 490.31009045143867,
+			"height": 314.37152735198924,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 694485755,
+			"version": 194,
+			"versionNonce": 1749652053,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "24KGZrrp"
+				}
+			],
+			"updated": 1695832752857,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					217.24848300239228,
+					314.37152735198924
+				],
+				[
+					490.31009045143867,
+					43.443951131785525
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
+				"focus": 0.9120214199040025,
+				"gap": 11.035718719079831
+			},
+			"endBinding": {
+				"elementId": "FIDBMLzjrfzve5OMQrY0z",
+				"focus": -1.016819738637744,
+				"gap": 12.414537874066085
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "24KGZrrp",
+			"type": "text",
+			"x": -497.06531862499423,
+			"y": 2204.741491030002,
+			"width": 92.33992004394531,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 503151835,
+			"version": 13,
+			"versionNonce": 100601493,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832757821,
+			"link": null,
+			"locked": false,
+			"text": "get /login",
+			"rawText": "get /login",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "uaFI_CRDUKjgTGJhnBPfo",
+			"originalText": "get /login"
+		},
+		{
+			"id": "LQVF_W4YA2eIvZSf590yw",
+			"type": "arrow",
+			"x": -134.34465705388732,
+			"y": 1921.641907236946,
+			"width": 573.9435950910245,
+			"height": 482.51677255995355,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 615150581,
+			"version": 194,
+			"versionNonce": 6592443,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "gfncqweZ"
+				}
+			],
+			"updated": 1695832770690,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-324.54921475108495,
+					439.79100501479775
+				],
+				[
+					-573.9435950910245,
+					-42.725767545155804
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "FIDBMLzjrfzve5OMQrY0z",
+				"focus": -1.2504974981371788,
+				"gap": 14.982730556011091
+			},
+			"endBinding": {
+				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
+				"focus": 1.4115692683918786,
+				"gap": 16.513753840131443
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "gfncqweZ",
+			"type": "text",
+			"x": -562.3937878816324,
+			"y": 2337.432912251744,
+			"width": 206.9998321533203,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1260970005,
+			"version": 34,
+			"versionNonce": 613026677,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832780011,
+			"link": null,
+			"locked": false,
+			"text": "200 OK\n(Vale, eres pugafran)",
+			"rawText": "200 OK\n(Vale, eres pugafran)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "LQVF_W4YA2eIvZSf590yw",
+			"originalText": "200 OK\n(Vale, eres pugafran)"
+		},
+		{
 			"id": "GQPhFLsb",
 			"type": "text",
 			"x": -183.58742765943066,
@@ -1161,8 +1370,8 @@ Github ^FsCpORzq
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 968.3856198787391,
-		"scrollY": -1295.853665003672,
+		"scrollX": 1056.6360190038017,
+		"scrollY": -1594.2240620455514,
 		"zoom": {
 			"value": 0.9518370549345699
 		},
