@@ -5,3 +5,4 @@ constantes con simbolos de tanto %
 
 /* */ es para comentarios
 
+a:2; (a = 2)
