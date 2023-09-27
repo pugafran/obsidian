@@ -77,11 +77,9 @@
             "id": "9b269aa576e0b8d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Último año/Servicios/HTTP.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           },
@@ -224,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/HTTP.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/HTTP.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/HTTP.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           },
@@ -296,17 +294,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b269aa576e0b8d9",
+  "active": "e8c5a875ba725b9d",
   "lastOpenFiles": [
-    "Último año/Servicios/NAT.md",
+    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
+    "Último año/Servicios/HTTP.md",
+    "Último año/Servicios/NAT.excalidraw.md",
+    "Último año/Servicios/HTTP.excalidraw.md",
+    "Último año/Servicios/NAT.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md",
-    "Último año/Servicios/HTTP.md",
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
     "Último año/Cálculo/Sin título.md",
