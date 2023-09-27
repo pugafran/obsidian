@@ -10,15 +10,15 @@ tags: [excalidraw]
 # Text Elements
     a = "Coña mala" ^AOT9XFoR
 
-a.encode("utf8") => b'co\xc3\xb1a mala'
-bytes(a, "utf8") => b'co\xc3\xb1a mala'
+a = a.encode("utf8") => a = b'co\xc3\xb1a mala'
+a = bytes(a, "utf8") => a = b'co\xc3\xb1a mala'
  ^j7GtjtjS
 
 Codificar ^64xYqhKV
 
-a.decode("utf8") =>  ^PdJ0RKp9
+a = a.decode("utf8") => a = 'coña mala' ^PdJ0RKp9
 
-str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
+a = str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 
 %%
 # Drawing
@@ -72,7 +72,7 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 			"type": "text",
 			"x": -162.96875,
 			"y": -290.2109375,
-			"width": 392.01971435546875,
+			"width": 483.37969970703125,
 			"height": 72,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -85,8 +85,8 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 			"groupIds": [],
 			"roundness": null,
 			"seed": 427850280,
-			"version": 39,
-			"versionNonce": 116972888,
+			"version": 55,
+			"versionNonce": 1657702184,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -94,25 +94,25 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 					"type": "arrow"
 				}
 			],
-			"updated": 1695815497736,
+			"updated": 1695815579466,
 			"link": null,
 			"locked": false,
-			"text": "a.encode(\"utf8\") => b'co\\xc3\\xb1a mala'\nbytes(a, \"utf8\") => b'co\\xc3\\xb1a mala'\n",
-			"rawText": "a.encode(\"utf8\") => b'co\\xc3\\xb1a mala'\nbytes(a, \"utf8\") => b'co\\xc3\\xb1a mala'\n",
+			"text": "a = a.encode(\"utf8\") => a = b'co\\xc3\\xb1a mala'\na = bytes(a, \"utf8\") => a = b'co\\xc3\\xb1a mala'\n",
+			"rawText": "a = a.encode(\"utf8\") => a = b'co\\xc3\\xb1a mala'\na = bytes(a, \"utf8\") => a = b'co\\xc3\\xb1a mala'\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "a.encode(\"utf8\") => b'co\\xc3\\xb1a mala'\nbytes(a, \"utf8\") => b'co\\xc3\\xb1a mala'\n"
+			"originalText": "a = a.encode(\"utf8\") => a = b'co\\xc3\\xb1a mala'\na = bytes(a, \"utf8\") => a = b'co\\xc3\\xb1a mala'\n"
 		},
 		{
 			"id": "_HQFbBafFPjo2dq3Z622A",
 			"type": "arrow",
-			"x": -350.21899336352067,
+			"x": -349.17454152331476,
 			"y": -146.29296875,
-			"width": 177.92602461352064,
-			"height": 112.04016259632755,
+			"width": 176.88157277331473,
+			"height": 108.2196551443829,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -126,8 +126,8 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 				"type": 2
 			},
 			"seed": 591806552,
-			"version": 85,
-			"versionNonce": 195261016,
+			"version": 117,
+			"versionNonce": 1757635112,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -135,7 +135,7 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 					"id": "64xYqhKV"
 				}
 			],
-			"updated": 1695815497737,
+			"updated": 1695815579467,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -144,8 +144,8 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 					0
 				],
 				[
-					177.92602461352064,
-					-112.04016259632755
+					176.88157277331473,
+					-108.2196551443829
 				]
 			],
 			"lastCommittedPoint": null,
@@ -201,7 +201,7 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 			"type": "text",
 			"x": -104,
 			"y": -84.2578125,
-			"width": 202.47984313964844,
+			"width": 405.0997314453125,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -214,28 +214,28 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 			"groupIds": [],
 			"roundness": null,
 			"seed": 114836568,
-			"version": 24,
-			"versionNonce": 56600664,
+			"version": 49,
+			"versionNonce": 729703208,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695815487612,
+			"updated": 1695815623964,
 			"link": null,
 			"locked": false,
-			"text": "a.decode(\"utf8\") => ",
-			"rawText": "a.decode(\"utf8\") => ",
+			"text": "a = a.decode(\"utf8\") => a = 'coña mala'",
+			"rawText": "a = a.decode(\"utf8\") => a = 'coña mala'",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "a.decode(\"utf8\") => "
+			"originalText": "a = a.decode(\"utf8\") => a = 'coña mala'"
 		},
 		{
 			"id": "nMMyDxEb",
 			"type": "text",
 			"x": -103.87109375,
 			"y": -50.2578125,
-			"width": 368.71978759765625,
+			"width": 414.3997802734375,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -248,21 +248,21 @@ str(a, "utf8") => b'co\xc3\xb1a mala' ^nMMyDxEb
 			"groupIds": [],
 			"roundness": null,
 			"seed": 620678440,
-			"version": 10,
-			"versionNonce": 384974888,
+			"version": 14,
+			"versionNonce": 233677864,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695815481632,
+			"updated": 1695815607377,
 			"link": null,
 			"locked": false,
-			"text": "str(a, \"utf8\") => b'co\\xc3\\xb1a mala'",
-			"rawText": "str(a, \"utf8\") => b'co\\xc3\\xb1a mala'",
+			"text": "a = str(a, \"utf8\") => b'co\\xc3\\xb1a mala'",
+			"rawText": "a = str(a, \"utf8\") => b'co\\xc3\\xb1a mala'",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "str(a, \"utf8\") => b'co\\xc3\\xb1a mala'"
+			"originalText": "a = str(a, \"utf8\") => b'co\\xc3\\xb1a mala'"
 		}
 	],
 	"appState": {
