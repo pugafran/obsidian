@@ -77,9 +77,11 @@
             "id": "9b269aa576e0b8d9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md"
+                "file": "Último año/Servicios/HTTP.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -222,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md"
+                "file": "Último año/Servicios/HTTP.md"
               }
             }
           },
@@ -296,14 +298,20 @@
   },
   "active": "9b269aa576e0b8d9",
   "lastOpenFiles": [
-    "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md",
+    "Último año/Servicios/NAT.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
+    "Último año/Servicios/Untitled.md",
+    "Último año/Servicios/DHCP.md",
+    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-27 18.10.23.excalidraw.md",
+    "Último año/Servicios/HTTP.md",
+    "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
     "Último año/Cálculo/Sin título.md",
     "Último año/Web/Scopes.md",
     "Último año/Cálculo",
-    "Último año/Servicios/HTTP.md",
     "Último año/Web/Instalación.md",
     "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
     "Último año/GTI/Sin título 1.md",
@@ -314,17 +322,11 @@
     "Último año/Web/Qué son los beans.md",
     "Último año/GTI/Sin título.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-25 15.37.39.excalidraw.md",
-    "Último año/Servicios/NAT.md",
-    "Último año/Servicios/DHCP.md",
-    "Último año/Servicios/Untitled.md",
-    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
-    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Pasted Image 20230921160146_647.png",
     "Pasted Image 20230921155217_053.png",
     "Pasted Image 20230921153028_616.png",
