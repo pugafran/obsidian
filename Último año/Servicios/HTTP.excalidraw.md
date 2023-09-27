@@ -44,6 +44,9 @@ si lleva cuerpo.
 
 content length es el cuerpo básicamente ^sKxRWreW
 
+PUT necesita un puerto 
+POST es enviar datos del servidor a algo. ^bvcFSPKC
+
 %%
 # Drawing
 ```json
@@ -564,6 +567,40 @@ content length es el cuerpo básicamente ^sKxRWreW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.\n\ncontent length es el cuerpo básicamente"
+		},
+		{
+			"id": "bvcFSPKC",
+			"type": "text",
+			"x": -335.0133589706546,
+			"y": 748.1135110591093,
+			"width": 425.19964599609375,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 771838261,
+			"version": 93,
+			"versionNonce": 116948475,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695831792476,
+			"link": null,
+			"locked": false,
+			"text": "PUT necesita un puerto \nPOST es enviar datos del servidor a algo.",
+			"rawText": "PUT necesita un puerto \nPOST es enviar datos del servidor a algo.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "PUT necesita un puerto \nPOST es enviar datos del servidor a algo."
 		}
 	],
 	"appState": {
