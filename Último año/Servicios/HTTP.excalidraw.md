@@ -36,6 +36,12 @@ Contenido (formato libre, según su tipo).
 
 Lo único que importa realmente es el 200 ^2GAV0zp3
 
+CRLFCRLF se acabó la cabecera
+
+get no lleva cuerpo, la petición
+puede o no llevar cuerpo, post
+si lleva cuerpo. ^sKxRWreW
+
 %%
 # Drawing
 ```json
@@ -522,6 +528,40 @@ Lo único que importa realmente es el 200 ^2GAV0zp3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Lo único que importa realmente es el 200"
+		},
+		{
+			"id": "sKxRWreW",
+			"type": "text",
+			"x": 274.4741677992289,
+			"y": 133.51251715242276,
+			"width": 325.559814453125,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 210248859,
+			"version": 122,
+			"versionNonce": 1628754197,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695831594131,
+			"link": null,
+			"locked": false,
+			"text": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.",
+			"rawText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo."
 		}
 	],
 	"appState": {
