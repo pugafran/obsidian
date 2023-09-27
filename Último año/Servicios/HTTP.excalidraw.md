@@ -105,9 +105,14 @@ POST /datoslogin
 
 302 
 location: /mipagina_pugafran
-(toma ya sé quien eres) ^YYz7DqQf
+(toma ya sé quien eres, la dirección de
+la página es esta.) ^YYz7DqQf
 
-get /mipagina_pugafran ^kjhJTfrY
+get /mipagina_pugafran
+(dámela) ^kjhJTfrY
+
+200 OK
+(toma la página) ^E6O7OpyT
 
 %%
 # Drawing
@@ -119,8 +124,8 @@ get /mipagina_pugafran ^kjhJTfrY
 	"elements": [
 		{
 			"type": "text",
-			"version": 64,
-			"versionNonce": 1366863946,
+			"version": 65,
+			"versionNonce": 73517525,
 			"isDeleted": false,
 			"id": "zzJoTw7j",
 			"fillStyle": "hachure",
@@ -148,7 +153,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695831118443,
+			"updated": 1695833221603,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -162,8 +167,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "arrow",
-			"version": 63,
-			"versionNonce": 1561109962,
+			"version": 64,
+			"versionNonce": 1121462779,
 			"isDeleted": false,
 			"id": "_lE5J6bSk-sPvU52ucdNp",
 			"fillStyle": "hachure",
@@ -184,7 +189,7 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695831119619,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -213,8 +218,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "text",
-			"version": 74,
-			"versionNonce": 609228554,
+			"version": 75,
+			"versionNonce": 362006325,
 			"isDeleted": false,
 			"id": "IASnxGez",
 			"fillStyle": "hachure",
@@ -242,7 +247,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695831119619,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -256,8 +261,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 1592835850,
+			"version": 106,
+			"versionNonce": 332870299,
 			"isDeleted": false,
 			"id": "7jtnrTRx",
 			"fillStyle": "hachure",
@@ -281,7 +286,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695831107702,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -295,8 +300,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "arrow",
-			"version": 118,
-			"versionNonce": 1422482570,
+			"version": 119,
+			"versionNonce": 509548693,
 			"isDeleted": false,
 			"id": "5iJoA5f4NkkXYpHqGzqnp",
 			"fillStyle": "hachure",
@@ -317,7 +322,7 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695831119620,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -346,8 +351,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "arrow",
-			"version": 131,
-			"versionNonce": 82194954,
+			"version": 132,
+			"versionNonce": 1294739259,
 			"isDeleted": false,
 			"id": "4Ld5i9La4TixvZDk8Bkr0",
 			"fillStyle": "hachure",
@@ -368,7 +373,7 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695831163926,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -397,8 +402,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "text",
-			"version": 202,
-			"versionNonce": 1230326678,
+			"version": 203,
+			"versionNonce": 142163445,
 			"isDeleted": false,
 			"id": "MgsRw0sb",
 			"fillStyle": "hachure",
@@ -426,7 +431,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695831163926,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -440,8 +445,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "text",
-			"version": 542,
-			"versionNonce": 524556566,
+			"version": 543,
+			"versionNonce": 1161398235,
 			"isDeleted": false,
 			"id": "QMgCV2pO",
 			"fillStyle": "hachure",
@@ -465,7 +470,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695831163803,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -479,8 +484,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "arrow",
-			"version": 992,
-			"versionNonce": 118712534,
+			"version": 993,
+			"versionNonce": 1793570645,
 			"isDeleted": false,
 			"id": "Fga_xsRiZP5b3A10tZrqD",
 			"fillStyle": "hachure",
@@ -501,7 +506,7 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1695831163926,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -530,8 +535,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 1933866965,
+			"version": 100,
+			"versionNonce": 1645335675,
 			"isDeleted": false,
 			"id": "iPoz7bwG",
 			"fillStyle": "hachure",
@@ -550,7 +555,7 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695831553904,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -580,11 +585,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 892582875,
-			"version": 83,
-			"versionNonce": 226342005,
+			"version": 84,
+			"versionNonce": 1610613941,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831667330,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "Lo único que importa realmente es el 200",
@@ -614,11 +619,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 210248859,
-			"version": 274,
-			"versionNonce": 399223413,
+			"version": 275,
+			"versionNonce": 595037467,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831668498,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.\n\ncontent length es el cuerpo básicamente",
@@ -648,11 +653,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 771838261,
-			"version": 231,
-			"versionNonce": 1956579611,
+			"version": 232,
+			"versionNonce": 459777557,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831855934,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "HEAD caga la cabecera\nPUT necesita un puerto \nPOST es enviar datos del servidor a algo.\nOPTIONS te devuelve el servidor que verbos puedes usar.",
@@ -682,11 +687,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2143936373,
-			"version": 79,
-			"versionNonce": 1323517557,
+			"version": 80,
+			"versionNonce": 1826435515,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831917581,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "CRUD\nCREATE POST\nREAD GET\nUPDATE PUT\nDELETE DELETE",
@@ -716,11 +721,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1088548149,
-			"version": 199,
-			"versionNonce": 2079121749,
+			"version": 200,
+			"versionNonce": 1075059573,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832018898,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "Códigos de estado:\n\n100-199 información \n200-299 Éxito\n300-399 Redirección\n400-499 Error del cliente\n500-599 Error del servidor",
@@ -750,11 +755,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1509042107,
-			"version": 1575,
-			"versionNonce": 1921535637,
+			"version": 1576,
+			"versionNonce": 258294363,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832617936,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.\n\nEl cliente manda un post mediante cabeceras especiales para hacer lo del 100 continue.\n\n102 es por si quieres cambiar de http 1.1 a 2.0 o algo y que te diga, altoke mirey.\n\n'200 OK' La petición se ha completado con éxito' Junto con el cuerpo que es el recurso\nque le han pedido.\n\n'204 No content' La petición se ha completado con éxito pero no tiene necesidad de devolverle\nnada, por ejemplo si hace un DELETE, ha pasado, pero no tiene por qué mandarle nada, se borró y ya.\n\n'301 moved permanently' Redirección, el fichero estaba en un domicilio, vas y te dice que no que ahora vive\nen otro sitio, pues eso. El cliente solicita un recurso al servidor y este responde con 301, ya no está en esta\nURL sino en otra, y la URL válida la manda en una cabecera 'location', es posible que del nuevo URL surja\notra redirección. Un navegador sigue las redirecciones automáticamente. En este caso es , ya nunca va más a\nestar ahí, va a estar en el otro.\n\n'302 found':",
@@ -786,8 +791,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 772518901,
-			"version": 335,
-			"versionNonce": 376588507,
+			"version": 336,
+			"versionNonce": 333594363,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -795,7 +800,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "6M1l7IRH"
 				}
 			],
-			"updated": 1695833142298,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -840,11 +845,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2103656021,
-			"version": 46,
-			"versionNonce": 987782491,
+			"version": 47,
+			"versionNonce": 1101103669,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832680304,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "Quiero entra al github\nget /mipagina",
@@ -876,8 +881,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 981132699,
-			"version": 236,
-			"versionNonce": 2083395835,
+			"version": 238,
+			"versionNonce": 1154918299,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -917,7 +922,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695833171079,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false
 		},
@@ -939,11 +944,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1725484309,
-			"version": 116,
-			"versionNonce": 924358139,
+			"version": 117,
+			"versionNonce": 385708949,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833123333,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "Yo",
@@ -975,8 +980,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 2000812539,
-			"version": 443,
-			"versionNonce": 983850075,
+			"version": 444,
+			"versionNonce": 2020932667,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1016,7 +1021,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"type": "arrow"
 				}
 			],
-			"updated": 1695833171079,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false
 		},
@@ -1038,11 +1043,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1332543477,
-			"version": 101,
-			"versionNonce": 833979227,
+			"version": 102,
+			"versionNonce": 848574709,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833142301,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "Github",
@@ -1074,8 +1079,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1814001045,
-			"version": 782,
-			"versionNonce": 2002224725,
+			"version": 783,
+			"versionNonce": 770396757,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1083,7 +1088,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "g0t984IR"
 				}
 			],
-			"updated": 1695833142299,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1132,11 +1137,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1920418619,
-			"version": 193,
-			"versionNonce": 606086165,
+			"version": 194,
+			"versionNonce": 1995008379,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833142123,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de\nquién eres tonto, vete aquí al formulario del login)\nlocation: login",
@@ -1168,8 +1173,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 694485755,
-			"version": 597,
-			"versionNonce": 1888122235,
+			"version": 598,
+			"versionNonce": 1440235445,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1177,7 +1182,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "24KGZrrp"
 				}
 			],
-			"updated": 1695833142299,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1226,11 +1231,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 503151835,
-			"version": 17,
-			"versionNonce": 416295067,
+			"version": 18,
+			"versionNonce": 1117028891,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832986815,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "get /login",
@@ -1262,8 +1267,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 615150581,
-			"version": 713,
-			"versionNonce": 1539409723,
+			"version": 714,
+			"versionNonce": 1082163477,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1271,7 +1276,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "gfncqweZ"
 				}
 			],
-			"updated": 1695833145420,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1320,11 +1325,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1260970005,
-			"version": 56,
-			"versionNonce": 1493232789,
+			"version": 57,
+			"versionNonce": 1720944315,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833125055,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "200 OK\n",
@@ -1356,8 +1361,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1827790651,
-			"version": 975,
-			"versionNonce": 947180533,
+			"version": 976,
+			"versionNonce": 593073781,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1365,7 +1370,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "jORWENHj"
 				}
 			],
-			"updated": 1695833147971,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1414,11 +1419,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 309104821,
-			"version": 62,
-			"versionNonce": 1590564347,
+			"version": 63,
+			"versionNonce": 159971163,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832973310,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "POST /datoslogin\n(envías los datos)",
@@ -1433,7 +1438,7 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "4B-XLgDlkp-0Zv89QzFQC",
 			"type": "arrow",
-			"x": 120.6339723155196,
+			"x": 120.40813125919942,
 			"y": 1934.1533000017278,
 			"width": 1109.669117395538,
 			"height": 785.1644095969327,
@@ -1450,8 +1455,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1758375419,
-			"version": 300,
-			"versionNonce": 1456178491,
+			"version": 328,
+			"versionNonce": 134495541,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1459,7 +1464,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "YYz7DqQf"
 				}
 			],
-			"updated": 1695833151057,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1479,13 +1484,13 @@ get /mipagina_pugafran ^kjhJTfrY
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.5883951066949898,
-				"gap": 4.588221630268407
+				"focus": -0.587546770835285,
+				"gap": 4.564675140933403
 			},
 			"endBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.5058982291515328,
-				"gap": 7.776728119189727
+				"focus": 0.5067426702311622,
+				"gap": 7.791310777245215
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1493,10 +1498,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "YYz7DqQf",
 			"type": "text",
-			"x": -590.9326521836085,
-			"y": 2645.9479871990743,
-			"width": 280.07977294921875,
-			"height": 72,
+			"x": -644.6684572291861,
+			"y": 2633.9479871990743,
+			"width": 387.0997009277344,
+			"height": 96,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1508,21 +1513,21 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1940074581,
-			"version": 82,
-			"versionNonce": 3139291,
+			"version": 154,
+			"versionNonce": 391191707,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833131442,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
-			"text": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)",
-			"rawText": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)",
+			"text": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres, la dirección de\nla página es esta.)",
+			"rawText": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres, la dirección de\nla página es esta.)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "4B-XLgDlkp-0Zv89QzFQC",
-			"originalText": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)"
+			"originalText": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres, la dirección de\nla página es esta.)"
 		},
 		{
 			"id": "w_62iYnNZ_UJPft65NNz7",
@@ -1544,8 +1549,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 92537397,
-			"version": 356,
-			"versionNonce": 1551500923,
+			"version": 357,
+			"versionNonce": 391171733,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1553,7 +1558,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "kjhJTfrY"
 				}
 			],
-			"updated": 1695833154537,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1588,9 +1593,9 @@ get /mipagina_pugafran ^kjhJTfrY
 			"id": "kjhJTfrY",
 			"type": "text",
 			"x": -563.5971286438935,
-			"y": 2923.133300079778,
+			"y": 2911.133300079778,
 			"width": 231.6798095703125,
-			"height": 24,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1602,21 +1607,21 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1582833499,
-			"version": 32,
-			"versionNonce": 452262229,
+			"version": 52,
+			"versionNonce": 1431385877,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833151083,
+			"updated": 1695833232207,
 			"link": null,
 			"locked": false,
-			"text": "get /mipagina_pugafran",
-			"rawText": "get /mipagina_pugafran",
+			"text": "get /mipagina_pugafran\n(dámela)",
+			"rawText": "get /mipagina_pugafran\n(dámela)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "w_62iYnNZ_UJPft65NNz7",
-			"originalText": "get /mipagina_pugafran"
+			"originalText": "get /mipagina_pugafran\n(dámela)"
 		},
 		{
 			"id": "K7xKKijMvDE1_WttJkAZg",
@@ -1624,7 +1629,7 @@ get /mipagina_pugafran ^kjhJTfrY
 			"x": 201.8519905407029,
 			"y": 1932.933500518025,
 			"width": 1324.5879074588465,
-			"height": 49.790424883394735,
+			"height": 1250.0754149436002,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1638,17 +1643,26 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1175027483,
-			"version": 133,
-			"versionNonce": 1973578453,
+			"version": 174,
+			"versionNonce": 633615349,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695833171079,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "E6O7OpyT"
+				}
+			],
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
 					0,
 					0
+				],
+				[
+					-652.4999799203372,
+					1200.2849900602055
 				],
 				[
 					-1324.5879074588465,
@@ -1658,16 +1672,50 @@ get /mipagina_pugafran ^kjhJTfrY
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.8231391865428563,
+				"focus": -0.8496193302145255,
 				"gap": 16.285369203271117
 			},
 			"endBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.9673046692600361,
+				"focus": 0.9554953879425331,
 				"gap": 12.807848054546156
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "E6O7OpyT",
+			"type": "text",
+			"x": -530.7479268185989,
+			"y": 3109.2184905782306,
+			"width": 160.1998748779297,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1895841045,
+			"version": 54,
+			"versionNonce": 784396763,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695833221604,
+			"link": null,
+			"locked": false,
+			"text": "200 OK\n(toma la página)",
+			"rawText": "200 OK\n(toma la página)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "K7xKKijMvDE1_WttJkAZg",
+			"originalText": "200 OK\n(toma la página)"
 		},
 		{
 			"id": "GQPhFLsb",
@@ -1687,11 +1735,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1325260565,
-			"version": 2,
-			"versionNonce": 262342843,
+			"version": 3,
+			"versionNonce": 1984619733,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1695832568636,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1721,11 +1769,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1423687573,
-			"version": 4,
-			"versionNonce": 1616436603,
+			"version": 5,
+			"versionNonce": 446676187,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1695832694139,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1757,8 +1805,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 567883701,
-			"version": 149,
-			"versionNonce": 969498811,
+			"version": 150,
+			"versionNonce": 1764294613,
 			"isDeleted": true,
 			"boundElements": [
 				{
@@ -1766,7 +1814,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "iXB0rJl9"
 				}
 			],
-			"updated": 1695833020575,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1815,11 +1863,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1456794325,
-			"version": 8,
-			"versionNonce": 713448565,
+			"version": 9,
+			"versionNonce": 1506235387,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1695833020576,
+			"updated": 1695833221604,
 			"link": null,
 			"locked": false,
 			"text": "3oo",
