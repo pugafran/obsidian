@@ -14,3 +14,5 @@ v1.v2 (producto escalar)
 f(x):=sin(x); (función)
 
 define(g(x),cos(x));
+
+arreglar escalas dentro del draw antes del implicit => proportional_axes=xy, implict(x^2+y^2=1,x,-1,1,)
