@@ -44,8 +44,10 @@ si lleva cuerpo.
 
 content length es el cuerpo básicamente ^sKxRWreW
 
+HEAD caga la cabecera
 PUT necesita un puerto 
-POST es enviar datos del servidor a algo. ^bvcFSPKC
+POST es enviar datos del servidor a algo.
+OPTIONS te devuelve el servidor que verbos puedes usar. ^bvcFSPKC
 
 %%
 # Drawing
@@ -573,8 +575,8 @@ POST es enviar datos del servidor a algo. ^bvcFSPKC
 			"type": "text",
 			"x": -335.0133589706546,
 			"y": 748.1135110591093,
-			"width": 425.19964599609375,
-			"height": 48,
+			"width": 581.0594482421875,
+			"height": 96,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -586,21 +588,21 @@ POST es enviar datos del servidor a algo. ^bvcFSPKC
 			"groupIds": [],
 			"roundness": null,
 			"seed": 771838261,
-			"version": 93,
-			"versionNonce": 116948475,
+			"version": 231,
+			"versionNonce": 1956579611,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831792476,
+			"updated": 1695831855934,
 			"link": null,
 			"locked": false,
-			"text": "PUT necesita un puerto \nPOST es enviar datos del servidor a algo.",
-			"rawText": "PUT necesita un puerto \nPOST es enviar datos del servidor a algo.",
+			"text": "HEAD caga la cabecera\nPUT necesita un puerto \nPOST es enviar datos del servidor a algo.\nOPTIONS te devuelve el servidor que verbos puedes usar.",
+			"rawText": "HEAD caga la cabecera\nPUT necesita un puerto \nPOST es enviar datos del servidor a algo.\nOPTIONS te devuelve el servidor que verbos puedes usar.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "PUT necesita un puerto \nPOST es enviar datos del servidor a algo."
+			"originalText": "HEAD caga la cabecera\nPUT necesita un puerto \nPOST es enviar datos del servidor a algo.\nOPTIONS te devuelve el servidor que verbos puedes usar."
 		}
 	],
 	"appState": {
