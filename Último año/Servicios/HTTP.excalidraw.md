@@ -103,6 +103,12 @@ get /login ^24KGZrrp
 POST /datoslogin
 (envías los datos) ^jORWENHj
 
+302 
+location: /mipagina_pugafran
+(toma ya sé quien eres) ^YYz7DqQf
+
+get /mipagina_pugafran ^kjhJTfrY
+
 %%
 # Drawing
 ```json
@@ -870,8 +876,8 @@ POST /datoslogin
 				"type": 2
 			},
 			"seed": 981132699,
-			"version": 168,
-			"versionNonce": 1132228405,
+			"version": 169,
+			"versionNonce": 1676012501,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -901,9 +907,13 @@ POST /datoslogin
 				{
 					"id": "4B-XLgDlkp-0Zv89QzFQC",
 					"type": "arrow"
+				},
+				{
+					"id": "w_62iYnNZ_UJPft65NNz7",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695833025352,
+			"updated": 1695833097223,
 			"link": null,
 			"locked": false
 		},
@@ -961,8 +971,8 @@ POST /datoslogin
 				"type": 2
 			},
 			"seed": 2000812539,
-			"version": 414,
-			"versionNonce": 742355413,
+			"version": 415,
+			"versionNonce": 1950591285,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -992,9 +1002,13 @@ POST /datoslogin
 				{
 					"id": "4B-XLgDlkp-0Zv89QzFQC",
 					"type": "arrow"
+				},
+				{
+					"id": "w_62iYnNZ_UJPft65NNz7",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695833025352,
+			"updated": 1695833097224,
 			"link": null,
 			"locked": false
 		},
@@ -1428,11 +1442,16 @@ POST /datoslogin
 				"type": 2
 			},
 			"seed": 1758375419,
-			"version": 95,
-			"versionNonce": 1754556827,
+			"version": 96,
+			"versionNonce": 1873177467,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695833030610,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "YYz7DqQf"
+				}
+			],
+			"updated": 1695833033190,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1462,6 +1481,134 @@ POST /datoslogin
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "YYz7DqQf",
+			"type": "text",
+			"x": -590.6766989864454,
+			"y": 2645.9479871990743,
+			"width": 280.07977294921875,
+			"height": 72,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1940074581,
+			"version": 81,
+			"versionNonce": 743096923,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695833079825,
+			"link": null,
+			"locked": false,
+			"text": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)",
+			"rawText": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "4B-XLgDlkp-0Zv89QzFQC",
+			"originalText": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)"
+		},
+		{
+			"id": "w_62iYnNZ_UJPft65NNz7",
+			"type": "arrow",
+			"x": -909.3311747659725,
+			"y": 1880.6136558038438,
+			"width": 941.5765320101998,
+			"height": 1054.5196442759343,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 92537397,
+			"version": 137,
+			"versionNonce": 1782601685,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "kjhJTfrY"
+				}
+			],
+			"updated": 1695833102023,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					461.35563788612603,
+					1054.5196442759343
+				],
+				[
+					941.5765320101998,
+					49.052677432748624
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
+				"focus": 0.969821979736116,
+				"gap": 9.625073717267398
+			},
+			"endBinding": {
+				"elementId": "FIDBMLzjrfzve5OMQrY0z",
+				"focus": -0.9847623390834418,
+				"gap": 18.585435574066594
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "kjhJTfrY",
+			"type": "text",
+			"x": -563.8154416650027,
+			"y": 2923.133300079778,
+			"width": 231.6798095703125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1582833499,
+			"version": 31,
+			"versionNonce": 873849973,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695833116138,
+			"link": null,
+			"locked": false,
+			"text": "get /mipagina_pugafran",
+			"rawText": "get /mipagina_pugafran",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "w_62iYnNZ_UJPft65NNz7",
+			"originalText": "get /mipagina_pugafran"
 		},
 		{
 			"id": "GQPhFLsb",
@@ -1641,10 +1788,10 @@ POST /datoslogin
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1336.0956162331674,
-		"scrollY": -2121.625256816759,
+		"scrollX": 1959.2135493521318,
+		"scrollY": -1575.4722765744038,
 		"zoom": {
-			"value": 0.9518370549345699
+			"value": 0.5188936941290583
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
