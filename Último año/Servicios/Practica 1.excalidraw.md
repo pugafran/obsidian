@@ -21,6 +21,8 @@ a = str(a, "utf8") => a = 'coña mala' ^PdJ0RKp9
 
 Decodificar ^KOSQOQri
 
+= ^dIwzTM3i
+
 %%
 # Drawing
 ```json
@@ -341,7 +343,7 @@ Decodificar ^KOSQOQri
 		{
 			"id": "rCrgGAHSX_j5l3zAA0Rr5",
 			"type": "arrow",
-			"x": 96.44140625,
+			"x": 96.32421875,
 			"y": -26.87890625,
 			"width": 483.62109375,
 			"height": 196.6953125,
@@ -358,11 +360,16 @@ Decodificar ^KOSQOQri
 				"type": 2
 			},
 			"seed": 2080229416,
-			"version": 273,
-			"versionNonce": 697322328,
+			"version": 277,
+			"versionNonce": 1431930664,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695815707174,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "dIwzTM3i"
+				}
+			],
+			"updated": 1695815707895,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -382,16 +389,50 @@ Decodificar ^KOSQOQri
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "PdJ0RKp9",
-				"focus": -0.21885337330341356,
+				"focus": -0.2183694758657976,
 				"gap": 9.37890625
 			},
 			"endBinding": {
 				"elementId": "AOT9XFoR",
-				"focus": 0.23924285154376265,
+				"focus": 0.2401749473244776,
 				"gap": 10.780468750000004
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "dIwzTM3i",
+			"type": "text",
+			"x": -108.19343566894531,
+			"y": 81.2578125,
+			"width": 12.339996337890625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1717758552,
+			"version": 4,
+			"versionNonce": 1413362776,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695815709979,
+			"link": null,
+			"locked": false,
+			"text": "=",
+			"rawText": "=",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "rCrgGAHSX_j5l3zAA0Rr5",
+			"originalText": "="
 		},
 		{
 			"id": "nMMyDxEb",
