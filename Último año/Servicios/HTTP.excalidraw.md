@@ -40,7 +40,9 @@ CRLFCRLF se acabó la cabecera
 
 get no lleva cuerpo, la petición
 puede o no llevar cuerpo, post
-si lleva cuerpo. ^sKxRWreW
+si lleva cuerpo.
+
+content length es el cuerpo básicamente ^sKxRWreW
 
 %%
 # Drawing
@@ -498,8 +500,8 @@ si lleva cuerpo. ^sKxRWreW
 		{
 			"id": "2GAV0zp3",
 			"type": "text",
-			"x": 176.7683687679098,
-			"y": 48.41391799611233,
+			"x": 167.95728213651523,
+			"y": -41.48214751888477,
 			"width": 416.19970703125,
 			"height": 24,
 			"angle": 0,
@@ -513,11 +515,11 @@ si lleva cuerpo. ^sKxRWreW
 			"groupIds": [],
 			"roundness": null,
 			"seed": 892582875,
-			"version": 46,
-			"versionNonce": 1392194965,
+			"version": 83,
+			"versionNonce": 226342005,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831484012,
+			"updated": 1695831667330,
 			"link": null,
 			"locked": false,
 			"text": "Lo único que importa realmente es el 200",
@@ -532,10 +534,10 @@ si lleva cuerpo. ^sKxRWreW
 		{
 			"id": "sKxRWreW",
 			"type": "text",
-			"x": 274.4741677992289,
-			"y": 133.51251715242276,
-			"width": 325.559814453125,
-			"height": 120,
+			"x": 186.1129632065149,
+			"y": 24.71385963733084,
+			"width": 395.1396484375,
+			"height": 168,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -547,21 +549,21 @@ si lleva cuerpo. ^sKxRWreW
 			"groupIds": [],
 			"roundness": null,
 			"seed": 210248859,
-			"version": 122,
-			"versionNonce": 1628754197,
+			"version": 274,
+			"versionNonce": 399223413,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831594131,
+			"updated": 1695831668498,
 			"link": null,
 			"locked": false,
-			"text": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.",
-			"rawText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.",
+			"text": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.\n\ncontent length es el cuerpo básicamente",
+			"rawText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.\n\ncontent length es el cuerpo básicamente",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo."
+			"originalText": "CRLFCRLF se acabó la cabecera\n\nget no lleva cuerpo, la petición\npuede o no llevar cuerpo, post\nsi lleva cuerpo.\n\ncontent length es el cuerpo básicamente"
 		}
 	],
 	"appState": {
@@ -579,8 +581,8 @@ si lleva cuerpo. ^sKxRWreW
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 718.3428223577262,
-		"scrollY": 156.0755206015264,
+		"scrollX": 817.0992213786304,
+		"scrollY": -190.62247596121998,
 		"zoom": {
 			"value": 0.9518370549345699
 		},
