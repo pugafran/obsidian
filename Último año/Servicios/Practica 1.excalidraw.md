@@ -10,7 +10,8 @@ tags: [excalidraw]
 # Text Elements
     "Coña mala" ^AOT9XFoR
 
-.encode() ^j7GtjtjS
+.encode("utf8")
+ ^j7GtjtjS
 
 %%
 # Drawing
@@ -58,9 +59,9 @@ tags: [excalidraw]
 			"id": "j7GtjtjS",
 			"type": "text",
 			"x": -163,
-			"y": -290.2578125,
-			"width": 84.25991821289062,
-			"height": 24,
+			"y": -290.390625,
+			"width": 145.0598602294922,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -72,21 +73,21 @@ tags: [excalidraw]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 427850280,
-			"version": 10,
-			"versionNonce": 1199353944,
+			"version": 18,
+			"versionNonce": 588186456,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695815271149,
+			"updated": 1695815298991,
 			"link": null,
 			"locked": false,
-			"text": ".encode()",
-			"rawText": ".encode()",
+			"text": ".encode(\"utf8\")\n",
+			"rawText": ".encode(\"utf8\")\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": ".encode()"
+			"originalText": ".encode(\"utf8\")\n"
 		}
 	],
 	"appState": {
