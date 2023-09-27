@@ -93,12 +93,14 @@ Github ^FsCpORzq
 
 301
 (Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)
-location: login ^g0t984IR
+location: login
+(toma el login) ^g0t984IR
 
-get /login ^24KGZrrp
+get /login
+(dame el login) ^24KGZrrp
 
 200 OK
- ^gfncqweZ
+(bai bai toma toma) ^gfncqweZ
 
 POST /datoslogin
 (envías los datos) ^jORWENHj
@@ -1122,10 +1124,10 @@ get /mipagina_pugafran
 		{
 			"id": "g0t984IR",
 			"type": "text",
-			"x": -605.6365914439617,
-			"y": 1923.7338299398784,
+			"x": -706.3165230845873,
+			"y": 1935.7338299398787,
 			"width": 516.57958984375,
-			"height": 96,
+			"height": 120,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1137,21 +1139,21 @@ get /mipagina_pugafran
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1920418619,
-			"version": 194,
-			"versionNonce": 1995008379,
+			"version": 228,
+			"versionNonce": 1321368699,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833221604,
+			"updated": 1695833263743,
 			"link": null,
 			"locked": false,
-			"text": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de\nquién eres tonto, vete aquí al formulario del login)\nlocation: login",
-			"rawText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)\nlocation: login",
+			"text": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de\nquién eres tonto, vete aquí al formulario del login)\nlocation: login\n(toma el login)",
+			"rawText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)\nlocation: login\n(toma el login)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "xoCE_KYmd0Vc_Z57gigyJ",
-			"originalText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)\nlocation: login"
+			"originalText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)\nlocation: login\n(toma el login)"
 		},
 		{
 			"id": "uaFI_CRDUKjgTGJhnBPfo",
@@ -1216,10 +1218,10 @@ get /mipagina_pugafran
 		{
 			"id": "24KGZrrp",
 			"type": "text",
-			"x": -497.59472252599573,
-			"y": 2204.741491030002,
-			"width": 92.33992004394531,
-			"height": 24,
+			"x": -521.2547032999214,
+			"y": 2192.741491030002,
+			"width": 139.65988159179688,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1231,21 +1233,21 @@ get /mipagina_pugafran
 			"groupIds": [],
 			"roundness": null,
 			"seed": 503151835,
-			"version": 18,
-			"versionNonce": 1117028891,
+			"version": 45,
+			"versionNonce": 160115637,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833221604,
+			"updated": 1695833246439,
 			"link": null,
 			"locked": false,
-			"text": "get /login",
-			"rawText": "get /login",
+			"text": "get /login\n(dame el login)",
+			"rawText": "get /login\n(dame el login)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "uaFI_CRDUKjgTGJhnBPfo",
-			"originalText": "get /login"
+			"originalText": "get /login\n(dame el login)"
 		},
 		{
 			"id": "LQVF_W4YA2eIvZSf590yw",
@@ -1310,9 +1312,9 @@ get /mipagina_pugafran
 		{
 			"id": "gfncqweZ",
 			"type": "text",
-			"x": -499.26314649094536,
-			"y": 2336.895854100723,
-			"width": 78.53996276855469,
+			"x": -572.2669737374954,
+			"y": 2336.8977342271455,
+			"width": 197.57984924316406,
 			"height": 48,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -1325,21 +1327,21 @@ get /mipagina_pugafran
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1260970005,
-			"version": 57,
-			"versionNonce": 1720944315,
+			"version": 79,
+			"versionNonce": 1337719803,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833221604,
+			"updated": 1695833270237,
 			"link": null,
 			"locked": false,
-			"text": "200 OK\n",
-			"rawText": "200 OK\n",
+			"text": "200 OK\n(bai bai toma toma)",
+			"rawText": "200 OK\n(bai bai toma toma)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "LQVF_W4YA2eIvZSf590yw",
-			"originalText": "200 OK\n"
+			"originalText": "200 OK\n(bai bai toma toma)"
 		},
 		{
 			"id": "pzbdo3BQgxo3ngcsydz_N",
@@ -1701,11 +1703,11 @@ get /mipagina_pugafran
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1895841045,
-			"version": 54,
-			"versionNonce": 784396763,
+			"version": 60,
+			"versionNonce": 28326549,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833221604,
+			"updated": 1695833248208,
 			"link": null,
 			"locked": false,
 			"text": "200 OK\n(toma la página)",
