@@ -55,6 +55,14 @@ READ GET
 UPDATE PUT
 DELETE DELETE ^HFRRJTGS
 
+Códigos de estado:
+
+100-199 información 
+200-299 Éxito
+300-399 Redirección
+400-499 Error del cliente
+500-599 Error del servidor ^8WY4xbn3
+
 %%
 # Drawing
 ```json
@@ -643,6 +651,40 @@ DELETE DELETE ^HFRRJTGS
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "CRUD\nCREATE POST\nREAD GET\nUPDATE PUT\nDELETE DELETE"
+		},
+		{
+			"id": "8WY4xbn3",
+			"type": "text",
+			"x": -287.59682662825435,
+			"y": 1007.6117084863769,
+			"width": 269.05975341796875,
+			"height": 168,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1088548149,
+			"version": 199,
+			"versionNonce": 2079121749,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832018898,
+			"link": null,
+			"locked": false,
+			"text": "Códigos de estado:\n\n100-199 información \n200-299 Éxito\n300-399 Redirección\n400-499 Error del cliente\n500-599 Error del servidor",
+			"rawText": "Códigos de estado:\n\n100-199 información \n200-299 Éxito\n300-399 Redirección\n400-499 Error del cliente\n500-599 Error del servidor",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Códigos de estado:\n\n100-199 información \n200-299 Éxito\n300-399 Redirección\n400-499 Error del cliente\n500-599 Error del servidor"
 		}
 	],
 	"appState": {
@@ -660,8 +702,8 @@ DELETE DELETE ^HFRRJTGS
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 817.0992213786304,
-		"scrollY": -190.62247596121998,
+		"scrollX": 865.426820899498,
+		"scrollY": -486.89167302393025,
 		"zoom": {
 			"value": 0.9518370549345699
 		},
