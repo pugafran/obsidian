@@ -84,6 +84,9 @@ estar ahí, va a estar en el otro.
 
 '302 found': ^npN8BafV
 
+Quiero entra al github
+get /mipagina ^6M1l7IRH
+
 %%
 # Drawing
 ```json
@@ -740,6 +743,153 @@ estar ahí, va a estar en el otro.
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.\n\nEl cliente manda un post mediante cabeceras especiales para hacer lo del 100 continue.\n\n102 es por si quieres cambiar de http 1.1 a 2.0 o algo y que te diga, altoke mirey.\n\n'200 OK' La petición se ha completado con éxito' Junto con el cuerpo que es el recurso\nque le han pedido.\n\n'204 No content' La petición se ha completado con éxito pero no tiene necesidad de devolverle\nnada, por ejemplo si hace un DELETE, ha pasado, pero no tiene por qué mandarle nada, se borró y ya.\n\n'301 moved permanently' Redirección, el fichero estaba en un domicilio, vas y te dice que no que ahora vive\nen otro sitio, pues eso. El cliente solicita un recurso al servidor y este responde con 301, ya no está en esta\nURL sino en otra, y la URL válida la manda en una cabecera 'location', es posible que del nuevo URL surja\notra redirección. Un navegador sigue las redirecciones automáticamente. En este caso es , ya nunca va más a\nestar ahí, va a estar en el otro.\n\n'302 found':"
+		},
+		{
+			"id": "M6URqLX3Wnl4AN6QRkmgB",
+			"type": "arrow",
+			"x": -618.4783686603103,
+			"y": 1860.39931487537,
+			"width": 357.979634732147,
+			"height": 17.815056854626846,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 772518901,
+			"version": 50,
+			"versionNonce": 1393307861,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "6M1l7IRH"
+				}
+			],
+			"updated": 1695832690455,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					357.979634732147,
+					17.815056854626846
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "FIDBMLzjrfzve5OMQrY0z",
+				"focus": -0.07475561703002366,
+				"gap": 6.06576555826593
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "6M1l7IRH",
+			"type": "text",
+			"x": -549.3284560793932,
+			"y": 1845.3068433026835,
+			"width": 219.6798095703125,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 2103656021,
+			"version": 46,
+			"versionNonce": 987782491,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832680304,
+			"link": null,
+			"locked": false,
+			"text": "Quiero entra al github\nget /mipagina",
+			"rawText": "Quiero entra al github\nget /mipagina",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "M6URqLX3Wnl4AN6QRkmgB",
+			"originalText": "Quiero entra al github\nget /mipagina"
+		},
+		{
+			"id": "J1LHvgNa7ovsfWbT3lnt3",
+			"type": "ellipse",
+			"x": -698.1516038079092,
+			"y": 1811.5341036410823,
+			"width": 79.09048046587645,
+			"height": 80.4160421714846,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 981132699,
+			"version": 114,
+			"versionNonce": 2039911061,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832664922,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "FIDBMLzjrfzve5OMQrY0z",
+			"type": "ellipse",
+			"x": -254.44136836321752,
+			"y": 1819.598279342382,
+			"width": 120.43733552470303,
+			"height": 115.20485510782919,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2000812539,
+			"version": 335,
+			"versionNonce": 1470870267,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "M6URqLX3Wnl4AN6QRkmgB",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695832690455,
+			"link": null,
+			"locked": false
 		},
 		{
 			"id": "GQPhFLsb",
