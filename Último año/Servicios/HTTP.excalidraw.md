@@ -769,10 +769,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "M6URqLX3Wnl4AN6QRkmgB",
 			"type": "arrow",
-			"x": -618.4783686603103,
-			"y": 1860.39931487537,
-			"width": 357.7465700172807,
-			"height": 14.566539289542334,
+			"x": -623.5376369316989,
+			"y": 1862.1817815964018,
+			"width": 362.942683983559,
+			"height": 11.146784947177366,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -786,8 +786,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 772518901,
-			"version": 135,
-			"versionNonce": 946510773,
+			"version": 335,
+			"versionNonce": 376588507,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -795,7 +795,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "6M1l7IRH"
 				}
 			],
-			"updated": 1695832982839,
+			"updated": 1695833142298,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -804,15 +804,15 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					357.7465700172807,
-					14.566539289542334
+					362.942683983559,
+					11.146784947177366
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.0586109857031189,
-				"gap": 2.9479142258097397
+				"gap": 2.9479142258097397,
+				"focus": 0.0586109857031189
 			},
 			"endBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
@@ -859,9 +859,9 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "J1LHvgNa7ovsfWbT3lnt3",
 			"type": "ellipse",
-			"x": -925.6063635749709,
+			"x": -1150.606363574971,
 			"y": 1811.2421247268246,
-			"width": 307,
+			"width": 532,
 			"height": 81,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -876,8 +876,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 981132699,
-			"version": 169,
-			"versionNonce": 1676012501,
+			"version": 236,
+			"versionNonce": 2083395835,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -911,16 +911,20 @@ get /mipagina_pugafran ^kjhJTfrY
 				{
 					"id": "w_62iYnNZ_UJPft65NNz7",
 					"type": "arrow"
+				},
+				{
+					"id": "K7xKKijMvDE1_WttJkAZg",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695833097223,
+			"updated": 1695833171079,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "AAhomlSP",
 			"type": "text",
-			"x": -782.8472438059537,
+			"x": -895.3967566894403,
 			"y": 1839.6043000887694,
 			"width": 21.399978637695312,
 			"height": 24,
@@ -935,11 +939,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1725484309,
-			"version": 50,
-			"versionNonce": 1234652539,
+			"version": 116,
+			"versionNonce": 924358139,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832982838,
+			"updated": 1695833123333,
 			"link": null,
 			"locked": false,
 			"text": "Yo",
@@ -954,9 +958,9 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "FIDBMLzjrfzve5OMQrY0z",
 			"type": "ellipse",
-			"x": -254.722700600866,
+			"x": -254.97865379802886,
 			"y": 1819.2007068962967,
-			"width": 312,
+			"width": 525,
 			"height": 116,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -971,8 +975,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 2000812539,
-			"version": 415,
-			"versionNonce": 1950591285,
+			"version": 443,
+			"versionNonce": 983850075,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1006,16 +1010,20 @@ get /mipagina_pugafran ^kjhJTfrY
 				{
 					"id": "w_62iYnNZ_UJPft65NNz7",
 					"type": "arrow"
+				},
+				{
+					"id": "K7xKKijMvDE1_WttJkAZg",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695833097224,
+			"updated": 1695833171079,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "FsCpORzq",
 			"type": "text",
-			"x": -129.96132825356509,
+			"x": -24.02415364709526,
 			"y": 1865.1885135874768,
 			"width": 62.85993957519531,
 			"height": 24,
@@ -1030,11 +1038,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1332543477,
-			"version": 74,
-			"versionNonce": 1280092507,
+			"version": 101,
+			"versionNonce": 833979227,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832959585,
+			"updated": 1695833142301,
 			"link": null,
 			"locked": false,
 			"text": "Github",
@@ -1049,10 +1057,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "xoCE_KYmd0Vc_Z57gigyJ",
 			"type": "arrow",
-			"x": -211.03856310851162,
-			"y": 1919.9317712118807,
-			"width": 469.3052461139737,
-			"height": 200,
+			"x": -155.66773770343286,
+			"y": 1924.6683551009169,
+			"width": 599.146167414023,
+			"height": 100.50815023897871,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1066,8 +1074,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1814001045,
-			"version": 588,
-			"versionNonce": 1049474005,
+			"version": 782,
+			"versionNonce": 2002224725,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1075,7 +1083,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "g0t984IR"
 				}
 			],
-			"updated": 1695832986772,
+			"updated": 1695833142299,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1084,24 +1092,24 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					-236.98816505420018,
-					75.80205872799797
+					-292.3589904592789,
+					71.06547483896179
 				],
 				[
-					-469.3052461139737,
-					-26.75490709314954
+					-599.146167414023,
+					-29.442675400016924
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.08895811440645074,
-				"gap": 2.315150745017789
+				"gap": 2.315150745017789,
+				"focus": -0.08895811440645074
 			},
 			"endBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.01172898438291013,
-				"gap": 8.80400759566814
+				"gap": 8.80400759566814,
+				"focus": 0.01172898438291013
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1111,8 +1119,8 @@ get /mipagina_pugafran ^kjhJTfrY
 			"type": "text",
 			"x": -605.6365914439617,
 			"y": 1923.7338299398784,
-			"width": 356.0797119140625,
-			"height": 120,
+			"width": 516.57958984375,
+			"height": 96,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1124,14 +1132,14 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1920418619,
-			"version": 185,
-			"versionNonce": 1896795285,
+			"version": 193,
+			"versionNonce": 606086165,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832985738,
+			"updated": 1695833142123,
 			"link": null,
 			"locked": false,
-			"text": "301\n(Vuelve a pedirmelo que no tengo ni \nputisima idea de quién eres tonto, \nvete aquí al formulario del login)\nlocation: login",
+			"text": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de\nquién eres tonto, vete aquí al formulario del login)\nlocation: login",
 			"rawText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)\nlocation: login",
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -1143,10 +1151,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "uaFI_CRDUKjgTGJhnBPfo",
 			"type": "arrow",
-			"x": -728.6022029990394,
-			"y": 1902.838240048626,
-			"width": 566.0224422786088,
-			"height": 313.90325098137623,
+			"x": -825.3954755745315,
+			"y": 1903.2710730680865,
+			"width": 745.4230331142123,
+			"height": 313.4704179619157,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1160,8 +1168,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 694485755,
-			"version": 497,
-			"versionNonce": 197664725,
+			"version": 597,
+			"versionNonce": 1888122235,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1169,7 +1177,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "24KGZrrp"
 				}
 			],
-			"updated": 1695832989987,
+			"updated": 1695833142299,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1178,24 +1186,24 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					277.1774404950163,
-					313.90325098137623
+					373.9707130705084,
+					313.4704179619157
 				],
 				[
-					566.0224422786088,
-					28.46210047605291
+					745.4230331142123,
+					29.716203087423764
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.010239473076643548,
-				"gap": 12.220482609333175
+				"gap": 12.220482609333175,
+				"focus": 0.010239473076643548
 			},
 			"endBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": 0.05467088489911619,
-				"gap": 1.1654407241412983
+				"gap": 1.1654407241412983,
+				"focus": 0.05467088489911619
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1237,10 +1245,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "LQVF_W4YA2eIvZSf590yw",
 			"type": "arrow",
-			"x": -99.2174622838827,
-			"y": 1938.1008714740371,
-			"width": 689.8072756339477,
-			"height": 455.8101622556626,
+			"x": -9.613194480625339,
+			"y": 1938.29572050656,
+			"width": 860.6739997335756,
+			"height": 456.13434302913083,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1254,8 +1262,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 615150581,
-			"version": 518,
-			"versionNonce": 885819387,
+			"version": 713,
+			"versionNonce": 1539409723,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1263,7 +1271,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "gfncqweZ"
 				}
 			],
-			"updated": 1695832993239,
+			"updated": 1695833145420,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1272,24 +1280,24 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					-374.0262177405001,
-					423.03023184463905
+					-463.86385463528813,
+					422.6020137205853
 				],
 				[
-					-689.8072756339477,
-					-32.77993041102354
+					-860.6739997335756,
+					-33.53232930854551
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.32488804808381233,
-				"gap": 2.9004542788707823
+				"focus": -0.18483472157656688,
+				"gap": 3.218372106316721
 			},
 			"endBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.34629677552971483,
-				"gap": 13.319992230950817
+				"focus": 0.11853699325606895,
+				"gap": 12.579569325140199
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1297,8 +1305,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "gfncqweZ",
 			"type": "text",
-			"x": -499.0297773994147,
-			"y": 2337.1292231922544,
+			"x": -499.26314649094536,
+			"y": 2336.895854100723,
 			"width": 78.53996276855469,
 			"height": 48,
 			"angle": 0,
@@ -1312,11 +1320,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1260970005,
-			"version": 55,
-			"versionNonce": 978844827,
+			"version": 56,
+			"versionNonce": 1493232789,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832990036,
+			"updated": 1695833125055,
 			"link": null,
 			"locked": false,
 			"text": "200 OK\n",
@@ -1331,10 +1339,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "pzbdo3BQgxo3ngcsydz_N",
 			"type": "arrow",
-			"x": -831.20395081071,
-			"y": 1898.7817170401318,
-			"width": 782.2408499819578,
-			"height": 650.3392417883247,
+			"x": -937.438098344532,
+			"y": 1904.5741933730276,
+			"width": 986.982092954627,
+			"height": 644.5467654554288,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1348,8 +1356,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1827790651,
-			"version": 793,
-			"versionNonce": 281822427,
+			"version": 975,
+			"versionNonce": 947180533,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1357,7 +1365,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "jORWENHj"
 				}
 			],
-			"updated": 1695832995754,
+			"updated": 1695833147971,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1366,24 +1374,24 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					377.34967583077423,
-					650.3392417883247
+					483.58382336459624,
+					644.5467654554288
 				],
 				[
-					782.2408499819578,
-					36.21924277632024
+					986.982092954627,
+					34.00652089942105
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.5563302119797893,
-				"gap": 9.604659150192255
+				"focus": 0.3453854990083606,
+				"gap": 13.132730275341245
 			},
 			"endBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.5470574383915014,
-				"gap": 2.8081988482673808
+				"focus": -0.3471669491388415,
+				"gap": 4.125393660408896
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1425,10 +1433,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "4B-XLgDlkp-0Zv89QzFQC",
 			"type": "arrow",
-			"x": -8.535308301194618,
-			"y": 1932.96458446844,
-			"width": 870.6478062119219,
-			"height": 791.2577405927655,
+			"x": 120.6339723155196,
+			"y": 1934.1533000017278,
+			"width": 1109.669117395538,
+			"height": 785.1644095969327,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1442,8 +1450,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 1758375419,
-			"version": 96,
-			"versionNonce": 1873177467,
+			"version": 300,
+			"versionNonce": 1456178491,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1451,7 +1459,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "YYz7DqQf"
 				}
 			],
-			"updated": 1695833033190,
+			"updated": 1695833151057,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1460,24 +1468,24 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					-442.1015042106412,
-					748.9834027306342
+					-571.5267380245185,
+					747.7946871973465
 				],
 				[
-					-870.6478062119219,
-					-42.27433786213123
+					-1109.669117395538,
+					-37.36972239958618
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.7707792717874139,
-				"gap": 8.16925970696957
+				"focus": -0.5883951066949898,
+				"gap": 4.588221630268407
 			},
 			"endBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.8265941131490894,
-				"gap": 9.629177766470988
+				"focus": 0.5058982291515328,
+				"gap": 7.776728119189727
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1485,7 +1493,7 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "YYz7DqQf",
 			"type": "text",
-			"x": -590.6766989864454,
+			"x": -590.9326521836085,
 			"y": 2645.9479871990743,
 			"width": 280.07977294921875,
 			"height": 72,
@@ -1500,11 +1508,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1940074581,
-			"version": 81,
-			"versionNonce": 743096923,
+			"version": 82,
+			"versionNonce": 3139291,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833079825,
+			"updated": 1695833131442,
 			"link": null,
 			"locked": false,
 			"text": "302 \nlocation: /mipagina_pugafran\n(toma ya sé quien eres)",
@@ -1519,10 +1527,10 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "w_62iYnNZ_UJPft65NNz7",
 			"type": "arrow",
-			"x": -909.3311747659725,
-			"y": 1880.6136558038438,
-			"width": 941.5765320101998,
-			"height": 1054.5196442759343,
+			"x": -1036.3900657900722,
+			"y": 1903.4934127242034,
+			"width": 1201.3058280109412,
+			"height": 1031.6398873555747,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1536,8 +1544,8 @@ get /mipagina_pugafran ^kjhJTfrY
 				"type": 2
 			},
 			"seed": 92537397,
-			"version": 137,
-			"versionNonce": 1782601685,
+			"version": 356,
+			"versionNonce": 1551500923,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1545,7 +1553,7 @@ get /mipagina_pugafran ^kjhJTfrY
 					"id": "kjhJTfrY"
 				}
 			],
-			"updated": 1695833102023,
+			"updated": 1695833154537,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1554,24 +1562,24 @@ get /mipagina_pugafran ^kjhJTfrY
 					0
 				],
 				[
-					461.35563788612603,
-					1054.5196442759343
+					588.632841931335,
+					1031.6398873555747
 				],
 				[
-					941.5765320101998,
-					49.052677432748624
+					1201.3058280109412,
+					25.755072024684978
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
-				"focus": 0.969821979736116,
-				"gap": 9.625073717267398
+				"focus": 0.6790661640571964,
+				"gap": 18.391237395055157
 			},
 			"endBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.9847623390834418,
-				"gap": 18.585435574066594
+				"focus": -0.7139299720008404,
+				"gap": 5.555353805157637
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1579,7 +1587,7 @@ get /mipagina_pugafran ^kjhJTfrY
 		{
 			"id": "kjhJTfrY",
 			"type": "text",
-			"x": -563.8154416650027,
+			"x": -563.5971286438935,
 			"y": 2923.133300079778,
 			"width": 231.6798095703125,
 			"height": 24,
@@ -1594,11 +1602,11 @@ get /mipagina_pugafran ^kjhJTfrY
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1582833499,
-			"version": 31,
-			"versionNonce": 873849973,
+			"version": 32,
+			"versionNonce": 452262229,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695833116138,
+			"updated": 1695833151083,
 			"link": null,
 			"locked": false,
 			"text": "get /mipagina_pugafran",
@@ -1609,6 +1617,57 @@ get /mipagina_pugafran ^kjhJTfrY
 			"verticalAlign": "middle",
 			"containerId": "w_62iYnNZ_UJPft65NNz7",
 			"originalText": "get /mipagina_pugafran"
+		},
+		{
+			"id": "K7xKKijMvDE1_WttJkAZg",
+			"type": "arrow",
+			"x": 201.8519905407029,
+			"y": 1932.933500518025,
+			"width": 1324.5879074588465,
+			"height": 49.790424883394735,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1175027483,
+			"version": 133,
+			"versionNonce": 1973578453,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695833171079,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1324.5879074588465,
+					-49.790424883394735
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "FIDBMLzjrfzve5OMQrY0z",
+				"focus": -0.8231391865428563,
+				"gap": 16.285369203271117
+			},
+			"endBinding": {
+				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
+				"focus": 0.9673046692600361,
+				"gap": 12.807848054546156
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "GQPhFLsb",
@@ -1788,8 +1847,8 @@ get /mipagina_pugafran ^kjhJTfrY
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1959.2135493521318,
-		"scrollY": -1575.4722765744038,
+		"scrollX": 1905.2525929620228,
+		"scrollY": -1644.8506490759712,
 		"zoom": {
 			"value": 0.5188936941290583
 		},
