@@ -63,6 +63,9 @@ Códigos de estado:
 400-499 Error del cliente
 500-599 Error del servidor ^8WY4xbn3
 
+`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)
+y que te diga, ok dale mi rey. ^npN8BafV
+
 %%
 # Drawing
 ```json
@@ -685,6 +688,40 @@ Códigos de estado:
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Códigos de estado:\n\n100-199 información \n200-299 Éxito\n300-399 Redirección\n400-499 Error del cliente\n500-599 Error del servidor"
+		},
+		{
+			"id": "npN8BafV",
+			"type": "text",
+			"x": -657.2684901507339,
+			"y": 1290.0302220926565,
+			"width": 822.79931640625,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1509042107,
+			"version": 209,
+			"versionNonce": 1620471253,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832068178,
+			"link": null,
+			"locked": false,
+			"text": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.",
+			"rawText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey."
 		}
 	],
 	"appState": {
@@ -702,8 +739,8 @@ Códigos de estado:
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 865.426820899498,
-		"scrollY": -486.89167302393025,
+		"scrollX": 890.6412206495162,
+		"scrollY": -846.1968694616855,
 		"zoom": {
 			"value": 0.9518370549345699
 		},
