@@ -87,6 +87,13 @@ estar ahí, va a estar en el otro.
 Quiero entra al github
 get /mipagina ^6M1l7IRH
 
+Yo ^AAhomlSP
+
+Github ^FsCpORzq
+
+301
+(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login) ^g0t984IR
+
 %%
 # Drawing
 ```json
@@ -749,8 +756,8 @@ get /mipagina ^6M1l7IRH
 			"type": "arrow",
 			"x": -618.4783686603103,
 			"y": 1860.39931487537,
-			"width": 357.979634732147,
-			"height": 17.815056854626846,
+			"width": 357.93772994410085,
+			"height": 17.812971439399234,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -764,8 +771,8 @@ get /mipagina ^6M1l7IRH
 				"type": 2
 			},
 			"seed": 772518901,
-			"version": 50,
-			"versionNonce": 1393307861,
+			"version": 51,
+			"versionNonce": 300473595,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -773,7 +780,7 @@ get /mipagina ^6M1l7IRH
 					"id": "6M1l7IRH"
 				}
 			],
-			"updated": 1695832690455,
+			"updated": 1695832699371,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -782,16 +789,16 @@ get /mipagina ^6M1l7IRH
 					0
 				],
 				[
-					357.979634732147,
-					17.815056854626846
+					357.93772994410085,
+					17.812971439399234
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "FIDBMLzjrfzve5OMQrY0z",
-				"focus": -0.07475561703002366,
-				"gap": 6.06576555826593
+				"gap": 6.107631523864745,
+				"focus": -0.07475561703002366
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -833,10 +840,10 @@ get /mipagina ^6M1l7IRH
 		{
 			"id": "J1LHvgNa7ovsfWbT3lnt3",
 			"type": "ellipse",
-			"x": -698.1516038079092,
-			"y": 1811.5341036410823,
-			"width": 79.09048046587645,
-			"height": 80.4160421714846,
+			"x": -698.6063635749709,
+			"y": 1811.2421247268246,
+			"width": 80,
+			"height": 81,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -850,21 +857,64 @@ get /mipagina ^6M1l7IRH
 				"type": 2
 			},
 			"seed": 981132699,
-			"version": 114,
-			"versionNonce": 2039911061,
+			"version": 117,
+			"versionNonce": 1092798837,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1695832664922,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "AAhomlSP"
+				},
+				{
+					"id": "xoCE_KYmd0Vc_Z57gigyJ",
+					"type": "arrow"
+				}
+			],
+			"updated": 1695832706006,
 			"link": null,
 			"locked": false
 		},
 		{
+			"id": "AAhomlSP",
+			"type": "text",
+			"x": -669.0906241412805,
+			"y": 1839.6043000887694,
+			"width": 21.399978637695312,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1725484309,
+			"version": 6,
+			"versionNonce": 421730965,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832696374,
+			"link": null,
+			"locked": false,
+			"text": "Yo",
+			"rawText": "Yo",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "J1LHvgNa7ovsfWbT3lnt3",
+			"originalText": "Yo"
+		},
+		{
 			"id": "FIDBMLzjrfzve5OMQrY0z",
 			"type": "ellipse",
-			"x": -254.44136836321752,
-			"y": 1819.598279342382,
-			"width": 120.43733552470303,
-			"height": 115.20485510782919,
+			"x": -254.722700600866,
+			"y": 1819.2007068962967,
+			"width": 121,
+			"height": 116,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -878,18 +928,154 @@ get /mipagina ^6M1l7IRH
 				"type": 2
 			},
 			"seed": 2000812539,
-			"version": 335,
-			"versionNonce": 1470870267,
+			"version": 340,
+			"versionNonce": 1412699157,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "M6URqLX3Wnl4AN6QRkmgB",
 					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "FsCpORzq"
+				},
+				{
+					"id": "xoCE_KYmd0Vc_Z57gigyJ",
+					"type": "arrow"
 				}
 			],
-			"updated": 1695832690455,
+			"updated": 1695832706006,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "FsCpORzq",
+			"type": "text",
+			"x": -225.4326306502498,
+			"y": 1865.1885135874768,
+			"width": 62.85993957519531,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1332543477,
+			"version": 10,
+			"versionNonce": 1146717595,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832699371,
+			"link": null,
+			"locked": false,
+			"text": "Github",
+			"rawText": "Github",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "FIDBMLzjrfzve5OMQrY0z",
+			"originalText": "Github"
+		},
+		{
+			"id": "xoCE_KYmd0Vc_Z57gigyJ",
+			"type": "arrow",
+			"x": -231.9642740548112,
+			"y": 1934.470718047257,
+			"width": 402.16639288781823,
+			"height": 98.77281464574071,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1814001045,
+			"version": 77,
+			"versionNonce": 100524533,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "g0t984IR"
+				}
+			],
+			"updated": 1695832708307,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-215.9967916085518,
+					61.42726814099433
+				],
+				[
+					-402.16639288781823,
+					-37.34554650474638
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "FIDBMLzjrfzve5OMQrY0z",
+				"focus": -0.7692244929411153,
+				"gap": 9.857549965681336
+			},
+			"endBinding": {
+				"elementId": "J1LHvgNa7ovsfWbT3lnt3",
+				"focus": 0.708551966117628,
+				"gap": 11.1762158185022
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "g0t984IR",
+			"type": "text",
+			"x": -605.5709289446131,
+			"y": 1935.8979861882513,
+			"width": 315.2197265625,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1920418619,
+			"version": 138,
+			"versionNonce": 787514971,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695832743658,
+			"link": null,
+			"locked": false,
+			"text": "301\n(Vuelve a pedirmelo que no \ntengo ni putisima idea de quién \neres tonto, vete aquí al \nformulario del login)",
+			"rawText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "xoCE_KYmd0Vc_Z57gigyJ",
+			"originalText": "301\n(Vuelve a pedirmelo que no tengo ni putisima idea de quién eres tonto, vete aquí al formulario del login)"
 		},
 		{
 			"id": "GQPhFLsb",
@@ -923,6 +1109,40 @@ get /mipagina ^6M1l7IRH
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
+			"originalText": ""
+		},
+		{
+			"id": "gWp9jhB8",
+			"type": "text",
+			"x": -199.3037289296445,
+			"y": 1864.9696397601167,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1423687573,
+			"version": 4,
+			"versionNonce": 1616436603,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1695832694139,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "FIDBMLzjrfzve5OMQrY0z",
 			"originalText": ""
 		}
 	],
