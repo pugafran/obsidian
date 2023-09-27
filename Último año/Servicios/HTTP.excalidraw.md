@@ -64,7 +64,14 @@ Códigos de estado:
 500-599 Error del servidor ^8WY4xbn3
 
 `100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)
-y que te diga, ok dale mi rey. ^npN8BafV
+y que te diga, ok dale mi rey.
+
+El cliente manda un post mediante cabeceras especiales para hacer lo del 100 continue.
+
+102 es por si quieres cambiar de http 1.1 a 2.0 o algo y que te diga, altoke mirey.
+
+'200 OK' La petición se ha completado con 
+ ^npN8BafV
 
 %%
 # Drawing
@@ -692,10 +699,10 @@ y que te diga, ok dale mi rey. ^npN8BafV
 		{
 			"id": "npN8BafV",
 			"type": "text",
-			"x": -657.2684901507339,
+			"x": -657.4080229618505,
 			"y": 1290.0302220926565,
-			"width": 822.79931640625,
-			"height": 48,
+			"width": 872.8193359375,
+			"height": 216,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -707,21 +714,21 @@ y que te diga, ok dale mi rey. ^npN8BafV
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1509042107,
-			"version": 209,
-			"versionNonce": 1620471253,
+			"version": 509,
+			"versionNonce": 2012466229,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695832068178,
+			"updated": 1695832157293,
 			"link": null,
 			"locked": false,
-			"text": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.",
-			"rawText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.",
+			"text": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.\n\nEl cliente manda un post mediante cabeceras especiales para hacer lo del 100 continue.\n\n102 es por si quieres cambiar de http 1.1 a 2.0 o algo y que te diga, altoke mirey.\n\n'200 OK' La petición se ha completado con \n",
+			"rawText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.\n\nEl cliente manda un post mediante cabeceras especiales para hacer lo del 100 continue.\n\n102 es por si quieres cambiar de http 1.1 a 2.0 o algo y que te diga, altoke mirey.\n\n'200 OK' La petición se ha completado con \n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey."
+			"originalText": "`100 continue' => Es preguntarle al cliente si puede hacer algo (mandar un fichero)\ny que te diga, ok dale mi rey.\n\nEl cliente manda un post mediante cabeceras especiales para hacer lo del 100 continue.\n\n102 es por si quieres cambiar de http 1.1 a 2.0 o algo y que te diga, altoke mirey.\n\n'200 OK' La petición se ha completado con \n"
 		}
 	],
 	"appState": {
