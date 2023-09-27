@@ -116,6 +116,13 @@ get /mipagina_pugafran
 200 OK
 (toma la página) ^E6O7OpyT
 
+302 ya no se usa se usaba
+en http 1.0, ahora se usa
+el 303 y 307, porque 302 era
+ambigüo. ^u7vncDmu
+
+307 es temporalmente ^TvBhQNH2
+
 %%
 # Drawing
 ```json
@@ -1720,6 +1727,74 @@ get /mipagina_pugafran
 			"originalText": "200 OK\n(toma la página)"
 		},
 		{
+			"id": "u7vncDmu",
+			"type": "text",
+			"x": 355.32604438070416,
+			"y": 2790.828393126378,
+			"width": 307.1198425292969,
+			"height": 96,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 214137147,
+			"version": 137,
+			"versionNonce": 2085759931,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695833348140,
+			"link": null,
+			"locked": false,
+			"text": "302 ya no se usa se usaba\nen http 1.0, ahora se usa\nel 303 y 307, porque 302 era\nambigüo.",
+			"rawText": "302 ya no se usa se usaba\nen http 1.0, ahora se usa\nel 303 y 307, porque 302 era\nambigüo.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "302 ya no se usa se usaba\nen http 1.0, ahora se usa\nel 303 y 307, porque 302 era\nambigüo."
+		},
+		{
+			"id": "TvBhQNH2",
+			"type": "text",
+			"x": 332.19992021351504,
+			"y": 3081.832122230173,
+			"width": 218.15982055664062,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 794151637,
+			"version": 29,
+			"versionNonce": 447660565,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695833411734,
+			"link": null,
+			"locked": false,
+			"text": "307 es temporalmente",
+			"rawText": "307 es temporalmente",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "307 es temporalmente"
+		},
+		{
 			"id": "GQPhFLsb",
 			"type": "text",
 			"x": -183.58742765943066,
@@ -1897,8 +1972,8 @@ get /mipagina_pugafran
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1905.2525929620228,
-		"scrollY": -1644.8506490759712,
+		"scrollX": 1781.9132640703476,
+		"scrollY": -1837.568350469213,
 		"zoom": {
 			"value": 0.5188936941290583
 		},
