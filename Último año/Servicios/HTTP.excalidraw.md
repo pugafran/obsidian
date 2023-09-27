@@ -30,7 +30,9 @@ Primera línea terminada por \r\n
 
 Cada uno en una línea terminada por \r\n
     Una línea en blanco (\r\n) marca el fin de la cabecera
-    Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
+
+Contenido (formato libre, según su tipo). 
+    Puede estar ausente ^iPoz7bwG
 
 Lo único que importa realmente es el 200 ^2GAV0zp3
 
@@ -455,8 +457,8 @@ Lo único que importa realmente es el 200 ^2GAV0zp3
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 1987649045,
+			"version": 99,
+			"versionNonce": 1933866965,
 			"isDeleted": false,
 			"id": "iPoz7bwG",
 			"fillStyle": "hachure",
@@ -465,27 +467,27 @@ Lo único que importa realmente es el 200 ^2GAV0zp3
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -509.13572793888375,
+			"x": -509.27526075000037,
 			"y": 246.81035937825493,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 978.4391479492188,
-			"height": 264,
+			"height": 312,
 			"seed": 938075222,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695831529500,
+			"updated": 1695831553904,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n    Contenido (formato libre, según su tipo). Puede estar ausente",
-			"rawText": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n    Contenido (formato libre, según su tipo). Puede estar ausente",
+			"text": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n\nContenido (formato libre, según su tipo). \n    Puede estar ausente",
+			"rawText": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n\nContenido (formato libre, según su tipo). \n    Puede estar ausente",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n    Contenido (formato libre, según su tipo). Puede estar ausente"
+			"originalText": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n\nContenido (formato libre, según su tipo). \n    Puede estar ausente"
 		},
 		{
 			"id": "2GAV0zp3",
@@ -537,8 +539,8 @@ Lo único que importa realmente es el 200 ^2GAV0zp3
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 688.9260226493716,
-		"scrollY": 313.6655190391383,
+		"scrollX": 718.3428223577262,
+		"scrollY": 156.0755206015264,
 		"zoom": {
 			"value": 0.9518370549345699
 		},
