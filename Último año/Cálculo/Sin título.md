@@ -20,3 +20,5 @@ arreglar escalas dentro del draw antes del implicit => wxdraw2d(proportional_axe
 solve(x^2+3*x+1=0,x)
 
 algsys()
+
+teorema de bolzano 

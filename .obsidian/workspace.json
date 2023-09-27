@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "ca60e25bb2155cdc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2f0f37daa9efbe72",
             "type": "leaf",
             "state": {
@@ -108,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Cálculo/Sin título.md",
+                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Cálculo/Sin título.md",
+                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Cálculo/Sin título.md"
+                "file": "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md"
               }
             }
           },
@@ -254,10 +264,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c9d68095ef8cd9b",
+  "active": "ca60e25bb2155cdc",
   "lastOpenFiles": [
-    "Último año/Web/Scopes.md",
     "Último año/Cálculo/Sin título.md",
+    "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
+    "Último año/Web/Scopes.md",
     "Último año/Cálculo",
     "Último año/Servicios/HTTP.md",
     "Último año/Web/Instalación.md",
@@ -288,7 +299,6 @@
     "Pasted Image 20230921155217_053.png",
     "Pasted Image 20230921153028_616.png",
     "Pasted Image 20230921151516_479.png",
-    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
