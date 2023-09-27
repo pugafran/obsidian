@@ -20,8 +20,14 @@ ASCII 10 ^MgsRw0sb
     LF
 (Line Feed) ^QMgCV2pO
 
-Sintaxis de los mensajes HTPP:
- ^iPoz7bwG
+Sintaxis de los mensajes HTTP
+Son el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:
+Primera línea terminada por \r\n
+En la petición contiene el método solicitado
+En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)
+Cada uno en una línea terminada por \r\n
+Una línea en blanco (\r\n) marca el fin de la cabecera
+Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
 
 %%
 # Drawing
@@ -445,10 +451,10 @@ Sintaxis de los mensajes HTPP:
 		{
 			"id": "iPoz7bwG",
 			"type": "text",
-			"x": -508.76563262939453,
-			"y": 247.07421875,
-			"width": 310.39971923828125,
-			"height": 48,
+			"x": -508.83203887939453,
+			"y": 247.138671875,
+			"width": 938.4391479492188,
+			"height": 192,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -460,21 +466,21 @@ Sintaxis de los mensajes HTPP:
 			"groupIds": [],
 			"roundness": null,
 			"seed": 938075222,
-			"version": 60,
-			"versionNonce": 987385930,
+			"version": 62,
+			"versionNonce": 1384531402,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831251620,
+			"updated": 1695831336680,
 			"link": null,
 			"locked": false,
-			"text": "Sintaxis de los mensajes HTPP:\n",
-			"rawText": "Sintaxis de los mensajes HTPP:\n",
+			"text": "Sintaxis de los mensajes HTTP\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\nPrimera línea terminada por \\r\\n\nEn la petición contiene el método solicitado\nEn la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\nCada uno en una línea terminada por \\r\\n\nUna línea en blanco (\\r\\n) marca el fin de la cabecera\nContenido (formato libre, según su tipo). Puede estar ausente",
+			"rawText": "Sintaxis de los mensajes HTTP\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\nPrimera línea terminada por \\r\\n\nEn la petición contiene el método solicitado\nEn la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\nCada uno en una línea terminada por \\r\\n\nUna línea en blanco (\\r\\n) marca el fin de la cabecera\nContenido (formato libre, según su tipo). Puede estar ausente",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Sintaxis de los mensajes HTPP:\n"
+			"originalText": "Sintaxis de los mensajes HTTP\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\nPrimera línea terminada por \\r\\n\nEn la petición contiene el método solicitado\nEn la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\nCada uno en una línea terminada por \\r\\n\nUna línea en blanco (\\r\\n) marca el fin de la cabecera\nContenido (formato libre, según su tipo). Puede estar ausente"
 		}
 	],
 	"appState": {
@@ -492,8 +498,8 @@ Sintaxis de los mensajes HTPP:
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 556.6855545043945,
-		"scrollY": -47.431640625,
+		"scrollX": 484.68555450439453,
+		"scrollY": -58.431640625,
 		"zoom": {
 			"value": 2
 		},
