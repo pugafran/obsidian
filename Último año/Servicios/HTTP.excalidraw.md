@@ -21,13 +21,18 @@ ASCII 10 ^MgsRw0sb
 (Line Feed) ^QMgCV2pO
 
 Sintaxis de los mensajes HTTP
+
 Son el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:
+
 Primera línea terminada por \r\n
-En la petición contiene el método solicitado
-En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)
+    En la petición contiene el método solicitado
+    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)
+
 Cada uno en una línea terminada por \r\n
-Una línea en blanco (\r\n) marca el fin de la cabecera
-Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
+    Una línea en blanco (\r\n) marca el fin de la cabecera
+    Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
+
+Lo único que importa realmente es el 200 ^2GAV0zp3
 
 %%
 # Drawing
@@ -449,12 +454,46 @@ Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
 			]
 		},
 		{
-			"id": "iPoz7bwG",
 			"type": "text",
-			"x": -508.83203887939453,
-			"y": 247.138671875,
-			"width": 938.4391479492188,
-			"height": 192,
+			"version": 81,
+			"versionNonce": 1987649045,
+			"isDeleted": false,
+			"id": "iPoz7bwG",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -509.13572793888375,
+			"y": 246.81035937825493,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 978.4391479492188,
+			"height": 264,
+			"seed": 938075222,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1695831529500,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n    Contenido (formato libre, según su tipo). Puede estar ausente",
+			"rawText": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n    Contenido (formato libre, según su tipo). Puede estar ausente",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Sintaxis de los mensajes HTTP\n\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\n\nPrimera línea terminada por \\r\\n\n    En la petición contiene el método solicitado\n    En la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\n\nCada uno en una línea terminada por \\r\\n\n    Una línea en blanco (\\r\\n) marca el fin de la cabecera\n    Contenido (formato libre, según su tipo). Puede estar ausente"
+		},
+		{
+			"id": "2GAV0zp3",
+			"type": "text",
+			"x": 176.7683687679098,
+			"y": 48.41391799611233,
+			"width": 416.19970703125,
+			"height": 24,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -465,22 +504,22 @@ Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 938075222,
-			"version": 62,
-			"versionNonce": 1384531402,
+			"seed": 892582875,
+			"version": 46,
+			"versionNonce": 1392194965,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695831336680,
+			"updated": 1695831484012,
 			"link": null,
 			"locked": false,
-			"text": "Sintaxis de los mensajes HTTP\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\nPrimera línea terminada por \\r\\n\nEn la petición contiene el método solicitado\nEn la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\nCada uno en una línea terminada por \\r\\n\nUna línea en blanco (\\r\\n) marca el fin de la cabecera\nContenido (formato libre, según su tipo). Puede estar ausente",
-			"rawText": "Sintaxis de los mensajes HTTP\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\nPrimera línea terminada por \\r\\n\nEn la petición contiene el método solicitado\nEn la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\nCada uno en una línea terminada por \\r\\n\nUna línea en blanco (\\r\\n) marca el fin de la cabecera\nContenido (formato libre, según su tipo). Puede estar ausente",
+			"text": "Lo único que importa realmente es el 200",
+			"rawText": "Lo único que importa realmente es el 200",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Sintaxis de los mensajes HTTP\nSon el contenido de las peticiones y respuestas. Su estructura es la misma para ambas:\nPrimera línea terminada por \\r\\n\nEn la petición contiene el método solicitado\nEn la respuesta contiene el código de estado Campos de cabecera (la mayoría son opcionales)\nCada uno en una línea terminada por \\r\\n\nUna línea en blanco (\\r\\n) marca el fin de la cabecera\nContenido (formato libre, según su tipo). Puede estar ausente"
+			"originalText": "Lo único que importa realmente es el 200"
 		}
 	],
 	"appState": {
@@ -498,10 +537,10 @@ Contenido (formato libre, según su tipo). Puede estar ausente ^iPoz7bwG
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 484.68555450439453,
-		"scrollY": -58.431640625,
+		"scrollX": 688.9260226493716,
+		"scrollY": 313.6655190391383,
 		"zoom": {
-			"value": 2
+			"value": 0.9518370549345699
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
