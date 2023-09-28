@@ -129,6 +129,10 @@ que iba a devolver. ^TvBhQNH2
 307 devuelve que vuelvas a hacer el mismo
 verbo. ^T7RT41Kd
 
+
+# Embedded files
+d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]]
+
 %%
 # Drawing
 ```json
@@ -788,8 +792,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 344,
-			"versionNonce": 1205278299,
+			"version": 348,
+			"versionNonce": 1219296501,
 			"isDeleted": false,
 			"id": "M6URqLX3Wnl4AN6QRkmgB",
 			"fillStyle": "hachure",
@@ -798,12 +802,12 @@ verbo. ^T7RT41Kd
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -623.5440867359514,
-			"y": 1862.1859900619033,
+			"x": -623.5441225575903,
+			"y": 1862.1860134303206,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 362.94555483440604,
-			"height": 11.15310626892915,
+			"width": 362.94558806286517,
+			"height": 11.153093156476643,
 			"seed": 772518901,
 			"groupIds": [],
 			"roundness": {
@@ -815,7 +819,7 @@ verbo. ^T7RT41Kd
 					"id": "6M1l7IRH"
 				}
 			],
-			"updated": 1695941134673,
+			"updated": 1695941195390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -837,8 +841,8 @@ verbo. ^T7RT41Kd
 					0
 				],
 				[
-					362.94555483440604,
-					11.15310626892915
+					362.94558806286517,
+					11.153093156476643
 				]
 			]
 		},
@@ -1076,8 +1080,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 791,
-			"versionNonce": 117019387,
+			"version": 795,
+			"versionNonce": 206280277,
 			"isDeleted": false,
 			"id": "xoCE_KYmd0Vc_Z57gigyJ",
 			"fillStyle": "hachure",
@@ -1103,7 +1107,7 @@ verbo. ^T7RT41Kd
 					"id": "g0t984IR"
 				}
 			],
-			"updated": 1695941134673,
+			"updated": 1695941195390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1170,8 +1174,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 602,
-			"versionNonce": 760835637,
+			"version": 604,
+			"versionNonce": 1621058939,
 			"isDeleted": false,
 			"id": "uaFI_CRDUKjgTGJhnBPfo",
 			"fillStyle": "hachure",
@@ -1197,7 +1201,7 @@ verbo. ^T7RT41Kd
 					"id": "24KGZrrp"
 				}
 			],
-			"updated": 1695941134673,
+			"updated": 1695941195390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1264,8 +1268,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 718,
-			"versionNonce": 483909525,
+			"version": 720,
+			"versionNonce": 2083192347,
 			"isDeleted": false,
 			"id": "LQVF_W4YA2eIvZSf590yw",
 			"fillStyle": "hachure",
@@ -1291,7 +1295,7 @@ verbo. ^T7RT41Kd
 					"id": "gfncqweZ"
 				}
 			],
-			"updated": 1695941134674,
+			"updated": 1695941195390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1358,8 +1362,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 980,
-			"versionNonce": 31685531,
+			"version": 982,
+			"versionNonce": 126878645,
 			"isDeleted": false,
 			"id": "pzbdo3BQgxo3ngcsydz_N",
 			"fillStyle": "hachure",
@@ -1385,7 +1389,7 @@ verbo. ^T7RT41Kd
 					"id": "jORWENHj"
 				}
 			],
-			"updated": 1695941134673,
+			"updated": 1695941195390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1452,8 +1456,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 332,
-			"versionNonce": 617041979,
+			"version": 334,
+			"versionNonce": 1855964437,
 			"isDeleted": false,
 			"id": "4B-XLgDlkp-0Zv89QzFQC",
 			"fillStyle": "hachure",
@@ -1479,7 +1483,7 @@ verbo. ^T7RT41Kd
 					"id": "YYz7DqQf"
 				}
 			],
-			"updated": 1695941134674,
+			"updated": 1695941195390,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1546,8 +1550,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 361,
-			"versionNonce": 1782654197,
+			"version": 363,
+			"versionNonce": 536511163,
 			"isDeleted": false,
 			"id": "w_62iYnNZ_UJPft65NNz7",
 			"fillStyle": "hachure",
@@ -1573,7 +1577,7 @@ verbo. ^T7RT41Kd
 					"id": "kjhJTfrY"
 				}
 			],
-			"updated": 1695941134674,
+			"updated": 1695941195391,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1640,8 +1644,8 @@ verbo. ^T7RT41Kd
 		},
 		{
 			"type": "arrow",
-			"version": 178,
-			"versionNonce": 830968027,
+			"version": 180,
+			"versionNonce": 1425037941,
 			"isDeleted": false,
 			"id": "K7xKKijMvDE1_WttJkAZg",
 			"fillStyle": "hachure",
@@ -1650,11 +1654,11 @@ verbo. ^T7RT41Kd
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 203.41643885923503,
+			"x": 203.4164388592351,
 			"y": 1930.0556707981095,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1328.538668672582,
+			"width": 1328.5386686725822,
 			"height": 1254.5139280613434,
 			"seed": 1175027483,
 			"groupIds": [],
@@ -1667,7 +1671,7 @@ verbo. ^T7RT41Kd
 					"id": "E6O7OpyT"
 				}
 			],
-			"updated": 1695941134674,
+			"updated": 1695941195391,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1693,7 +1697,7 @@ verbo. ^T7RT41Kd
 					1203.162819780121
 				],
 				[
-					-1328.538668672582,
+					-1328.5386686725822,
 					-51.35110828122242
 				]
 			]
@@ -1833,6 +1837,38 @@ verbo. ^T7RT41Kd
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "303 siempre devuelve el verbo get\n\n307 devuelve que vuelvas a hacer el mismo\nverbo."
+		},
+		{
+			"id": "uHHFt288tf1zrmZOtnYif",
+			"type": "image",
+			"x": -942.9953916397127,
+			"y": 789.2312958240875,
+			"width": 651.5452530253538,
+			"height": 398.4812996763758,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 540683189,
+			"version": 110,
+			"versionNonce": 482068661,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695941195002,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d321decfa643ee695ee8d6e20bd7a0da0be64d5b",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -1850,10 +1886,10 @@ verbo. ^T7RT41Kd
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2870.99569646608,
-		"scrollY": 223.07825471088472,
+		"scrollX": 1109.765886523429,
+		"scrollY": -413.4069622660662,
 		"zoom": {
-			"value": 0.25
+			"value": 0.7165290760993959
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
