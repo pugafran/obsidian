@@ -21,34 +21,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas Operativos/Opcional.md"
-              }
-            }
-          },
-          {
-            "id": "5bad2f1e617aa3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7ad557af3b1beb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuidos/Arquitectura descentralizada.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           }
@@ -193,10 +171,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1f7ad557af3b1beb",
+  "active": "cea86cbf39ca9abc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Último año/Servicios/NAT.md",
+    "Último año/Servicios/NAT.excalidraw.md",
+    "Último año/Servicios/Practica 1.excalidraw.md",
+    "Último año/Servicios/Untitled.md",
+    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+    "Último año/Servicios/DHCP.md",
+    "Sistemas Operativos/Opcional.md",
+    "Sistemas Operativos/Identificadores de un proceso.md",
     "Distribuidos/Arquitectura descentralizada.md",
+    "conflict-files-obsidian-git.md",
     "Último año/Web/Scopes.md",
     "Último año/Web/Qué son los servlets.md",
     "Último año/Web/Intro.md",
@@ -204,23 +190,15 @@
     "Último año/Web/Instalación.md",
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
-    "Último año/Servicios/Untitled.md",
-    "Último año/Servicios/NAT.md",
-    "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Servicios/DHCP.md",
     "Último año/Seguridad/Sin título.md",
     "Último año/Seguridad/Sin título 1.md",
     "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
-    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
