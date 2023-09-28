@@ -9,4 +9,7 @@ se suma en mod 2^64 de la combinacion de Ch y h
 
 HMAC CMAC
 
-SE CA
+
+Encadenamiento de cifradores AES para hacer CMAC
+
+EL ULTIMO SE RELLENA Y SE LE SUMA UNA CONSTANTE
