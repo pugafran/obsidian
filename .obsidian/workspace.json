@@ -1,39 +1,68 @@
 {
   "main": {
-    "id": "936eb7b6b47f247d",
+    "id": "8bbe994c081f0100",
     "type": "split",
     "children": [
       {
-        "id": "3d4dde32623ac48f",
+        "id": "bffac6ea79d39635",
         "type": "tabs",
         "children": [
           {
-            "id": "67d454bd79b0649b",
+            "id": "9f03cc228b5edef2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cea86cbf39ca9abc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Operativos/Opcional.md"
+              }
+            }
+          },
+          {
+            "id": "5bad2f1e617aa3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Seguridad/Sin título 1.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f7ad557af3b1beb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Arquitectura descentralizada.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8457fbe8a21c880d",
+    "id": "2f501ba6e942bed0",
     "type": "split",
     "children": [
       {
-        "id": "d9fa20613d3da09c",
+        "id": "6dd66222c0765c75",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c5a875ba725b9d",
+            "id": "c3900cfa1e4f1a58",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +72,7 @@
             }
           },
           {
-            "id": "5e9ca4fb26fecb99",
+            "id": "f68b31c9a3ab989e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +87,7 @@
             }
           },
           {
-            "id": "0c99484fb85be5e3",
+            "id": "4bc371da3ac56f97",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,7 +95,7 @@
             }
           },
           {
-            "id": "87228b7407378a07",
+            "id": "c401b38294e57f7a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +109,28 @@
     "width": 300
   },
   "right": {
-    "id": "258f0305d4f318ea",
+    "id": "924a86bd6f21203e",
     "type": "split",
     "children": [
       {
-        "id": "fa6aef1b7ce16cd3",
+        "id": "135e29f07b7d729c",
         "type": "tabs",
         "children": [
           {
-            "id": "ac942f734e9bb1e1",
+            "id": "e01d9a0d6d18e32f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "545dd7ed14cdffbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Sin título 1.md",
+                "file": "Distribuidos/Arquitectura descentralizada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +142,19 @@
             }
           },
           {
-            "id": "08b68313b08bb1c2",
+            "id": "83126af4428ecd7c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Sin título 1.md",
+                "file": "Distribuidos/Arquitectura descentralizada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6ff8cfff1a9a8d07",
+            "id": "1d124b73da42b00d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,25 +165,16 @@
             }
           },
           {
-            "id": "6e2cff9e39796a02",
+            "id": "88b008bab89a0e7a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Sin título 1.md"
+                "file": "Distribuidos/Arquitectura descentralizada.md"
               }
             }
-          },
-          {
-            "id": "5962ec52fdf69434",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,45 +183,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "terminal:Open terminal": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "67d454bd79b0649b",
+  "active": "1f7ad557af3b1beb",
   "lastOpenFiles": [
-    "Último año/Servicios/HTTP.excalidraw.md",
-    "Último año/Seguridad/Sin título 1.md",
-    "Último año/Servicios/NAT.md",
+    "conflict-files-obsidian-git.md",
+    "Distribuidos/Arquitectura descentralizada.md",
+    "Último año/Web/Scopes.md",
+    "Último año/Web/Qué son los servlets.md",
+    "Último año/Web/Intro.md",
+    "Último año/Web/Qué son los beans.md",
+    "Último año/Web/Instalación.md",
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
-    "Último año/GTI/Sin título 1.md",
-    "Último año/Servicios/DHCP.md",
-    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
+    "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
+    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
+    "Último año/Servicios/Untitled.md",
+    "Último año/Servicios/NAT.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/NAT.excalidraw.md",
-    "Último año/Servicios/Untitled.md",
+    "Último año/Servicios/HTTP.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
-    "Último año/Cálculo/Sin título.md",
-    "Último año/Web/Scopes.md",
+    "Último año/Servicios/DHCP.md",
+    "Último año/Seguridad/Sin título.md",
+    "Último año/Seguridad/Sin título 1.md",
+    "Último año/Seguridad/Política de seguridad.excalidraw.md",
+    "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
+    "Último año/Web",
+    "Último año/Servicios",
+    "Último año/Seguridad",
+    "Último año/GTI",
+    "Último año/ED",
     "Último año/Cálculo",
-    "Último año/Web/Instalación.md",
-    "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
-    "Último año/Web/Intro.md",
-    "Último año/Web/Qué son los servlets.md",
-    "Último año/Web/Qué son los beans.md",
-    "Último año/GTI/Sin título.md",
-    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
-    "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
+    "Último año",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
     "Pasted Image 20230921160146_647.png",
@@ -203,15 +237,9 @@
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
-    "Último año/Seguridad",
     "Pasted Image 20230914154044_877.png",
-    "Último año/ED",
-    "Último año/Servicios",
-    "Último año/Web",
-    "Último año/GTI",
-    "Último año",
-    "CPM",
-    "Juan",
-    "Blockchain/Polkadot"
+    "imagenes",
+    "Sistemas Operativos",
+    "Juan"
   ]
 }
