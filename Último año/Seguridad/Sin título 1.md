@@ -7,4 +7,6 @@ se añade un 1 al final del mensaje, Al final hay 128 bits dedicados a rellenar 
 se hace en rotaciones y se combinan con otras
 se suma en mod 2^64 de la combinacion de Ch y h
 
-HMAC CMC
+HMAC CMAC
+
+SE CA
