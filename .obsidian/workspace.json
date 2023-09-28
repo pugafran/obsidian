@@ -11,9 +11,11 @@
             "id": "67d454bd79b0649b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Seguridad/Sin título 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Seguridad/Sin título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Seguridad/Sin título 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Seguridad/Sin título 1.md"
               }
             }
           },
@@ -165,6 +167,8 @@
   },
   "active": "67d454bd79b0649b",
   "lastOpenFiles": [
+    "Último año/Servicios/HTTP.excalidraw.md",
+    "Último año/Seguridad/Sin título 1.md",
     "Último año/Servicios/NAT.md",
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/GTI/Sin título 1.md",
@@ -174,7 +178,6 @@
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/NAT.excalidraw.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
@@ -191,7 +194,6 @@
     "Último año/GTI/Sin título.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
-    "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
     "Pasted Image 20230921175509_564.png",
     "Pasted Image 20230921174353_535.png",
     "Pasted Image 20230921160146_647.png",
