@@ -12,6 +12,8 @@ MCD(a,b) =a * x + b * y ^trTRZW2V
 
 a * x - K * m = 1 <=> MCD(a,m) = 1 ^NAna7DQo
 
+el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el resto ^RdQYGuFM
+
 %%
 # Drawing
 ```json
@@ -87,6 +89,40 @@ a * x - K * m = 1 <=> MCD(a,m) = 1 ^NAna7DQo
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "a * x - K * m = 1 <=> MCD(a,m) = 1"
+		},
+		{
+			"id": "RdQYGuFM",
+			"type": "text",
+			"x": -323,
+			"y": 98.7421875,
+			"width": 796.0792236328125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1123156956,
+			"version": 120,
+			"versionNonce": 1427838564,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696002121776,
+			"link": null,
+			"locked": false,
+			"text": "el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el resto",
+			"rawText": "el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el resto",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el resto"
 		}
 	],
 	"appState": {
