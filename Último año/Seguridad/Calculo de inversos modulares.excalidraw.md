@@ -16,7 +16,12 @@ el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el 
 
 72 | 3
 24 | 2
- ^9DlO6G1M
+12  | 2
+6   | 3
+2   | 2
+1
+
+3^2 * 2^3 ^9DlO6G1M
 
 %%
 # Drawing
@@ -133,8 +138,8 @@ el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el 
 			"type": "text",
 			"x": 129,
 			"y": -301.2578125,
-			"width": 64.63995361328125,
-			"height": 72,
+			"width": 107.79994201660156,
+			"height": 192,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -146,21 +151,21 @@ el divisor en la siguiente iteracción pasa a ser el dividendo, y el divisor el 
 			"groupIds": [],
 			"roundness": null,
 			"seed": 999315036,
-			"version": 17,
-			"versionNonce": 179277532,
+			"version": 69,
+			"versionNonce": 31110108,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696002363155,
+			"updated": 1696002445312,
 			"link": null,
 			"locked": false,
-			"text": "72 | 3\n24 | 2\n",
-			"rawText": "72 | 3\n24 | 2\n",
+			"text": "72 | 3\n24 | 2\n12  | 2\n6   | 3\n2   | 2\n1\n\n3^2 * 2^3",
+			"rawText": "72 | 3\n24 | 2\n12  | 2\n6   | 3\n2   | 2\n1\n\n3^2 * 2^3",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "72 | 3\n24 | 2\n"
+			"originalText": "72 | 3\n24 | 2\n12  | 2\n6   | 3\n2   | 2\n1\n\n3^2 * 2^3"
 		}
 	],
 	"appState": {
