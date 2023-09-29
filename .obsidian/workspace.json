@@ -19,9 +19,11 @@
             "id": "cea86cbf39ca9abc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Cálculo/PL1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Cálculo/PL1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Cálculo/PL1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Cálculo/PL1.md"
               }
             }
           }
@@ -171,8 +173,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cea86cbf39ca9abc",
+  "active": "c3900cfa1e4f1a58",
   "lastOpenFiles": [
+    "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
+    "Último año/Servicios/HTTP.excalidraw.md",
     "Pasted Image 20230929004635_321.png",
     "Último año/Servicios/NAT.md",
     "Último año/Servicios/NAT.excalidraw.md",
@@ -192,7 +196,6 @@
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
     "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Sin título.md",
@@ -215,7 +218,6 @@
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
-    "Pasted Image 20230914154044_877.png",
     "imagenes",
     "Sistemas Operativos",
     "Juan"
