@@ -39,8 +39,10 @@
             "id": "d95b645cd21632e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+              }
             }
           }
         ],
@@ -79,6 +81,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "58bd89679846954b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
@@ -108,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
+              }
             }
           }
         ]
@@ -167,7 +183,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f68b31c9a3ab989e",
+  "active": "d95b645cd21632e5",
   "lastOpenFiles": [
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
