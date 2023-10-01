@@ -14,29 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "cea86cbf39ca9abc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c17a32650d81f3d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,11 +149,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c17a32650d81f3d0",
+  "active": "9f03cc228b5edef2",
   "lastOpenFiles": [
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
+    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
     "Último año/Servicios/DHCP.md",
     "Último año/Cálculo/PL1.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
