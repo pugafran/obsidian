@@ -34,17 +34,9 @@
                 "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "d95b645cd21632e5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md"
+              }
             }
           }
         ]
@@ -178,7 +174,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d95b645cd21632e5",
+  "active": "c17a32650d81f3d0",
   "lastOpenFiles": [
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
