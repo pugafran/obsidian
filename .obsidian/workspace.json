@@ -11,8 +11,12 @@
             "id": "9f03cc228b5edef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Último año/Servicios/DHCP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Último año/Servicios/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Último año/Servicios/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Último año/Servicios/DHCP.md"
+              }
             }
           }
         ]
@@ -151,6 +159,8 @@
   },
   "active": "9f03cc228b5edef2",
   "lastOpenFiles": [
+    "Último año/GTI/Sin título.md",
+    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
     "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
@@ -176,8 +186,6 @@
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
     "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
-    "Último año/Seguridad/Sin título.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
