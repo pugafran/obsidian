@@ -39,56 +39,12 @@
             "id": "d95b645cd21632e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9ff41b4cb055c3c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a17ed295b81782b9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "e28955f34c328e86"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -102,17 +58,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3900cfa1e4f1a58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md"
-              }
-            },
-            "group": "e28955f34c328e86"
-          },
-          {
             "id": "f68b31c9a3ab989e",
             "type": "leaf",
             "state": {
@@ -125,14 +70,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "4bc371da3ac56f97",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -171,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -234,11 +167,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c3900cfa1e4f1a58",
+  "active": "f68b31c9a3ab989e",
   "lastOpenFiles": [
-    "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
-    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
     "Último año/Servicios/DHCP.md",
     "Último año/Cálculo/PL1.md",
     "Último año/Cálculo/Drawing 2023-09-27 11.55.10.excalidraw.md",
