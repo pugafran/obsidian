@@ -47,6 +47,48 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "9ff41b4cb055c3c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a17ed295b81782b9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e28955f34c328e86"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,11 +105,12 @@
             "id": "c3900cfa1e4f1a58",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "excalidraw",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md"
               }
-            }
+            },
+            "group": "e28955f34c328e86"
           },
           {
             "id": "f68b31c9a3ab989e",
