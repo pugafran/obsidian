@@ -11,3 +11,8 @@ connection=>keep-alive lo hace el cliente para que el servidor no cierre el stre
 
 La cabecera host sirve por ejemplo si tienes un pc con dos servidores pero la misma ip y siendo el puerto 80 para http, como distingues un servidor/pagina web de otra? Pues con la cabecera host en plan host:epigijon host:campusvirtual.
 
+User-agent te dice que navegador sistema operativo tiene el cliente.
+
+accept => lista de tipos de MIME que el cliente puede usar
+
+accept-encoding=> si soporta el cliente que acepta contenidos comprimidos, identity
