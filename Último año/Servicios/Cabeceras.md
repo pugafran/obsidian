@@ -26,4 +26,6 @@ Solo digitos y luego un trozo un chuck, despues otra linea de todo digitos y lue
 123<CRLF>DEWDEWDEWDEWDEWDEWDWE...
 
 
-0<CRLF> Se acabó
+0<CRLF> Se acabó (Si tiene un 0 es el fin)
+
+
