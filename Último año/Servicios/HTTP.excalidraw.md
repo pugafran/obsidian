@@ -134,7 +134,7 @@ verbo. ^T7RT41Kd
 poco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get
 pero no delete entonces si haces delete te sale eso.
 502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones
-que yo que se si está arrancando no tira y el servidor te dice, 502 ^XZ5KTBSW
+que yo que se si está arrancando no tira y el servidor te dice, 502. ^XZ5KTBSW
 
 Cliente ^vaOzb2Gy
 
@@ -1902,21 +1902,21 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 108410605,
-			"version": 599,
-			"versionNonce": 1983291043,
+			"version": 600,
+			"versionNonce": 620908813,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696252312582,
+			"updated": 1696252313220,
 			"link": null,
 			"locked": false,
-			"text": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502",
-			"rawText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502",
+			"text": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502.",
+			"rawText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502"
+			"originalText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502."
 		},
 		{
 			"id": "Uun_Ts7mI2RGLWU72Yj4X",
