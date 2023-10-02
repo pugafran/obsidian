@@ -133,8 +133,8 @@ verbo. ^T7RT41Kd
 501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo
 poco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get
 pero no delete entonces si haces delete te sale eso.
-502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta
- ^XZ5KTBSW
+502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones
+que yo que se si está arrancando no tira y el servidor te dice, 502 ^XZ5KTBSW
 
 Cliente ^vaOzb2Gy
 
@@ -1889,7 +1889,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"type": "text",
 			"x": -15.95037574848459,
 			"y": 3339.7421673812496,
-			"width": 1106.1993408203125,
+			"width": 1209.218994140625,
 			"height": 144,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -1902,21 +1902,21 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 108410605,
-			"version": 453,
-			"versionNonce": 1647866797,
+			"version": 599,
+			"versionNonce": 1983291043,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696252209940,
+			"updated": 1696252312582,
 			"link": null,
 			"locked": false,
-			"text": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta\n",
-			"rawText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta\n",
+			"text": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502",
+			"rawText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta\n"
+			"originalText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta, sino el servidor de aplicaciones\nque yo que se si está arrancando no tira y el servidor te dice, 502"
 		},
 		{
 			"id": "Uun_Ts7mI2RGLWU72Yj4X",
@@ -1938,16 +1938,20 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 				"type": 3
 			},
 			"seed": 1671919117,
-			"version": 34,
-			"versionNonce": 377228877,
+			"version": 35,
+			"versionNonce": 1936722221,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "vaOzb2Gy"
+				},
+				{
+					"id": "p3KN2m8o2Y79m9iNdOTy3",
+					"type": "arrow"
 				}
 			],
-			"updated": 1696252219248,
+			"updated": 1696252281660,
 			"link": null,
 			"locked": false
 		},
@@ -1987,8 +1991,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 99,
-			"versionNonce": 987554947,
+			"version": 101,
+			"versionNonce": 531723043,
 			"isDeleted": false,
 			"id": "MJpUVhGqSM8O6-XITNsQW",
 			"fillStyle": "hachure",
@@ -2012,9 +2016,17 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 				{
 					"type": "text",
 					"id": "QS42kx73"
+				},
+				{
+					"id": "p3KN2m8o2Y79m9iNdOTy3",
+					"type": "arrow"
+				},
+				{
+					"id": "laszENIset_Zvy9dPgPei",
+					"type": "arrow"
 				}
 			],
-			"updated": 1696252228238,
+			"updated": 1696252284356,
 			"link": null,
 			"locked": false
 		},
@@ -2072,16 +2084,20 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 				"type": 3
 			},
 			"seed": 1463880451,
-			"version": 104,
-			"versionNonce": 1519238947,
+			"version": 105,
+			"versionNonce": 738006723,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "eddHftwk"
+				},
+				{
+					"id": "laszENIset_Zvy9dPgPei",
+					"type": "arrow"
 				}
 			],
-			"updated": 1696252251439,
+			"updated": 1696252284356,
 			"link": null,
 			"locked": false
 		},
@@ -2118,6 +2134,108 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"verticalAlign": "middle",
 			"containerId": "iRF2QcgOi3-q2UO57mqMS",
 			"originalText": "Servidor de aplicaciones"
+		},
+		{
+			"id": "p3KN2m8o2Y79m9iNdOTy3",
+			"type": "arrow",
+			"x": 198.82275243882248,
+			"y": 3620.6317948149913,
+			"width": 22.43848368711906,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1567613635,
+			"version": 14,
+			"versionNonce": 1112681507,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696252281660,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					22.43848368711906,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "Uun_Ts7mI2RGLWU72Yj4X",
+				"focus": 0.020891551975926122,
+				"gap": 16.32408031167256
+			},
+			"endBinding": {
+				"elementId": "MJpUVhGqSM8O6-XITNsQW",
+				"focus": -0.017861479551934203,
+				"gap": 11.441198339162156
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "laszENIset_Zvy9dPgPei",
+			"type": "arrow",
+			"x": 513.8389692414809,
+			"y": 3623.3980914605972,
+			"width": 41.5748263420744,
+			"height": 3.0543130033811394,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 203337667,
+			"version": 47,
+			"versionNonce": 78447757,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696252284356,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					41.5748263420744,
+					-3.0543130033811394
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "MJpUVhGqSM8O6-XITNsQW",
+				"focus": 0.203634940698697,
+				"gap": 16.136534776377175
+			},
+			"endBinding": {
+				"elementId": "iRF2QcgOi3-q2UO57mqMS",
+				"focus": 0.2512291246790149,
+				"gap": 13.60874764203129
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "8kcJ8XV8",
