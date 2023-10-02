@@ -7,3 +7,4 @@ Tipos de cabecera:
 * Entidad (Peticiones y respuestas, metadata para describir el cuerpo)
 * Extensión (Usos no estandarizados, para inventar tus propias cabeceras, se recomienda que empiecen por "x-" en plan "x-mamahuevo?:, no es una buena idea")
 
+connection=>keep-alive lo hace el cliente para que el servidor no cierre el stream TCP 
