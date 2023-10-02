@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Cabeceras.md",
+                "file": "Último año/Servicios/Proxies y  cachés.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Cabeceras.md",
+                "file": "Último año/Servicios/Proxies y  cachés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Cabeceras.md",
+                "file": "Último año/Servicios/Proxies y  cachés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Cabeceras.md"
+                "file": "Último año/Servicios/Proxies y  cachés.md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "9f03cc228b5edef2",
   "lastOpenFiles": [
-    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Cabeceras.md",
+    "Último año/Servicios/Proxies y  cachés.md",
+    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/DHCP.md",
@@ -185,7 +186,6 @@
     "Último año/Web/Qué son los beans.md",
     "Último año/Web/Instalación.md",
     "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",

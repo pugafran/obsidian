@@ -1,0 +1,1 @@
+Un proxie es un servidor intermedio, 
