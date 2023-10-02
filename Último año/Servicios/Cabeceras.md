@@ -9,4 +9,4 @@ Tipos de cabecera:
 
 connection=>keep-alive lo hace el cliente para que el servidor no cierre el stream TCP 
 
-La cabecera host sirve por ejemplo si tienes un servidor co
+La cabecera host sirve por ejemplo si tienes un pc con dos servidores pero la misma ip y siendo el puerto 80 para http, como distingues un servidor/pagina web de otra? Pues 
