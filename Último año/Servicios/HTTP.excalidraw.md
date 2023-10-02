@@ -129,6 +129,20 @@ que iba a devolver. ^TvBhQNH2
 307 devuelve que vuelvas a hacer el mismo
 verbo. ^T7RT41Kd
 
+500 internal server error => cascó un hilo por ejemplo
+501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo
+poco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get
+pero no delete entonces si haces delete te sale eso.
+502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta
+ ^XZ5KTBSW
+
+Cliente ^vaOzb2Gy
+
+Servidor
+HTTP ^QS42kx73
+
+Servidor de aplicaciones ^eddHftwk
+
 
 # Embedded files
 d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]]
@@ -792,8 +806,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 348,
-			"versionNonce": 1219296501,
+			"version": 352,
+			"versionNonce": 1691144355,
 			"isDeleted": false,
 			"id": "M6URqLX3Wnl4AN6QRkmgB",
 			"fillStyle": "hachure",
@@ -802,12 +816,12 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -623.5441225575903,
-			"y": 1862.1860134303206,
+			"x": -623.5441236915813,
+			"y": 1862.186014170084,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 362.94558806286517,
-			"height": 11.153093156476643,
+			"width": 362.9455891147651,
+			"height": 11.153092741381442,
 			"seed": 772518901,
 			"groupIds": [],
 			"roundness": {
@@ -819,7 +833,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "6M1l7IRH"
 				}
 			],
-			"updated": 1695941195390,
+			"updated": 1696252030683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -841,8 +855,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					0
 				],
 				[
-					362.94558806286517,
-					11.153093156476643
+					362.9455891147651,
+					11.153092741381442
 				]
 			]
 		},
@@ -1080,8 +1094,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 795,
-			"versionNonce": 206280277,
+			"version": 799,
+			"versionNonce": 1087423555,
 			"isDeleted": false,
 			"id": "xoCE_KYmd0Vc_Z57gigyJ",
 			"fillStyle": "hachure",
@@ -1107,7 +1121,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "g0t984IR"
 				}
 			],
-			"updated": 1695941195390,
+			"updated": 1696252030683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1174,8 +1188,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 604,
-			"versionNonce": 1621058939,
+			"version": 606,
+			"versionNonce": 79615341,
 			"isDeleted": false,
 			"id": "uaFI_CRDUKjgTGJhnBPfo",
 			"fillStyle": "hachure",
@@ -1201,7 +1215,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "24KGZrrp"
 				}
 			],
-			"updated": 1695941195390,
+			"updated": 1696252030683,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1268,8 +1282,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 720,
-			"versionNonce": 2083192347,
+			"version": 722,
+			"versionNonce": 846962637,
 			"isDeleted": false,
 			"id": "LQVF_W4YA2eIvZSf590yw",
 			"fillStyle": "hachure",
@@ -1295,7 +1309,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "gfncqweZ"
 				}
 			],
-			"updated": 1695941195390,
+			"updated": 1696252030684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1362,8 +1376,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 982,
-			"versionNonce": 126878645,
+			"version": 984,
+			"versionNonce": 1263879139,
 			"isDeleted": false,
 			"id": "pzbdo3BQgxo3ngcsydz_N",
 			"fillStyle": "hachure",
@@ -1389,7 +1403,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "jORWENHj"
 				}
 			],
-			"updated": 1695941195390,
+			"updated": 1696252030684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1456,8 +1470,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 334,
-			"versionNonce": 1855964437,
+			"version": 336,
+			"versionNonce": 2087243651,
 			"isDeleted": false,
 			"id": "4B-XLgDlkp-0Zv89QzFQC",
 			"fillStyle": "hachure",
@@ -1483,7 +1497,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "YYz7DqQf"
 				}
 			],
-			"updated": 1695941195390,
+			"updated": 1696252030684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1550,8 +1564,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 363,
-			"versionNonce": 536511163,
+			"version": 365,
+			"versionNonce": 1995447853,
 			"isDeleted": false,
 			"id": "w_62iYnNZ_UJPft65NNz7",
 			"fillStyle": "hachure",
@@ -1577,7 +1591,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "kjhJTfrY"
 				}
 			],
-			"updated": 1695941195391,
+			"updated": 1696252030684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1644,8 +1658,8 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		},
 		{
 			"type": "arrow",
-			"version": 180,
-			"versionNonce": 1425037941,
+			"version": 182,
+			"versionNonce": 1179248419,
 			"isDeleted": false,
 			"id": "K7xKKijMvDE1_WttJkAZg",
 			"fillStyle": "hachure",
@@ -1654,11 +1668,11 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 203.4164388592351,
+			"x": 203.41643885923497,
 			"y": 1930.0556707981095,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1328.5386686725822,
+			"width": 1328.538668672582,
 			"height": 1254.5139280613434,
 			"seed": 1175027483,
 			"groupIds": [],
@@ -1671,7 +1685,7 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					"id": "E6O7OpyT"
 				}
 			],
-			"updated": 1695941195391,
+			"updated": 1696252030685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1693,11 +1707,11 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 					0
 				],
 				[
-					-654.0644282388694,
+					-654.0644282388693,
 					1203.162819780121
 				],
 				[
-					-1328.5386686725822,
+					-1328.538668672582,
 					-51.35110828122242
 				]
 			]
@@ -1839,27 +1853,27 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 			"originalText": "303 siempre devuelve el verbo get\n\n307 devuelve que vuelvas a hacer el mismo\nverbo."
 		},
 		{
-			"id": "uHHFt288tf1zrmZOtnYif",
 			"type": "image",
-			"x": -721.065065914953,
-			"y": 968.1675703661065,
-			"width": 357.7505330437114,
-			"height": 218.79815209340035,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 269,
+			"versionNonce": 1603833013,
+			"isDeleted": false,
+			"id": "uHHFt288tf1zrmZOtnYif",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -721.065065914953,
+			"y": 968.1675703661065,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 357.7505330437114,
+			"height": 218.79815209340032,
+			"seed": 540683189,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 540683189,
-			"version": 269,
-			"versionNonce": 1603833013,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1695941298680,
 			"link": null,
 			"locked": false,
@@ -1869,6 +1883,309 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "XZ5KTBSW",
+			"type": "text",
+			"x": -15.95037574848459,
+			"y": 3339.7421673812496,
+			"width": 1106.1993408203125,
+			"height": 144,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 108410605,
+			"version": 453,
+			"versionNonce": 1647866797,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696252209940,
+			"link": null,
+			"locked": false,
+			"text": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta\n",
+			"rawText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "500 internal server error => cascó un hilo por ejemplo\n501 not implemented => servidor nuevo, apache por ejemplo, mientras estaban implementando se iba haciendo\npoco a poco y si el cliente pedía algo que todavía no estaba implementado caga el 501, imagina que tienes get\npero no delete entonces si haces delete te sale eso.\n502 bad gateaway => es cuando el servidor realmente no es quien computa la respuesta\n"
+		},
+		{
+			"id": "Uun_Ts7mI2RGLWU72Yj4X",
+			"type": "rectangle",
+			"x": -82.50132787285008,
+			"y": 3556.315627040508,
+			"width": 265,
+			"height": 126,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1671919117,
+			"version": 34,
+			"versionNonce": 377228877,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "vaOzb2Gy"
+				}
+			],
+			"updated": 1696252219248,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "vaOzb2Gy",
+			"type": "text",
+			"x": 17.478706001661635,
+			"y": 3607.315627040508,
+			"width": 65.03993225097656,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1630155373,
+			"version": 8,
+			"versionNonce": 1741362157,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696252218179,
+			"link": null,
+			"locked": false,
+			"text": "Cliente",
+			"rawText": "Cliente",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Uun_Ts7mI2RGLWU72Yj4X",
+			"originalText": "Cliente"
+		},
+		{
+			"type": "rectangle",
+			"version": 99,
+			"versionNonce": 987554947,
+			"isDeleted": false,
+			"id": "MJpUVhGqSM8O6-XITNsQW",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 232.7024344651037,
+			"y": 3556.5065216032194,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 265,
+			"height": 126,
+			"seed": 701270275,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "QS42kx73"
+				}
+			],
+			"updated": 1696252228238,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 90,
+			"versionNonce": 422828333,
+			"isDeleted": false,
+			"id": "QS42kx73",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 326.40247718971307,
+			"y": 3595.5065216032194,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 77.59991455078125,
+			"height": 48,
+			"seed": 232701101,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696252228238,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Servidor\nHTTP",
+			"rawText": "Servidor\nHTTP",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "MJpUVhGqSM8O6-XITNsQW",
+			"originalText": "Servidor\nHTTP"
+		},
+		{
+			"id": "iRF2QcgOi3-q2UO57mqMS",
+			"type": "rectangle",
+			"x": 569.0225432255866,
+			"y": 3566.5900395728795,
+			"width": 516,
+			"height": 103,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1463880451,
+			"version": 104,
+			"versionNonce": 1519238947,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "eddHftwk"
+				}
+			],
+			"updated": 1696252251439,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "eddHftwk",
+			"type": "text",
+			"x": 710.6326506474616,
+			"y": 3606.0900395728795,
+			"width": 232.77978515625,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1740028653,
+			"version": 94,
+			"versionNonce": 764115085,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696252251439,
+			"link": null,
+			"locked": false,
+			"text": "Servidor de aplicaciones",
+			"rawText": "Servidor de aplicaciones",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "iRF2QcgOi3-q2UO57mqMS",
+			"originalText": "Servidor de aplicaciones"
+		},
+		{
+			"id": "8kcJ8XV8",
+			"type": "text",
+			"x": 623.6334840472297,
+			"y": 3638.1003218167843,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 289878509,
+			"version": 2,
+			"versionNonce": 1869541219,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696252230292,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
+		},
+		{
+			"id": "XLaZFZg9",
+			"type": "text",
+			"x": 841.4006427444302,
+			"y": 3737.553039961963,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 750496963,
+			"version": 31,
+			"versionNonce": 1279435555,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696252242328,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -1886,10 +2203,10 @@ d321decfa643ee695ee8d6e20bd7a0da0be64d5b: [[Pasted Image 20230929004635_321.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1062.3149160965374,
-		"scrollY": -536.2212386650782,
+		"scrollX": 972.754112386578,
+		"scrollY": -2740.4805976740304,
 		"zoom": {
-			"value": 0.7165290760993959
+			"value": 0.5831917023658751
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
