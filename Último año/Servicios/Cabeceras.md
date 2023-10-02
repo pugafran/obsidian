@@ -17,4 +17,4 @@ accept => lista de tipos de MIME que el cliente puede usar
 
 accept-encoding=> si soporta el cliente que acepta contenidos comprimidos, identity que no y gzip que si. (informacion)
 
-Transfer encoding => es una cabecera opcional, si no está, está mandando una respuesta en el cuerpo
+Transfer encoding => es una cabecera opcional, si no está, está mandando una respuesta en el cuerpo, si está chunked ya no aparece content length, porque el propio servidor en ese momento no lo sabe, se está generando. El servid
