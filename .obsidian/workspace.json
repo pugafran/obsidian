@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Proxies y  cachés.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "415d1a22e7ff6b88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Proxies y  cachés.md",
+                "file": "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Proxies y  cachés.md",
+                "file": "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Proxies y  cachés.md"
+                "file": "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md"
               }
             }
           }
@@ -157,14 +168,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9f03cc228b5edef2",
+  "active": "415d1a22e7ff6b88",
   "lastOpenFiles": [
-    "Último año/Servicios/Cabeceras.md",
+    "Último año/Servicios/DHCP.md",
+    "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/Proxies y  cachés.md",
+    "Último año/Servicios/Cabeceras.md",
     "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/NAT.excalidraw.md",
-    "Último año/Servicios/DHCP.md",
     "Último año/GTI/Sin título.md",
     "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
@@ -185,7 +197,6 @@
     "Último año/Web/Intro.md",
     "Último año/Web/Qué son los beans.md",
     "Último año/Web/Instalación.md",
-    "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
