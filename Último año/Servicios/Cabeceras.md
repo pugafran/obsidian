@@ -15,4 +15,5 @@ User-agent te dice que navegador sistema operativo tiene el cliente.
 
 accept => lista de tipos de MIME que el cliente puede usar
 
-accept-encoding=> si soporta el cliente que acepta contenidos comprimidos, identity
+accept-encoding=> si soporta el cliente que acepta contenidos comprimidos, identity que no y gzip que si. (informacion)
+
