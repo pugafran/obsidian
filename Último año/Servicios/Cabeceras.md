@@ -17,6 +17,8 @@ accept => lista de tipos de MIME que el cliente puede usar
 
 accept-encoding=> si soporta el cliente que acepta contenidos comprimidos, identity que no y gzip que si. (informacion)
 
+
 Transfer encoding => es una cabecera opcional, si no está, está mandando una respuesta en el cuerpo, si está chunked ya no aparece content length, porque el propio servidor en ese momento no lo sabe, se está generando. El servidor no sabe cuando va a acabar de recibir informacion, le está mandando trocitos al server (chunks) y el server lo va mandando al cliente.
 
-Solo digitos y luego un trozo un chuck, despues otra linea de todo digitos y luego otro chunk, la primera linea se entiende que es ASCII rollo 432CRLF
+Despues de todas las cabeceras
+Solo digitos y luego un trozo un chuck, despues otra linea de todo digitos y luego otro chunk, la primera linea se entiende que es ASCII rollo 432<CRLF>(Cuantos bytes vienen en este trocito del chunk)DSAFDEWFGWEFWEFWE
