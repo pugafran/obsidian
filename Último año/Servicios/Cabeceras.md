@@ -8,3 +8,5 @@ Tipos de cabecera:
 * Extensión (Usos no estandarizados, para inventar tus propias cabeceras, se recomienda que empiecen por "x-" en plan "x-mamahuevo?:, no es una buena idea")
 
 connection=>keep-alive lo hace el cliente para que el servidor no cierre el stream TCP 
+
+La cabecera host sirve por ejemplo si tienes un servidor co
