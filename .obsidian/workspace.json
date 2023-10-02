@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/GTI/Sin título 1.md",
+                "file": "Último año/GTI/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Sin título 1.md",
+                "file": "Último año/GTI/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Sin título 1.md",
+                "file": "Último año/GTI/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Sin título 1.md"
+                "file": "Último año/GTI/Sin título.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "415d1a22e7ff6b88",
   "lastOpenFiles": [
-    "Último año/GTI/Sin título.md",
     "Último año/GTI/Sin título 1.md",
+    "Último año/GTI/Sin título.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Proxies y  cachés.md",
