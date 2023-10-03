@@ -38,7 +38,11 @@ Bases de datos ^5hdiY74f
 1ª ^Q8zfsEh2
 
 Son mano de obra barata, y
-hay a patadas. ^gg30Xhai
+hay a patadas. Si hacen bien
+su trabajo ante una incidencia
+que requiere mayor conocimiento
+técnico sabrán a quién derivar.
+(escalar) ^gg30Xhai
 
 Gente medio
 técncia ^nHGUOdTh
@@ -479,7 +483,7 @@ técncia ^9WatX7Df
 			"width": 448,
 			"height": 322,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#862e9c",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -491,8 +495,8 @@ técncia ^9WatX7Df
 				"type": 3
 			},
 			"seed": 569713334,
-			"version": 231,
-			"versionNonce": 2057847786,
+			"version": 232,
+			"versionNonce": 1225640566,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -500,7 +504,7 @@ técncia ^9WatX7Df
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336622254,
+			"updated": 1696336708431,
 			"link": null,
 			"locked": false
 		},
@@ -512,7 +516,7 @@ técncia ^9WatX7Df
 			"width": 79.73992919921875,
 			"height": 48,
 			"angle": 0,
-			"strokeColor": "#000000",
+			"strokeColor": "#862e9c",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -522,11 +526,11 @@ técncia ^9WatX7Df
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2024921590,
-			"version": 236,
-			"versionNonce": 366856118,
+			"version": 237,
+			"versionNonce": 2120442166,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336622254,
+			"updated": 1696336705097,
 			"link": null,
 			"locked": false,
 			"text": "Empresa\n  SPC",
@@ -3317,13 +3321,13 @@ técncia ^9WatX7Df
 		{
 			"id": "xZaBFfEwLzVv23a_uqMLz",
 			"type": "rectangle",
-			"x": 489.2734375,
+			"x": 489.1640625,
 			"y": -725.27734375,
 			"width": 120.8671875,
 			"height": 550.30078125,
 			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"strokeColor": "#087f5b",
+			"backgroundColor": "#12b886",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
@@ -3334,8 +3338,8 @@ técncia ^9WatX7Df
 				"type": 3
 			},
 			"seed": 1698719990,
-			"version": 285,
-			"versionNonce": 1927308586,
+			"version": 288,
+			"versionNonce": 1296438838,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3343,7 +3347,7 @@ técncia ^9WatX7Df
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336622256,
+			"updated": 1696336725763,
 			"link": null,
 			"locked": false
 		},
@@ -3406,10 +3410,10 @@ técncia ^9WatX7Df
 		{
 			"id": "iuMTLoQwyID2CDCArFKvB",
 			"type": "arrow",
-			"x": 540.1711396573503,
+			"x": 540.1056233568306,
 			"y": -728.33203125,
-			"width": 217.0116436260057,
-			"height": 208.93359375,
+			"width": 117.3293341139181,
+			"height": 112.93359375,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3423,11 +3427,11 @@ técncia ^9WatX7Df
 				"type": 2
 			},
 			"seed": 606957290,
-			"version": 604,
-			"versionNonce": 1618779062,
+			"version": 772,
+			"versionNonce": 682239222,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336622256,
+			"updated": 1696336711945,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3436,12 +3440,12 @@ técncia ^9WatX7Df
 					0
 				],
 				[
-					-84.7336396573503,
+					-84.66812335683062,
 					-94.65234375
 				],
 				[
-					-217.0116436260057,
-					-208.93359375
+					-117.3293341139181,
+					-112.93359375
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3463,8 +3467,8 @@ técncia ^9WatX7Df
 			"type": "text",
 			"x": 179.73046875,
 			"y": -987.19140625,
-			"width": 279.099853515625,
-			"height": 48,
+			"width": 310.6197204589844,
+			"height": 144,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3476,8 +3480,8 @@ técncia ^9WatX7Df
 			"groupIds": [],
 			"roundness": null,
 			"seed": 395736246,
-			"version": 317,
-			"versionNonce": 1744085674,
+			"version": 484,
+			"versionNonce": 1971132086,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3485,17 +3489,17 @@ técncia ^9WatX7Df
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336622256,
+			"updated": 1696336690947,
 			"link": null,
 			"locked": false,
-			"text": "Son mano de obra barata, y\nhay a patadas.",
-			"rawText": "Son mano de obra barata, y\nhay a patadas.",
+			"text": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\n(escalar)",
+			"rawText": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\n(escalar)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Son mano de obra barata, y\nhay a patadas."
+			"originalText": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\n(escalar)"
 		},
 		{
 			"type": "text",
@@ -4355,7 +4359,7 @@ técncia ^9WatX7Df
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemBackgroundColor": "#12b886",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
@@ -4366,8 +4370,8 @@ técncia ^9WatX7Df
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 79,
-		"scrollY": 1057.7421875,
+		"scrollX": 3,
+		"scrollY": 1017.7421875,
 		"zoom": {
 			"value": 1
 		},
