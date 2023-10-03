@@ -42,6 +42,7 @@ hay a patadas. Si hacen bien
 su trabajo ante una incidencia
 que requiere mayor conocimiento
 técnico sabrán a quién derivar.
+Son muchos de ellos extranjeros.
 (escalar) ^gg30Xhai
 
 Gente medio
@@ -3418,8 +3419,8 @@ $$$ ^jvqGBSup
 			"type": "arrow",
 			"x": 540.1084255289261,
 			"y": -728.32421875,
-			"width": 117.33213628601357,
-			"height": 112.94140625,
+			"width": 160.23050157221695,
+			"height": 153.13642325914225,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3433,11 +3434,11 @@ $$$ ^jvqGBSup
 				"type": 2
 			},
 			"seed": 606957290,
-			"version": 774,
-			"versionNonce": 1234634666,
+			"version": 1003,
+			"versionNonce": 1560794730,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336808467,
+			"updated": 1696336972973,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3450,8 +3451,8 @@ $$$ ^jvqGBSup
 					-94.66015625
 				],
 				[
-					-117.33213628601357,
-					-112.94140625
+					-160.23050157221695,
+					-153.13642325914225
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3471,10 +3472,10 @@ $$$ ^jvqGBSup
 		{
 			"id": "gg30Xhai",
 			"type": "text",
-			"x": 179.73046875,
-			"y": -987.19140625,
-			"width": 310.6197204589844,
-			"height": 144,
+			"x": 149.7458861518354,
+			"y": -1051.3864232591422,
+			"width": 322.459716796875,
+			"height": 168,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3486,8 +3487,8 @@ $$$ ^jvqGBSup
 			"groupIds": [],
 			"roundness": null,
 			"seed": 395736246,
-			"version": 484,
-			"versionNonce": 1971132086,
+			"version": 713,
+			"versionNonce": 1702857718,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3495,17 +3496,17 @@ $$$ ^jvqGBSup
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336690947,
+			"updated": 1696336972973,
 			"link": null,
 			"locked": false,
-			"text": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\n(escalar)",
-			"rawText": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\n(escalar)",
+			"text": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\nSon muchos de ellos extranjeros.\n(escalar)",
+			"rawText": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\nSon muchos de ellos extranjeros.\n(escalar)",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\n(escalar)"
+			"originalText": "Son mano de obra barata, y\nhay a patadas. Si hacen bien\nsu trabajo ante una incidencia\nque requiere mayor conocimiento\ntécnico sabrán a quién derivar.\nSon muchos de ellos extranjeros.\n(escalar)"
 		},
 		{
 			"type": "text",
@@ -4521,10 +4522,10 @@ $$$ ^jvqGBSup
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 23,
-		"scrollY": 921.7421875,
+		"scrollX": 224.14505457314533,
+		"scrollY": 1129.4535914074909,
 		"zoom": {
-			"value": 1
+			"value": 0.8032773983478546
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
