@@ -55,6 +55,12 @@ técncia ^C7a4HmpL
 Gente medio
 técncia ^9WatX7Df
 
+$ ^6We6ggdd
+
+$$ ^oa1GMx8E
+
+$$$ ^jvqGBSup
+
 %%
 # Drawing
 ```json
@@ -511,8 +517,8 @@ técncia ^9WatX7Df
 		{
 			"id": "4AvRmFCo",
 			"type": "text",
-			"x": 673.84765625,
-			"y": -156.23828125,
+			"x": 357.68359375,
+			"y": -493.52734375,
 			"width": 79.73992919921875,
 			"height": 48,
 			"angle": 0,
@@ -526,11 +532,11 @@ técncia ^9WatX7Df
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2024921590,
-			"version": 237,
-			"versionNonce": 2120442166,
+			"version": 569,
+			"versionNonce": 400456374,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336705097,
+			"updated": 1696336829291,
 			"link": null,
 			"locked": false,
 			"text": "Empresa\n  SPC",
@@ -3322,7 +3328,7 @@ técncia ^9WatX7Df
 			"id": "xZaBFfEwLzVv23a_uqMLz",
 			"type": "rectangle",
 			"x": 489.1640625,
-			"y": -725.27734375,
+			"y": -725.26953125,
 			"width": 120.8671875,
 			"height": 550.30078125,
 			"angle": 0,
@@ -3338,8 +3344,8 @@ técncia ^9WatX7Df
 				"type": 3
 			},
 			"seed": 1698719990,
-			"version": 289,
-			"versionNonce": 1521623146,
+			"version": 301,
+			"versionNonce": 2064672438,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3347,7 +3353,7 @@ técncia ^9WatX7Df
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336769330,
+			"updated": 1696336808466,
 			"link": null,
 			"locked": false
 		},
@@ -3410,10 +3416,10 @@ técncia ^9WatX7Df
 		{
 			"id": "iuMTLoQwyID2CDCArFKvB",
 			"type": "arrow",
-			"x": 540.1056233568306,
-			"y": -728.33203125,
-			"width": 117.3293341139181,
-			"height": 112.93359375,
+			"x": 540.1084255289261,
+			"y": -728.32421875,
+			"width": 117.33213628601357,
+			"height": 112.94140625,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3427,11 +3433,11 @@ técncia ^9WatX7Df
 				"type": 2
 			},
 			"seed": 606957290,
-			"version": 772,
-			"versionNonce": 682239222,
+			"version": 774,
+			"versionNonce": 1234634666,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336711945,
+			"updated": 1696336808467,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3440,12 +3446,12 @@ técncia ^9WatX7Df
 					0
 				],
 				[
-					-84.66812335683062,
-					-94.65234375
+					-84.67092552892609,
+					-94.66015625
 				],
 				[
-					-117.3293341139181,
-					-112.93359375
+					-117.33213628601357,
+					-112.94140625
 				]
 			],
 			"lastCommittedPoint": null,
@@ -4353,6 +4359,108 @@ técncia ^9WatX7Df
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Gente medio\ntécncia"
+		},
+		{
+			"id": "6We6ggdd",
+			"type": "text",
+			"x": 542.328125,
+			"y": -148.69375000000002,
+			"width": 28.907989501953125,
+			"height": 43.199999999999996,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ff5900",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 294285290,
+			"version": 234,
+			"versionNonce": 465885686,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696336841491,
+			"link": null,
+			"locked": false,
+			"text": "$",
+			"rawText": "$",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "$"
+		},
+		{
+			"type": "text",
+			"version": 275,
+			"versionNonce": 1820541354,
+			"isDeleted": false,
+			"id": "oa1GMx8E",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 652.9014739990234,
+			"y": -148.89687500000002,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ff5900",
+			"width": 57.81597900390625,
+			"height": 43.199999999999996,
+			"seed": 1941360938,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336838159,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "$$",
+			"rawText": "$$",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "$$"
+		},
+		{
+			"type": "text",
+			"version": 306,
+			"versionNonce": 311786,
+			"isDeleted": false,
+			"id": "jvqGBSup",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 795.8576354980469,
+			"y": -156.99843750000002,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ff5900",
+			"width": 86.72396850585938,
+			"height": 43.199999999999996,
+			"seed": 934398762,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336845891,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "$$$",
+			"rawText": "$$$",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "$$$"
 		}
 	],
 	"appState": {
@@ -4366,12 +4474,12 @@ técncia ^9WatX7Df
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -57,
-		"scrollY": 1017.7421875,
+		"scrollX": -11,
+		"scrollY": 941.7421875,
 		"zoom": {
 			"value": 1
 		},
