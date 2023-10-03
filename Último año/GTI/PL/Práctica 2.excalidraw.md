@@ -14,6 +14,8 @@ Grupos ^cJhLVv88
 
 Roles ^o3GZeq0f
 
+Gestión de accesos ^2vPJhyFE
+
 %%
 # Drawing
 ```json
@@ -399,6 +401,40 @@ Roles ^o3GZeq0f
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "2vPJhyFE",
+			"type": "text",
+			"x": -203.90625,
+			"y": -424.28515625,
+			"width": 193.1598358154297,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1023984950,
+			"version": 57,
+			"versionNonce": 627097974,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696335692534,
+			"link": null,
+			"locked": false,
+			"text": "Gestión de accesos",
+			"rawText": "Gestión de accesos",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Gestión de accesos"
 		}
 	],
 	"appState": {
@@ -416,8 +452,8 @@ Roles ^o3GZeq0f
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 667,
-		"scrollY": 485.7421875,
+		"scrollX": 701,
+		"scrollY": 657.7421875,
 		"zoom": {
 			"value": 1
 		},
