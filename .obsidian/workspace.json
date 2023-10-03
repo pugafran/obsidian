@@ -40,9 +40,19 @@
                 "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "fe80417518445be5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
+                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md"
               }
             }
           }
@@ -180,10 +190,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "58bd89679846954b",
+  "active": "fe80417518445be5",
   "lastOpenFiles": [
-    "Último año/GTI/PL/Práctica 2.md",
     "Último año/GTI/PL/Práctica 2.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+    "Último año/GTI/PL/Práctica 2.md",
     "Último año/GTI/Introducción a ITIL4.md",
     "Último año/GTI/PL",
     "Último año/GTI/Sin título.md",
@@ -209,7 +220,6 @@
     "Distribuidos/Arquitectura descentralizada.md",
     "conflict-files-obsidian-git.md",
     "Último año/Web/Scopes.md",
-    "Último año/Web/Qué son los servlets.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
