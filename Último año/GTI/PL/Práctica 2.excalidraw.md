@@ -26,9 +26,6 @@ técnica ^fKRV9aN8
 
 2ª línea ^whuxu1eO
 
-Gente medio
-técncia ^AVssn6Eo
-
 Web ^9u89TXs4
 
 Servicio movil ^bHiEci6t
@@ -50,11 +47,7 @@ técncia ^nHGUOdTh
 
 3ª línea ^xfwO7u0Y
 
-Gente medio
-técncia ^C7a4HmpL
-
-Gente medio
-técncia ^9WatX7Df
+Gente técnica ^C7a4HmpL
 
 $ ^6We6ggdd
 
@@ -3510,40 +3503,6 @@ $$$ ^jvqGBSup
 		},
 		{
 			"type": "text",
-			"version": 539,
-			"versionNonce": 958117110,
-			"isDeleted": false,
-			"id": "AVssn6Eo",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 621.6986236572266,
-			"y": -696.267578125,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 118.73989868164062,
-			"height": 48,
-			"seed": 1685254634,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1696336622256,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Gente medio\ntécncia",
-			"rawText": "Gente medio\ntécncia",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Gente medio\ntécncia"
-		},
-		{
-			"type": "text",
 			"version": 495,
 			"versionNonce": 624256182,
 			"isDeleted": false,
@@ -4295,8 +4254,8 @@ $$$ ^jvqGBSup
 		},
 		{
 			"type": "text",
-			"version": 676,
-			"versionNonce": 1888614966,
+			"version": 713,
+			"versionNonce": 478971318,
 			"isDeleted": false,
 			"id": "C7a4HmpL",
 			"fillStyle": "hachure",
@@ -4305,61 +4264,27 @@ $$$ ^jvqGBSup
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 785.5753631591797,
-			"y": -698.16015625,
+			"x": 773.6855959758336,
+			"y": -697.814891027089,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 118.73989868164062,
-			"height": 48,
+			"width": 139.05990600585938,
+			"height": 24,
 			"seed": 234194422,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336634374,
+			"updated": 1696337064110,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Gente medio\ntécncia",
-			"rawText": "Gente medio\ntécncia",
+			"text": "Gente técnica",
+			"rawText": "Gente técnica",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Gente medio\ntécncia"
-		},
-		{
-			"type": "text",
-			"version": 675,
-			"versionNonce": 357198890,
-			"isDeleted": false,
-			"id": "9WatX7Df",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 785.5753631591797,
-			"y": -698.03515625,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 118.73989868164062,
-			"height": 48,
-			"seed": 445021290,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1696336634374,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Gente medio\ntécncia",
-			"rawText": "Gente medio\ntécncia",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Gente medio\ntécncia"
+			"originalText": "Gente técnica"
 		},
 		{
 			"id": "6We6ggdd",
@@ -4505,6 +4430,74 @@ $$$ ^jvqGBSup
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"type": "text",
+			"version": 560,
+			"versionNonce": 627596790,
+			"isDeleted": true,
+			"id": "AVssn6Eo",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 621.547874052857,
+			"y": -696.267578125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 10,
+			"height": 24,
+			"seed": 1685254634,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696337083111,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "",
+			"rawText": "",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
+		},
+		{
+			"type": "text",
+			"version": 682,
+			"versionNonce": 791838442,
+			"isDeleted": true,
+			"id": "9WatX7Df",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 785.5753631591797,
+			"y": -698.03515625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 70.75994873046875,
+			"height": 48,
+			"seed": 445021290,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696337046301,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Gente\ntécncia",
+			"rawText": "Gente\ntécncia",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Gente\ntécncia"
 		}
 	],
 	"appState": {
@@ -4522,8 +4515,8 @@ $$$ ^jvqGBSup
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 224.14505457314533,
-		"scrollY": 1129.4535914074909,
+		"scrollX": 498.0230454795088,
+		"scrollY": 935.2491978557082,
 		"zoom": {
 			"value": 0.8032773983478546
 		},
