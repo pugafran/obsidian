@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6800c1a3b5617b1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 2.md",
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 2.md",
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 2.md"
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
           }
@@ -170,10 +180,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "415d1a22e7ff6b88",
+  "active": "58bd89679846954b",
   "lastOpenFiles": [
-    "Último año/GTI/Introducción a ITIL4.md",
     "Último año/GTI/PL/Práctica 2.md",
+    "Último año/GTI/PL/Práctica 2.excalidraw.md",
+    "Último año/GTI/Introducción a ITIL4.md",
     "Último año/GTI/PL",
     "Último año/GTI/Sin título.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
@@ -199,7 +210,6 @@
     "conflict-files-obsidian-git.md",
     "Último año/Web/Scopes.md",
     "Último año/Web/Qué son los servlets.md",
-    "Último año/Web/Intro.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
