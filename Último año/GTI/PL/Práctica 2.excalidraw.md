@@ -40,6 +40,17 @@ Bases de datos ^5hdiY74f
 Son mano de obra barata, y
 hay a patadas. ^gg30Xhai
 
+Gente medio
+técncia ^nHGUOdTh
+
+3ª línea ^xfwO7u0Y
+
+Gente medio
+técncia ^C7a4HmpL
+
+Gente medio
+técncia ^9WatX7Df
+
 %%
 # Drawing
 ```json
@@ -68,8 +79,8 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 1678971242,
-			"version": 91,
-			"versionNonce": 1075050922,
+			"version": 92,
+			"versionNonce": 863657514,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -85,7 +96,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696335975433,
+			"updated": 1696336622253,
 			"link": null,
 			"locked": false
 		},
@@ -107,11 +118,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1618415286,
-			"version": 17,
-			"versionNonce": 1988185590,
+			"version": 18,
+			"versionNonce": 511799670,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696335975433,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"text": "Técnicos",
@@ -125,8 +136,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "ellipse",
-			"version": 152,
-			"versionNonce": 662385770,
+			"version": 153,
+			"versionNonce": 429983978,
 			"isDeleted": false,
 			"id": "wKTN3HWZ0plo_yGNK-5Gf",
 			"fillStyle": "hachure",
@@ -160,14 +171,14 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696335975433,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 139468598,
+			"version": 89,
+			"versionNonce": 327144118,
 			"isDeleted": false,
 			"id": "cJhLVv88",
 			"fillStyle": "hachure",
@@ -186,7 +197,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696335975433,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -200,8 +211,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "ellipse",
-			"version": 216,
-			"versionNonce": 2074941226,
+			"version": 217,
+			"versionNonce": 1126456234,
 			"isDeleted": false,
 			"id": "EJwsrmSpwd5NC9FK4mh4A",
 			"fillStyle": "hachure",
@@ -235,14 +246,14 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696335975433,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 157,
-			"versionNonce": 850577526,
+			"version": 158,
+			"versionNonce": 882904054,
 			"isDeleted": false,
 			"id": "o3GZeq0f",
 			"fillStyle": "hachure",
@@ -261,7 +272,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696335975433,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -293,11 +304,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 1581159402,
-			"version": 71,
-			"versionNonce": 487891434,
+			"version": 72,
+			"versionNonce": 1848596074,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696335975433,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -344,11 +355,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 736242230,
-			"version": 44,
-			"versionNonce": 1701726646,
+			"version": 45,
+			"versionNonce": 1340546358,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696335975434,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -395,11 +406,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 1134058614,
-			"version": 74,
-			"versionNonce": 649909418,
+			"version": 75,
+			"versionNonce": 1535965482,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696335975434,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -444,11 +455,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1023984950,
-			"version": 61,
-			"versionNonce": 1336386294,
+			"version": 62,
+			"versionNonce": 716834422,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696335975434,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"text": "Gestión de accesos",
@@ -480,8 +491,8 @@ hay a patadas. ^gg30Xhai
 				"type": 3
 			},
 			"seed": 569713334,
-			"version": 230,
-			"versionNonce": 76187242,
+			"version": 231,
+			"versionNonce": 2057847786,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -489,7 +500,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336460818,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false
 		},
@@ -511,11 +522,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2024921590,
-			"version": 235,
-			"versionNonce": 1772913846,
+			"version": 236,
+			"versionNonce": 366856118,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336516279,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"text": "Empresa\n  SPC",
@@ -529,8 +540,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "ellipse",
-			"version": 925,
-			"versionNonce": 334564662,
+			"version": 926,
+			"versionNonce": 361510570,
 			"isDeleted": false,
 			"id": "DBnAA57Mxfu1QRyYuz_z7",
 			"fillStyle": "hachure",
@@ -556,14 +567,14 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336030103,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 646,
-			"versionNonce": 743658474,
+			"version": 647,
+			"versionNonce": 24600822,
 			"isDeleted": false,
 			"id": "MtGY7a5CWT3RvWcg2P1B-",
 			"fillStyle": "hachure",
@@ -584,7 +595,7 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336030103,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -605,8 +616,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "line",
-			"version": 682,
-			"versionNonce": 1949022134,
+			"version": 683,
+			"versionNonce": 2095305066,
 			"isDeleted": false,
 			"id": "Y0qQvto6fC_zMGa1ZWtr6",
 			"fillStyle": "hachure",
@@ -627,7 +638,7 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336030103,
+			"updated": 1696336622254,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -648,8 +659,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "freedraw",
-			"version": 732,
-			"versionNonce": 2136295082,
+			"version": 733,
+			"versionNonce": 285987382,
 			"isDeleted": false,
 			"id": "r7cMM5zDiLWGpAaKk32Uk",
 			"fillStyle": "hachure",
@@ -668,7 +679,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336030103,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1269,11 +1280,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 714073014,
-			"version": 1103,
-			"versionNonce": 1612437098,
+			"version": 1104,
+			"versionNonce": 872027178,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336370071,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1318,11 +1329,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2094892970,
-			"version": 205,
-			"versionNonce": 1538802026,
+			"version": 206,
+			"versionNonce": 796924790,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336451747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"text": "1ª línea",
@@ -1336,8 +1347,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "ellipse",
-			"version": 1160,
-			"versionNonce": 200696374,
+			"version": 1161,
+			"versionNonce": 481951466,
 			"isDeleted": false,
 			"id": "MJ-mdc6HfOMXoOP9umJZ8",
 			"fillStyle": "hachure",
@@ -1358,14 +1369,14 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336451747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 881,
-			"versionNonce": 515933226,
+			"version": 882,
+			"versionNonce": 588856502,
 			"isDeleted": false,
 			"id": "tzowkjvAxHpaTNiCPt25W",
 			"fillStyle": "hachure",
@@ -1386,7 +1397,7 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336451747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1407,8 +1418,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "line",
-			"version": 917,
-			"versionNonce": 244886390,
+			"version": 918,
+			"versionNonce": 598643114,
 			"isDeleted": false,
 			"id": "yNSH9CC4ldZpZ-2DvZ8AO",
 			"fillStyle": "hachure",
@@ -1429,7 +1440,7 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336451747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1450,8 +1461,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "freedraw",
-			"version": 967,
-			"versionNonce": 1160933098,
+			"version": 968,
+			"versionNonce": 561788406,
 			"isDeleted": false,
 			"id": "OzyUclqhcfV2MS5pcNPf8",
 			"fillStyle": "hachure",
@@ -1470,7 +1481,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336451747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2053,8 +2064,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "text",
-			"version": 405,
-			"versionNonce": 815778998,
+			"version": 406,
+			"versionNonce": 1812122730,
 			"isDeleted": false,
 			"id": "fKRV9aN8",
 			"fillStyle": "hachure",
@@ -2073,7 +2084,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336451747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2087,8 +2098,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "text",
-			"version": 318,
-			"versionNonce": 1862797046,
+			"version": 357,
+			"versionNonce": 1672349494,
 			"isDeleted": false,
 			"id": "whuxu1eO",
 			"fillStyle": "hachure",
@@ -2107,7 +2118,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336457747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2121,8 +2132,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "ellipse",
-			"version": 1269,
-			"versionNonce": 1788382058,
+			"version": 1308,
+			"versionNonce": 2072096554,
 			"isDeleted": false,
 			"id": "1JFzhde8KEsg8yxCfPHYM",
 			"fillStyle": "hachure",
@@ -2143,14 +2154,14 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336457747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 990,
-			"versionNonce": 295155766,
+			"version": 1029,
+			"versionNonce": 974368886,
 			"isDeleted": false,
 			"id": "Kd4Q-N-nOFD9vdoSpR8wX",
 			"fillStyle": "hachure",
@@ -2171,7 +2182,7 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336457747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2192,8 +2203,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "line",
-			"version": 1026,
-			"versionNonce": 1057459754,
+			"version": 1066,
+			"versionNonce": 1721121258,
 			"isDeleted": false,
 			"id": "9we4OZVxcIuq0c49nAaRJ",
 			"fillStyle": "hachure",
@@ -2202,7 +2213,7 @@ hay a patadas. ^gg30Xhai
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 674.3175714091872,
+			"x": 674.1964776591872,
 			"y": -620.7409960696782,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -2214,7 +2225,7 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"boundElements": null,
-			"updated": 1696336457747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2235,8 +2246,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "freedraw",
-			"version": 1076,
-			"versionNonce": 1100956022,
+			"version": 1115,
+			"versionNonce": 544354742,
 			"isDeleted": false,
 			"id": "XKAy13GLRhG2dn8sAoN-k",
 			"fillStyle": "hachure",
@@ -2255,7 +2266,7 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336457747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2838,10 +2849,10 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "text",
-			"version": 537,
-			"versionNonce": 470300906,
+			"version": 540,
+			"versionNonce": 2085317802,
 			"isDeleted": false,
-			"id": "AVssn6Eo",
+			"id": "nHGUOdTh",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
@@ -2854,11 +2865,11 @@ hay a patadas. ^gg30Xhai
 			"backgroundColor": "transparent",
 			"width": 118.73989868164062,
 			"height": 48,
-			"seed": 1685254634,
+			"seed": 696675446,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": null,
-			"updated": 1696336457747,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2890,8 +2901,8 @@ hay a patadas. ^gg30Xhai
 				"type": 3
 			},
 			"seed": 1394497386,
-			"version": 172,
-			"versionNonce": 1801114538,
+			"version": 173,
+			"versionNonce": 1374587638,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2903,7 +2914,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336485465,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false
 		},
@@ -2925,11 +2936,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1542027562,
-			"version": 64,
-			"versionNonce": 2036148022,
+			"version": 65,
+			"versionNonce": 1917601642,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336469944,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"text": "Bases \nde \ndatos",
@@ -2943,8 +2954,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "rectangle",
-			"version": 226,
-			"versionNonce": 1518507242,
+			"version": 227,
+			"versionNonce": 1561181238,
 			"isDeleted": false,
 			"id": "aM4lDm8S1WqQD3LJF7Ewm",
 			"fillStyle": "hachure",
@@ -2974,7 +2985,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336483000,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false
 		},
@@ -2996,11 +3007,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 694703478,
-			"version": 93,
-			"versionNonce": 2128113770,
+			"version": 94,
+			"versionNonce": 283363882,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336472926,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"text": "Servicio\nmovil",
@@ -3014,8 +3025,8 @@ hay a patadas. ^gg30Xhai
 		},
 		{
 			"type": "rectangle",
-			"version": 276,
-			"versionNonce": 1979555626,
+			"version": 277,
+			"versionNonce": 934593910,
 			"isDeleted": false,
 			"id": "_deUW7lshzYr55neyDWIj",
 			"fillStyle": "hachure",
@@ -3045,7 +3056,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336475861,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false
 		},
@@ -3067,11 +3078,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 2058690346,
-			"version": 115,
-			"versionNonce": 697221238,
+			"version": 116,
+			"versionNonce": 1593636074,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336475861,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"text": "Web",
@@ -3103,8 +3114,8 @@ hay a patadas. ^gg30Xhai
 				"type": 3
 			},
 			"seed": 2055227946,
-			"version": 122,
-			"versionNonce": 2106048810,
+			"version": 123,
+			"versionNonce": 1395173046,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3124,7 +3135,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336478772,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false
 		},
@@ -3146,11 +3157,11 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1444468534,
-			"version": 38,
-			"versionNonce": 1878765302,
+			"version": 39,
+			"versionNonce": 1310902186,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336411839,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"text": "1ª",
@@ -3182,11 +3193,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 828859946,
-			"version": 137,
-			"versionNonce": 1384476970,
+			"version": 138,
+			"versionNonce": 806248438,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1696336486116,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3229,11 +3240,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 608833514,
-			"version": 132,
-			"versionNonce": 133457834,
+			"version": 133,
+			"versionNonce": 1719681642,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336483667,
+			"updated": 1696336622255,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3276,11 +3287,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 1812259190,
-			"version": 268,
-			"versionNonce": 481728810,
+			"version": 269,
+			"versionNonce": 1919611190,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336481551,
+			"updated": 1696336622256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3323,8 +3334,8 @@ hay a patadas. ^gg30Xhai
 				"type": 3
 			},
 			"seed": 1698719990,
-			"version": 284,
-			"versionNonce": 696146986,
+			"version": 285,
+			"versionNonce": 1927308586,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3332,14 +3343,14 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336545301,
+			"updated": 1696336622256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 526,
-			"versionNonce": 52694582,
+			"version": 527,
+			"versionNonce": 1973639798,
 			"isDeleted": false,
 			"id": "_CdsK3I8a7EpOxIas-eTY",
 			"fillStyle": "hachure",
@@ -3360,14 +3371,14 @@ hay a patadas. ^gg30Xhai
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1696336596409,
+			"updated": 1696336622256,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 594,
-			"versionNonce": 18580522,
+			"version": 595,
+			"versionNonce": 749613034,
 			"isDeleted": false,
 			"id": "aLak8bgg3yOqogqAE8v1z",
 			"fillStyle": "hachure",
@@ -3388,7 +3399,7 @@ hay a patadas. ^gg30Xhai
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1696336533294,
+			"updated": 1696336622256,
 			"link": null,
 			"locked": false
 		},
@@ -3412,11 +3423,11 @@ hay a patadas. ^gg30Xhai
 				"type": 2
 			},
 			"seed": 606957290,
-			"version": 603,
-			"versionNonce": 1911638518,
+			"version": 604,
+			"versionNonce": 1618779062,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696336583244,
+			"updated": 1696336622256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3465,8 +3476,8 @@ hay a patadas. ^gg30Xhai
 			"groupIds": [],
 			"roundness": null,
 			"seed": 395736246,
-			"version": 316,
-			"versionNonce": 35274154,
+			"version": 317,
+			"versionNonce": 1744085674,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3474,7 +3485,7 @@ hay a patadas. ^gg30Xhai
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336583244,
+			"updated": 1696336622256,
 			"link": null,
 			"locked": false,
 			"text": "Son mano de obra barata, y\nhay a patadas.",
@@ -3485,6 +3496,859 @@ hay a patadas. ^gg30Xhai
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Son mano de obra barata, y\nhay a patadas."
+		},
+		{
+			"type": "text",
+			"version": 539,
+			"versionNonce": 958117110,
+			"isDeleted": false,
+			"id": "AVssn6Eo",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 621.6986236572266,
+			"y": -696.267578125,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 118.73989868164062,
+			"height": 48,
+			"seed": 1685254634,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336622256,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Gente medio\ntécncia",
+			"rawText": "Gente medio\ntécncia",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Gente medio\ntécncia"
+		},
+		{
+			"type": "text",
+			"version": 495,
+			"versionNonce": 624256182,
+			"isDeleted": false,
+			"id": "xfwO7u0Y",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 800.4733123779297,
+			"y": -575.94140625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 77.65995788574219,
+			"height": 24,
+			"seed": 1860158506,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336636891,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "3ª línea",
+			"rawText": "3ª línea",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "3ª línea"
+		},
+		{
+			"type": "ellipse",
+			"version": 1444,
+			"versionNonce": 1162735542,
+			"isDeleted": false,
+			"id": "rE4-Yo2ElKqihtjGmnGh8",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 823.6252602222794,
+			"y": -640.677734375,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.973204853571218,
+			"height": 19.58641847379541,
+			"seed": 1124952950,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1696336634374,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 1165,
+			"versionNonce": 1922207402,
+			"isDeleted": false,
+			"id": "dL2xq5GI-XnS4fuFkJez0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 829.4879701726138,
+			"y": -622.1098278902443,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 9.957264859293385,
+			"height": 18.85272527363695,
+			"seed": 1332326122,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1696336634374,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-9.957264859293385,
+					18.85272527363695
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 1202,
+			"versionNonce": 547522806,
+			"isDeleted": false,
+			"id": "C3HxfN9uzTTioONHfStCX",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 838.0732171611403,
+			"y": -622.5085741946782,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 9.073187338605551,
+			"height": 16.32581297868126,
+			"seed": 2021428406,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": null,
+			"updated": 1696336634374,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					9.073187338605551,
+					16.32581297868126
+				]
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 1251,
+			"versionNonce": 392112490,
+			"isDeleted": false,
+			"id": "gUg6KesG-VCdbOWMeKmt_",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 821.1256905310563,
+			"y": -603.639899068864,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25.790910970787603,
+			"height": 3.401875614399319,
+			"seed": 1156071850,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336634374,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.06607795902048241,
+					0
+				],
+				[
+					0.19595532675039615,
+					0
+				],
+				[
+					0.37596080132343446,
+					0
+				],
+				[
+					0.6653366908269264,
+					0
+				],
+				[
+					1.004840687173543,
+					0
+				],
+				[
+					1.4263724947179999,
+					0.15038432052937378
+				],
+				[
+					1.8889182078613767,
+					0.39646775412289453
+				],
+				[
+					2.267157559495862,
+					0.5787517790069839
+				],
+				[
+					2.727424722328188,
+					0.75420015295792
+				],
+				[
+					3.1808562342273605,
+					0.849899266022067
+				],
+				[
+					3.518081680262926,
+					0.9387627281530606
+				],
+				[
+					3.866699877853747,
+					1.102818350548741
+				],
+				[
+					4.2084824245114145,
+					1.198517463612888
+				],
+				[
+					4.547986420858031,
+					1.2805452748107282
+				],
+				[
+					4.825969558806268,
+					1.3466232338312107
+				],
+				[
+					5.05382458991138,
+					1.3580159853864662
+				],
+				[
+					5.2680083191501845,
+					1.4286510450290508
+				],
+				[
+					5.461685095589529,
+					1.4856148028053289
+				],
+				[
+					5.682704475761488,
+					1.5038432052937378
+				],
+				[
+					5.908280956555549,
+					1.5744782649363225
+				],
+				[
+					6.149807289526967,
+					1.624606371779447
+				],
+				[
+					6.395890723120488,
+					1.624606371779447
+				],
+				[
+					6.676152411379776,
+					1.6929628811109805
+				],
+				[
+					6.924514395284347,
+					1.7749906923088208
+				],
+				[
+					7.172876379188919,
+					1.7863834438640764
+				],
+				[
+					7.462252268692411,
+					1.7863834438640764
+				],
+				[
+					7.708335702285932,
+					1.7863834438640764
+				],
+				[
+					7.995433041478373,
+					1.7863834438640764
+				],
+				[
+					8.241516475071894,
+					1.7863834438640764
+				],
+				[
+					8.49899266022067,
+					1.7863834438640764
+				],
+				[
+					8.817989703767827,
+					1.7863834438640764
+				],
+				[
+					9.064073137361348,
+					1.7863834438640764
+				],
+				[
+					9.328384973443276,
+					1.7863834438640764
+				],
+				[
+					9.667888969789892,
+					1.7863834438640764
+				],
+				[
+					9.929922255560772,
+					1.7863834438640764
+				],
+				[
+					10.178284239465343,
+					1.7863834438640764
+				],
+				[
+					10.501838383634603,
+					1.7863834438640764
+				],
+				[
+					10.839063829670168,
+					1.7863834438640764
+				],
+				[
+					11.08514726326369,
+					1.7863834438640764
+				],
+				[
+					11.285659690636187,
+					1.7863834438640764
+				],
+				[
+					11.529464573918656,
+					1.7863834438640764
+				],
+				[
+					11.732255551602206,
+					1.7863834438640764
+				],
+				[
+					11.928210878352601,
+					1.7863834438640764
+				],
+				[
+					12.160623010079815,
+					1.7863834438640764
+				],
+				[
+					12.37252818900757,
+					1.7863834438640764
+				],
+				[
+					12.566204965446914,
+					1.7863834438640764
+				],
+				[
+					12.789502895929925,
+					1.7863834438640764
+				],
+				[
+					13.010522276101883,
+					1.7863834438640764
+				],
+				[
+					13.281669763116966,
+					1.7863834438640764
+				],
+				[
+					13.621173759463582,
+					1.7863834438640764
+				],
+				[
+					13.958399205499148,
+					1.7863834438640764
+				],
+				[
+					14.209039739714772,
+					1.7863834438640764
+				],
+				[
+					14.45284462299724,
+					1.7863834438640764
+				],
+				[
+					14.785512968410703,
+					1.7863834438640764
+				],
+				[
+					15.036153502626327,
+					1.7863834438640764
+				],
+				[
+					15.229830279065672,
+					1.7863834438640764
+				],
+				[
+					15.466799511414989,
+					1.7863834438640764
+				],
+				[
+					15.67642614003169,
+					1.7863834438640764
+				],
+				[
+					15.870102916471035,
+					1.7863834438640764
+				],
+				[
+					16.050108391044073,
+					1.7863834438640764
+				],
+				[
+					16.198214161262396,
+					1.7863834438640764
+				],
+				[
+					16.34859848179177,
+					1.7863834438640764
+				],
+				[
+					16.498982802321144,
+					1.7863834438640764
+				],
+				[
+					16.649367122850517,
+					1.7863834438640764
+				],
+				[
+					16.77468738995833,
+					1.7863834438640764
+				],
+				[
+					16.85443665084512,
+					1.7863834438640764
+				],
+				[
+					16.947857213598216,
+					1.7863834438640764
+				],
+				[
+					17.06178472915077,
+					1.7863834438640764
+				],
+				[
+					17.171155144081226,
+					1.7863834438640764
+				],
+				[
+					17.291918310566935,
+					1.7863834438640764
+				],
+				[
+					17.401288725497388,
+					1.7863834438640764
+				],
+				[
+					17.526608992605198,
+					1.7863834438640764
+				],
+				[
+					17.676993313134574,
+					1.7863834438640764
+				],
+				[
+					17.81142778148659,
+					1.7863834438640764
+				],
+				[
+					17.925355297039143,
+					1.7863834438640764
+				],
+				[
+					18.093968020056927,
+					1.7863834438640764
+				],
+				[
+					18.28308769587417,
+					1.7863834438640764
+				],
+				[
+					18.46309317044721,
+					1.7863834438640764
+				],
+				[
+					18.659048497197603,
+					1.7863834438640764
+				],
+				[
+					18.868675125814306,
+					1.7567622898204118
+				],
+				[
+					19.103365807852573,
+					1.683848679866776
+				],
+				[
+					19.297042584291916,
+					1.6405562239568048
+				],
+				[
+					19.497555011664417,
+					1.6405562239568048
+				],
+				[
+					19.739081344635835,
+					1.6405562239568048
+				],
+				[
+					19.928201020453077,
+					1.6405562239568048
+				],
+				[
+					20.046685636627736,
+					1.588149566802629
+				],
+				[
+					20.16061315218029,
+					1.5175145071600444
+				],
+				[
+					20.29960472115441,
+					1.4970075543605845
+				],
+				[
+					20.44771049137273,
+					1.4970075543605845
+				],
+				[
+					20.584423510035798,
+					1.412701192851693
+				],
+				[
+					20.743922031809376,
+					1.3283948313428018
+				],
+				[
+					20.91481330513821,
+					1.3283948313428018
+				],
+				[
+					21.026462270379717,
+					1.2440884698339103
+				],
+				[
+					21.13811123562122,
+					1.1324395045924056
+				],
+				[
+					21.327230911438463,
+					1.0595258946387698
+				],
+				[
+					21.52090768787781,
+					1.0139548884177474
+				],
+				[
+					21.678127659340337,
+					0.9410412784641117
+				],
+				[
+					21.82623342955866,
+					0.868127668510476
+				],
+				[
+					21.946996596044368,
+					0.8179995616673513
+				],
+				[
+					22.05864556128587,
+					0.7473645020247667
+				],
+				[
+					22.195358579948937,
+					0.6812865430042843
+				],
+				[
+					22.343464350167263,
+					0.6083729330506484
+				],
+				[
+					22.473341717897174,
+					0.4990025181201948
+				],
+				[
+					22.632840239670752,
+					0.41469615661130343
+				],
+				[
+					22.774110358955923,
+					0.33038979510241206
+				],
+				[
+					22.885759324197426,
+					0.24608343359352072
+				],
+				[
+					23.00880104099419,
+					0.22101938017195843
+				],
+				[
+					23.118171455924642,
+					0.14810577021832266
+				],
+				[
+					23.2412131727214,
+					0.09797766337519807
+				],
+				[
+					23.36197633920711,
+					0.06607795902048241
+				],
+				[
+					23.48273950569282,
+					-0.006835650933153354
+				],
+				[
+					23.592109920623276,
+					-0.05012810684312459
+				],
+				[
+					23.646795128088502,
+					-0.12304171679676036
+				],
+				[
+					23.728822939286342,
+					-0.19595532675039615
+				],
+				[
+					23.8518646560831,
+					-0.19595532675039615
+				],
+				[
+					23.917942615103584,
+					-0.19595532675039615
+				],
+				[
+					23.986299124435117,
+					-0.19595532675039615
+				],
+				[
+					24.0523770834556,
+					-0.24836198390457184
+				],
+				[
+					24.1503547468308,
+					-0.32127559385820764
+				],
+				[
+					24.289346315804917,
+					-0.3440610969687188
+				],
+				[
+					24.35770282513645,
+					-0.3827964522565878
+				],
+				[
+					24.426059334467983,
+					-0.45343151189917247
+				],
+				[
+					24.54682250095369,
+					-0.4853312162538881
+				],
+				[
+					24.640243063706787,
+					-0.5559662758964727
+				],
+				[
+					24.738220727081988,
+					-0.6402726374053641
+				],
+				[
+					24.856705343256646,
+					-0.6995149454926932
+				],
+				[
+					24.92734040289923,
+					-0.7701500051352779
+				],
+				[
+					25.016203865030224,
+					-0.8612920175773225
+				],
+				[
+					25.146081232760135,
+					-0.9433198287751628
+				],
+				[
+					25.209880641469567,
+					-1.0162334387287986
+				],
+				[
+					25.264565848934794,
+					-1.0754757468161276
+				],
+				[
+					25.332922358266327,
+					-1.1142111021039967
+				],
+				[
+					25.369379163243146,
+					-1.1848461617465813
+				],
+				[
+					25.440014222885733,
+					-1.219024416412348
+				],
+				[
+					25.485585229106754,
+					-1.2623168723223193
+				],
+				[
+					25.556220288749337,
+					-1.3306733816538527
+				],
+				[
+					25.638248099947177,
+					-1.4013084412964374
+				],
+				[
+					25.68609765647925,
+					-1.471943500939022
+				],
+				[
+					25.756732716121835,
+					-1.4970075543605845
+				],
+				[
+					25.790910970787603,
+					-1.547135661203709
+				],
+				[
+					25.790910970787603,
+					-1.6154921705352425
+				],
+				[
+					25.790910970787603,
+					-1.6154921705352425
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
+		},
+		{
+			"type": "text",
+			"version": 676,
+			"versionNonce": 1888614966,
+			"isDeleted": false,
+			"id": "C7a4HmpL",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 785.5753631591797,
+			"y": -698.16015625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 118.73989868164062,
+			"height": 48,
+			"seed": 234194422,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336634374,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Gente medio\ntécncia",
+			"rawText": "Gente medio\ntécncia",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Gente medio\ntécncia"
+		},
+		{
+			"type": "text",
+			"version": 675,
+			"versionNonce": 357198890,
+			"isDeleted": false,
+			"id": "9WatX7Df",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 785.5753631591797,
+			"y": -698.03515625,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 118.73989868164062,
+			"height": 48,
+			"seed": 445021290,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1696336634374,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Gente medio\ntécncia",
+			"rawText": "Gente medio\ntécncia",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Gente medio\ntécncia"
 		}
 	],
 	"appState": {
@@ -3502,8 +4366,8 @@ hay a patadas. ^gg30Xhai
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 95,
-		"scrollY": 1153.7421875,
+		"scrollX": 79,
+		"scrollY": 1057.7421875,
 		"zoom": {
 			"value": 1
 		},
