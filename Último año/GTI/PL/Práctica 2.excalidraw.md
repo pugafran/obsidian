@@ -37,6 +37,9 @@ Bases de datos ^5hdiY74f
 
 1ª ^Q8zfsEh2
 
+Son mano de obra barata, y
+hay a patadas. ^gg30Xhai
+
 %%
 # Drawing
 ```json
@@ -3320,18 +3323,23 @@ Bases de datos ^5hdiY74f
 				"type": 3
 			},
 			"seed": 1698719990,
-			"version": 283,
-			"versionNonce": 1688797814,
+			"version": 284,
+			"versionNonce": 696146986,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696336501928,
+			"boundElements": [
+				{
+					"id": "iuMTLoQwyID2CDCArFKvB",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696336545301,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 470,
-			"versionNonce": 1869390442,
+			"version": 526,
+			"versionNonce": 52694582,
 			"isDeleted": false,
 			"id": "_CdsK3I8a7EpOxIas-eTY",
 			"fillStyle": "hachure",
@@ -3340,8 +3348,8 @@ Bases de datos ^5hdiY74f
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 620.10546875,
-			"y": -727.294921875,
+			"x": 620.2578125,
+			"y": -725.873046875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 120.8671875,
@@ -3352,7 +3360,7 @@ Bases de datos ^5hdiY74f
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1696336511796,
+			"updated": 1696336596409,
 			"link": null,
 			"locked": false
 		},
@@ -3383,6 +3391,100 @@ Bases de datos ^5hdiY74f
 			"updated": 1696336533294,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "iuMTLoQwyID2CDCArFKvB",
+			"type": "arrow",
+			"x": 540.1711396573503,
+			"y": -728.33203125,
+			"width": 217.0116436260057,
+			"height": 208.93359375,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 606957290,
+			"version": 603,
+			"versionNonce": 1911638518,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696336583244,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-84.7336396573503,
+					-94.65234375
+				],
+				[
+					-217.0116436260057,
+					-208.93359375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "xZaBFfEwLzVv23a_uqMLz",
+				"focus": 0.7808158378164574,
+				"gap": 3.0546875
+			},
+			"endBinding": {
+				"elementId": "gg30Xhai",
+				"focus": 0.15615555620705523,
+				"gap": 1.92578125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "gg30Xhai",
+			"type": "text",
+			"x": 179.73046875,
+			"y": -987.19140625,
+			"width": 279.099853515625,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 395736246,
+			"version": 316,
+			"versionNonce": 35274154,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "iuMTLoQwyID2CDCArFKvB",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696336583244,
+			"link": null,
+			"locked": false,
+			"text": "Son mano de obra barata, y\nhay a patadas.",
+			"rawText": "Son mano de obra barata, y\nhay a patadas.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Son mano de obra barata, y\nhay a patadas."
 		}
 	],
 	"appState": {
@@ -3400,8 +3502,8 @@ Bases de datos ^5hdiY74f
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 89,
-		"scrollY": 1323.7421875,
+		"scrollX": 95,
+		"scrollY": 1153.7421875,
 		"zoom": {
 			"value": 1
 		},
