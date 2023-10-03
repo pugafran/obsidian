@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/GTI/Introducción a ITIL4.md",
+                "file": "Último año/GTI/PL/Práctica 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Introducción a ITIL4.md",
+                "file": "Último año/GTI/PL/Práctica 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Introducción a ITIL4.md",
+                "file": "Último año/GTI/PL/Práctica 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Introducción a ITIL4.md"
+                "file": "Último año/GTI/PL/Práctica 2.md"
               }
             }
           }
@@ -172,8 +172,10 @@
   },
   "active": "415d1a22e7ff6b88",
   "lastOpenFiles": [
-    "Último año/GTI/Sin título.md",
     "Último año/GTI/Introducción a ITIL4.md",
+    "Último año/GTI/PL/Práctica 2.md",
+    "Último año/GTI/PL",
+    "Último año/GTI/Sin título.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Proxies y  cachés.md",
@@ -198,7 +200,6 @@
     "Último año/Web/Scopes.md",
     "Último año/Web/Qué son los servlets.md",
     "Último año/Web/Intro.md",
-    "Último año/Web/Qué son los beans.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
@@ -216,7 +217,6 @@
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
     "imagenes",
-    "Sistemas Operativos",
-    "Juan"
+    "Sistemas Operativos"
   ]
 }
