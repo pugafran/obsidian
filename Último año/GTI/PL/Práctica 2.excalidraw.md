@@ -3326,7 +3326,7 @@ técncia ^9WatX7Df
 			"width": 120.8671875,
 			"height": 550.30078125,
 			"angle": 0,
-			"strokeColor": "#087f5b",
+			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
@@ -3338,8 +3338,8 @@ técncia ^9WatX7Df
 				"type": 3
 			},
 			"seed": 1698719990,
-			"version": 288,
-			"versionNonce": 1296438838,
+			"version": 289,
+			"versionNonce": 1521623146,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3347,14 +3347,14 @@ técncia ^9WatX7Df
 					"type": "arrow"
 				}
 			],
-			"updated": 1696336725763,
+			"updated": 1696336769330,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 527,
-			"versionNonce": 1973639798,
+			"version": 595,
+			"versionNonce": 1790469546,
 			"isDeleted": false,
 			"id": "_CdsK3I8a7EpOxIas-eTY",
 			"fillStyle": "hachure",
@@ -3366,7 +3366,7 @@ técncia ^9WatX7Df
 			"x": 620.2578125,
 			"y": -725.873046875,
 			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#faf200",
 			"width": 120.8671875,
 			"height": 550.30078125,
 			"seed": 1480001514,
@@ -3375,14 +3375,14 @@ técncia ^9WatX7Df
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1696336622256,
+			"updated": 1696336766248,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 595,
-			"versionNonce": 749613034,
+			"version": 603,
+			"versionNonce": 492283958,
 			"isDeleted": false,
 			"id": "aLak8bgg3yOqogqAE8v1z",
 			"fillStyle": "hachure",
@@ -3394,7 +3394,7 @@ técncia ^9WatX7Df
 			"x": 756.484375,
 			"y": -725.951171875,
 			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ff5900",
 			"width": 173.80078125,
 			"height": 545.52734375,
 			"seed": 398525546,
@@ -3403,7 +3403,7 @@ técncia ^9WatX7Df
 				"type": 3
 			},
 			"boundElements": null,
-			"updated": 1696336622256,
+			"updated": 1696336776033,
 			"link": null,
 			"locked": false
 		},
@@ -4359,7 +4359,7 @@ técncia ^9WatX7Df
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "#12b886",
+		"currentItemBackgroundColor": "#ff5900",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
@@ -4370,7 +4370,7 @@ técncia ^9WatX7Df
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3,
+		"scrollX": -57,
 		"scrollY": 1017.7421875,
 		"zoom": {
 			"value": 1
