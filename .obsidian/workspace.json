@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9b2e7828d64894f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Cookies.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Cookies.md",
+                "file": "Último año/Servicios/Cookies.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Cookies.md",
+                "file": "Último año/Servicios/Cookies.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Cookies.md"
+                "file": "Último año/Servicios/Cookies.excalidraw.md"
               }
             }
           }
@@ -157,10 +168,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9f03cc228b5edef2",
+  "active": "58bd89679846954b",
   "lastOpenFiles": [
-    "imagenes/Pasted Image 20230921175509_564.png",
     "Último año/Servicios/Cookies.md",
+    "Último año/Servicios/Cookies.excalidraw.md",
+    "imagenes/Pasted Image 20230921175509_564.png",
     "imagenes/Pasted Image 20230929004635_321.png",
     "imagenes/Pasted Image 20230921155217_053.png",
     "imagenes/Pasted Image 20230921174353_535.png",
