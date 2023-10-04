@@ -82,4 +82,7 @@ Para elevar los elementos de la matriz al cuadrado: B.^2
 [m,n] = size(M) guardan m y n el numero de filas y columnas
 
 
-triangular superior triu(M)
+triangular superior triu(M) upper
+Triangular inferior tril(M) lower
+
+diag(u) solo deja la diagonal pero no a 1s, a lo que haya
