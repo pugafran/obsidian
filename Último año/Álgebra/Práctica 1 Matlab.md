@@ -47,3 +47,5 @@ sum(u) suma las coordenadas de un vector
 u[2:2:end]
 
 ones(2,3) matriz de 1s 2x3
+
+ones(2,3)'  traspuesto
