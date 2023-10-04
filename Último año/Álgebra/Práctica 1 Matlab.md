@@ -60,4 +60,5 @@ M=randi([-3,5],5,6) matriz aleatoria de 5x6 entre -3 y 5
 
 M(3,4) = 10
 
-M(4,:) = 100 (cambia toda la fila a 100)
+M(4,:) = 100 (cambia toda la fila 4 a 100)
+M(:,3) = 700 (cambia toda la fila a 700)
