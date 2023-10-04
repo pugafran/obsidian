@@ -41,4 +41,7 @@ v(end-1) la penultima
 
 u = [2:3:13]' = u traspuesta
 
-sum(u)
+sum(u) suma las coordenadas de un vector
+
+
+u[2]
