@@ -1,0 +1,1 @@
+Cuando cierras sesion no se borra la cookie necesariamente en el cliente, se borra en el servidor, así cuando vuelve a entrar aunque el cliente le ca
