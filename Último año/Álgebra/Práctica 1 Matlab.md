@@ -67,4 +67,10 @@ M(:,3) = 700 (cambia toda la fila a 700)
 
 B = M([1:3],[4:end])
 
-det(B) = 
+det(B) = determinante de B
+
+inversa de B = inv(B)
+
+rank(B) rango de la matriz
+
+B^2 (Matriz al cuadrado xd)
