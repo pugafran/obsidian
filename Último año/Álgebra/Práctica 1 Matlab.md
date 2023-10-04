@@ -29,3 +29,5 @@ b => cota superior de la ultima coordenada
 [2:3:11]
 
 (2 5 8 11)
+
+linspace(Primera coordenada, segunda coordenada, número de coordenadas)
