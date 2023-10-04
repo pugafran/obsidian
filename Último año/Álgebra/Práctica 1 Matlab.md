@@ -62,3 +62,6 @@ M(3,4) = 10
 
 M(4,:) = 100 (cambia toda la fila 4 a 100)
 M(:,3) = 700 (cambia toda la fila a 700)
+
+
+B = M([1:3],)
