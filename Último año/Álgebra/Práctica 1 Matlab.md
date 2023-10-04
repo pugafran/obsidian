@@ -19,4 +19,10 @@ declarar variables simbólicas:
 syms x y
 f(x,y)= 3 * x^2 + 2 * y^2 - 7
 
-[a]
+[a:h:b]
+
+a => primera coordenada
+h => diferencia entre dos coordenadas consecutivas
+b => cota superior de la ultima coordenada
+
+[2:3:13]
