@@ -25,4 +25,7 @@ a => primera coordenada
 h => diferencia entre dos coordenadas consecutivas
 b => cota superior de la ultima coordenada
 
-[2:3:13]
+[2:3:13] 
+[2:3:11]
+
+(2 5 8 11)
