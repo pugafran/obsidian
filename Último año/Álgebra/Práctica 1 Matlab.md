@@ -75,4 +75,4 @@ rank(B) rango de la matriz
 
 B^2 (Matriz al cuadrado xd) B * B
 
-Para elevar los elementos de la ma
+Para elevar los elementos de la matriz al cuadrado: B.^2
