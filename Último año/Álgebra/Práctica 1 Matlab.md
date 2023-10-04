@@ -56,4 +56,4 @@ diagonal 1
 
 
 
-M=randi([-3,5]) matriz aleatoria de 
+M=randi([-3,5],5,6) matriz aleatoria de 5x6 entre -3 y 5
