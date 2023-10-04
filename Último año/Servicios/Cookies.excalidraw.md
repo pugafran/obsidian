@@ -9,7 +9,7 @@ tags: [excalidraw]
 
 # Text Elements
 Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,
-entonces cuando entres a una página  ^nZqytNBr
+entonces cuando entres a una página que use el mismo js ya saben quien eres. ^nZqytNBr
 
 
 # Embedded files
@@ -73,21 +73,21 @@ e006286c4fe233b39b8c46300b95fec0038ab128: [[Pasted Image 20231004184039_267.png]
 			"groupIds": [],
 			"roundness": null,
 			"seed": 1669056758,
-			"version": 145,
-			"versionNonce": 1897677558,
+			"version": 199,
+			"versionNonce": 720541174,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696437637158,
+			"updated": 1696437651798,
 			"link": null,
 			"locked": false,
-			"text": "Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,\nentonces cuando entres a una página ",
-			"rawText": "Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,\nentonces cuando entres a una página ",
+			"text": "Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,\nentonces cuando entres a una página que use el mismo js ya saben quien eres.",
+			"rawText": "Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,\nentonces cuando entres a una página que use el mismo js ya saben quien eres.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,\nentonces cuando entres a una página "
+			"originalText": "Por ejemplo entras a una pagina que usa un js de google, te asocia una cookie,\nentonces cuando entres a una página que use el mismo js ya saben quien eres."
 		}
 	],
 	"appState": {
