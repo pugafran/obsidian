@@ -33,6 +33,8 @@ b => cota superior de la ultima coordenada
 linspace(Primera coordenada, segunda coordenada, número de coordenadas)
 
 
-linspace(3.1, 4.3, 5)
+linspace(3.1, 4.3, 5) => (3.1 3.4 3.7 4 4.3)
 
-(3.1 3.4 3.7 4 4.3)
+v(end) me da la ultima
+
+v(end-1) la penultima
