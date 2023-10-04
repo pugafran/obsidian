@@ -49,3 +49,11 @@ u[2:2:end]
 ones(2,3) matriz de 1s 2x3
 
 ones(2,3)'  traspuesto
+
+eye(5)
+
+diagonal 1
+
+
+
+M=randi([-3,5]) matriz aleatoria de 
