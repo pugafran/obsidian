@@ -44,4 +44,4 @@ u = [2:3:13]' = u traspuesta
 sum(u) suma las coordenadas de un vector
 
 
-u[2]
+u[2:2:end]
