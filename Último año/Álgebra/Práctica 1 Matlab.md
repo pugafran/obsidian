@@ -88,3 +88,5 @@ Triangular inferior tril(M) lower
 diag(u) solo deja la diagonal pero no a 1s, a lo que haya (solo vectores?)
 
 diag(7 * ones(1,4)) hace matriz diagonal 4x4 con todo 7s en la diagonal
+
+diag(u, +1) o diag(u,-1) lo acota
