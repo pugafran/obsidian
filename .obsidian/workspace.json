@@ -40,49 +40,9 @@
                 "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "fe80417518445be5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230929004635_321.png"
-              }
-            }
-          },
-          {
-            "id": "7cbfa57417574ddf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230929004635_321.png"
-              }
-            }
-          },
-          {
-            "id": "9a21e1f81ef934a1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230921174353_535.png"
-              }
-            }
-          },
-          {
-            "id": "4ac156b5df645b59",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230921155217_053.png"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20230921155217_053.png",
+                "file": "imagenes/Pasted Image 20230921175509_564.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20230921155217_053.png",
+                "file": "imagenes/Pasted Image 20230921175509_564.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20230921155217_053.png"
+                "file": "imagenes/Pasted Image 20230921175509_564.png"
               }
             }
           }
@@ -220,11 +180,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4ac156b5df645b59",
+  "active": "58bd89679846954b",
   "lastOpenFiles": [
-    "Pasted Image 20230921174353_535.png",
-    "Pasted Image 20230929004635_321.png",
-    "Pasted Image 20230921175509_564.png",
+    "imagenes/Pasted Image 20230929004635_321.png",
+    "imagenes/Pasted Image 20230921155217_053.png",
+    "imagenes/Pasted Image 20230921174353_535.png",
+    "imagenes/Pasted Image 20230921175509_564.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
@@ -232,7 +193,6 @@
     "imagenes/Pasted Image 20230315174118_592.png",
     "imagenes/Pasted Image 20230315173648_728.png",
     "imagenes/Pasted Image 20230315171216_766.png",
-    "imagenes/Pasted Image 20230315171113_770.png",
     "Práctica 3.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.md",
