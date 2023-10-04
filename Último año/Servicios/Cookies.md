@@ -4,4 +4,4 @@ Aunque nunca te hayas registrado en la pagina puede haber un cookie guardandote 
 
 Las cookies de sesion no se guardan en el disco, en la ram.
 
-Las cookies de terceros son cokies que se envian a servidores distintos del que aparece en la barra de navegacion del navegador, por ejemplo estamos navegando por la voz de asturias y el navegador esta enviando cookies a google y facebook.(Los anuncios o el boton de like inyect)
+Las cookies de terceros son cokies que se envian a servidores distintos del que aparece en la barra de navegacion del navegador, por ejemplo estamos navegando por la voz de asturias y el navegador esta enviando cookies a google y facebook.(Los anuncios o el boton de like inyectado en la pagina pueden dar cookies a parte de dar una imagen cuando haces un src o lo que sea)
