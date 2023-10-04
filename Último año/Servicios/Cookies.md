@@ -1,3 +1,3 @@
 Cuando cierras sesion no se borra la cookie necesariamente en el cliente, se borra en el servidor, así cuando vuelve a entrar aunque el cliente le cague la cookie al server el server no lo tiene.
 
-Aunque nunca te hayas registrado en la pagina puede haber un cookie guardandote cosas rollo el carrito,
+Aunque nunca te hayas registrado en la pagina puede haber un cookie guardandote cosas rollo el carrito, 
