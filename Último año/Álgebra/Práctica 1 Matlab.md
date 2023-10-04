@@ -14,3 +14,7 @@ Información de las variables:
 whos
 
 double => 64 bits => 8 bytes
+
+declarar variables simbólicas:
+syms x y
+f
