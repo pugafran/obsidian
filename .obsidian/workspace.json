@@ -45,14 +45,44 @@
             "id": "fe80417518445be5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Último año/Servicios/NAT.excalidraw.md"
+                "file": "Pasted Image 20230929004635_321.png"
+              }
+            }
+          },
+          {
+            "id": "7cbfa57417574ddf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230929004635_321.png"
+              }
+            }
+          },
+          {
+            "id": "9a21e1f81ef934a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230921174353_535.png"
+              }
+            }
+          },
+          {
+            "id": "4ac156b5df645b59",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230921155217_053.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -127,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/NAT.excalidraw.md",
+                "file": "Pasted Image 20230921155217_053.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/NAT.excalidraw.md",
+                "file": "Pasted Image 20230921155217_053.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/NAT.excalidraw.md"
+                "file": "Pasted Image 20230921155217_053.png"
               }
             }
           }
@@ -190,8 +220,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fe80417518445be5",
+  "active": "4ac156b5df645b59",
   "lastOpenFiles": [
+    "Pasted Image 20230921174353_535.png",
+    "Pasted Image 20230929004635_321.png",
+    "Pasted Image 20230921175509_564.png",
+    "imagenes/Pasted Image 20230413103356_375.png",
+    "imagenes/Pasted Image 20230413103629_974.png",
+    "imagenes/Pasted Image 20230413101834_993.png",
+    "imagenes/Pasted Image 20230323011206_662.png",
+    "imagenes/Pasted Image 20230315174118_592.png",
+    "imagenes/Pasted Image 20230315173648_728.png",
+    "imagenes/Pasted Image 20230315171216_766.png",
+    "imagenes/Pasted Image 20230315171113_770.png",
+    "Práctica 3.md",
+    "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
@@ -217,10 +260,6 @@
     "Último año/GTI/Introducción a ITIL4.md",
     "Último año/GTI/PL",
     "Último año/GTI/Sin título.md",
-    "Último año/Servicios/Proxies y  cachés.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
-    "Último año/Servicios/Practica 1.excalidraw.md",
-    "Pasted Image 20230929004635_321.png",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
@@ -228,15 +267,6 @@
     "Último año/ED",
     "Último año/Cálculo",
     "Último año",
-    "Pasted Image 20230921175509_564.png",
-    "Pasted Image 20230921174353_535.png",
-    "Pasted Image 20230921160146_647.png",
-    "Pasted Image 20230921155217_053.png",
-    "Pasted Image 20230921153028_616.png",
-    "Pasted Image 20230921151516_479.png",
-    "Pasted Image 20230918191434_682.png",
-    "Pasted Image 20230918191128_156.png",
-    "Pasted Image 20230918173744_534.png",
     "imagenes"
   ]
 }
