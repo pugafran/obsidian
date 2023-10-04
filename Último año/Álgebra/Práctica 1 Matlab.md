@@ -63,5 +63,8 @@ M(3,4) = 10
 M(4,:) = 100 (cambia toda la fila 4 a 100)
 M(:,3) = 700 (cambia toda la fila a 700)
 
+[A:1:B] == [A:B]
 
-B = M([1:3],)
+B = M([1:3],[4:end])
+
+det(B) = 
