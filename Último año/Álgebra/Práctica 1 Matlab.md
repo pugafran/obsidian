@@ -90,3 +90,17 @@ diag(u) solo deja la diagonal pero no a 1s, a lo que haya (solo vectores?)
 diag(7 * ones(1,4)) hace matriz diagonal 4x4 con todo 7s en la diagonal
 
 diag(u, +1) o diag(u,-1) lo acota
+
+a = 8;
+
+b = 2 * a;
+
+syms x y
+
+f(x,y)= 3 * x^2 + 2 * x * y^2 - 7
+
+diff(f(x,y),x)
+
+int(f(x,y),x)
+
+double(3/2.235)
