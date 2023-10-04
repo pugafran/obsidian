@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/DHCP.md",
+                "file": "Último año/Servicios/Cookies.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "415d1a22e7ff6b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/GTI/PL/Práctica 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6800c1a3b5617b1a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagenes/Pasted Image 20230921175509_564.png",
+                "file": "Último año/Servicios/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagenes/Pasted Image 20230921175509_564.png",
+                "file": "Último año/Servicios/Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagenes/Pasted Image 20230921175509_564.png"
+                "file": "Último año/Servicios/Cookies.md"
               }
             }
           }
@@ -180,19 +157,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "58bd89679846954b",
+  "active": "9f03cc228b5edef2",
   "lastOpenFiles": [
+    "imagenes/Pasted Image 20230921175509_564.png",
+    "Último año/Servicios/Cookies.md",
     "imagenes/Pasted Image 20230929004635_321.png",
     "imagenes/Pasted Image 20230921155217_053.png",
     "imagenes/Pasted Image 20230921174353_535.png",
-    "imagenes/Pasted Image 20230921175509_564.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413103629_974.png",
     "imagenes/Pasted Image 20230413101834_993.png",
     "imagenes/Pasted Image 20230323011206_662.png",
     "imagenes/Pasted Image 20230315174118_592.png",
     "imagenes/Pasted Image 20230315173648_728.png",
-    "imagenes/Pasted Image 20230315171216_766.png",
     "Práctica 3.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.md",
@@ -219,7 +196,6 @@
     "Último año/GTI/PL/Práctica 2.md",
     "Último año/GTI/Introducción a ITIL4.md",
     "Último año/GTI/PL",
-    "Último año/GTI/Sin título.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
