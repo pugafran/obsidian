@@ -17,4 +17,4 @@ double => 64 bits => 8 bytes
 
 declarar variables simbólicas:
 syms x y
-f
+f(x,y)= 3 * x^2 + 2 * y^2 - 7
