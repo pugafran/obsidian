@@ -45,9 +45,11 @@
             "id": "fe80417518445be5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md"
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md"
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md"
               }
             }
           }
@@ -190,11 +192,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "58bd89679846954b",
+  "active": "fe80417518445be5",
   "lastOpenFiles": [
+    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+    "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Álgebra",
     "Último año/GTI/PL/Práctica 2.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
     "Último año/GTI/PL/Práctica 2.md",
     "Último año/GTI/Introducción a ITIL4.md",
     "Último año/GTI/PL",
@@ -236,7 +239,6 @@
     "Pasted Image 20230918191434_682.png",
     "Pasted Image 20230918191128_156.png",
     "Pasted Image 20230918173744_534.png",
-    "imagenes",
-    "Sistemas Operativos"
+    "imagenes"
   ]
 }

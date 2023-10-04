@@ -1,0 +1,1 @@
+Mayusculas distintas de minusculas
