@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6159e9fb3ff1d188",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Firma digital.md",
+                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Firma digital.md",
+                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Firma digital.md"
+                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md"
               }
             }
           }
@@ -170,10 +180,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c9b2e7828d64894f",
+  "active": "6159e9fb3ff1d188",
   "lastOpenFiles": [
-    "Último año/Seguridad/Sin título.md",
+    "Pasted Image 20231005171656_571.png",
     "Último año/Seguridad/Firma digital.md",
+    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
+    "Último año/Seguridad/Sin título.md",
     "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
@@ -206,8 +218,6 @@
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
     "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
-    "Distribuidos/Sincronización de relojes físicos.md",
-    "Distribuidos/Metas de los sistemas distribuidos.md",
     "Último año/Álgebra",
     "Último año/GTI/PL",
     "Último año/Web",
