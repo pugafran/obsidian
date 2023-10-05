@@ -18,5 +18,28 @@ El usuario B desea recibir un mensaje del usuario A cifrado con RSA B genera las
 
 
 El usuario B desea recibir un mensaje del usuario A cifrado con RSA, y además el usuario B genera sus claves utilizando como parametros p = 17 q = 31 y elige como clave pública e = 7.
-Se pide que calcules las claves del usuario B.
+Se pide que calcules las claves del usuario B:
+
+**Paso 1**: Calcular nn y ϕ(n)ϕ(n) (también conocido como la función totiente o función de Euler). Dado p=17p=17 y q=31:
+
+n=p×q 
+ϕ(n)=(p−1)×(q−1)ϕ(n)=(p−1)×(q−1)
+
+**Paso 2**: Confirmar que el exponente público ee es coprimo con ϕ(n)ϕ(n). Ya has elegido e=7e=7. Vamos a verificar que ee y ϕ(n)ϕ(n) son coprimos.
+
+**Paso 3**: Usar el algoritmo extendido de Euclides para encontrar el inverso multiplicativo de ee módulo ϕ(n)ϕ(n). Este inverso será dd, el exponente privado.
+
+Vamos a calcular nn, ϕ(n)ϕ(n) y dd:
+
+Trabajo finalizado
+
+Mostrar detalles de ejecución
+
+Los resultados son:
+
+- n=527
+- ϕ(n)=480
+- d=343
+
+Por lo tanto, la clave pública de B es (e,n)=(7,527)(e,n)=(7,527) y la clave privada es (d,n)=(343,527)(d,n)=(343,527).
 
