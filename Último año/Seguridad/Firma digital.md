@@ -25,3 +25,4 @@ Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor b
 	Comprobar que se verifica: g^q modulo p = 1 => 49^13 mod 53 = 1 => OK
 
 3. Cálculo de la clave pública de A
+	Y = g^x mod p => 49^8 mod 53 = 28
