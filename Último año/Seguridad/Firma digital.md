@@ -32,5 +32,5 @@ Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor b
 	s = (k ^-1 [H + X * r]) mod q
 	Calculo del inverso modular de K = 6 en modulo k=13
 	MCD(13,6) con Alg de Euclides
-	K = 0 13/6 13 = 2 * 6 + 1
-	K = 1 6/1 6 = 6 * 1 + 
+	K = 0.   13/6.   13 = 2 * 6 + 1 | 1 = 13 - 2 * 6 | 1 = 1 * 13
+	K = 1.    6/1.      6 = 6 * 1 + 0 |
