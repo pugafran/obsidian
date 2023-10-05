@@ -2,4 +2,5 @@ El usuario B desea recibir un mensaje del usuario A cifrado con RSA B genera las
 
 1 - Calcula los elementos de las claves de B:
 	n = p * q = 17 * 11 = 187
-	mandangon(n) = (p - 1) * (q - 1) = 16 * 10 = 1
+	mandangon(n) = (p - 1) * (q - 1) = 16 * 10 = 160
+	El exponente de la clave pública ya se ha elegido e = 7, comprobar que "e" es coprimo con mandangon(n), 160 = 2^5 * 5 => No hay factores comunes con 
