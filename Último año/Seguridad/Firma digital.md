@@ -21,4 +21,7 @@ Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor b
 	q debe de ser primo y divisor de p - 1 => 53 - 1 = 52 = 2^2 * 13 => q = 13 es primo y divisor de 52 => OK
 
 2. Cáculo del generador (beta = 31)
-	g = beta^(p -1)/1)
+	g = beta^((p -1)/q) modulo p = 49 != 1 => Es válido
+	Comprobar que se verifica: g^q modulo p = 1 => 49^13 mod 53 = 1 => OK
+
+3. Cálculo de la clave pública de A
