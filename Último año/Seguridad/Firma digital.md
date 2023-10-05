@@ -30,4 +30,7 @@ Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor b
 4. Calcula la firma del hash H=6
 	r = (g^k mod p) mod q => (49^6 mod 53) mod 13 = 2
 	s = (k ^-1 [H + X * r]) mod q
-	Calculo del inverso modular de K = 6 en mkodiu
+	Calculo del inverso modular de K = 6 en modulo k=13
+	MCD(13,6) con Alg de Euclides
+	K = 0 13/6 13 = 2 * 6 + 1
+	K = 1 6/1 6 = 6 * 1 + 
