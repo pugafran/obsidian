@@ -35,7 +35,8 @@ n=p×q
 
 Hay que calcular el maximo comun divisor de 480 y el 7:
 
-480 / 7 => 48= 
+480 / 7 => 480 = 68 * 7 + 4
+7/4 => 7 = 1 * 4 + 3
 
 
 Vamos a calcular n, ϕ(n) y d:
