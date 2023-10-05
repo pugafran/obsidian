@@ -15,3 +15,5 @@ El usuario B desea recibir un mensaje del usuario A cifrado con RSA B genera las
 	1 = 23 * 7 - 1 * 160
 	d = 23
 	d es la combinacion linea del 7 y el 160 creo xd
+
+
