@@ -12,3 +12,6 @@ Para hackiarlo hay que sacar KSa o KSB, y se llama el problema del logaritmo dis
 p debe ser un numero primo grande de al menos 1024 bits
 
 g debe ser una raíz primitva del módulo p
+
+Al hacer el 2^Ks modulo p solo puede salir 1 en el último K = p-1
+
