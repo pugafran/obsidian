@@ -33,6 +33,11 @@ n=p×q
 
 (d * e) mod ϕ(n) = 1 => (d * 7) mod 480 = 1
 
+Hay que calcular el maximo comun divisor de 480 y el 7:
+
+
+
+
 Vamos a calcular n, ϕ(n) y d:
 
 Trabajo finalizado
