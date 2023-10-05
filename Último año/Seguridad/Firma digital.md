@@ -8,4 +8,6 @@ Firmar un mensaje
 En DSA la clave primaria se utiliza para meterlo en una reformulacion matematica, no está cifrado, no es por cifrado de hash.
 
 
-p q g 
+p q g Y=clave publica de quien firmó el mensaje con la clave privada(X)
+
+El propio firmante puede verificar su firma antes de enviar.
