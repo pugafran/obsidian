@@ -17,3 +17,5 @@ El usuario B desea recibir un mensaje del usuario A cifrado con RSA B genera las
 	d es la combinacion linea del 7 y el 160 creo xd
 
 
+El usuario B desea recibir un mensaje del usuario A cifrado con RSA, y además el usuario B genera sus claves utilizando como parametros p = 17 q = 31 y elige como clave pública e = 7.
+Se pide que calcules las claves del usuario B.
