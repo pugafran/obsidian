@@ -23,15 +23,15 @@ Se pide que calcules las claves del usuario B:
 **Paso 1**: Calcular nn y ϕ(n)ϕ(n) (también conocido como la función totiente o función de Euler). Dado p=17p=17 y q=31:
 
 n=p×q 
-ϕ(n)=(p−1)×(q−1)ϕ(n)=(p−1)×(q−1)
+ϕ(n)=(p−1)×(q−1) = 16 * 16 = 480
 
-**Paso 2**: Confirmar que el exponente público es coprimo con ϕ(n)ϕ(n). Ya has elegido e=7. Vamos a verificar que e y ϕ(n) son coprimos.
+**Paso 2**: Confirmar que el exponente público es coprimo con ϕ(n). Ya has elegido e=7. Vamos a verificar que e y ϕ(n) son coprimos.
 
-480
+480 = 2^5 * 3 * 5 != 7 (Son coprimos)
 
 **Paso 3**: Usar el algoritmo extendido de Euclides para encontrar el inverso multiplicativo de ee módulo ϕ(n)ϕ(n). Este inverso será dd, el exponente privado.
 
-Vamos a calcular nn, ϕ(n)ϕ(n) y dd:
+Vamos a calcular nn, ϕ(n) y dd:
 
 Trabajo finalizado
 
