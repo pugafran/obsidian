@@ -8,5 +8,6 @@ El usuario B desea recibir un mensaje del usuario A cifrado con RSA B genera las
 	y (d * 7) mod 160 = 1
 	MCD(160,7) con Alg de euclides
 	k = 0 160/7 160 = 22 * 7 + 6 | 6 = 160 - 22 * 7
-	k = 1 7/6 7 = 1 * 6 + 1.            | 1 = 7
+	k = 1 7/6 7 = 1 * 6 + 1.            | 1 = 7 - 1 * 6
 	k = 2 6/1 6 = 6 * 1 + 0
+	1 = 7 -1 
