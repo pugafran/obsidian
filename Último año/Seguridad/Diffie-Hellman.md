@@ -7,4 +7,6 @@ Consiste en una serie de fases:
 
 Clave compartida secreta resumen = g^(KSb * KSa) mod p
 
-Para hackiarlo hay que 
+Para hackiarlo hay que sacar KSa o KSB, y se llama el problema del logaritmo discreto.
+
+pd debe ser u
