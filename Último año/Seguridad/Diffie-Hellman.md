@@ -1,0 +1,1 @@
+Permite el intercambio confidencial de claves entre dos personas que no ha ntenido un cotacto previo usando un canal de comunicacion inseguro y de forma anonima.
