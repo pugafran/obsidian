@@ -17,5 +17,8 @@ El usuario A tiene que firmar un hash con el algoritmo DSA y enviar la firma a B
 Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor beta de 31 para obtener un generador g)
 
 1. Comprobar p y q:
-	p debe de ser primo 
-	q debe de ser primo y divisor de p - 1 => 53 - 1 = 52 = 2^2 * 13 => q = 13 es primo y divisor de 52
+	p debe de ser primo  => p=53 es primo => OK
+	q debe de ser primo y divisor de p - 1 => 53 - 1 = 52 = 2^2 * 13 => q = 13 es primo y divisor de 52 => OK
+
+2. Cáculo del generador (beta = 31)
+	g = beta^(p -1)/1)
