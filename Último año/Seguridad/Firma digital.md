@@ -26,3 +26,6 @@ Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor b
 
 3. Cálculo de la clave pública de A
 	Y = g^x mod p => 49^8 mod 53 = 28
+
+4. Calcula la firma del hash H=6
+	r = (g^k mod p) mod q => (49^6 mod 53) mod 13 = 2
