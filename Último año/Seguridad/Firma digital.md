@@ -14,4 +14,8 @@ El propio firmante puede verificar su firma antes de enviar.
 
 El usuario A tiene que firmar un hash con el algoritmo DSA y enviar la firma a B, los usuarios usan p = 53 y q = 13, el usuario A ha elegido x = 8 y k = 6.
 
-Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor beta)
+Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor beta de 31 para obtener un generador g)
+
+1. Comprobar p y q:
+	p debe de ser primo 
+	q debe de ser primo y divisor de p - 1 => 53 - 1 = 52 = 2^2 * 13 => q = 13 es primo y divisor de 52
