@@ -15,4 +15,5 @@ g debe ser una raíz primitva del módulo p
 
 Al hacer el 2^Ks modulo p solo puede salir 1 en el último K = p-1
 
-[![38 ideas de PNG Alicia en el país de las maravillas | país ...](https://i.pinimg.com/originals/85/52/1c/85521c5d6448c3c70aed41a8ce98b20c.png)
+[![38 ideas de PNG Alicia en el país de las maravillas | país ...|1|](https://i.pinimg.com/originals/85/52/1c/85521c5d6448c3c70aed41a8ce98b20c.png)
+![[bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png]]
