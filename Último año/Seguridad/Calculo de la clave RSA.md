@@ -47,7 +47,10 @@ Hay que calcular el maximo comun divisor de 480 y el 7:
 3 = 7 -1 * (480 - 68 * 7) = 69 * 7 - 1 * 480
 1 = (480 - 68 * 7) -1 * (69 * 7 - 1 * 480)
 
-1 = 2 * 480 - 137 *
+1 = 2 * 480 - 137 * 7 => INV(7,480) = -137
+
+-137 + 480 = 343 
+IN
 
 
 Vamos a calcular n, ϕ(n) y d:
