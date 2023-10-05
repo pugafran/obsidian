@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Seguridad/Calculo de la clave RSA.md",
+                "file": "Último año/Seguridad/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Calculo de la clave RSA.md",
+                "file": "Último año/Seguridad/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Calculo de la clave RSA.md",
+                "file": "Último año/Seguridad/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Calculo de la clave RSA.md"
+                "file": "Último año/Seguridad/Sin título.md"
               }
             }
           }
@@ -170,10 +170,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c9b2e7828d64894f",
+  "active": "58bd89679846954b",
   "lastOpenFiles": [
-    "Último año/Seguridad/Diffie-Hellman.md",
+    "Último año/Seguridad/Política de seguridad.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Calculo de la clave RSA.md",
+    "Último año/Seguridad/Diffie-Hellman.md",
     "Último año/Servicios/Cookies.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Último año/Servicios/Autorización.md",
@@ -204,10 +208,6 @@
     "Distribuidos/Metas de los sistemas distribuidos.md",
     "Distribuidos/Llamadas a procedimientos remotos (ONC RPC).md",
     "Distribuidos/Drawing 2023-05-02 09.06.10.excalidraw.md",
-    "Distribuidos/Drawing 2023-04-07 00.56.29.excalidraw.md",
-    "Distribuidos/Chat.md",
-    "Distribuidos/Cola circular.md",
-    "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Álgebra",
     "Último año/GTI/PL",
     "Último año/Web",
