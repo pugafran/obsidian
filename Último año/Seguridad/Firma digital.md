@@ -6,3 +6,6 @@ Genereación de claves
 Firmar un mensaje
 
 En DSA la clave primaria se utiliza para meterlo en una reformulacion matematica, no está cifrado, no es por cifrado de hash.
+
+
+p q g 
