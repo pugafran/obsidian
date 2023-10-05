@@ -35,3 +35,4 @@ Calcula los elementos que faltan pra que A puedan firmar el hash (usa un valor b
 	K = 0.   13/6.   13 = 2 * 6 + 1 | 1 = 13 - 2 * 6 | 1 = 1 * (13) - 2 * (6)
 	K = 1.    6/1.      6 = 6 * 1 + 0 |
 	k^-1 = 13 y k = 6
+	INV (6 y 13)=> -2
