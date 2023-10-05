@@ -25,7 +25,9 @@ Se pide que calcules las claves del usuario B:
 n=p×q 
 ϕ(n)=(p−1)×(q−1)ϕ(n)=(p−1)×(q−1)
 
-**Paso 2**: Confirmar que el exponente público ee es coprimo con ϕ(n)ϕ(n). Ya has elegido e=7e=7. Vamos a verificar que ee y ϕ(n)ϕ(n) son coprimos.
+**Paso 2**: Confirmar que el exponente público es coprimo con ϕ(n)ϕ(n). Ya has elegido e=7. Vamos a verificar que e y ϕ(n) son coprimos.
+
+480
 
 **Paso 3**: Usar el algoritmo extendido de Euclides para encontrar el inverso multiplicativo de ee módulo ϕ(n)ϕ(n). Este inverso será dd, el exponente privado.
 
@@ -41,5 +43,5 @@ Los resultados son:
 - ϕ(n)=480
 - d=343
 
-Por lo tanto, la clave pública de B es (e,n)=(7,527)(e,n)=(7,527) y la clave privada es (d,n)=(343,527)(d,n)=(343,527).
+Por lo tanto, la clave pública de B es (e,n)=(7,527) y la clave privada es (d,n)=(343,527)
 
