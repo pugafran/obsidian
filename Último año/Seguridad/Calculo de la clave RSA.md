@@ -29,9 +29,11 @@ n=p×q
 
 480 = 2^5 * 3 * 5 != 7 (Son coprimos)
 
-**Paso 3**: Usar el algoritmo extendido de Euclides para encontrar el inverso multiplicativo de ee módulo ϕ(n)ϕ(n). Este inverso será dd, el exponente privado.
+**Paso 3**: Usar el algoritmo extendido de Euclides para encontrar el inverso multiplicativo de ee módulo ϕ(n). Este inverso será d, el exponente privado.
 
-Vamos a calcular nn, ϕ(n) y dd:
+(d * e) mod ϕ(n) = 1 => (d * 7) mod 480 = 1
+
+Vamos a calcular n, ϕ(n) y d:
 
 Trabajo finalizado
 
