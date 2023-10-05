@@ -44,7 +44,8 @@ Hay que calcular el maximo comun divisor de 480 y el 7:
 3 = 7 - 4 * 1
 1 =  4 - 3 * 1
 
-3 = 7 -1 * (480 - 68 * 7) = 68 * 7 *
+3 = 7 -1 * (480 - 68 * 7) = 69 * 7 - 1 * 480
+1 = (480 - 68 * 7)
 
 
 Vamos a calcular n, ϕ(n) y d:
