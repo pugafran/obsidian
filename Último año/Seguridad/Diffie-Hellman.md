@@ -9,4 +9,6 @@ Clave compartida secreta resumen = g^(KSb * KSa) mod p
 
 Para hackiarlo hay que sacar KSa o KSB, y se llama el problema del logaritmo discreto.
 
-pd debe ser u
+p debe ser un numero primo grande de al menos 1024 bits
+
+g debe ser una raíz primitva del módulo p
