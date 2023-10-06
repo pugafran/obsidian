@@ -8,3 +8,4 @@ Formato canCER
 
 Formato joDER
 
+CMS contiene => Mensaje texto plano + firma
