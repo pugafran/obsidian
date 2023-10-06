@@ -45,9 +45,11 @@
             "id": "3305c0bf292f2a2a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md"
+                "file": "Último año/Seguridad/Calculo de la clave RSA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+                "file": "Último año/Seguridad/Calculo de la clave RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+                "file": "Último año/Seguridad/Calculo de la clave RSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md"
+                "file": "Último año/Seguridad/Calculo de la clave RSA.md"
               }
             }
           }
@@ -192,18 +194,21 @@
   },
   "active": "3305c0bf292f2a2a",
   "lastOpenFiles": [
-    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
+    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
+    "Último año/Seguridad/Diffie-Hellman.md",
+    "Último año/Seguridad/Firma digital.md",
+    "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
+    "Último año/Seguridad/Política de seguridad.excalidraw.md",
+    "Último año/Seguridad/Sin título.md",
+    "Último año/Seguridad/Sin título 1.md",
     "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
-    "Último año/Seguridad/Firma digital.md",
-    "Último año/Seguridad/Sin título.md",
-    "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Calculo de la clave RSA.md",
-    "Último año/Seguridad/Diffie-Hellman.md",
     "Último año/Servicios/Cookies.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Último año/Servicios/Autorización.md",
@@ -225,9 +230,6 @@
     "Último año/Servicios/DHCP.md",
     "Último año/Servicios/Cabeceras.md",
     "Distribuidos/Arquitectura descentralizada.md",
-    "Distribuidos/Trabajo Distribuidos 2.md",
-    "Distribuidos/Sincronización de relojes lógicos.md",
-    "Distribuidos/Sincronización de relojes físicos - Dibujo.md",
     "Último año/Álgebra",
     "Último año/GTI/PL",
     "Último año/Web",
