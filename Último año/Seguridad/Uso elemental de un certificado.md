@@ -2,3 +2,9 @@
 
 LOS CERTIFICADOS X.509 SE PUEDEN CODIFICAR EN BER CER O DER
 
+Formato BERga
+
+Formato canCER
+
+Formato joDER
+
