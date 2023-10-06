@@ -1,0 +1,1 @@
+ En la primera operacion no condía inicialmente en el emisor del certificado pero si en la segunda
