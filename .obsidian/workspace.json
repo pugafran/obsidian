@@ -40,9 +40,19 @@
                 "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "3305c0bf292f2a2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
+                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md"
+                "file": "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md"
               }
             }
           }
@@ -180,12 +190,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6159e9fb3ff1d188",
+  "active": "3305c0bf292f2a2a",
   "lastOpenFiles": [
+    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
     "Último año/Seguridad/Firma digital.md",
-    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
     "Último año/Seguridad/Sin título.md",
     "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
@@ -204,7 +215,6 @@
     "imagenes/Pasted Image 20230921174353_535.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413103629_974.png",
-    "imagenes/Pasted Image 20230413101834_993.png",
     "Práctica 3.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.md",
