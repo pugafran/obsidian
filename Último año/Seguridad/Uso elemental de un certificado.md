@@ -9,3 +9,5 @@ Formato canCER
 Formato joDER
 
 CMS contiene => Mensaje texto plano + firma
+
+PKCS#12 => Para guardar clave pública y privada
