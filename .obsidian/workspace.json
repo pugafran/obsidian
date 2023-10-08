@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "file": "Último año/Servicios/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md"
+                "file": "Último año/Servicios/DHCP.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "3305c0bf292f2a2a",
   "lastOpenFiles": [
-    "Último año/Seguridad/Calculo de la clave RSA.md",
     "Último año/Seguridad/Uso elemental de un certificado.md",
+    "Último año/Seguridad/Calculo de la clave RSA.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Seguridad/Diffie-Hellman.md",
     "Último año/Seguridad/Firma digital.md",
