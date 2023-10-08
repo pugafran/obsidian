@@ -52,9 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1fa9c081d3643fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/DHCP.md",
+                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/DHCP.md",
+                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/DHCP.md"
+                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md"
               }
             }
           }
@@ -192,14 +202,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3305c0bf292f2a2a",
+  "active": "a1fa9c081d3643fa",
   "lastOpenFiles": [
-    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+    "Último año/Servicios/DHCP.md",
+    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Servicios/DHCP.md",
+    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
     "Último año/Seguridad/Uso elemental de un certificado.md",
     "Último año/Seguridad/Calculo de la clave RSA.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
@@ -229,7 +240,6 @@
     "Práctica 3.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/Cabeceras.md",
     "Último año/Álgebra",
     "Último año/GTI/PL",
     "Último año/Web",
