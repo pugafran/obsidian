@@ -59,7 +59,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           }
@@ -204,13 +204,22 @@
   },
   "active": "a1fa9c081d3643fa",
   "lastOpenFiles": [
+    "Último año/Servicios/NAT.md",
+    "Último año/Servicios/NAT.excalidraw.md",
+    "Último año/Servicios/Practica 1.excalidraw.md",
+    "Último año/Servicios/Proxies y  cachés.md",
+    "Último año/Servicios/Untitled.md",
+    "Último año/Servicios/Autorización.md",
+    "Último año/Servicios/Cabeceras.md",
+    "Último año/Servicios/Cookies.md",
+    "Último año/Servicios/Cookies.excalidraw.md",
     "Último año/Servicios/DHCP.md",
-    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
     "Último año/Seguridad/Uso elemental de un certificado.md",
     "Último año/Seguridad/Calculo de la clave RSA.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
@@ -223,13 +232,7 @@
     "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
-    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
-    "Último año/Servicios/Cookies.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
-    "Último año/Servicios/Autorización.md",
-    "Último año/Servicios/Cookies.excalidraw.md",
     "Pasted Image 20231004184039_267.png",
     "imagenes/Pasted Image 20230921175509_564.png",
     "imagenes/Pasted Image 20230929004635_321.png",
@@ -237,9 +240,6 @@
     "imagenes/Pasted Image 20230921174353_535.png",
     "imagenes/Pasted Image 20230413103356_375.png",
     "imagenes/Pasted Image 20230413103629_974.png",
-    "Práctica 3.md",
-    "Último año/Servicios/NAT.excalidraw.md",
-    "Último año/Servicios/HTTP.md",
     "Último año/Álgebra",
     "Último año/GTI/PL",
     "Último año/Web",
