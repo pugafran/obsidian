@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Códigos.md",
+                "file": "Último año/Servicios/Códigos y cabeceras.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Códigos.md",
+                "file": "Último año/Servicios/Códigos y cabeceras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Códigos.md",
+                "file": "Último año/Servicios/Códigos y cabeceras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Códigos.md"
+                "file": "Último año/Servicios/Códigos y cabeceras.md"
               }
             }
           }
@@ -207,7 +207,7 @@
   "active": "a1fa9c081d3643fa",
   "lastOpenFiles": [
     "Último año/Servicios/HTTP.excalidraw.md",
-    "Último año/Servicios/Códigos.md",
+    "Último año/Servicios/Códigos y cabeceras.md",
     "Último año/Servicios/NAT.md",
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/Practica 1.excalidraw.md",

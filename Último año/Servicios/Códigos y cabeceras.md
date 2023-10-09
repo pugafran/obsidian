@@ -1,0 +1,40 @@
+
+100
+
+200
+
+204
+
+301
+
+302
+
+303
+
+307 
+
+304
+
+400
+
+401
+
+403
+
+404
+
+500
+
+501
+
+Tipos de cabecera:
+
+* Generales
+* Petición
+* Respuesta
+* Entidad
+* Extensión
+
+
+
+
