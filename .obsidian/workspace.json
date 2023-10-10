@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Códigos y cabeceras.md",
+                "file": "Último año/Servicios/Cabeceras.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Códigos y cabeceras.md",
+                "file": "Último año/Servicios/Cabeceras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Códigos y cabeceras.md",
+                "file": "Último año/Servicios/Cabeceras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Códigos y cabeceras.md"
+                "file": "Último año/Servicios/Cabeceras.md"
               }
             }
           }
@@ -206,7 +206,12 @@
   },
   "active": "a1fa9c081d3643fa",
   "lastOpenFiles": [
-    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+    "Último año/Servicios/Autorización.md",
+    "Último año/Servicios/Cabeceras.md",
+    "Último año/Servicios/Códigos y cabeceras.md",
+    "Último año/Servicios/Cookies.md",
+    "Último año/Servicios/Cookies.excalidraw.md",
+    "Último año/Servicios/DHCP.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/NAT.md",
@@ -214,17 +219,12 @@
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/Untitled.md",
     "Último año/Servicios/Proxies y  cachés.md",
+    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
-    "Último año/Servicios/DHCP.md",
-    "Último año/Servicios/Cookies.excalidraw.md",
-    "Último año/Servicios/Cookies.md",
-    "Último año/Servicios/Cabeceras.md",
-    "Último año/Servicios/Autorización.md",
-    "Último año/Servicios/Códigos y cabeceras.md",
     "Último año/Seguridad/Uso elemental de un certificado.md",
     "Último año/Seguridad/Calculo de la clave RSA.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
