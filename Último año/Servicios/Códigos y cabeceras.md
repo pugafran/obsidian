@@ -11,21 +11,21 @@
 
 303 See other
 
-307 Moved temporally
+307 Temporary redirect
 
-304
+304 Not changed
 
 400 Bad request
 
-401
+401 Unauthorized
 
 403 Forbidden
 
 404 Not found
 
-500
+500 Internal server error
 
-501
+501 Not i
 
 Tipos de cabecera:
 
