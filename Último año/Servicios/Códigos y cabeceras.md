@@ -25,7 +25,7 @@
 
 500 Internal server error
 
-501 Not i
+501 Not implemented
 
 Tipos de cabecera:
 
