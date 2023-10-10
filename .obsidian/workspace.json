@@ -64,9 +64,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e64d261c557d85d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 4.md",
+                "file": "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 4.md",
+                "file": "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 4.md"
+                "file": "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md"
               }
             }
           }
@@ -204,10 +214,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a1fa9c081d3643fa",
+  "active": "e64d261c557d85d2",
   "lastOpenFiles": [
-    "Último año/Servicios/Cabeceras.md",
     "Último año/GTI/PL/Práctica 4.md",
+    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
+    "Último año/Servicios/Cabeceras.md",
     "Último año/Servicios/Autorización.md",
     "Último año/Servicios/Códigos y cabeceras.md",
     "Último año/Servicios/Cookies.md",
@@ -231,7 +242,6 @@
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Seguridad/Diffie-Hellman.md",
     "Último año/Seguridad/Firma digital.md",
-    "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
