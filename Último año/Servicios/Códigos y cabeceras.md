@@ -1,15 +1,15 @@
 
-100
+100 Continue
 
-200
+200 OK
 
-204
+204 Not content
 
-301
+301 Moved permanently
 
-302
+302 Found
 
-303
+303 See other
 
 307 
 
