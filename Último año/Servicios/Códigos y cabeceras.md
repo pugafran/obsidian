@@ -11,17 +11,17 @@
 
 303 See other
 
-307 
+307 Moved temporally
 
 304
 
-400
+400 Bad request
 
 401
 
-403
+403 Forbidden
 
-404
+404 Not found
 
 500
 
