@@ -1,1 +1,1 @@
-li
+limit(expresion,variable,a donde tiende);
