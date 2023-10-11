@@ -9,3 +9,7 @@ dos maneras de hacer funciones:
 
 
 solve si no pones con que valor resolverlo es 0
+
+para resolver ecuaciones
+
+solve agsys 
