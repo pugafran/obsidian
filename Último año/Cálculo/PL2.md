@@ -8,4 +8,4 @@ dos maneras de hacer funciones:
 
 
 
-solve si no vale nada 
+solve si no pones con que valor resolverlo es 0
