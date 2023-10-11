@@ -12,4 +12,9 @@ solve si no pones con que valor resolverlo es 0
 
 para resolver ecuaciones
 
-solve agsys 
+
+
+(en el examen pondrá algo jodido xd que no se pueda resolver con solve)
+solve 
+alsys 
+findroot
