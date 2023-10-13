@@ -3,4 +3,13 @@ Autoridad de certificación: Entidad fiable, encargada de garantizar de forma un
 
 Recibe y procesa peticiones de certificados de los usuarios finales.
 
-Consulta con una autoridad de registro para determinar sia cepta o rehúsa la petición de certificado.
+Consulta con una autoridad de registro para determinar si acepta o rehúsa la petición de certificado.
+
+Emite el certificado.
+
+Gestiona listas de revocación de certificados (CRLs)
+
+Renueva certificados
+
+Proporciona:
+	Servicios de backup y archivo serguro de claves de 
