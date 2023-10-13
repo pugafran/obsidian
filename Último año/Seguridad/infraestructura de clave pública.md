@@ -12,4 +12,5 @@ Gestiona listas de revocación de certificados (CRLs)
 Renueva certificados
 
 Proporciona:
-	Servicios de backup y archivo serguro de claves de 
+	Servicios de backup y archivo seguro de claves de cifrado
+	Infraestructura de seguridad para la confianza politicas de operacion segura e informacion de auditoría.
