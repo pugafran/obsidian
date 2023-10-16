@@ -33,9 +33,11 @@
             "id": "71c5408dfd16a2de",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Último año/Web/Sin título.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -161,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/infraestructura de clave pública.md",
+                "file": "Último año/Web/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/infraestructura de clave pública.md",
+                "file": "Último año/Web/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/infraestructura de clave pública.md"
+                "file": "Último año/Web/Sin título.md"
               }
             }
           }
@@ -226,6 +228,7 @@
   },
   "active": "71c5408dfd16a2de",
   "lastOpenFiles": [
+    "Último año/Web/Sin título.md",
     "Último año/Servicios/Sin título.md",
     "Último año/Seguridad/infraestructura de clave pública.md",
     "Último año/Cálculo/PL2.md",
@@ -251,7 +254,6 @@
     "Último año/Servicios/Cookies.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/NAT.md",
-    "Último año/Servicios/NAT.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",

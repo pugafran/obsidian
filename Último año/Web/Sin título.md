@@ -1,0 +1,3 @@
+
+
+Cookie de sesion obligatoria
