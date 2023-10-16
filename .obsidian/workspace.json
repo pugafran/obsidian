@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "71c5408dfd16a2de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "c9b2e7828d64894f",
             "type": "leaf",
             "state": {
@@ -76,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +224,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "243b2008b2592a55",
+  "active": "71c5408dfd16a2de",
   "lastOpenFiles": [
     "Último año/Servicios/Sin título.md",
     "Último año/Seguridad/infraestructura de clave pública.md",
