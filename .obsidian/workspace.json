@@ -45,9 +45,11 @@
             "id": "1196a2203924df85",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md"
+                "file": "Último año/Álgebra/Práctica 2 Matlab.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -173,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
+                "file": "Último año/Álgebra/Práctica 2 Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
+                "file": "Último año/Álgebra/Práctica 2 Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md"
+                "file": "Último año/Álgebra/Práctica 2 Matlab.md"
               }
             }
           }
@@ -238,8 +240,9 @@
   },
   "active": "1196a2203924df85",
   "lastOpenFiles": [
-    "Último año/Web/Sin título.md",
     "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
+    "Último año/Álgebra/Práctica 2 Matlab.md",
+    "Último año/Web/Sin título.md",
     "Último año/Servicios/Sin título.md",
     "Último año/Seguridad/infraestructura de clave pública.md",
     "Último año/Cálculo/PL2.md",
@@ -263,7 +266,6 @@
     "Último año/GTI/PL/Práctica 4.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/Servicios/Cookies.excalidraw.md",
-    "Último año/Servicios/HTTP.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
