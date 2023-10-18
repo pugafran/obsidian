@@ -1,0 +1,1 @@
+Para salir del entorno es 'deactivate'
