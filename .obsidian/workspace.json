@@ -57,9 +57,11 @@
             "id": "9b5cd816d39edcdd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md"
+                "file": "Último año/Seguridad/Diffie-Hellman.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+                "file": "Último año/Seguridad/Diffie-Hellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+                "file": "Último año/Seguridad/Diffie-Hellman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md"
+                "file": "Último año/Seguridad/Diffie-Hellman.md"
               }
             }
           }
@@ -250,8 +252,14 @@
   },
   "active": "9b5cd816d39edcdd",
   "lastOpenFiles": [
-    "Último año/Álgebra/Práctica 2 Matlab.md",
+    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+    "Último año/Seguridad/Diffie-Hellman.md",
+    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
+    "Último año/Seguridad/Calculo de la clave RSA.md",
+    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
+    "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+    "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
     "Último año/Web/Sin título.md",
     "Último año/Servicios/Sin título.md",
@@ -270,12 +278,6 @@
     "Último año/Servicios/Autorización.md",
     "Último año/Servicios/Cabeceras.md",
     "Último año/Servicios/Códigos y cabeceras.md",
-    "Último año/Servicios/Cookies.md",
-    "Último año/Seguridad/Firma digital.md",
-    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
-    "Último año/Servicios/DHCP.md",
-    "Último año/GTI/PL/Práctica 4.md",
-    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
