@@ -69,9 +69,11 @@
             "id": "c2f006aa6f3d0d7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md"
+                "file": "Último año/General/Sin título.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -197,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
+                "file": "Último año/General/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
+                "file": "Último año/General/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md"
+                "file": "Último año/General/Sin título.md"
               }
             }
           }
@@ -262,8 +264,10 @@
   },
   "active": "c2f006aa6f3d0d7f",
   "lastOpenFiles": [
-    "Último año/Servicios/Práctica 3.md",
     "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
+    "Último año/General/Sin título.md",
+    "Último año/General",
+    "Último año/Servicios/Práctica 3.md",
     "Último año/Web/Trabajo.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Seguridad/Diffie-Hellman.md",
@@ -287,7 +291,6 @@
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
     "Pasted Image 20231005173846_799.png",
     "Pasted Image 20231005171656_571.png",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
@@ -306,7 +309,6 @@
     "Último año/GTI",
     "Último año/ED",
     "Último año/Cálculo",
-    "Último año",
-    "imagenes"
+    "Último año"
   ]
 }
