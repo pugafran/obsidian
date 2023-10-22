@@ -53,22 +53,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "95b3ee6e206be1af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "924a86bd6f21203e",
@@ -151,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
           }
@@ -214,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b3ee6e206be1af",
+  "active": "8806ee449cd154b4",
   "lastOpenFiles": [
+    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Álgebra/Práctica 1 Matlab.md",
@@ -254,7 +244,6 @@
     "Distribuidos/Arquitectura descentralizada.md",
     "Último año/Web/Scopes.md",
     "Último año/Web/Qué son los servlets.md",
-    "Último año/Web/Intro.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
