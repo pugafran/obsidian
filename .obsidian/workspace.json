@@ -56,9 +56,19 @@
                 "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "95b3ee6e206be1af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8806ee449cd154b4",
+  "active": "95b3ee6e206be1af",
   "lastOpenFiles": [
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
