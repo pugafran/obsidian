@@ -6,3 +6,5 @@ Cuando la integral es definida podemos usar integración numérica se activa en 
 
 quadpack:
 valor, cota de erro cometido, numero de iteraciones, codigo de error
+
+Romberg es una mierda porque no tiene cota de error.
