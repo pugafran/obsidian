@@ -53,7 +53,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
           }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "924a86bd6f21203e",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md"
+                "file": "Último año/GTI/PL/Práctica 2.excalidraw.md"
               }
             }
           }
@@ -206,6 +205,9 @@
   },
   "active": "8806ee449cd154b4",
   "lastOpenFiles": [
+    "Distribuidos/Arquitectura descentralizada.md",
+    "Último año/GTI/PL/Práctica 2.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Álgebra/Práctica 1 Matlab.md",
@@ -223,7 +225,6 @@
     "Último año/General",
     "Último año/GTI/PL/Práctica 4.md",
     "Último año/GTI/PL/Práctica 2.md",
-    "Último año/GTI/PL/Práctica 2.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL",
     "Último año/GTI/Introducción a ITIL4.md",
@@ -241,10 +242,8 @@
     "imagenes/Pasted Image 20230918191128_156.png",
     "imagenes/Pasted Image 20230918173744_534.png",
     "Último año/Servicios/HTTP.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "Último año/Web/Scopes.md",
     "Último año/Web/Qué son los servlets.md",
-    "Último año/Web/Intro.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
