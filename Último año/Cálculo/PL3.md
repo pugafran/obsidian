@@ -11,4 +11,6 @@ Romberg es una mierda porque no tiene cota de error.
 
 las integrales impropias son las que violan las leyes de reiman para calcular las integrales, con primitiva y barrow
 
-Pedía que fuese acotado y que la funcion integrando tambien fuese a co
+Pedía que fuese acotado y que la funcion integrando tambien fuese acotado, las integrales impropias violan cualquiera de estas dos normas, las de primera especie son las que violan
+
+Hay que usar limites, 
