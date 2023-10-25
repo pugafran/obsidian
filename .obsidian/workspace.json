@@ -63,11 +63,9 @@
             "id": "173621d9fa3dc2e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Último año/Cálculo/PL2.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md"
               }
             }
           }
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Cálculo/PL2.md",
+                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Cálculo/PL2.md",
+                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Cálculo/PL2.md"
+                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md"
               }
             }
           }
@@ -219,9 +217,9 @@
   },
   "active": "173621d9fa3dc2e2",
   "lastOpenFiles": [
+    "Último año/Cálculo/PL2.md",
     "Último año/Cálculo/PL3.md",
     "Último año/Cálculo/PL1.md",
-    "Último año/Cálculo/PL2.md",
     "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
