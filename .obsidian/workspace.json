@@ -68,9 +68,19 @@
                 "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "168e274ca3d3865a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
+                "file": "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
+                "file": "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md"
+                "file": "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md"
               }
             }
           }
@@ -215,12 +225,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "173621d9fa3dc2e2",
+  "active": "168e274ca3d3865a",
   "lastOpenFiles": [
+    "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
+    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
+    "Último año/Redes",
     "Último año/Cálculo/PL2.md",
     "Último año/Cálculo/PL3.md",
     "Último año/Cálculo/PL1.md",
-    "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
@@ -255,13 +267,11 @@
     "imagenes/Pasted Image 20230918191128_156.png",
     "imagenes/Pasted Image 20230918173744_534.png",
     "Último año/Servicios/HTTP.md",
-    "Distribuidos/Arquitectura descentralizada.md",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
     "Último año/GTI",
     "Último año/ED",
-    "Último año/Cálculo",
-    "Último año"
+    "Último año/Cálculo"
   ]
 }
