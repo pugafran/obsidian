@@ -83,9 +83,11 @@
             "id": "d30debd1031dbffd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md"
+                "file": "Local/Prueba.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -172,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
+                "file": "Local/Prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
+                "file": "Local/Prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md"
+                "file": "Local/Prueba.md"
               }
             }
           }
@@ -237,8 +239,10 @@
   },
   "active": "d30debd1031dbffd",
   "lastOpenFiles": [
-    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
+    "Local/Prueba.md",
+    "Local",
+    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
     "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
     "Último año/Redes",
     "Último año/Cálculo/PL2.md",
@@ -266,7 +270,6 @@
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL",
     "Último año/GTI/Introducción a ITIL4.md",
-    "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
     "imagenes/Pasted Image 20230929004635_321.png",
     "imagenes/Pasted Image 20230921175509_564.png",
     "imagenes/Pasted Image 20230921174353_535.png",
@@ -281,7 +284,6 @@
     "Último año/Servicios",
     "Último año/Seguridad",
     "Último año/GTI",
-    "Último año/ED",
-    "Último año/Cálculo"
+    "Último año/ED"
   ]
 }
