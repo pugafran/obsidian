@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf03c40cf19609ef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md",
+                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md",
+                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md"
+                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md"
               }
             }
           }
@@ -237,10 +247,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d30debd1031dbffd",
+  "active": "cf03c40cf19609ef",
   "lastOpenFiles": [
-    "Último año/GTI/PL/Práctica 4.md",
+    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
+    "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Último año/GTI/PL/Práctica 6.md",
+    "Último año/GTI/PL/Práctica 4.md",
     "Último año/Cálculo/PL3.md",
     "Local/Prueba.md",
     "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
@@ -267,8 +279,6 @@
     "Último año/General/Sin título.md",
     "Último año/General",
     "Último año/GTI/PL/Práctica 2.md",
-    "Último año/GTI/PL/Práctica 2.excalidraw.md",
-    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL",
     "imagenes/Pasted Image 20230929004635_321.png",
     "imagenes/Pasted Image 20230921175509_564.png",
