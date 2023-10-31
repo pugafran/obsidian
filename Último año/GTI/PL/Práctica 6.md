@@ -1,0 +1,1 @@
+Sistema de configuración (CMS - Proactiva) y una base de datos (CMDB)
