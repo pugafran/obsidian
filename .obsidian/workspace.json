@@ -26,35 +26,11 @@
             }
           },
           {
-            "id": "5bad2f1e617aa3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Identificadores de un proceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f7ad557af3b1beb",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "8806ee449cd154b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Último año/Cálculo/PL3.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -76,29 +52,19 @@
             }
           },
           {
-            "id": "d30debd1031dbffd",
+            "id": "cf03c40cf19609ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf03c40cf19609ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md"
+                "file": "Home.md"
               }
             }
           }
@@ -240,13 +206,15 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "cf03c40cf19609ef",
   "lastOpenFiles": [
-    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
+    "Home.md",
+    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL/Práctica 6.md",
     "Último año/GTI/PL/Práctica 4.md",
     "Último año/Cálculo/PL3.md",
@@ -274,7 +242,6 @@
     "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
     "Último año/General/Sin título.md",
     "Último año/General",
-    "Último año/GTI/PL/Práctica 2.md",
     "Último año/GTI/PL",
     "imagenes/Pasted Image 20230929004635_321.png",
     "imagenes/Pasted Image 20230921175509_564.png",
