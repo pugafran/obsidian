@@ -2,4 +2,6 @@ Es inseguro, cuando pasa por MTAs, en el MTA solo está cifrado cuando se está 
 
 Entre MTAs tampoco va cifrado
 
+MUA => Cliente de email (Mail user agent)
+
 MUA => MTA => MTA => (...) = MTA => MUA
