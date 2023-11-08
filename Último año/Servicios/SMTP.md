@@ -8,7 +8,8 @@ MUA => MTA => MTA => (...) = MTA => MUA
 
 
 Comandos enviados por el cliente:
-Esto es informacion del protocolo no de las cabeceras, hay un from en las cabeceras pero no este
+Esto es informacion del protocolo no de las cabeceras, hay un from en las cabeceras pero no esto vaya, normalmente coinciden pero no tiene por qué, lo que va en la cabecera es el remitante que va a ver el destinatario pero el del sobre no lo va a ver el remitente, se utiliza mientras se está transportando, es para el sobre no es para el cuerpo.
+
 HELO (Es el primero) => HELO manolo
 MAIL (MAIL FROM: )
 RCPT
