@@ -10,4 +10,8 @@ Hacemos la matriz escalonada ( rref(Ab) ) row reduced escalonoseque form
 size(A,2): número de columnas de A (si coincide es determinado)
 size(A,1): número de filas de A
 
+la solucion es la ultima columna de una matriz escalonada
+
+x5 = esc
+
 Si es compatible determinado la matriz es:
