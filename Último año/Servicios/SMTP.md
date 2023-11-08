@@ -5,3 +5,12 @@ Entre MTAs tampoco va cifrado
 MUA => Cliente de email (Mail user agent)
 
 MUA => MTA => MTA => (...) = MTA => MUA
+
+
+Comandos SMPT:
+
+HELO (Es el primero)
+MAIL
+RCPT
+DATA
+QUIT
