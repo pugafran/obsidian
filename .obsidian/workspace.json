@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Álgebra/antes de la práctica 3.md",
+                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/antes de la práctica 3.md",
+                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/antes de la práctica 3.md",
+                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/antes de la práctica 3.md"
+                "file": "Último año/Álgebra/Práctica 3 Matlab.md"
               }
             }
           }
@@ -202,8 +202,9 @@
   },
   "active": "168e274ca3d3865a",
   "lastOpenFiles": [
-    "Home.md",
     "Último año/Álgebra/antes de la práctica 3.md",
+    "Último año/Álgebra/Práctica 3 Matlab.md",
+    "Home.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL/Práctica 6.md",
@@ -230,7 +231,6 @@
     "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
     "Último año/Servicios/HTTP.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
     "Último año/General",
     "Último año/GTI/PL",
     "imagenes/Pasted Image 20230929004635_321.png",
