@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md"
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md"
               }
             }
           }
@@ -202,8 +202,9 @@
   },
   "active": "168e274ca3d3865a",
   "lastOpenFiles": [
-    "Último año/Álgebra/antes de la práctica 3.md",
+    "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Álgebra/Práctica 3 Matlab.md",
+    "Último año/Álgebra/antes de la práctica 3.md",
     "Home.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
@@ -220,7 +221,6 @@
     "Último año/Cálculo/PL1.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
-    "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
     "Último año/Álgebra",
