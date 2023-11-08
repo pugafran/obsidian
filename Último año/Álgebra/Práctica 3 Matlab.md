@@ -12,6 +12,9 @@ size(A,1): número de filas de A
 
 la solucion es la ultima columna de una matriz escalonada
 
-x5 = esc
+x5 = rref(:,end)
+
+det(A)
+sum(b)
 
 Si es compatible determinado la matriz es:
