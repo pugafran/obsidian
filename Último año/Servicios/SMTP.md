@@ -16,4 +16,4 @@ RCPT (puede ser una lista de destinatarios por comas, puedes mandar varios, pued
 DATA (A partir de aqui para el mensaje, y termina cuando le llegue \r\n.\r\n)
 QUIT
 
-220 helo 250 aceptado lo del . 354 ahora mandame la data (no hay que recordarlos)
+220 conexion antes del helo 250 aceptado lo del . 354 ahora mandame la data (no hay que recordarlos)
