@@ -45,11 +45,9 @@
             "id": "168e274ca3d3865a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           }
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/Práctica 3 Matlab.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               }
             }
           }
@@ -202,8 +200,16 @@
   },
   "active": "168e274ca3d3865a",
   "lastOpenFiles": [
-    "Último año/Álgebra/Práctica 2 Matlab.md",
+    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
     "Último año/Álgebra/Práctica 3 Matlab.md",
+    "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
     "Último año/Álgebra/antes de la práctica 3.md",
@@ -222,15 +228,7 @@
     "Último año/Cálculo/PL2.md",
     "Último año/Cálculo/PL1.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
-    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Álgebra",
-    "Último año/Seguridad/Diffie-Hellman.md",
-    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
-    "Último año/Seguridad/Calculo de la clave RSA.md",
-    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
-    "Último año/Seguridad/Análisis y gestión de riesgos.excalidraw.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Último año/General",
     "Último año/GTI/PL",
     "imagenes/Pasted Image 20230929004635_321.png",
