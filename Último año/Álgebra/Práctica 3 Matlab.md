@@ -18,3 +18,6 @@ det(A)
 sum(b)
 
 Si es compatible determinado la matriz es:
+
+
+dimension igual al numero de parámetros
