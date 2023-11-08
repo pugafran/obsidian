@@ -12,6 +12,6 @@ Esto es informacion del protocolo no de las cabeceras, hay un from en las cabece
 
 HELO (Es el primero) => HELO manolo
 MAIL (MAIL FROM: )
-RCPT
+RCPT (puede ser una lista de destinatarios por comas, puedes mandar varios, puedes po)
 DATA
 QUIT
