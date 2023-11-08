@@ -45,9 +45,11 @@
             "id": "168e274ca3d3865a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Servicios/SMTP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Servicios/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Servicios/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Servicios/SMTP.md"
               }
             }
           }
@@ -200,9 +202,10 @@
   },
   "active": "168e274ca3d3865a",
   "lastOpenFiles": [
+    "Último año/Servicios/HTTP.excalidraw.md",
+    "Último año/Servicios/SMTP.md",
     "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
     "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-03 17.06.37.excalidraw.md",
@@ -227,7 +230,6 @@
     "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
     "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
     "Último año/Redes",
-    "Último año/Cálculo/PL2.md",
     "Último año/Álgebra",
     "Último año/General",
     "Último año/GTI/PL",
