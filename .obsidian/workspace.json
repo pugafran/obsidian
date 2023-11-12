@@ -47,14 +47,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Servicios/SMTP.md",
+                "file": "Último año/Servicios/Sin título 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f11912cf7d3c9ae5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/SMTP.md",
+                "file": "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/SMTP.md",
+                "file": "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/SMTP.md"
+                "file": "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md"
               }
             }
           }
@@ -200,10 +210,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "168e274ca3d3865a",
+  "active": "f11912cf7d3c9ae5",
   "lastOpenFiles": [
-    "Último año/Servicios/HTTP.excalidraw.md",
+    "Último año/Servicios/Sin título 1.md",
+    "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
     "Último año/Servicios/SMTP.md",
+    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
@@ -227,8 +239,6 @@
     "Local/Prueba.md",
     "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
     "Local",
-    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
-    "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
     "Último año/Redes",
     "Último año/Álgebra",
     "Último año/General",
