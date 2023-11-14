@@ -72,9 +72,19 @@
                 "file": "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "5042c991904f60e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/PL/Drawing 2023-11-14 14.26.26.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
+                "file": "Último año/GTI/PL/Drawing 2023-11-14 14.26.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
+                "file": "Último año/GTI/PL/Drawing 2023-11-14 14.26.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md"
+                "file": "Último año/GTI/PL/Drawing 2023-11-14 14.26.26.excalidraw.md"
               }
             }
           }
@@ -220,12 +230,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f787c049d09df2c3",
+  "active": "5042c991904f60e6",
   "lastOpenFiles": [
+    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
+    "Último año/GTI/PL/Drawing 2023-11-14 14.26.26.excalidraw.md",
     "Pasted Image 20231113133125_757.png",
     "Pasted Image 20231113131106_286.png",
     "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
-    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
     "Último año/Servicios/Sin título 1.md",
     "Último año/Servicios/SMTP.md",
@@ -262,7 +273,6 @@
     "imagenes/Pasted Image 20230921153028_616.png",
     "imagenes/Pasted Image 20230921151516_479.png",
     "imagenes/Pasted Image 20230918191434_682.png",
-    "imagenes/Pasted Image 20230918191128_156.png",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
