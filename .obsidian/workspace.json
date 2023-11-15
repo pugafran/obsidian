@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Último año/Servicios/SMTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Último año/Servicios/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Último año/Servicios/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Último año/Servicios/SMTP.md"
               }
             }
           }
@@ -222,6 +222,9 @@
   },
   "active": "5042c991904f60e6",
   "lastOpenFiles": [
+    "Último año/Servicios/Códigos y cabeceras.md",
+    "Último año/Servicios/Cabeceras.md",
+    "Home.md",
     "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-11-14 14.26.26.excalidraw.md",
     "Pasted Image 20231113133125_757.png",
@@ -245,11 +248,8 @@
     "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
     "Último año/Álgebra/antes de la práctica 3.md",
-    "Home.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
-    "Último año/GTI/PL/Práctica 6.md",
-    "Último año/GTI/PL/Práctica 4.md",
     "Local",
     "Último año/Redes",
     "Último año/Álgebra",
