@@ -62,9 +62,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69f03752e85cd011",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Local/Drawing 2023-11-19 18.52.00.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local/Sistema de poder.md",
+                "file": "Local/Drawing 2023-11-19 18.52.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local/Sistema de poder.md",
+                "file": "Local/Drawing 2023-11-19 18.52.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local/Sistema de poder.md"
+                "file": "Local/Drawing 2023-11-19 18.52.00.excalidraw.md"
               }
             }
           }
@@ -210,10 +220,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f787c049d09df2c3",
+  "active": "69f03752e85cd011",
   "lastOpenFiles": [
-    "Home.md",
     "Local/Sistema de poder.md",
+    "Local/Drawing 2023-11-19 18.52.00.excalidraw.md",
+    "Home.md",
     "Último año/Servicios/Códigos y cabeceras.md",
     "Último año/Servicios/Cabeceras.md",
     "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
@@ -239,7 +250,6 @@
     "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
     "Último año/Álgebra/antes de la práctica 3.md",
-    "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Local",
     "Último año/Redes",
     "Último año/Álgebra",
