@@ -67,9 +67,11 @@
             "id": "69f03752e85cd011",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md"
+                "file": "Último año/Web/Práctica 9.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
+                "file": "Último año/Web/Práctica 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
+                "file": "Último año/Web/Práctica 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md"
+                "file": "Último año/Web/Práctica 9.md"
               }
             }
           }
@@ -222,9 +224,10 @@
   },
   "active": "69f03752e85cd011",
   "lastOpenFiles": [
+    "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
+    "Último año/Web/Práctica 9.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
-    "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
     "Local/Drawing 2023-11-19 18.52.00.excalidraw.md",
     "Local/Sistema de poder.md",
     "Home.md",
@@ -249,7 +252,6 @@
     "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
     "Último año/Álgebra/Práctica 3 Matlab.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
-    "Último año/Álgebra/Práctica 1 Matlab.md",
     "Local",
     "Último año/Redes",
     "Último año/Álgebra",
