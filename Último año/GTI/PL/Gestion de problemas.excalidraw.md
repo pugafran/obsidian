@@ -29,6 +29,8 @@ Incidencia ^hXIsKVTe
 
 Miro en Knowledge Base (KB) ^KwII2fU0
 
+kb -> kb ^CR2Rl9eB
+
 %%
 # Drawing
 ```json
@@ -803,11 +805,48 @@ Miro en Knowledge Base (KB) ^KwII2fU0
 			]
 		},
 		{
-			"id": "KwII2fU0",
 			"type": "text",
+			"version": 541,
+			"versionNonce": 1030715823,
+			"isDeleted": false,
+			"id": "KwII2fU0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 121.07298339879645,
 			"y": 0.6214334239129755,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
 			"width": 284.59979248046875,
+			"height": 25,
+			"seed": 1161053487,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1700573209829,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Miro en Knowledge Base (KB)",
+			"rawText": "Miro en Knowledge Base (KB)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Miro en Knowledge Base (KB)",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "CR2Rl9eB",
+			"type": "text",
+			"x": 253.8107551379269,
+			"y": -305.9954144021739,
+			"width": 77.71994018554688,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#f08c00",
@@ -820,23 +859,23 @@ Miro en Knowledge Base (KB) ^KwII2fU0
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1161053487,
-			"version": 541,
-			"versionNonce": 1030715823,
+			"seed": 976616175,
+			"version": 13,
+			"versionNonce": 1187419649,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1700573209829,
+			"updated": 1700578555907,
 			"link": null,
 			"locked": false,
-			"text": "Miro en Knowledge Base (KB)",
-			"rawText": "Miro en Knowledge Base (KB)",
+			"text": "kb -> kb",
+			"rawText": "kb -> kb",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Miro en Knowledge Base (KB)",
+			"originalText": "kb -> kb",
 			"lineHeight": 1.25
 		}
 	],
@@ -855,8 +894,8 @@ Miro en Knowledge Base (KB) ^KwII2fU0
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 411.4066361664209,
-		"scrollY": 350.32965353260875,
+		"scrollX": 442.71098399250786,
+		"scrollY": 390.32965353260863,
 		"zoom": {
 			"value": 1.1500000000000001
 		},
