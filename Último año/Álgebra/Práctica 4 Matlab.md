@@ -14,3 +14,7 @@ ref(E)
 matriz de cambio de base de base 1 a base 2 es la que tiene por columnas las coordenadas de la base 2 expresada en la base 1.
 
 De canónica a B1, porque las coordenadas las conozco en esa base a funcion de la canónica, las pongo por columnas.
+
+Osea lo hago por filas y luego traspuesta para ponerlo por columnas
+
+B=(1 2 3; 4 5 6; 7 8 9)'
