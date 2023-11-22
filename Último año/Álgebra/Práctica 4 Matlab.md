@@ -8,5 +8,5 @@ Coordenadas de un vector respecto de una base => va por columnas
 
 ( Matriz ) * (base vertical)
 
-la ultima
-ref(matriz)
+la ultima columna de esa matriz escalonad son las coordenadas en esa base(E(:,end))
+ref(E)
