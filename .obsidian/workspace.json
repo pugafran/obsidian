@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Álgebra/Práctica 4 Matlab.md",
+                "file": "Último año/Redes/Subredes.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/Práctica 4 Matlab.md",
+                "file": "Último año/Redes/Subredes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/Práctica 4 Matlab.md",
+                "file": "Último año/Redes/Subredes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/Práctica 4 Matlab.md"
+                "file": "Último año/Redes/Subredes.md"
               }
             }
           }
@@ -236,8 +236,13 @@
   },
   "active": "352d69d69e1f5278",
   "lastOpenFiles": [
-    "Local/Drawing 2023-11-21 21.12.59.excalidraw.md",
+    "Pasted image 20231122151530.png",
+    "Pasted image 20231122151522.png",
+    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
+    "Último año/Redes/Subredes.md",
+    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Último año/Álgebra/Práctica 4 Matlab.md",
+    "Local/Drawing 2023-11-21 21.12.59.excalidraw.md",
     "Último año/Web/Trabajo.md",
     "Último año/Web/Sin título.md",
     "Último año/Web/Qué son los servlets.md",
@@ -256,14 +261,10 @@
     "Home.md",
     "Último año/Servicios/Códigos y cabeceras.md",
     "Último año/Servicios/Cabeceras.md",
-    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Pasted Image 20231113133125_757.png",
     "Pasted Image 20231113131106_286.png",
-    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
     "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
     "Último año/Servicios/Sin título 1.md",
-    "Último año/Servicios/SMTP.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
     "Local",
     "Último año/Redes",
     "Último año/Álgebra",
@@ -276,7 +277,6 @@
     "imagenes/Pasted Image 20230921155217_053.png",
     "imagenes/Pasted Image 20230921153028_616.png",
     "imagenes/Pasted Image 20230921151516_479.png",
-    "imagenes/Pasted Image 20230918191434_682.png",
     "Último año/Web",
     "Último año/Servicios",
     "Último año/Seguridad",
