@@ -45,4 +45,7 @@ Si B1' es la canonica de U, P que es? Pues de B1' a no canónica
 
 Hay que ir de canonica a no canonica
 
-Y = A * *
+Y = A * X => A = 
+Y' = M * X'
+
+Y' =Q * A * P-1*
