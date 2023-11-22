@@ -29,4 +29,4 @@ La matriz R que tenga por columnas la base b1, la matriz S es b2 por columnas
 
 RX = SY 
 
-X = R-
+X = INV(R) * S * Y
