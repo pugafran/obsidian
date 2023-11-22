@@ -30,3 +30,8 @@ La matriz R que tenga por columnas la base b1, la matriz S es b2 por columnas
 RX = SY 
 
 X = INV(R) * S * Y
+
+APLICACION LINEAL (RELACIONA U CON SU IMAGEN EN V)
+U -> V
+
+PARA CADA BASE DE U Y V HAY UNA MATRIZ ASOCIADA A
