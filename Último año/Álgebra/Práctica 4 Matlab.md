@@ -24,4 +24,9 @@ B1 y B2 ninguna es la canónica, hay que hacer la matriz de cambio de base de b1
 
 Bc b1 y Bc b2
 
-La matriz S que tenga por columnas la base b1, la matriz S es b2 por columnas
+La matriz R que tenga por columnas la base b1, la matriz S es b2 por columnas
+
+
+X
+Z
+Z
