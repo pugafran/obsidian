@@ -40,3 +40,7 @@ P, Q | A, N
 
 x son las coordenadas de cualquier vector de U
 x' son las coordenadas de x en V
+
+Si B1' es la canonica de U, P que es? Pues de B1' a 
+
+Hay que ir de canonica a no canonica
