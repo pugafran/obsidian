@@ -27,6 +27,6 @@ Bc b1 y Bc b2
 La matriz R que tenga por columnas la base b1, la matriz S es b2 por columnas
 
 
-X
-Z
-Z
+RX = SY 
+
+X = R-
