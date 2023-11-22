@@ -39,8 +39,10 @@ PARA CADA BASE DE U Y V HAY UNA MATRIZ ASOCIADA A LA APLICACIÓN LINEAL, SI MODI
 P, Q | A, N
 
 x son las coordenadas de cualquier vector de U
-x' son las coordenadas de x en V
+x' son las coordenadas de x en V (O son dos bases que hay y ya idk)
 
 Si B1' es la canonica de U, P que es? Pues de B1' a no canónica
 
 Hay que ir de canonica a no canonica
+
+Y = A * *
