@@ -48,4 +48,4 @@ Hay que ir de canonica a no canonica
 Y = A * X => A = 
 Y' = M * X'
 
-Y' =Q * A * P-1*
+Y' = Q * A * P-1 * X'
