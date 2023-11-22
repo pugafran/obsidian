@@ -38,4 +38,5 @@ PARA CADA BASE DE U Y V HAY UNA MATRIZ ASOCIADA A LA APLICACIÓN LINEAL, SI MODI
 
 P, Q | A, N
 
-x so
+x son las coordenadas de cualquier vector de U
+x' son las coordenadas de x en V
