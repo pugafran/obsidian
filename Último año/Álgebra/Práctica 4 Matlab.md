@@ -5,3 +5,8 @@ escalonada reducida vectores por filas
 
 
 Coordenadas de un vector respecto de una base => va por columnas
+
+( Matriz ) * (base vertical)
+
+la ultima
+ref(matriz)
