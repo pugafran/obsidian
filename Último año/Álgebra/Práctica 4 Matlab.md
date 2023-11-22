@@ -18,3 +18,6 @@ De canónica a B1, porque las coordenadas las conozco en esa base a funcion de l
 Osea lo hago por filas y luego traspuesta para ponerlo por columnas
 
 B=(1 2 3; 4 5 6; 7 8 9)'
+
+
+B1 y B2 ninguna es la canónica, hay que hacer la matriz de cambio de base de b1 a b2
