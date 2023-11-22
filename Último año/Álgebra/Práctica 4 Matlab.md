@@ -20,4 +20,8 @@ Osea lo hago por filas y luego traspuesta para ponerlo por columnas
 B=(1 2 3; 4 5 6; 7 8 9)'
 
 
-B1 y B2 ninguna es la canónica, hay que hacer la matriz de cambio de base de b1 a b2
+B1 y B2 ninguna es la canónica, hay que hacer la matriz de cambio de base de b1 a b2, al reves la inversa.
+
+Bc b1 y Bc b2
+
+La matriz S que tenga por columnas la base b1, la matriz S es b2 por columnas
