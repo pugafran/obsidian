@@ -10,3 +10,7 @@ Coordenadas de un vector respecto de una base => va por columnas
 
 la ultima columna de esa matriz escalonad son las coordenadas en esa base(E(:,end))
 ref(E)
+
+matriz de cambio de base de base 1 a base 2 es la que tiene por columnas las coordenadas de la base 2 expresada en la base 1.
+
+Si una de las bases fuese la ca
