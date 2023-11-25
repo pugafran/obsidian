@@ -14,14 +14,10 @@
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
-  "previewImageType": "SVGIMG",
-  "allowImageCache": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
-  "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
@@ -72,7 +68,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.27",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -87,7 +83,7 @@
   "previousRelease": "1.9.27",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
-  "latexBoilerplate": "\\color{blue}",
+  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -404,11 +400,15 @@
     }
   ],
   "numberOfCustomPens": 0,
+  "previewImageType": "SVGIMG",
+  "allowImageCache": true,
+  "dynamicStyling": "colorful",
+  "iframeMatchExcalidrawTheme": true,
+  "latexBoilerplate": "\\color{blue}",
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfImportScale": 0.3,
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
+  "pdfImportScale": 0.3
 }

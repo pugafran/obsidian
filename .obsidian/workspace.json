@@ -26,30 +26,34 @@
             }
           },
           {
-            "id": "1f7ad557af3b1beb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "173621d9fa3dc2e2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f11912cf7d3c9ae5",
+            "id": "5bad2f1e617aa3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Redes/Subredes.md",
+                "file": "Sistemas Operativos/Identificadores de un proceso.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1f7ad557af3b1beb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Distribuidos/Arquitectura descentralizada.md"
+              }
+            }
+          },
+          {
+            "id": "8806ee449cd154b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md"
               }
             }
           }
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Redes/Subredes.md",
+                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Redes/Subredes.md",
+                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Redes/Subredes.md"
+                "file": "Último año/GTI/PL/Gestion de problemas.excalidraw.md"
               }
             }
           }
@@ -189,52 +193,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "terminal:Open terminal": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f11912cf7d3c9ae5",
+  "active": "8806ee449cd154b4",
   "lastOpenFiles": [
-    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
-    "Home.md",
-    "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
+    "Último año/GTI/PL/Práctica 2.md",
+    "Último año/GTI/PL/Práctica 2.excalidraw.md",
+    "Último año/GTI/PL/Práctica 4.md",
+    "Último año/GTI/PL/Práctica 6.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
+    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/GTI/Sin título.md",
     "Último año/GTI/Introducción a ITIL4.md",
-    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Último año/GTI/Drawing 2023-09-26 14.12.36.excalidraw.md",
     "Último año/GTI/Drawing 2023-10-05 17.16.41.excalidraw.md",
+    "Último año/Álgebra/antes de la práctica 3.md",
+    "Último año/Álgebra/Práctica 4 Matlab.md",
+    "Último año/Álgebra/Práctica 3 Matlab.md",
+    "Último año/Web/Práctica 9.md",
+    "Último año/Servicios/Sin título 1.md",
+    "Último año/Servicios/SMTP.md",
+    "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-11-23 16.09.18.excalidraw.md",
-    "Pasted Image 20231123160934_993.png",
+    "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
     "Último año/Redes/Subredes.md",
+    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
+    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
+    "Último año/Redes",
+    "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
+    "Último año/Cálculo/PL3.md",
+    "Último año/Cálculo/Drawing 2023-10-25 11.31.56.excalidraw.md",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
-    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
-    "Último año/Álgebra/Práctica 4 Matlab.md",
-    "Local/Drawing 2023-11-21 21.12.59.excalidraw.md",
-    "Último año/Web/Trabajo.md",
-    "Último año/Web/Sin título.md",
-    "Último año/Web/Qué son los servlets.md",
-    "Último año/Web/Qué son los beans.md",
-    "Último año/Web/Práctica 9.md",
-    "Último año/Web/Instalación.md",
-    "Último año/Web/Drawing 2023-10-10 19.23.11.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-27 15.49.13.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-20 15.27.20.excalidraw.md",
-    "Último año/Web/Drawing 2023-09-12 16.30.08.excalidraw.md",
-    "Local/Drawing 2023-11-19 18.52.00.excalidraw.md",
+    "Pasted Image 20231123160934_993.png",
     "Pasted Image 20231113133125_757.png",
     "Pasted Image 20231113131106_286.png",
-    "Local",
-    "Último año/Redes",
     "Último año/Álgebra",
     "Último año/General",
     "Último año/GTI/PL",
@@ -247,6 +249,7 @@
     "Último año/Servicios",
     "Último año/Seguridad",
     "Último año/GTI",
-    "Último año/ED"
+    "Último año/ED",
+    "Último año/Cálculo"
   ]
 }
