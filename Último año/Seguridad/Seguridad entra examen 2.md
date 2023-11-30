@@ -1,0 +1,1 @@
+Fases de operación de una RSN
