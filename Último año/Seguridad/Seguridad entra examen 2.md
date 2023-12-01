@@ -2,4 +2,4 @@ Fases de operación de una RSN
 
 
 
-null no sigue cargando porque es el buff, hay que cambi
+null no sigue cargando porque es el buff, hay que cambiar los null por ceros 
