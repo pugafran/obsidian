@@ -8,4 +8,4 @@ tobogan NOPs => Se rellena todo lo que se pueda de NOPs para tener un margen de 
 
 es muy diificil que sepa calcular el byte exacto en el que saltar
 
-bound checking
+bound checkingte
