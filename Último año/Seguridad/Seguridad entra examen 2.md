@@ -11,4 +11,3 @@ es muy diificil que sepa calcular el byte exacto en el que saltar
 bound checkingte
 
 
-problema reactivo con indicencias relacionar
