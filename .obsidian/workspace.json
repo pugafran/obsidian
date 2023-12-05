@@ -52,9 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ce462ee86aeba05",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md",
+                "file": "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md",
+                "file": "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md"
+                "file": "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md"
               }
             }
           }
@@ -200,10 +210,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f11912cf7d3c9ae5",
+  "active": "5ce462ee86aeba05",
   "lastOpenFiles": [
-    "Último año/Seguridad/Seguridad entra examen 2.md",
     "Último año/GTI/PL/Práctica 7.md",
+    "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md",
+    "Último año/Seguridad/Seguridad entra examen 2.md",
     "Último año/Cálculo/PL3.md",
     "Último año/Cálculo/PL2.md",
     "Último año/Cálculo/PL1.md",
@@ -230,7 +241,6 @@
     "Último año/Web/Trabajo.md",
     "Último año/Web/Sin título.md",
     "Último año/Web/Qué son los servlets.md",
-    "Último año/Web/Qué son los beans.md",
     "Pasted Image 20231113133125_757.png",
     "Pasted Image 20231113131106_286.png",
     "Local",
