@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md",
+                "file": "Local/Regalos.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md",
+                "file": "Local/Regalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md",
+                "file": "Local/Regalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 7.md"
+                "file": "Local/Regalos.md"
               }
             }
           }
@@ -214,8 +214,9 @@
   },
   "active": "5ce462ee86aeba05",
   "lastOpenFiles": [
-    "Último año/GTI/PL/Práctica 6.md",
     "Último año/GTI/PL/Práctica 7.md",
+    "Local/Regalos.md",
+    "Último año/GTI/PL/Práctica 6.md",
     "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md",
     "Último año/Seguridad/Seguridad entra examen 2.md",
     "Último año/Cálculo/PL3.md",
@@ -242,7 +243,6 @@
     "Último año/Álgebra/Práctica 4 Matlab.md",
     "Local/Drawing 2023-11-21 21.12.59.excalidraw.md",
     "Último año/Web/Trabajo.md",
-    "Último año/Web/Sin título.md",
     "Pasted Image 20231113133125_757.png",
     "Pasted Image 20231113131106_286.png",
     "Local",
