@@ -57,9 +57,11 @@
             "id": "5ce462ee86aeba05",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md"
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md"
+                "file": "Último año/Álgebra/Práctica 1 Matlab.md"
               }
             }
           }
@@ -212,8 +214,8 @@
   },
   "active": "5ce462ee86aeba05",
   "lastOpenFiles": [
-    "Último año/Álgebra/antes de la práctica 3.md",
     "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+    "Último año/Álgebra/antes de la práctica 3.md",
     "Último año/Álgebra/Práctica 4 Matlab.md",
     "Último año/Álgebra/Práctica 3 Matlab.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
