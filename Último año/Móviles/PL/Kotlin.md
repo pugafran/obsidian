@@ -19,3 +19,4 @@ Propiedades delegadas:
 * Map
 * Delegar a otra propiedad (...)
 
+::funcion (referencia a una función externa)
