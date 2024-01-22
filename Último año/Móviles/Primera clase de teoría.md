@@ -28,4 +28,6 @@ Tienen una ventana en la que se puede dibujar, suele ser del tamaño de la panta
 Es importante que funcionen y gestionar todos los callback bien porque sino puede reventar la aplicación, te llaman por was y explosiona si no está bien gestionado como arriba.
 
 ![[Pasted image 20240122165703.png]]
-Entras y le das al botón de atrás, entonces se cierra, vs darle al botón de home, lo del null es un bundle que a saber que
+Entras y le das al botón de atrás, entonces se cierra, vs darle al botón de home, lo del null es un bundle que a saber que coño es xd.
+
+Cambio de configuración( lo de girar la pantalla )
