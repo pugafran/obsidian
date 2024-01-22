@@ -13,3 +13,6 @@ Los componentes:
 * Se ejecutan con permisos restringidos.
 
 intent puede transportar información de una aplicación a otra, sirve para todo menos content providers.
+
+Archivo de manifiesto:
+Todas las aplicaciones tienen un xml con todos los componentes de la aplicación, no se puede ejecutar un componente si
