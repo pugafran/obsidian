@@ -22,4 +22,7 @@ También se usa para declarar los permisos que requiere la aplicación, el nivel
 Actividades:
 Una actividad hereda de la clase Activity, debe implementar unos métodos que el S.O invocará cuando la actividad cambie de estado (callback methods).
 
-Tienen una ventana en la que se puede dibujar, suele ser del tamaño de la pantalla, y puede
+Tienen una ventana en la que se puede dibujar, suele ser del tamaño de la pantalla, y puede ser menor, y "flotar" sobre otras ventanas.
+
+![[Pasted image 20240122164811.png]]
+d
