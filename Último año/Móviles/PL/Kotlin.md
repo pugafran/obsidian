@@ -27,3 +27,6 @@ Funciones de ámbito:
 * with
 * apply
 * also
+
+Los viewgroup son como un <div>
+Los view son elementos 
