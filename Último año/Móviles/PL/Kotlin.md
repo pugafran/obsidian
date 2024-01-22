@@ -14,7 +14,7 @@ Extensiones, puedes añadirles a clases del propio android funciones, por ejempl
 data class, son clases cuyo proposito es contener datos.
 
 Propiedades delegadas:
-* Lazy
+* Lazy (Como el lateInit, pero mejor, se inicializa de manera perezosa)
 * Observables
 * Map
 * Delegar a otra propiedad (...)
