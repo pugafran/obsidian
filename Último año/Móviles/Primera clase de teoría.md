@@ -30,4 +30,6 @@ Es importante que funcionen y gestionar todos los callback bien porque sino pued
 ![[Pasted image 20240122165703.png]]
 Entras y le das al botón de atrás, entonces se cierra, vs darle al botón de home, lo del null es un bundle que a saber que coño es xd.
 
-Cambio de configuración( lo de girar la pantalla )
+Cambio de configuración( lo de girar la pantalla y que se detruye y se recrea xD)
+
+![[Pasted image 20240122165923.png]]
