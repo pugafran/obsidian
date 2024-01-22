@@ -8,3 +8,5 @@ var mamahuevo: Int = 64 (especificar el tipo)
 en el if, el else obligatorio 
 
 para cosas que son null o no sabes a priori que va a ser porque da null o no tienes ni idea, haces un lateinit, que es una inicialización retrasada.
+
+Extensiones, puedes añadirles a clases del propio android funciones, por ejemplo en TextView que será para ver el texto 
