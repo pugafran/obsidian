@@ -9,4 +9,5 @@ en el if, el else obligatorio
 
 para cosas que son null o no sabes a priori que va a ser porque da null o no tienes ni idea, haces un lateinit, que es una inicialización retrasada.
 
-Extensiones, puedes añadirles a clases del propio android funciones, por ejemplo en TextView que será para ver el texto 
+Extensiones, puedes añadirles a clases del propio android funciones, por ejemplo en TextView que será para ver el texto o algo en un input de android, añadirle la función .mayusculas y le metes la lógica, y luego funciona.
+
