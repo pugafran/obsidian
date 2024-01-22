@@ -2,5 +2,6 @@ Componentes:
 
 * Actividades
 * Servicios
-* Proveedor de contenido (Content Provider)
-* Receptor de mensajes 
+* Proveedores de contenido (Content Providers)
+* Receptor de mensajes (Broadcast receivers: te despiertas haces algo y te apagas)
+
