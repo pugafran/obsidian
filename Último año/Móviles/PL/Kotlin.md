@@ -20,3 +20,10 @@ Propiedades delegadas:
 * Delegar a otra propiedad (...)
 
 ::funcion (referencia a una función externa)
+
+Funciones de ámbito:
+* let
+* run
+* with
+* apply
+* also
