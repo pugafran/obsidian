@@ -9,4 +9,6 @@ La electrostática se ocupa del estudio de las cargas en reposo en referencias i
 
 Sistema internacional de carga es el culombio (1 C)
 
-El culombio es muy grande para los electrones osea que se suelen usar mili, micro, nano, o pico culombios 
+El culombio es muy grande para los electrones osea que se suelen usar mili, micro, nano, o pico culombios.
+
+1 electron = -1.6 * 10^-19 C
