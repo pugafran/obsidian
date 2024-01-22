@@ -1,0 +1,1 @@
+Equilibrio eléctrico => Mismo número de protones que de electrones.
