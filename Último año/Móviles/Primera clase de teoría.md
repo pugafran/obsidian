@@ -20,4 +20,6 @@ Todas las aplicaciones tienen un xml con todos los componentes de la aplicación
 También se usa para declarar los permisos que requiere la aplicación, el nivel de la API mínimo requerido por la aplicación, declarar requisitos de hardware/software, declarar bibliotecas y servicios extra necesarios (Google Maps, ...)
 
 Actividades:
-Una actividad hereda 
+Una actividad hereda de la clase Activity, debe implementar unos métodos que el S.O invocará cuando la actividad cambie de estado (callback methods).
+
+Tienen una ventana en la que se puede dibujar, suele ser del tamaño de la pantalla, y puede
