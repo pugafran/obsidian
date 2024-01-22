@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md",
+                "file": "Último año/Móviles/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md",
+                "file": "Último año/Móviles/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md",
+                "file": "Último año/Móviles/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md"
+                "file": "Último año/Móviles/Sin título.md"
               }
             }
           }
@@ -214,8 +214,10 @@
   },
   "active": "5ce462ee86aeba05",
   "lastOpenFiles": [
-    "Último año/Álgebra/Práctica 4 Matlab.md",
     "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md",
+    "Último año/Móviles/Sin título.md",
+    "Último año/Móviles",
+    "Último año/Álgebra/Práctica 4 Matlab.md",
     "Último año/Ondas/Electrostática en el espacio libre de materia",
     "Último año/Ondas",
     "Último año/Álgebra/Práctica 3 Matlab.md",
@@ -241,7 +243,6 @@
     "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Último año/GTI/Sin título.md",
     "Último año/GTI/Introducción a ITIL4.md",
-    "Último año/GTI/Drawing 2023-09-11 16.11.04.excalidraw.md",
     "Pasted Image 20231123160934_993.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
@@ -258,7 +259,6 @@
     "imagenes/Pasted Image 20230921160146_647.png",
     "imagenes/Pasted Image 20230921155217_053.png",
     "Último año/Web",
-    "Último año/Servicios",
-    "Último año/Seguridad"
+    "Último año/Servicios"
   ]
 }
