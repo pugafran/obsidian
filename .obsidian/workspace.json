@@ -69,9 +69,11 @@
             "id": "acf4d1d754fdb9bf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md"
+                "file": "Último año/Proyectos/ee.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -158,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
+                "file": "Último año/Proyectos/ee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
+                "file": "Último año/Proyectos/ee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md"
+                "file": "Último año/Proyectos/ee.md"
               }
             }
           }
@@ -224,9 +226,10 @@
   },
   "active": "acf4d1d754fdb9bf",
   "lastOpenFiles": [
+    "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
+    "Último año/Proyectos/ee.md",
     "Pasted Image 20240130155319_042.png",
     "Último año/Proyectos/Sin título.md",
-    "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
     "Último año/Móviles/Primera clase de teoría.md",
     "Último año/Proyectos",
     "Último año/Móviles/PL/Kotlin.md",
@@ -268,7 +271,6 @@
     "Último año/Redes",
     "Último año/Álgebra",
     "Último año/General",
-    "Último año/GTI/PL",
-    "imagenes/Pasted Image 20230929004635_321.png"
+    "Último año/GTI/PL"
   ]
 }
