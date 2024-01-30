@@ -64,9 +64,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acf4d1d754fdb9bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/Sin título.md",
+                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/Sin título.md",
+                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/Sin título.md"
+                "file": "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md"
               }
             }
           }
@@ -212,10 +222,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5ce462ee86aeba05",
+  "active": "acf4d1d754fdb9bf",
   "lastOpenFiles": [
-    "Último año/Móviles/Primera clase de teoría.md",
     "Último año/Proyectos/Sin título.md",
+    "Último año/Proyectos/Drawing 2024-01-30 15.26.55.excalidraw.md",
+    "Último año/Móviles/Primera clase de teoría.md",
     "Último año/Proyectos",
     "Último año/Móviles/PL/Kotlin.md",
     "Último año/Móviles/Segunda clase de teoría.md",
@@ -248,7 +259,6 @@
     "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Home.md",
     "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
-    "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
     "Pasted Image 20231123160934_993.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
