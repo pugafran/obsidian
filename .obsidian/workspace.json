@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Último año/Móviles/Primera clase de teoría.md",
+                "file": "Último año/Proyectos/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Móviles/Primera clase de teoría.md",
+                "file": "Último año/Proyectos/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Móviles/Primera clase de teoría.md",
+                "file": "Último año/Proyectos/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Móviles/Primera clase de teoría.md"
+                "file": "Último año/Proyectos/Sin título.md"
               }
             }
           }
@@ -214,8 +214,10 @@
   },
   "active": "5ce462ee86aeba05",
   "lastOpenFiles": [
-    "Último año/Móviles/PL/Kotlin.md",
     "Último año/Móviles/Primera clase de teoría.md",
+    "Último año/Proyectos/Sin título.md",
+    "Último año/Proyectos",
+    "Último año/Móviles/PL/Kotlin.md",
     "Último año/Móviles/Segunda clase de teoría.md",
     "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md",
     "Pasted image 20240122182103.png",
@@ -247,7 +249,6 @@
     "Home.md",
     "Último año/GTI/PL/Gestion de problemas.excalidraw.md",
     "Último año/GTI/PL/Drawing 2023-10-31 14.14.52.excalidraw.md",
-    "Último año/GTI/PL/Drawing 2023-10-10 14.38.02.excalidraw.md",
     "Pasted Image 20231123160934_993.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
@@ -258,7 +259,6 @@
     "Último año/Álgebra",
     "Último año/General",
     "Último año/GTI/PL",
-    "imagenes/Pasted Image 20230929004635_321.png",
-    "Último año/Web"
+    "imagenes/Pasted Image 20230929004635_321.png"
   ]
 }
