@@ -8,4 +8,4 @@ Para el escalado automático dar la imagen de mayor resolución para que use de 
 
 ``` if (build.VERSION.SDK_INT <= Build.VERSION_CODES.JELLY_BEAN) ```
 
-AndroidX => La manera "nueva" que tiene android de evolucionar el sistema, es fácil 
+AndroidX => La manera "nueva" que tiene android de evolucionar el sistema.
