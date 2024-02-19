@@ -137,9 +137,11 @@
             "id": "0b2a0551f69be059",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md"
+                "file": "Último año/Móviles/Quinta clase de teoría.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -226,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
+                "file": "Último año/Móviles/Quinta clase de teoría.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
+                "file": "Último año/Móviles/Quinta clase de teoría.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md"
+                "file": "Último año/Móviles/Quinta clase de teoría.md"
               }
             }
           }
@@ -292,8 +294,9 @@
   },
   "active": "0b2a0551f69be059",
   "lastOpenFiles": [
-    "Último año/GTI/PL/Práctica 6.md",
     "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
+    "Último año/Móviles/Quinta clase de teoría.md",
+    "Último año/GTI/PL/Práctica 6.md",
     "Último año/Mecalux",
     "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
     "Último año/Mecalux/Drawing 2024-02-19 16.42.11.excalidraw.md",
@@ -330,7 +333,6 @@
     "Último año/Álgebra/antes de la práctica 3.md",
     "Local/Regalos.md",
     "Último año/GTI/PL/Práctica 7.md",
-    "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md",
     "Pasted Image 20231123160934_993.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
