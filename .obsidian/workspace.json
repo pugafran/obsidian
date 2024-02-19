@@ -122,27 +122,15 @@
             }
           },
           {
-            "id": "1d4f06f7b9c3f4d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.42.11.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "4b783a592354115d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -224,7 +212,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +228,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,9 +249,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -290,8 +274,8 @@
   },
   "active": "4b783a592354115d",
   "lastOpenFiles": [
-    "Último año/Mecalux/Drawing 2024-02-19 16.42.11.excalidraw.md",
     "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
+    "Último año/Mecalux/Drawing 2024-02-19 16.42.11.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-02-16 15.48.12.excalidraw.md",
     "Último año/Mecalux",
     "Último año/Proyectos/Drawing 2024-02-09 15.19.14.excalidraw.md",
