@@ -132,9 +132,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b2a0551f69be059",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -216,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md",
+                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md",
+                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/GTI/PL/Práctica 6.md"
+                "file": "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md"
               }
             }
           }
@@ -280,8 +290,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4b783a592354115d",
+  "active": "0b2a0551f69be059",
   "lastOpenFiles": [
+    "Último año/GTI/PL/Práctica 6.md",
+    "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
+    "Último año/Mecalux",
     "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
     "Último año/Mecalux/Drawing 2024-02-19 16.42.11.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-02-16 15.48.12.excalidraw.md",
@@ -317,16 +330,13 @@
     "Último año/Álgebra/antes de la práctica 3.md",
     "Local/Regalos.md",
     "Último año/GTI/PL/Práctica 7.md",
-    "Último año/GTI/PL/Práctica 6.md",
     "Último año/Web/Drawing 2023-12-05 16.18.05.excalidraw.md",
-    "Último año/Seguridad/Seguridad entra examen 2.md",
     "Pasted Image 20231123160934_993.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
     "Pasted Image 20231113133125_757.png",
     "Local",
     "Último año/Redes",
-    "Último año/Álgebra",
-    "Último año/General"
+    "Último año/Álgebra"
   ]
 }
