@@ -21,9 +21,11 @@
             "id": "d0a31b2e9fa7de96",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md"
+                "file": "Último año/Mecalux/Nahuel.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md",
+                "file": "Último año/Mecalux/Nahuel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md",
+                "file": "Último año/Mecalux/Nahuel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md"
+                "file": "Último año/Mecalux/Nahuel.md"
               }
             }
           }
@@ -176,8 +178,9 @@
   },
   "active": "d0a31b2e9fa7de96",
   "lastOpenFiles": [
-    "Último año/Proyectos/Drawing 2024-02-16 15.48.12.excalidraw.md",
     "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md",
+    "Último año/Mecalux/Nahuel.md",
+    "Último año/Proyectos/Drawing 2024-02-16 15.48.12.excalidraw.md",
     "Último año/Proyectos/Sin título.md",
     "Último año/Proyectos/Sin título 1.md",
     "Último año/Móviles/Quinta clase de teoría.md",
@@ -214,7 +217,6 @@
     "Último año/Álgebra/Práctica 3 Matlab.md",
     "Último año/Álgebra/Práctica 2 Matlab.md",
     "Último año/Álgebra/Práctica 1 Matlab.md",
-    "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
     "Pasted Image 20231123160934_993.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20231122151522.png",
