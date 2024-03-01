@@ -48,9 +48,19 @@
                 "file": "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "86d8cc14fb8a267e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md"
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md"
               }
             }
           }
@@ -196,10 +206,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca3c4240205d1bea",
+  "active": "86d8cc14fb8a267e",
   "lastOpenFiles": [
-    "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
+    "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
+    "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md",
     "Último año/Mecalux/Nahuel.md",
     "Último año/Mecalux/Drawing 2024-02-19 16.49.36.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-02-02 15.42.11.excalidraw.md",
@@ -239,7 +250,6 @@
     "Último año/Álgebra/Práctica 4 Matlab.md",
     "Último año/Ondas/Electrostática en el espacio libre de materia",
     "Último año/Ondas",
-    "Último año/Álgebra/Práctica 3 Matlab.md",
     "Pasted Image 20231123160934_993.png",
     "Local",
     "Último año/Redes",
