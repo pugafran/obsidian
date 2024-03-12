@@ -41,4 +41,6 @@ yo no introduciría eso ahí, si eso en la tabla de control de versiones, como d
 
 "gran parte de las cosas que estamos viendo aqui se hubiera solucionado si alguien hubiese hecho un control de calidad final y hubiese revisado el documento con una perspectiva crítica de que todo esté en línea"
 
-"Teneis gente suficiente (XDDDDDD), teneis"
+"Teneis gente suficiente (XDDDDDD), teneis gente de sobra para asignar, oye hay que hacer una revisión crítica global del documento, tenerlo en cuenta de cara a hacer el definitivo que haya margen para hacer esa revisión."
+
+Las definiciones hay que ponerlas por orden alfabético, las cosas tienen que llev
