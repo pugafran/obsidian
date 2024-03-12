@@ -59,3 +59,4 @@ Descargar un poco la responsabilidad al propietario, ejemplo de como puede viaja
 
 No os teneis que olvidar en el documento en hablar como si fuesemos una consultora no la empresa como tal.
 
+Ni hipótesis ni restricicones, es información duplicada con otr
