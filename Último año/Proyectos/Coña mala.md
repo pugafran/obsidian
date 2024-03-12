@@ -55,4 +55,5 @@ LAS LEYES HAY QUE PONERLAS CON UN FORMATO DETERMINADO, 'REAL DECRETO / 15 2003 V
 
 hay algunas normas que es dificil ver el encaje sin introducir un poco el contexto.
 
-Descargar un po
+Descargar un poco la responsabilidad al propietario, ejemplo de como puede viajar todo un poco una norma de lo que ponemos aqui al diseño de la aplicación.
+
