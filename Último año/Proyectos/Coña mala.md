@@ -80,3 +80,4 @@ No ser tan redundante.
 
 Dibujos god
 
+Introducir mejor lo de los medidores de carga, que si escogemos medidodres de carga hay que introducir primero esta tecnologías, rollo, los smart meters 
