@@ -43,4 +43,4 @@ yo no introduciría eso ahí, si eso en la tabla de control de versiones, como d
 
 "Teneis gente suficiente (XDDDDDD), teneis gente de sobra para asignar, oye hay que hacer una revisión crítica global del documento, tenerlo en cuenta de cara a hacer el definitivo que haya margen para hacer esa revisión."
 
-Las definiciones hay que ponerlas por orden alfabético, las cosas tienen que llev
+Las definiciones hay que ponerlas por orden alfabético, las cosas tienen que llevar un orden. Luego está un poco el fondo también, aquí yo no sé si son acrónimos o definiciones, no está especificado.
