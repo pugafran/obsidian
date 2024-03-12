@@ -88,4 +88,6 @@ Mirar como encajar lo del sobrecoste.
 
 Infraestructura tecnológica en vez de "Alojamiento".
 
-Hacer un poco como lo de los cargadores, que en vez de decir hemos pillado AWS, hemos escogido cloud respecto a servidor local y que de todas bueno podría estar bien AWS pero no darlo todo full AWS. O que haga falta entrar tanto en detalle, dar a modo de ejemplo los grandes proveedores aws azure etc... y recomendación de cual es mejor. Y dejarlo más abierto, porque el problema es que si entramos a valorarlo tenemos que entrar a más detalle, 
+Hacer un poco como lo de los cargadores, que en vez de decir hemos pillado AWS, hemos escogido cloud respecto a servidor local y que de todas bueno podría estar bien AWS pero no darlo todo full AWS. O que haga falta entrar tanto en detalle, dar a modo de ejemplo los grandes proveedores aws azure etc... y recomendación de cual es mejor. Y dejarlo más abierto, porque el problema es que si entramos a valorarlo tenemos que entrar a más detalle.
+
+
