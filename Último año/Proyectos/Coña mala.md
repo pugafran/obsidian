@@ -78,3 +78,5 @@ Una vez planteadas las alternativas yo pondría una tabla que compare las caract
 
 No ser tan redundante.
 
+Dibujos god
+
