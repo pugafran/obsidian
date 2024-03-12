@@ -61,3 +61,8 @@ No os teneis que olvidar en el documento en hablar como si fuesemos una consulto
 
 Ni hipótesis ni restricciones, y es información duplicada con otros apartados.
 
+Introducción, objeto y antecedentes
+
+Que sistemas hay que hacen cosas parecidas a nosotros. (antecedentes)
+
+
