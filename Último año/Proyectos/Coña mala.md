@@ -47,4 +47,6 @@ Las definiciones hay que ponerlas por orden alfabético, las cosas tienen que ll
 
 "Yo lo habría enfocado más hacia propietario, usuario, este tipo de cosas, sistema de acceso, para tener un poco claro la definición de otras cosas que luego estamos usando más adelante pero mas dentro del dominio que estamos informatizando mas que el detalle de cosas más precisas, si poneis AWS teneis que poner los demás, habría que poner Azure etc...yo no me metería en esos marrones."
 
-Definiciones como subapartado de introducción no está ,m
+Definiciones como subapartado de introducción no está muy bien, no se nota porque no está enumerado pero queda un poco raro habría que moverlo. Tanto alcance como definiciones.
+
+Normas y referencias, forma de contar l
