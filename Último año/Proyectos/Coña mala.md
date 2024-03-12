@@ -69,3 +69,7 @@ Las restricciones no son tan técnicas (tócate los bowlings), restricciones gra
 
 
 Describir los capítulos de las cosas, ejemplo, en valoracion de alternativas no hay una descripción entra sin vaselina.
+
+Hay que cuidar el estilo global del documento.
+
+"Como contais las alternativas no me convencen, falta el hilo conductor, describir un poco el contexto, sin enrrollars"
