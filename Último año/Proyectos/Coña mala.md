@@ -49,4 +49,4 @@ Las definiciones hay que ponerlas por orden alfabético, las cosas tienen que ll
 
 Definiciones como subapartado de introducción no está muy bien, no se nota porque no está enumerado pero queda un poco raro habría que moverlo. Tanto alcance como definiciones.
 
-Normas y referencias, forma de contar l
+Normas y referencias, forma de contar las cosas mal, "operación de la aplicación", "Esta frase despista más que otra cosa, el contexto verbal que teneis que describir aqui son aquellas normativas y referencias que se hayan tenido en cuenta o nos influyan en el diseño que proponemos en el sistema, eso que habeis puesto de garantizar el cumplimiento "
