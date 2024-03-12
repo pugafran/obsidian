@@ -20,5 +20,5 @@ Segunda página:
 
 Enumerar con números los titulos, poner titulos a las figuras para luego poner un indice de tablas etc..
 
-
+Lo primero que va a leer el cliente quen igual nos ha pagado 40k por este documento lee la introducción y se encuentra con la putisima intro de The Legend Of Zelda.
 
