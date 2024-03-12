@@ -24,5 +24,5 @@ Lo primero que va a leer el cliente que igual nos ha pagado 40k por este documen
 
 Es necesario desarrollar más la introducción. ("Hasta el documento que os hemos dado nosotros con las bases del proyecto era más extenso que la introducción que habeis puesto, esto no es una introducción del contexto del proyecto")
 
-
+No se pueden poner párrafos de cinco lineas sin más que se entiendan, nosotros tenemos en mente todo pero hay que escribirlo bien y que quede todo claro sin que tengas ni idea del proyecto.
 
