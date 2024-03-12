@@ -54,3 +54,5 @@ Normas y referencias, forma de contar las cosas mal, "operaci√≥n de la aplicaci√
 LAS LEYES HAY QUE PONERLAS CON UN FORMATO DETERMINADO, 'REAL DECRETO / 15 2003 V6', tienen una forma de referirse a ellas en concreto.
 
 hay algunas normas que es dificil ver el encaje sin introducir un poco el contexto.
+
+Descargar un po
