@@ -26,3 +26,6 @@ Es necesario desarrollar más la introducción. ("Hasta el documento que os hemo
 
 No se pueden poner párrafos de cinco lineas sin más que se entiendan, nosotros tenemos en mente todo pero hay que escribirlo bien y que quede todo claro sin que tengas ni idea del proyecto.
 
+"La introducción pfff, lo bueno entre comillas es que lo estáis haciendo más adelante, no necesitais inventar nada, coger cosas que teneis ya en el documento subirlo arriba en la introducción para completarlo"
+
+"Alcance ahí estaría desubicado, sería introducción y antec"
