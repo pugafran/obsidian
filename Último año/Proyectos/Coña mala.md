@@ -76,3 +76,5 @@ Hay que cuidar el estilo global del documento.
 
 Una vez planteadas las alternativas yo pondría una tabla que compare las características principales de cada una.
 
+No ser tan redundante.
+
