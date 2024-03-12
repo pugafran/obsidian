@@ -80,4 +80,6 @@ No ser tan redundante.
 
 Dibujos god
 
-Introducir mejor lo de los medidores de carga, que si escogemos medidodres de carga hay que introducir primero esta tecnologías, rollo, los smart meters 
+Introducir mejor lo de los medidores de carga, que si escogemos medidodres de carga hay que introducir primero esta tecnologías, rollo, los smart meters son dispositivos que suelen incorporar esta serie de protocolos y que dentro de lo que es nuestro proyecto sería integrarlo porque como tienen una entrada de medición de corriente, etc..
+
+Se podría despues de esto valorar modelos concretos rollo, aunque existen muchos dispositivos de estas caracteristicas, podriamos montarnos nosotros uno propio, co
