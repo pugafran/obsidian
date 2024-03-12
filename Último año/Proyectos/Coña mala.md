@@ -17,3 +17,8 @@ Segunda página:
 + Cambios, con qué fechas
 + Control con más detalle de la información del proyecto
 + Donde está localizado este documento, que en este caso sería reflejar el repositorio del teams.
+
+Enumerar con números los titulos, poner titulos a las figuras para luego poner un indice de tablas etc..
+
+
+
