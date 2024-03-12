@@ -36,5 +36,7 @@ No se pueden poner párrafos de cinco lineas sin más que se entiendan, nosotros
 
 "
 Luego teneis un párrafo aquí que empieza con una cosa un poco rara, 'si bien la memoria no es un documento con contenidos técnicos, si que se hablará de apartados técnicos', se lo que quereis decir que la memoria tiene que ser un documento legible para el cliente, pero no hace falta decir que no es un documento técnico, si yo les estoy pagando por un trabajo técnico que me cuentan aquí, no se dice y si se dice no con ese estilo, el documento es el documento que es no tenemos que explicarle a nadie que es una memoria, tenemos que ir más al grano, introducción pero introducción del proyecto, luego ya me descolocasteis del todo con la ultima frase 'este documento no contiene los apartados correspondientes a una memoria de proyecto'
-yo no introducir
+yo no introduciría eso ahí, si eso en la tabla de control de versiones, como documento preliminar de la memoria en la que no se incluyen otro tipo de cosas. (post explicacion de Alex) Ahora lo entiendo mejor.
 "
+
+""
