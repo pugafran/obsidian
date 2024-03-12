@@ -30,4 +30,6 @@ No se pueden poner párrafos de cinco lineas sin más que se entiendan, nosotros
 
 "Alcance ahí estaría desubicado, sería introducción y antecedentes, no alcance, habíamos hablado que en lugar de dedicarle un apartado a cada cosa podríamos hacer introducción y antecedentes y hacer una explicación integral de ello pero no es alcance, alcance es que forma parte del proyecto, la norma que dice como está estructurado el proyecto lo dice el alcance  y para ello previamente hay que tener el contexto y otras cosas. Necesitamos tener las bases sentadas previamente. De hecho el alcance lo saltasteis"
 
-Si quitais el titulo "alcance" sigue siendo la introducción xd"
+"Si quitais el titulo "alcance" sigue siendo la introducción xd"
+
+"Redacción poco técnica, no es un estilo de documento técnico, 'el ob'"
