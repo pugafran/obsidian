@@ -65,4 +65,4 @@ Introducción, objeto y antecedentes
 
 Que sistemas hay que hacen cosas parecidas a nosotros. (antecedentes)
 
-
+Las restricciones no son tan técnicas (tócate los bowlings), restricciones grandes, esto va di
