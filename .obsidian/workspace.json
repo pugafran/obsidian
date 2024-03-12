@@ -63,9 +63,11 @@
             "id": "60f419944d2dbcb5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md"
+                "file": "Último año/Proyectos/Coña mala.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
+                "file": "Último año/Proyectos/Coña mala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
+                "file": "Último año/Proyectos/Coña mala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md"
+                "file": "Último año/Proyectos/Coña mala.md"
               }
             }
           }
@@ -218,8 +220,9 @@
   },
   "active": "60f419944d2dbcb5",
   "lastOpenFiles": [
-    "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
+    "Último año/Proyectos/Coña mala.md",
+    "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
     "Último año/Proyectos/Sin título 1.md",
     "Último año/Proyectos/Sin título.md",
     "Último año/Proyectos/Drawing 2024-03-12 15.41.07.excalidraw.md",
@@ -251,7 +254,6 @@
     "Pasted Image 20240206152947_330.png",
     "Pasted Image 20240130155319_042.png",
     "Último año/Proyectos",
-    "Último año/Móviles/PL/Kotlin.md",
     "Pasted image 20240122182103.png",
     "Último año/Móviles/PL",
     "Pasted image 20240122165923.png",
