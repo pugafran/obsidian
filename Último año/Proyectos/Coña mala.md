@@ -65,4 +65,7 @@ Introducción, objeto y antecedentes
 
 Que sistemas hay que hacen cosas parecidas a nosotros. (antecedentes)
 
-Las restricciones no son tan técnicas (tócate los bowlings), restricciones grandes, esto va di
+Las restricciones no son tan técnicas (tócate los bowlings), restricciones grandes, esto va dirigido solo a usuarios moviles, apps, no va a tener soporte web.
+
+
+Describir los capitulos de las cosas, ejemplo, en valoracion de alter
