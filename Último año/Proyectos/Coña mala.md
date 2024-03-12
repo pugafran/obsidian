@@ -74,3 +74,4 @@ Hay que cuidar el estilo global del documento.
 
 "Como contais las alternativas no me convencen, falta el hilo conductor, describir un poco el contexto, sin enrrollarse mucho para ir situando las cosas y luego decir que digamos un poco que alternativas, que estrategia o que escriterio hemos seguido para plantear las alternativas, ponerlas y valorarlas, y tomar la decisión sobre ellas. En cierto modo es lo que haceis pero con algunos matices"
 
+Una vez planteadas las alternativas yo pondría una tabla que compare las características principales de cada una.
