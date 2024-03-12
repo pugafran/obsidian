@@ -57,3 +57,5 @@ hay algunas normas que es dificil ver el encaje sin introducir un poco el contex
 
 Descargar un poco la responsabilidad al propietario, ejemplo de como puede viajar todo un poco una norma de lo que ponemos aqui al diseño de la aplicación.
 
+No os teneis que olvidar en el documento en hablar como si fuesemos una consultora no la empresa como tal.
+
