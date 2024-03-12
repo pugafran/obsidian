@@ -57,7 +57,7 @@ hay algunas normas que es dificil ver el encaje sin introducir un poco el contex
 
 Descargar un poco la responsabilidad al propietario, ejemplo de como puede viajar todo un poco una norma de lo que ponemos aqui al diseño de la aplicación.
 
-No os teneis que olvidar en el documento en hablar como si fuesemos una consultora no la empresa como tal.
+No os tenéis que olvidar en el documento en hablar como si fuesemos una consultora no la empresa como tal.
 
 Ni hipótesis ni restricciones, y es información duplicada con otros apartados.
 
@@ -65,7 +65,7 @@ Introducción, objeto y antecedentes
 
 Que sistemas hay que hacen cosas parecidas a nosotros. (antecedentes)
 
-Las restricciones no son tan técnicas (tócate los bowlings), restricciones grandes, esto va dirigido solo a usuarios moviles, apps, no va a tener soporte web.
+Las restricciones no son tan técnicas (tócate los bowlings), restricciones grandes, esto va dirigido solo a usuarios móviles, apps, no va a tener soporte web.
 
 
-Describir los capitulos de las cosas, ejemplo, en valoracion de alter
+Describir los capítulos de las cosas, ejemplo, en valoracion de alternativas no hay una descripción entra sin vaselina.
