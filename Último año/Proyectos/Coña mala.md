@@ -22,3 +22,5 @@ Enumerar con números los titulos, poner titulos a las figuras para luego poner 
 
 Lo primero que va a leer el cliente que igual nos ha pagado 40k por este documento lee la introducción y se encuentra con la intro de The Legend Of Zelda. Estaría bien como anuncio publicitario pero no es muy técnico, es un documento técnico, no es el sitio para poner frases así un poco rimbombantes que no encajan dentro del documento. 
 
+Es necesario desarrollar más la introducción. ("Hasta el documento que os hemos dado nosotros con las bases del proyecto era más extenso que la introdución que habeis puesto, esto no es una introducción del contexto del ")
+
