@@ -32,4 +32,6 @@ No se pueden poner párrafos de cinco lineas sin más que se entiendan, nosotros
 
 "Si quitais el titulo "alcance" sigue siendo la introducción xd"
 
-"Redacción poco técnica, no es un estilo de documento técnico, 'el ob'"
+"Redacción poco técnica, no es un estilo de documento técnico, 'la razón de existir', choca, no hablan en ese lenguaje, no se emplea ese tipo de lenguaje."
+
+"Luego teneis un párrafo aquí que empieza con una cosa un poco rara, 'si bien la memoria no es un documento con contenidos técnicos, si que se hablará de apartados técnicos'"
