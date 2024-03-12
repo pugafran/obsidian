@@ -87,3 +87,5 @@ Se podría despues de esto valorar modelos concretos rollo, aunque existen mucho
 Mirar como encajar lo del sobrecoste.
 
 Infraestructura tecnológica en vez de "Alojamiento".
+
+Hacer un poco como lo de los cargadores, que en vez de decir hemos pillado AWS, hemos escogido cloud respecto a servidor local y que de todas bueno podría estar bien AWS pero no darlo todo full AWS. O que haga falta entrar tanto en detalle, 
