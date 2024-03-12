@@ -84,3 +84,6 @@ Introducir mejor lo de los medidores de carga, que si escogemos medidodres de ca
 
 Se podría despues de esto valorar modelos concretos rollo, aunque existen muchos dispositivos de estas caracteristicas, podriamos montarnos nosotros uno propio, con una raspberry o decantarnos por alguno comercial que esté disponible y que sea viable adaptarlo a nuestra estructura y en ese caso sería cuando se puede poner como ejemplo dos o tres para que se vean ejemplos de dispositivos de este tipo, entonces la valoracion de alternativas no es tanto si me quedo con un dispositivo u otro, sino con cual me he quedado de toda la rama esta que tenemos, es decir, no hablar de que me he pillado el neurio meter sino de que hemos escogido los medidores de corriente en vez del all in one u otra de las primeras ramas. 
 
+Mirar como encajar lo del sobrecoste.
+
+Infraestructura tecnológica en vez de "Alojamiento".
