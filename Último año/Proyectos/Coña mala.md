@@ -20,5 +20,5 @@ Segunda página:
 
 Enumerar con números los titulos, poner titulos a las figuras para luego poner un indice de tablas etc..
 
-Lo primero que va a leer el cliente quen igual nos ha pagado 40k por este documento lee la introducción y se encuentra con la putisima intro de The Legend Of Zelda.
+Lo primero que va a leer el cliente que igual nos ha pagado 40k por este documento lee la introducción y se encuentra con la intro de The Legend Of Zelda. Estaría bien como anuncio publicitario pero no es muy técnico, es un documento técnico, no es el sitio para poner frases así un poco rimbombantes que no encajan dentro del documento. 
 
