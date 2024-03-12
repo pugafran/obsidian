@@ -39,4 +39,6 @@ Luego teneis un párrafo aquí que empieza con una cosa un poco rara, 'si bien l
 yo no introduciría eso ahí, si eso en la tabla de control de versiones, como documento preliminar de la memoria en la que no se incluyen otro tipo de cosas. (post explicacion de Alex) Ahora lo entiendo mejor.
 "
 
-""
+"gran parte de las cosas que estamos viendo aqui se hubiera solucionado si alguien hubiese hecho un control de calidad final y hubiese revisado el documento con una perspectiva crítica de que todo esté en línea"
+
+"Teneis gente suficiente (XDDDDDD), teneis"
