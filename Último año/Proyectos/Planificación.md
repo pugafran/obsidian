@@ -23,7 +23,7 @@ Lo que no puede ser es escribir un documento que te pregunten por qué y no sepa
 
 Hay que asignar trabajos y coordinar un poco que esos trabajos vayan coherentemente cuadrando unas cosas con otras.
 
-ROMPER APLICACION MOVIL EN PARTES, SELECCION DEL CLIENTE, 
+ROMPER APLICACION MOVIL EN PARTES, (Listado de entregables software.xlsx)
 # Horizonte temporal xd
 
 A la vuelta de semana santa tenemos que avanzar con las cosas no nos podemos parar,
