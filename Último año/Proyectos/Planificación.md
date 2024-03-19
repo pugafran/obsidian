@@ -21,5 +21,5 @@ En los pliegos hay mucho corta y pega, entonces en todo contrato hay una serie d
 
 Lo que no puede ser es escribir un documento que te pregunten por qué y no sepas decirlo, porque lo copiaste de otro pliego, hay que poder justificarlo todo.
 
-Hay que asignar trabajos y cordinar un poco que esos trabajos vayan coherentemetne cu
+Hay que asignar trabajos y coordinar un poco que esos trabajos vayan coherentemente cuadrando unas cosas con otras.
 
