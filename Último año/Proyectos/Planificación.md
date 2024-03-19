@@ -13,5 +13,7 @@ Si lo haceis bien con el project mas o menos os debería de salir automático, y
 
 Imaginad que stuvieses haciendo le proyecto para instalar la iluminacion de la calle corrida, entonces la memoria de ese proyecto de poner la iluminacion en la memoria de ese proyecto hay que explicar que esa zona es una zona emblematica fanatica de lo sensual y hay que darle un caracter, se van dos o tres siglos mas atras los que te redactan esto, la primera oluminacion se produjo en paris cuando la exposición de 1900, pero la memoria soporta un poco todo, le pones antecedentes lo importante que es aquello, en cambio en el pliego no tiene sentido, imaginaros que empieza a leerselo y le hablan de la importancia de la ilumnación pública, será importante que vivo de ello, y la calle corrida muy bien, me la pela, yo soy el contratista, a mi que me digan que luminarias hay que poner, que tecnología y cada cuanto.
 
-Estamos mirando algo que se va a ver mucho el diseño y tal, osea puedes explayarte un poco pero que sea algo directo, concreto, que es lo que le interesa a un contratista, y en informa
+Estamos mirando algo que se va a ver mucho el diseño y tal, osea puedes explayarte un poco pero que sea algo directo, concreto, que es lo que le interesa a un contratista, y en informatica es lo mismo, no tenemos que irnos por las ramas, para que la empresa nos entienda.
+
+Donde tienen que ir los detalles super específicos técnicos tienen que ir en la memoria, hay que decir hasta que el teclado sea ESPAÑOL 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
 
