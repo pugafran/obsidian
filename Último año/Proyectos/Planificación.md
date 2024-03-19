@@ -15,5 +15,7 @@ Imaginad que stuvieses haciendo le proyecto para instalar la iluminacion de la c
 
 Estamos mirando algo que se va a ver mucho el diseño y tal, osea puedes explayarte un poco pero que sea algo directo, concreto, que es lo que le interesa a un contratista, y en informatica es lo mismo, no tenemos que irnos por las ramas, para que la empresa nos entienda.
 
-Donde tienen que ir los detalles super específicos técnicos tienen que ir en la memoria, hay que decir hasta que el teclado sea ESPAÑOL 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+Donde tienen que ir los detalles super específicos técnicos tienen que ir en la memoria, hay que decir hasta que el teclado sea ESPAÑOL 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
+
+En los pliegos hay mucho corta y pega, entonces en todo contrato hay una serie de clausulas por ahi que son las mismas en unos sitios y otros, y no pasa nada por usar el corta y pega pero con cuidado, hay que entender las cosas que se ponen, pero no se trata de pegar cosas sin sentido, hay que ser capaces de justificarlo, como la clausula de transferencia de tec
 
