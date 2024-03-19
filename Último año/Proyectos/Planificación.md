@@ -7,5 +7,5 @@ En la planificación lo que sea también adaptacion a nuestro proyecto, con ello
 
 Memoria
 
-Nos quedaría la viabilidad que es un poco que está pendiente 
+Nos quedaría la viabilidad que es un poco que está pendiente de acotar a donde lo limitamos, la otra parte, las otras partes que nos quedan por ahi son el presupuesto y el pliege de condiciones, el presupuesto no deja de ser una especie de factura grande en donde poneis los conceptos que incluye el proyecto, las unidades de obra, las unidades en las que se mide cada uno, horas, o si hablamos de equipos unidades, 
 
