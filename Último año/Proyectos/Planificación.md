@@ -5,7 +5,7 @@ La planificación es de la ejecución del proyecto, al final lo que teneis que p
 
 En la planificación lo que sea también adaptacion a nuestro proyecto, con ello quiero decir que vosotros proponeis un HUB, el hub famoso que comentabamos el otro día, ese hub hay que desarrollar seguramente algo, porque el hub de por si no va a enteder todas las cosas necesitará un software y habrá que definir una tarea para ello, y en la planificacion esta pendiente un poco de que acotemos el alcance del proyecto para incluir si va a ir el despliegue de esto en un prototipado de escala regional y un poco que va a pasar con esto, porque la planificaicion podría llegar hasta el punto de decir oye yo quiero esto pero lo que es instalarlo a mi no me interesa, esa parte os la concretaremos, pero que sepais que está un poco al aire.
 
-Memoria
+# Memoria
 
 Nos quedaría la viabilidad que es un poco que está pendiente de acotar a donde lo limitamos, la otra parte, las otras partes que nos quedan por ahi son el presupuesto y el pliege de condiciones, el presupuesto no deja de ser una especie de factura grande en donde poneis los conceptos que incluye el proyecto, las unidades de obra, las unidades en las que se mide cada uno, horas, o si hablamos de equipos unidades, y es especificar las cantidades la duracion del desarrollo que es la mayor parte de las tareas que tendréis dentro del proyecto y un poco bueno ir calculando cuanto es. Lo habeis visto ya en clase de teoría ya, es una especie de factura pero dividido en capitulos, rollo capitulo hardware, capitulo software, teneis algunos ejemplos subido en el campus virtual en la carpeta de ejemplos. Yo en mi opinión no hay ninguno así que me convenzca 100% pero bueno espero que el vuestro para el año que viene sirva de modelo, puliendolo antes de presentarlo, de modelo para los de los cursos posteriores, per omas o menos los que hay colgados nos puede servir de orientación, no me parece dificil de hacer pero al presupuesto teneis que contribuir todos porque cada uno tendrá que estimar las horas y las unidades de obra que corresponda para cada parte, y es darle forma común a todo eso, pero en principio no debería tener mucho problema. Lo que si que deberia haber una correspondencia entre la planificacion y el prespuesto,  si he puesto que desarrollar una parte de la app x son 4 meses un programador, no puedo poner que luego son 20h que es media semana de trabajo.
 
@@ -17,5 +17,9 @@ Estamos mirando algo que se va a ver mucho el diseño y tal, osea puedes explaya
 
 Donde tienen que ir los detalles super específicos técnicos tienen que ir en la memoria, hay que decir hasta que el teclado sea ESPAÑOL 🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸🇪🇸
 
-En los pliegos hay mucho corta y pega, entonces en todo contrato hay una serie de clausulas por ahi que son las mismas en unos sitios y otros, y no pasa nada por usar el corta y pega pero con cuidado, hay que entender las cosas que se ponen, pero no se trata de pegar cosas sin sentido, hay que ser capaces de justificarlo, como la clausula de transferencia de tec
+En los pliegos hay mucho corta y pega, entonces en todo contrato hay una serie de clausulas por ahi que son las mismas en unos sitios y otros, y no pasa nada por usar el corta y pega pero con cuidado, hay que entender las cosas que se ponen, pero no se trata de pegar cosas sin sentido, hay que ser capaces de justificarlo, como la clausula de transferencia de tecnología.
+
+Lo que no puede ser es escribir un documento que te pregunten por qué y no sepas decirlo, porque lo copiaste de otro pliego, hay que poder justificarlo todo.
+
+Hay que asignar trabajos y cordinar un poco que esos trabajos vayan coherentemetne cu
 
