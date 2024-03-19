@@ -1,1 +1,2 @@
 
+Cuando redactemos el pliego de condiciones, no es un diseño de algo que directamente podríamos ejecutar, sería ideal pero no es nuestro caso ni es la realidad. Si podemos arrancar la planificación poniendo tareas de diseño de la 
