@@ -82,9 +82,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "626c2f4095cee833",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/Planificación.md",
+                "file": "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/Planificación.md",
+                "file": "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/Planificación.md"
+                "file": "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md"
               }
             }
           }
@@ -230,10 +240,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "928ea597efe088e0",
+  "active": "626c2f4095cee833",
   "lastOpenFiles": [
-    "Último año/Proyectos/Coña mala.md",
+    "Pasted Image 20240322224727_814.png",
     "Último año/Proyectos/Planificación.md",
+    "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md",
+    "Último año/Proyectos/Coña mala.md",
     "Último año/Proyectos/Drawing 2024-03-12 15.41.07.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-15 15.14.47.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
@@ -261,8 +273,6 @@
     "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
     "Último año/Mecalux/Drawing 2024-02-19 16.42.11.excalidraw.md",
     "Último año/Mecalux",
-    "Último año/Ondas/Electrostática en el espacio libre de materia/Sin título.md",
-    "Último año/Móviles/Tercera clase de teoría.md",
     "Pasted Image 20240206152947_330.png",
     "Pasted Image 20240130155319_042.png",
     "Último año/Proyectos",
