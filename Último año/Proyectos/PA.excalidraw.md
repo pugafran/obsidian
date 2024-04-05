@@ -55,6 +55,10 @@ fin de proyecto.
 
 ¿Estamos de acuerdo? ^6ZGmXbvp
 
+Al final tienen que llegar solo las 
+que no están en precedencias
+(F, G) ^HuzqzjCl
+
 
 # Embedded files
 db75e3377048cb852d44ae0b491a0932fb23eeaa: [[Pasted Image 20240405163849_221.png]]
@@ -2891,10 +2895,10 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		{
 			"id": "m75mkGKC0mCw46AvrYpP5",
 			"type": "arrow",
-			"x": 155.0890186821188,
-			"y": 664.2538217323786,
-			"width": 170.7820750678812,
-			"height": 4.106694132302778,
+			"x": 155.0895488794477,
+			"y": 664.2639177589001,
+			"width": 170.7815448705523,
+			"height": 4.141220891240664,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2909,8 +2913,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 				"type": 2
 			},
 			"seed": 424985714,
-			"version": 104,
-			"versionNonce": 1292660018,
+			"version": 108,
+			"versionNonce": 1506086962,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2918,7 +2922,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					"id": "AlO72tVz"
 				}
 			],
-			"updated": 1712328293913,
+			"updated": 1712328624912,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2927,8 +2931,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					0
 				],
 				[
-					170.7820750678812,
-					4.106694132302778
+					170.7815448705523,
+					4.141220891240664
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3167,7 +3171,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"id": "nevSsxSH_uSoNl20XvpWj",
 			"type": "image",
 			"x": 335.1788845021413,
-			"y": 609,
+			"y": 609.2578125,
 			"width": 1175.4142130620987,
 			"height": 762.3867187500001,
 			"angle": 0,
@@ -3182,8 +3186,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1380204718,
-			"version": 67,
-			"versionNonce": 378253746,
+			"version": 69,
+			"versionNonce": 755045554,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3191,7 +3195,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712328293912,
+			"updated": 1712328624911,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3200,6 +3204,43 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "HuzqzjCl",
+			"type": "text",
+			"x": 1077.25,
+			"y": 730.7421875,
+			"width": 341.03973388671875,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 197943922,
+			"version": 78,
+			"versionNonce": 1922342002,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712328627306,
+			"link": null,
+			"locked": false,
+			"text": "Al final tienen que llegar solo las \nque no están en precedencias\n(F, G)",
+			"rawText": "Al final tienen que llegar solo las \nque no están en precedencias\n(F, G)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "Al final tienen que llegar solo las \nque no están en precedencias\n(F, G)",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
