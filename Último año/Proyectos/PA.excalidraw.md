@@ -88,7 +88,7 @@ MÁXIMO, ENTRE
 8 ^TuK85ZDZ
 
 Para el fin se va hacia atrás
-14 - 3 => 11, 11 - 5 =>  ^I7sxzyaG
+14 - 3 => 11, 11 - 5 => 6 ^I7sxzyaG
 
 
 # Embedded files
@@ -2926,10 +2926,10 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		{
 			"id": "m75mkGKC0mCw46AvrYpP5",
 			"type": "arrow",
-			"x": 155.10498608694752,
-			"y": 664.5804994170918,
-			"width": 169.13329516305248,
-			"height": 5.077849681005432,
+			"x": 155.1047139659256,
+			"y": 664.5744783915529,
+			"width": 169.2624735340744,
+			"height": 5.082024432990238,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2944,8 +2944,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 				"type": 2
 			},
 			"seed": 424985714,
-			"version": 320,
-			"versionNonce": 2107088238,
+			"version": 322,
+			"versionNonce": 12841586,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2953,7 +2953,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					"id": "AlO72tVz"
 				}
 			],
-			"updated": 1712329150309,
+			"updated": 1712329192147,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2962,8 +2962,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					0
 				],
 				[
-					169.13329516305248,
-					5.077849681005432
+					169.2624735340744,
+					5.082024432990238
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3201,7 +3201,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		{
 			"id": "nevSsxSH_uSoNl20XvpWj",
 			"type": "image",
-			"x": 333.5460720021413,
+			"x": 333.6749782521413,
 			"y": 616.59765625,
 			"width": 1175.4142130620987,
 			"height": 762.3867187500001,
@@ -3217,8 +3217,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1380204718,
-			"version": 175,
-			"versionNonce": 634159342,
+			"version": 176,
+			"versionNonce": 633833202,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3226,7 +3226,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712329150309,
+			"updated": 1712329192146,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3757,8 +3757,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		{
 			"id": "I7sxzyaG",
 			"type": "text",
-			"x": 1429.25,
-			"y": 1449.7421875,
+			"x": 1298.32421875,
+			"y": 849.484375,
 			"width": 300.039794921875,
 			"height": 50,
 			"angle": 0,
@@ -3773,22 +3773,22 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 523151470,
-			"version": 72,
-			"versionNonce": 1149059506,
+			"version": 146,
+			"versionNonce": 935138350,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712329189058,
+			"updated": 1712329194943,
 			"link": null,
 			"locked": false,
-			"text": "Para el fin se va hacia atrás\n14 - 3 => 11, 11 - 5 => ",
-			"rawText": "Para el fin se va hacia atrás\n14 - 3 => 11, 11 - 5 => ",
+			"text": "Para el fin se va hacia atrás\n14 - 3 => 11, 11 - 5 => 6",
+			"rawText": "Para el fin se va hacia atrás\n14 - 3 => 11, 11 - 5 => 6",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 43,
 			"containerId": null,
-			"originalText": "Para el fin se va hacia atrás\n14 - 3 => 11, 11 - 5 => ",
+			"originalText": "Para el fin se va hacia atrás\n14 - 3 => 11, 11 - 5 => 6",
 			"lineHeight": 1.25
 		},
 		{
