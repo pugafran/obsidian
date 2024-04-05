@@ -59,7 +59,13 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 -Empresas homologadas previamente
 -Factores técnicos, éticos y económico-financieros
 -Referencias de proyectos realizados anteriormente
--Mínimo de 3 a 6 empresas ^evh3EXVq
+-Mínimo de 3 a 6 empresas
+
+La Administración Pública exige que las empresas que
+contraten con ella estén clasificadas dentro de una
+categoría de acuerdo a su capacidad de contratar
+(volumen del contrato) y tipo de actividad a la que se
+dedican. ^evh3EXVq
 
 %%
 # Drawing
@@ -797,10 +803,10 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 		{
 			"id": "evh3EXVq",
 			"type": "text",
-			"x": 1690.7555907705064,
+			"x": 1690.611937143618,
 			"y": -495.4616756427399,
-			"width": 735.1388907150038,
-			"height": 144.22419154838153,
+			"width": 748.5738956416615,
+			"height": 343.3773453145225,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -813,22 +819,22 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 			"frameId": "1hfjzVYusyQoNMG8SoL1S",
 			"roundness": null,
 			"seed": 1831433006,
-			"version": 149,
-			"versionNonce": 896992306,
+			"version": 219,
+			"versionNonce": 1209519086,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712325058996,
+			"updated": 1712325082069,
 			"link": null,
 			"locked": false,
-			"text": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas",
-			"rawText": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas",
-			"fontSize": 28.844838309676277,
+			"text": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas\n\nLa Administración Pública exige que las empresas que\ncontraten con ella estén clasificadas dentro de una\ncategoría de acuerdo a su capacidad de contratar\n(volumen del contrato) y tipo de actividad a la que se\ndedican.",
+			"rawText": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas\n\nLa Administración Pública exige que las empresas que\ncontraten con ella estén clasificadas dentro de una\ncategoría de acuerdo a su capacidad de contratar\n(volumen del contrato) y tipo de actividad a la que se\ndedican.",
+			"fontSize": 27.470187625161792,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 133.00000000000014,
+			"baseline": 333.00000000000006,
 			"containerId": null,
-			"originalText": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas",
+			"originalText": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas\n\nLa Administración Pública exige que las empresas que\ncontraten con ella estén clasificadas dentro de una\ncategoría de acuerdo a su capacidad de contratar\n(volumen del contrato) y tipo de actividad a la que se\ndedican.",
 			"lineHeight": 1.25
 		},
 		{
@@ -837,7 +843,7 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 			"x": 1677.1380719627837,
 			"y": -506.38357639296123,
 			"width": 775.585931572581,
-			"height": 514.309560008583,
+			"height": 367.896938462193,
 			"angle": 0,
 			"strokeColor": "#bbb",
 			"backgroundColor": "transparent",
@@ -850,11 +856,11 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 			"frameId": null,
 			"roundness": null,
 			"seed": 1503472750,
-			"version": 91,
-			"versionNonce": 1373947566,
+			"version": 128,
+			"versionNonce": 546197358,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712325045078,
+			"updated": 1712325082066,
 			"link": null,
 			"locked": false,
 			"name": "3º- Seleccionar a las empresas que han de ofertar"
@@ -1025,10 +1031,10 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1302.3077334498698,
-		"scrollY": 770.4907694280029,
+		"scrollX": -1177.199990448678,
+		"scrollY": 884.4238240981396,
 		"zoom": {
-			"value": 0.9245328703243719
+			"value": 0.794306832822083
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
