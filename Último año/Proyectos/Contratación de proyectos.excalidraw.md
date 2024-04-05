@@ -48,6 +48,11 @@ el más barato.
 
 * Concurso restringido ^34W4Zoke
 
+El término subasta ya no es utilizado como tal en la Ley de Contratos del Sector
+Público. En su lugar se refiere a “concursos con único criterio de adjudicación
+económico”. En cualquier caso, para facilitar la distinción de ambas
+modalidades, mantendremos ambos términos en las transparencias. ^qbe2xN1c
+
 %%
 # Drawing
 ```json
@@ -58,8 +63,8 @@ el más barato.
 	"elements": [
 		{
 			"type": "text",
-			"version": 344,
-			"versionNonce": 96410094,
+			"version": 345,
+			"versionNonce": 1066435250,
 			"isDeleted": false,
 			"id": "A0VB41P5",
 			"fillStyle": "solid",
@@ -79,7 +84,7 @@ el más barato.
 			"frameId": "Yk-4QAo_A5M9USl7o7R3A",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712322881349,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"fontSize": 16.98473577155262,
@@ -95,8 +100,8 @@ el más barato.
 		},
 		{
 			"type": "frame",
-			"version": 553,
-			"versionNonce": 862538994,
+			"version": 554,
+			"versionNonce": 565426542,
 			"isDeleted": false,
 			"id": "Yk-4QAo_A5M9USl7o7R3A",
 			"fillStyle": "solid",
@@ -116,15 +121,15 @@ el más barato.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712322881278,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"name": "1º-Separar el proyecto en varias contratos independientes"
 		},
 		{
 			"type": "text",
-			"version": 424,
-			"versionNonce": 856561650,
+			"version": 425,
+			"versionNonce": 1334926450,
 			"isDeleted": false,
 			"id": "Obitz2TY",
 			"fillStyle": "solid",
@@ -144,7 +149,7 @@ el más barato.
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712323837545,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -160,8 +165,8 @@ el más barato.
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 2103977070,
+			"version": 100,
+			"versionNonce": 840326062,
 			"isDeleted": false,
 			"id": "fJ1lbao1",
 			"fillStyle": "solid",
@@ -190,7 +195,7 @@ el más barato.
 					"type": "arrow"
 				}
 			],
-			"updated": 1712323841245,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -206,8 +211,8 @@ el más barato.
 		},
 		{
 			"type": "text",
-			"version": 155,
-			"versionNonce": 1436685102,
+			"version": 156,
+			"versionNonce": 1708195378,
 			"isDeleted": false,
 			"id": "Q0t2HiNT",
 			"fillStyle": "solid",
@@ -232,7 +237,7 @@ el más barato.
 					"type": "arrow"
 				}
 			],
-			"updated": 1712323841245,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -248,8 +253,8 @@ el más barato.
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 2052956078,
+			"version": 82,
+			"versionNonce": 1516942830,
 			"isDeleted": false,
 			"id": "11qAmTBW",
 			"fillStyle": "solid",
@@ -274,7 +279,7 @@ el más barato.
 					"type": "arrow"
 				}
 			],
-			"updated": 1712323841245,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -290,8 +295,8 @@ el más barato.
 		},
 		{
 			"type": "arrow",
-			"version": 352,
-			"versionNonce": 1251171058,
+			"version": 353,
+			"versionNonce": 1597401074,
 			"isDeleted": false,
 			"id": "nH8WVqbVGHvwIjML9plUA",
 			"fillStyle": "solid",
@@ -313,7 +318,7 @@ el más barato.
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1712323841482,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -342,8 +347,8 @@ el más barato.
 		},
 		{
 			"type": "arrow",
-			"version": 269,
-			"versionNonce": 1537918578,
+			"version": 270,
+			"versionNonce": 599377966,
 			"isDeleted": false,
 			"id": "137sxAIuaYQi_Yx1dd-vO",
 			"fillStyle": "solid",
@@ -365,7 +370,7 @@ el más barato.
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1712323841482,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -411,11 +416,11 @@ el más barato.
 			"frameId": "iRPQjr7rkrRIVP4Dy6UP0",
 			"roundness": null,
 			"seed": 1865211954,
-			"version": 195,
-			"versionNonce": 1164532526,
+			"version": 196,
+			"versionNonce": 869012654,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712324278349,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"text": "* Subasta: adjudicación al más barato\n\n* Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n\n* Concurso: adjudicación al más idóneo por sus méritos, aunque no sea \nel más barato.\n\n* Concurso restringido",
@@ -448,11 +453,16 @@ el más barato.
 			"frameId": null,
 			"roundness": null,
 			"seed": 938845166,
-			"version": 324,
-			"versionNonce": 382607282,
+			"version": 327,
+			"versionNonce": 23654514,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1712324277611,
+			"boundElements": [
+				{
+					"id": "mKrjbe1d2ofmckW9aP02d",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712324310314,
 			"link": null,
 			"locked": false,
 			"name": "2º-Definir el tipo de solicitud de la oferta a realizar"
@@ -478,11 +488,11 @@ el más barato.
 				"type": 2
 			},
 			"seed": 2077404402,
-			"version": 70,
-			"versionNonce": 394003762,
+			"version": 71,
+			"versionNonce": 1862356718,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712323911367,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -524,8 +534,8 @@ el más barato.
 			"frameId": null,
 			"roundness": null,
 			"seed": 1960263922,
-			"version": 109,
-			"versionNonce": 1385121010,
+			"version": 110,
+			"versionNonce": 2008145650,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -533,7 +543,7 @@ el más barato.
 					"type": "arrow"
 				}
 			],
-			"updated": 1712323908098,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"text": "Llave en mano\n(Lista para vivir)",
@@ -568,11 +578,11 @@ el más barato.
 				"type": 2
 			},
 			"seed": 669094190,
-			"version": 316,
-			"versionNonce": 446531762,
+			"version": 317,
+			"versionNonce": 2081767726,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712324115876,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -618,8 +628,8 @@ el más barato.
 			"frameId": null,
 			"roundness": null,
 			"seed": 737463666,
-			"version": 284,
-			"versionNonce": 1371354866,
+			"version": 285,
+			"versionNonce": 1807560882,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -627,7 +637,7 @@ el más barato.
 					"type": "arrow"
 				}
 			],
-			"updated": 1712324115876,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"text": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\nprecio fijo, listo para usar/llevar/vivir xd.",
@@ -639,6 +649,104 @@ el más barato.
 			"baseline": 43,
 			"containerId": null,
 			"originalText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\nprecio fijo, listo para usar/llevar/vivir xd.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "mKrjbe1d2ofmckW9aP02d",
+			"type": "arrow",
+			"x": 906.9160325765838,
+			"y": -409.1385212025974,
+			"width": 297.1117330774945,
+			"height": 171.2900496381901,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1259487150,
+			"version": 141,
+			"versionNonce": 1156735214,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712324323044,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-297.1117330774945,
+					82.44028140747304
+				],
+				[
+					-203.55097090615982,
+					171.2900496381901
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "qbe2xN1c",
+				"focus": -0.030513019166725393,
+				"gap": 11.859699172962678
+			},
+			"endBinding": {
+				"elementId": "iRPQjr7rkrRIVP4Dy6UP0",
+				"focus": -0.52825255528142,
+				"gap": 14.791955183473306
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "qbe2xN1c",
+			"type": "text",
+			"x": 697.6020161681797,
+			"y": -520.9982203755601,
+			"width": 828.2393188476562,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 504159662,
+			"version": 236,
+			"versionNonce": 653747886,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "mKrjbe1d2ofmckW9aP02d",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712324323044,
+			"link": null,
+			"locked": false,
+			"text": "El término subasta ya no es utilizado como tal en la Ley de Contratos del Sector\nPúblico. En su lugar se refiere a “concursos con único criterio de adjudicación\neconómico”. En cualquier caso, para facilitar la distinción de ambas\nmodalidades, mantendremos ambos términos en las transparencias.",
+			"rawText": "El término subasta ya no es utilizado como tal en la Ley de Contratos del Sector\nPúblico. En su lugar se refiere a “concursos con único criterio de adjudicación\neconómico”. En cualquier caso, para facilitar la distinción de ambas\nmodalidades, mantendremos ambos términos en las transparencias.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "El término subasta ya no es utilizado como tal en la Ley de Contratos del Sector\nPúblico. En su lugar se refiere a “concursos con único criterio de adjudicación\neconómico”. En cualquier caso, para facilitar la distinción de ambas\nmodalidades, mantendremos ambos términos en las transparencias.",
 			"lineHeight": 1.25
 		},
 		{
@@ -660,11 +768,11 @@ el más barato.
 			"frameId": "UuVWwwXWb58KVqvtoYG5X",
 			"roundness": null,
 			"seed": 1333613042,
-			"version": 3,
-			"versionNonce": 2033468974,
+			"version": 4,
+			"versionNonce": 1674090930,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1712323849139,
+			"updated": 1712324307336,
 			"link": null,
 			"locked": false,
 			"text": "2º-Definir el tipo de solicitud de la oferta a realizar",
@@ -697,11 +805,11 @@ el más barato.
 			"frameId": null,
 			"roundness": null,
 			"seed": 1712016046,
-			"version": 209,
-			"versionNonce": 1688784498,
+			"version": 210,
+			"versionNonce": 233607790,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1712323880674,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"name": "{\"type\":\"excalidraw/clipboard\",\"elements\":[{\"id\":\"fzdNeBaY\",\"type\":\"text\",\"x\":830.3402182640202,\"y\":-20.037080674816366,\"width\":533.5595092773438,\"height\":25,\"angle\":0,\"strokeColor\":\"#1e1e1e\",\"backgroundColor\":\"transparent\",\"fillStyle\":\"solid\",\"strokeWidth\":2,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"groupIds\":[],\"frameId\":null,\"roundness\":null,\"seed\":1333613042,\"version\":1,\"versionNonce\":0,\"isDeleted\":false,\"boundElements\":null,\"updated\":1712323843741,\"link\":null,\"locked\":false,\"text\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"rawText\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"fontSize\":20,\"fontFamily\":1,\"textAlign"
@@ -725,11 +833,11 @@ el más barato.
 			"frameId": "iRPQjr7rkrRIVP4Dy6UP0",
 			"roundness": null,
 			"seed": 425319150,
-			"version": 11,
-			"versionNonce": 1377641714,
+			"version": 12,
+			"versionNonce": 44995442,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1712324278349,
+			"updated": 1712324307337,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -742,6 +850,54 @@ el más barato.
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "blrw52zpSgpMhPM5t0tgu",
+			"type": "arrow",
+			"x": 709.3140118662892,
+			"y": -234.9415981732459,
+			"width": 122.05910668206684,
+			"height": 69.50300477413555,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2077606382,
+			"version": 78,
+			"versionNonce": 510716782,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1712324307337,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-122.05910668206684,
+					-69.50300477413555
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "iRPQjr7rkrRIVP4Dy6UP0",
+				"focus": -0.313519364598326,
+				"gap": 8.843004987608083
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -759,8 +915,8 @@ el más barato.
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -220.68042511074088,
-		"scrollY": 493.59417849318663,
+		"scrollX": -294.23108207780183,
+		"scrollY": 755.3479871112561,
 		"zoom": {
 			"value": 0.9245328703243719
 		},
