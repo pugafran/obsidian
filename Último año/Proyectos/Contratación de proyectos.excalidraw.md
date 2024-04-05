@@ -953,12 +953,12 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 		{
 			"id": "jFC2hfDn",
 			"type": "text",
-			"x": 3009.4644054571086,
-			"y": 19.93265151752837,
-			"width": 607.6995239257812,
-			"height": 75,
+			"x": 2827.7060785437134,
+			"y": -42.32499377780107,
+			"width": 1101.8602492035864,
+			"height": 135.98746656310004,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -969,23 +969,80 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 			"frameId": null,
 			"roundness": null,
 			"seed": 146600878,
-			"version": 2,
-			"versionNonce": 935874546,
+			"version": 158,
+			"versionNonce": 1488042674,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1712325407384,
+			"boundElements": [
+				{
+					"id": "L9MdreADllmnwqgG4yrhM",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712325428782,
 			"link": null,
 			"locked": false,
 			"text": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
 			"rawText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
-			"fontSize": 20,
+			"fontSize": 36.26332441682668,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 68,
+			"baseline": 122,
 			"containerId": null,
 			"originalText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "L9MdreADllmnwqgG4yrhM",
+			"type": "arrow",
+			"x": 3267.617608611165,
+			"y": -54.41294007708427,
+			"width": 282.8154467170084,
+			"height": 196.278028034604,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1078937646,
+			"version": 471,
+			"versionNonce": 1584426802,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325464321,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					81.09312099370482,
+					-185.47442602962008
+				],
+				[
+					-201.72232572330358,
+					-196.278028034604
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "jFC2hfDn",
+				"focus": -0.25149367998652844,
+				"gap": 12.087946299283203
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "fzdNeBaY",
@@ -1141,7 +1198,7 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1153,8 +1210,8 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2503.5838528321246,
-		"scrollY": 881.2048576779096,
+		"scrollX": -2450.39688911528,
+		"scrollY": 738.5670913463733,
 		"zoom": {
 			"value": 0.8272703859210015
 		},
