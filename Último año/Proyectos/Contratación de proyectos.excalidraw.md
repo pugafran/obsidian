@@ -866,6 +866,34 @@ dedican. ^evh3EXVq
 			"name": "3º- Seleccionar a las empresas que han de ofertar"
 		},
 		{
+			"id": "HgaFrv4uM0As1Zfrbr197",
+			"type": "frame",
+			"x": 2669.6986773668004,
+			"y": -770.3357252141755,
+			"width": 894.3899797963463,
+			"height": 399.3413603004851,
+			"angle": 0,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 414932338,
+			"version": 29,
+			"versionNonce": 853141038,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325347081,
+			"link": null,
+			"locked": false,
+			"name": "4º- Solicitar ofertas mediante la documentación preparada"
+		},
+		{
 			"id": "fzdNeBaY",
 			"type": "text",
 			"x": 830.3402182640202,
@@ -1031,10 +1059,10 @@ dedican. ^evh3EXVq
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1177.199990448678,
-		"scrollY": 884.4238240981396,
+		"scrollX": -1949.9559123249749,
+		"scrollY": 934.3918213947537,
 		"zoom": {
-			"value": 0.794306832822083
+			"value": 0.8272703859210015
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
