@@ -35,6 +35,9 @@ Variable ^11qAmTBW
 Llave en mano
 (Lista para vivir) ^GYisNbZ0
 
+Puede haber subcontratación de cosas pero hay un único contratista responsable,
+ ^dMLhvBdn
+
 %%
 # Drawing
 ```json
@@ -500,10 +503,10 @@ Llave en mano
 		{
 			"id": "EorQ7oRk1_BUz5GBKH8iV",
 			"type": "arrow",
-			"x": -139.39837971103123,
-			"y": 699.8583606366423,
-			"width": 124.39728996715144,
-			"height": 140.44833276489032,
+			"x": -159.22473163850663,
+			"y": 711.156955471066,
+			"width": 174.1630390927083,
+			"height": 157.43893213337822,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -518,11 +521,11 @@ Llave en mano
 				"type": 2
 			},
 			"seed": 669094190,
-			"version": 183,
-			"versionNonce": 2135978226,
+			"version": 274,
+			"versionNonce": 1820548078,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712323925112,
+			"updated": 1712323930401,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -531,12 +534,12 @@ Llave en mano
 					0
 				],
 				[
-					114.27741155784895,
-					-57.012292713041916
+					134.10376348532435,
+					-68.31088754746565
 				],
 				[
-					124.39728996715144,
-					-140.44833276489032
+					174.1630390927083,
+					-157.43893213337822
 				]
 			],
 			"lastCommittedPoint": null,
@@ -544,6 +547,43 @@ Llave en mano
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "dMLhvBdn",
+			"type": "text",
+			"x": -282.7986283927472,
+			"y": 749.2072883017215,
+			"width": 815.4793701171875,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 737463666,
+			"version": 105,
+			"versionNonce": 1757004974,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712323951983,
+			"link": null,
+			"locked": false,
+			"text": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\n",
+			"rawText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\n",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "fzdNeBaY",
