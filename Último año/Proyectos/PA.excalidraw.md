@@ -72,11 +72,14 @@ que no están en precedencias
 14 ^CNqxwq5t
 
 SE COGE EL
-MÁXIMO ^vazQSvmI
+MÁXIMO, ENTRE
+11 Y 14, 14 ^vazQSvmI
 
 +14 ^EFLGGmyQ
 
-+14 ^RXtBptgS
++11 ^RXtBptgS
+
+14 ^bG7oTlpJ
 
 
 # Embedded files
@@ -2914,10 +2917,10 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		{
 			"id": "m75mkGKC0mCw46AvrYpP5",
 			"type": "arrow",
-			"x": 155.08982423743817,
-			"y": 664.2691788118098,
-			"width": 170.66798826256183,
-			"height": 4.1381178964524,
+			"x": 155.10547202937298,
+			"y": 664.5912976571931,
+			"width": 169.13280922062702,
+			"height": 5.092546970297917,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2932,8 +2935,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 				"type": 2
 			},
 			"seed": 424985714,
-			"version": 110,
-			"versionNonce": 1403339118,
+			"version": 318,
+			"versionNonce": 1194290670,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -2941,7 +2944,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					"id": "AlO72tVz"
 				}
 			],
-			"updated": 1712329032315,
+			"updated": 1712329103089,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2950,8 +2953,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					0
 				],
 				[
-					170.66798826256183,
-					4.1381178964524
+					169.13280922062702,
+					5.092546970297917
 				]
 			],
 			"lastCommittedPoint": null,
@@ -3189,8 +3192,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		{
 			"id": "nevSsxSH_uSoNl20XvpWj",
 			"type": "image",
-			"x": 335.0656032521413,
-			"y": 609.2578125,
+			"x": 333.5460720021413,
+			"y": 616.71484375,
 			"width": 1175.4142130620987,
 			"height": 762.3867187500001,
 			"angle": 0,
@@ -3205,8 +3208,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1380204718,
-			"version": 70,
-			"versionNonce": 1915954414,
+			"version": 174,
+			"versionNonce": 1506177390,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -3214,7 +3217,7 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1712329032314,
+			"updated": 1712329103089,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3488,8 +3491,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"type": "text",
 			"x": 1184.87109375,
 			"y": 1100.28125,
-			"width": 127.75994873046875,
-			"height": 50,
+			"width": 168.25991821289062,
+			"height": 75,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3502,22 +3505,22 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 2023972850,
-			"version": 151,
-			"versionNonce": 1878773870,
+			"version": 178,
+			"versionNonce": 1942871154,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712329044343,
+			"updated": 1712329113808,
 			"link": null,
 			"locked": false,
-			"text": "SE COGE EL\nMÁXIMO",
-			"rawText": "SE COGE EL\nMÁXIMO",
+			"text": "SE COGE EL\nMÁXIMO, ENTRE\n11 Y 14, 14",
+			"rawText": "SE COGE EL\nMÁXIMO, ENTRE\n11 Y 14, 14",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 68,
 			"containerId": null,
-			"originalText": "SE COGE EL\nMÁXIMO",
+			"originalText": "SE COGE EL\nMÁXIMO, ENTRE\n11 Y 14, 14",
 			"lineHeight": 1.25
 		},
 		{
@@ -3559,8 +3562,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 1334140274,
+			"version": 134,
+			"versionNonce": 1165663794,
 			"isDeleted": false,
 			"id": "RXtBptgS",
 			"fillStyle": "solid",
@@ -3569,28 +3572,65 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1319.890007019043,
-			"y": 887.2421875,
+			"x": 1314.741569519043,
+			"y": 940.19140625,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 30.719985961914062,
+			"width": 23.339996337890625,
 			"height": 25,
 			"seed": 1298278510,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1712329065482,
+			"updated": 1712329079229,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "+14",
-			"rawText": "+14",
+			"text": "+11",
+			"rawText": "+11",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "+14",
+			"originalText": "+11",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 160,
+			"versionNonce": 929687726,
+			"isDeleted": false,
+			"id": "bG7oTlpJ",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1444.964225769043,
+			"y": 1124.3984375,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 18.219985961914062,
+			"height": 25,
+			"seed": 322712434,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1712329100328,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "14",
+			"rawText": "14",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "14",
 			"lineHeight": 1.25,
 			"baseline": 18
 		}
@@ -3610,8 +3650,8 @@ b74fda1718ec4588d0e4df9b8a0e0f6498093e58: [[Pasted Image 20240405164449_472.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -134.75,
-		"scrollY": -524.2578125,
+		"scrollX": -482.75,
+		"scrollY": -562.2578125,
 		"zoom": {
 			"value": 1
 		},
