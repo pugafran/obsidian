@@ -67,6 +67,26 @@ categoría de acuerdo a su capacidad de contratar
 (volumen del contrato) y tipo de actividad a la que se
 dedican. ^evh3EXVq
 
+-Importante la preparación para evitar
+problemas posteriormente.
+
+-Redactar bases sobre las que deben ofertar
+
+-Describir con claridad lo que se le solicita
+El documento que se emplea es el Pliego de
+Condiciones
+
+Los concursos con la Administración Pública piden habitualmente que
+la documentación se aporte en tres “sobres” diferentes:
+1. Oferta técnica
+2. Oferta económica
+3. Certificados requeridos (estar al corriente de pagos a la seguridad
+socia, capacidad de la empresa para participar en el concurso, etc.) ^2tICBxDN
+
+IMPORTANTE: Es muy importante tener en cuenta que no se
+puede incluir información económica dentro la oferta. Hacerlo
+implicará la exclusión del ofertante del proceso. ^jFC2hfDn
+
 %%
 # Drawing
 ```json
@@ -866,12 +886,49 @@ dedican. ^evh3EXVq
 			"name": "3º- Seleccionar a las empresas que han de ofertar"
 		},
 		{
+			"id": "2tICBxDN",
+			"type": "text",
+			"x": 2754.4229041043127,
+			"y": -757.4875604171641,
+			"width": 1237.0892333984375,
+			"height": 657.195703376469,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "HgaFrv4uM0As1Zfrbr197",
+			"roundness": null,
+			"seed": 2072633586,
+			"version": 137,
+			"versionNonce": 1187862770,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325399049,
+			"link": null,
+			"locked": false,
+			"text": "-Importante la preparación para evitar\nproblemas posteriormente.\n\n-Redactar bases sobre las que deben ofertar\n\n-Describir con claridad lo que se le solicita\nEl documento que se emplea es el Pliego de\nCondiciones\n\nLos concursos con la Administración Pública piden habitualmente que\nla documentación se aporte en tres “sobres” diferentes:\n1. Oferta técnica\n2. Oferta económica\n3. Certificados requeridos (estar al corriente de pagos a la seguridad\nsocia, capacidad de la empresa para participar en el concurso, etc.)",
+			"rawText": "-Importante la preparación para evitar\nproblemas posteriormente.\n\n-Redactar bases sobre las que deben ofertar\n\n-Describir con claridad lo que se le solicita\nEl documento que se emplea es el Pliego de\nCondiciones\n\nLos concursos con la Administración Pública piden habitualmente que\nla documentación se aporte en tres “sobres” diferentes:\n1. Oferta técnica\n2. Oferta económica\n3. Certificados requeridos (estar al corriente de pagos a la seguridad\nsocia, capacidad de la empresa para participar en el concurso, etc.)",
+			"fontSize": 35.05043751341168,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 644,
+			"containerId": null,
+			"originalText": "-Importante la preparación para evitar\nproblemas posteriormente.\n\n-Redactar bases sobre las que deben ofertar\n\n-Describir con claridad lo que se le solicita\nEl documento que se emplea es el Pliego de\nCondiciones\n\nLos concursos con la Administración Pública piden habitualmente que\nla documentación se aporte en tres “sobres” diferentes:\n1. Oferta técnica\n2. Oferta económica\n3. Certificados requeridos (estar al corriente de pagos a la seguridad\nsocia, capacidad de la empresa para participar en el concurso, etc.)",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "HgaFrv4uM0As1Zfrbr197",
 			"type": "frame",
-			"x": 2669.6986773668004,
-			"y": -770.3357252141755,
-			"width": 894.3899797963463,
-			"height": 399.3413603004851,
+			"x": 2740.833408225666,
+			"y": -771.794778107331,
+			"width": 1266.2548715360797,
+			"height": 702.4418919009773,
 			"angle": 0,
 			"strokeColor": "#bbb",
 			"backgroundColor": "transparent",
@@ -884,14 +941,51 @@ dedican. ^evh3EXVq
 			"frameId": null,
 			"roundness": null,
 			"seed": 414932338,
-			"version": 29,
-			"versionNonce": 853141038,
+			"version": 168,
+			"versionNonce": 914394482,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712325347081,
+			"updated": 1712325399026,
 			"link": null,
 			"locked": false,
 			"name": "4º- Solicitar ofertas mediante la documentación preparada"
+		},
+		{
+			"id": "jFC2hfDn",
+			"type": "text",
+			"x": 3009.4644054571086,
+			"y": 19.93265151752837,
+			"width": 607.6995239257812,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 146600878,
+			"version": 2,
+			"versionNonce": 935874546,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325407384,
+			"link": null,
+			"locked": false,
+			"text": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
+			"rawText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "fzdNeBaY",
@@ -1059,8 +1153,8 @@ dedican. ^evh3EXVq
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1949.9559123249749,
-		"scrollY": 934.3918213947537,
+		"scrollX": -2503.5838528321246,
+		"scrollY": 881.2048576779096,
 		"zoom": {
 			"value": 0.8272703859210015
 		},
