@@ -32,6 +32,9 @@ Contrato con precio ^fJ1lbao1
 
 Variable ^11qAmTBW
 
+Llave en mano
+(Lista para vivir) ^GYisNbZ0
+
 %%
 # Drawing
 ```json
@@ -377,12 +380,12 @@ Variable ^11qAmTBW
 			]
 		},
 		{
-			"id": "UuVWwwXWb58KVqvtoYG5X",
+			"id": "iRPQjr7rkrRIVP4Dy6UP0",
 			"type": "frame",
-			"x": 749.8411528195643,
-			"y": -254.5281669429674,
-			"width": 694.8793819256755,
-			"height": 453.9090678533095,
+			"x": 718.1570168538974,
+			"y": -250.4555094660322,
+			"width": 552.5570911801217,
+			"height": 504.86712652887746,
 			"angle": 0,
 			"strokeColor": "#bbb",
 			"backgroundColor": "transparent",
@@ -394,15 +397,153 @@ Variable ^11qAmTBW
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1712016046,
-			"version": 55,
-			"versionNonce": 257088174,
+			"seed": 938845166,
+			"version": 19,
+			"versionNonce": 1926128750,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712323865097,
+			"updated": 1712323883067,
 			"link": null,
 			"locked": false,
-			"name": "{\"type\":\"excalidraw/clipboard\",\"elements\":[{\"id\":\"fzdNeBaY\",\"type\":\"text\",\"x\":830.3402182640202,\"y\":-20.037080674816366,\"width\":533.5595092773438,\"height\":25,\"angle\":0,\"strokeColor\":\"#1e1e1e\",\"backgroundColor\":\"transparent\",\"fillStyle\":\"solid\",\"strokeWidth\":2,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"groupIds\":[],\"frameId\":null,\"roundness\":null,\"seed\":1333613042,\"version\":1,\"versionNonce\":0,\"isDeleted\":false,\"boundElements\":null,\"updated\":1712323843741,\"link\":null,\"locked\":false,\"text\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"rawText\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"fontSize\":20,\"fontFamily\":1,\"textAlign\":\"left\",\"verticalAlign\":\"top\",\"baseline\":18,\"containerId\":null,\"originalText\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"lineHeight\":1.2"
+			"name": null
+		},
+		{
+			"id": "ovJS_D-7PtlhKk_LQDkks",
+			"type": "arrow",
+			"x": -90.21003080531631,
+			"y": 324.1518956949293,
+			"width": 107.66634986912499,
+			"height": 159.3795435231433,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2077404402,
+			"version": 70,
+			"versionNonce": 394003762,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712323911367,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					107.66634986912499,
+					159.3795435231433
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "GYisNbZ0",
+				"focus": 0.1124944754218183,
+				"gap": 4.034968400197954
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "GYisNbZ0",
+			"type": "text",
+			"x": -59.580486598902894,
+			"y": 487.56640761827055,
+			"width": 170.33985900878906,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1960263922,
+			"version": 109,
+			"versionNonce": 1385121010,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "ovJS_D-7PtlhKk_LQDkks",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712323908098,
+			"link": null,
+			"locked": false,
+			"text": "Llave en mano\n(Lista para vivir)",
+			"rawText": "Llave en mano\n(Lista para vivir)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "Llave en mano\n(Lista para vivir)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "EorQ7oRk1_BUz5GBKH8iV",
+			"type": "arrow",
+			"x": -139.39837971103123,
+			"y": 699.8583606366423,
+			"width": 124.39728996715144,
+			"height": 140.44833276489032,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 669094190,
+			"version": 183,
+			"versionNonce": 2135978226,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712323925112,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					114.27741155784895,
+					-57.012292713041916
+				],
+				[
+					124.39728996715144,
+					-140.44833276489032
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "fzdNeBaY",
@@ -440,6 +581,34 @@ Variable ^11qAmTBW
 			"containerId": null,
 			"originalText": "2º-Definir el tipo de solicitud de la oferta a realizar",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "UuVWwwXWb58KVqvtoYG5X",
+			"type": "frame",
+			"x": 749.8411528195643,
+			"y": -254.5281669429674,
+			"width": 694.8793819256755,
+			"height": 453.9090678533095,
+			"angle": 0,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1712016046,
+			"version": 209,
+			"versionNonce": 1688784498,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1712323880674,
+			"link": null,
+			"locked": false,
+			"name": "{\"type\":\"excalidraw/clipboard\",\"elements\":[{\"id\":\"fzdNeBaY\",\"type\":\"text\",\"x\":830.3402182640202,\"y\":-20.037080674816366,\"width\":533.5595092773438,\"height\":25,\"angle\":0,\"strokeColor\":\"#1e1e1e\",\"backgroundColor\":\"transparent\",\"fillStyle\":\"solid\",\"strokeWidth\":2,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"groupIds\":[],\"frameId\":null,\"roundness\":null,\"seed\":1333613042,\"version\":1,\"versionNonce\":0,\"isDeleted\":false,\"boundElements\":null,\"updated\":1712323843741,\"link\":null,\"locked\":false,\"text\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"rawText\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"fontSize\":20,\"fontFamily\":1,\"textAlign"
 		}
 	],
 	"appState": {
@@ -457,10 +626,10 @@ Variable ^11qAmTBW
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 606.8806692608443,
-		"scrollY": 609.6610509194912,
+		"scrollX": 619.9730242257117,
+		"scrollY": -128.6626307308956,
 		"zoom": {
-			"value": 0.5486282636470231
+			"value": 1.1433252487860197
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
