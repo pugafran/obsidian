@@ -10,9 +10,11 @@ tags: [excalidraw]
 # Text Elements
 En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio
 en partes separadas y manejables, que se pueden contratar y ejecutar por separado.
+
 Por ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la
 instalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se
 puede dividir en lotes diferentes.
+
 La división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el
 proyecto. También puede ser beneficioso para los proveedores, ya que les permite
 enfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede
@@ -30,10 +32,10 @@ afectará a los demás lotes. ^A0VB41P5
 		{
 			"id": "A0VB41P5",
 			"type": "text",
-			"x": -254.01953125,
-			"y": -161.34825964440773,
-			"width": 613.7210083007812,
-			"height": 169.19982214440776,
+			"x": -412.26171875,
+			"y": -161.10216589440773,
+			"width": 769.8724975585938,
+			"height": 254.77103657328934,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -46,31 +48,31 @@ afectará a los demás lotes. ^A0VB41P5
 			"frameId": "Yk-4QAo_A5M9USl7o7R3A",
 			"roundness": null,
 			"seed": 1727735854,
-			"version": 140,
-			"versionNonce": 728473646,
+			"version": 344,
+			"versionNonce": 96410094,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712322844267,
+			"updated": 1712322881349,
 			"link": null,
 			"locked": false,
-			"text": "En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio\nen partes separadas y manejables, que se pueden contratar y ejecutar por separado.\nPor ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la\ninstalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se\npuede dividir en lotes diferentes.\nLa división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el\nproyecto. También puede ser beneficioso para los proveedores, ya que les permite\nenfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede\nayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente\nafectará a los demás lotes.",
-			"rawText": "En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio\nen partes separadas y manejables, que se pueden contratar y ejecutar por separado.\nPor ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la\ninstalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se\npuede dividir en lotes diferentes.\nLa división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el\nproyecto. También puede ser beneficioso para los proveedores, ya que les permite\nenfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede\nayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente\nafectará a los demás lotes.",
-			"fontSize": 13.535985771552621,
+			"text": "En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio\nen partes separadas y manejables, que se pueden contratar y ejecutar por separado.\n\nPor ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la\ninstalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se\npuede dividir en lotes diferentes.\n\nLa división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el\nproyecto. También puede ser beneficioso para los proveedores, ya que les permite\nenfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede\nayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente\nafectará a los demás lotes.",
+			"rawText": "En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio\nen partes separadas y manejables, que se pueden contratar y ejecutar por separado.\n\nPor ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la\ninstalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se\npuede dividir en lotes diferentes.\n\nLa división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el\nproyecto. También puede ser beneficioso para los proveedores, ya que les permite\nenfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede\nayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente\nafectará a los demás lotes.",
+			"fontSize": 16.98473577155262,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 164,
+			"baseline": 248,
 			"containerId": null,
-			"originalText": "En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio\nen partes separadas y manejables, que se pueden contratar y ejecutar por separado.\nPor ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la\ninstalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se\npuede dividir en lotes diferentes.\nLa división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el\nproyecto. También puede ser beneficioso para los proveedores, ya que les permite\nenfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede\nayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente\nafectará a los demás lotes.",
+			"originalText": "En el contexto de un contrato, los lotes se refieren a la división de un proyecto o servicio\nen partes separadas y manejables, que se pueden contratar y ejecutar por separado.\n\nPor ejemplo, si se quiere contratar un proyecto que incluye un desarrollo informático, la\ninstalación de una red de comunicaciones y proporcionar servicios de telefonía, esto se\npuede dividir en lotes diferentes.\n\nLa división en lotes puede ayudar a mitigar el riesgo y aumentar la transparencia en el\nproyecto. También puede ser beneficioso para los proveedores, ya que les permite\nenfocarse en una tarea específica y ofrecer una cotización más precisa. Además, puede\nayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente\nafectará a los demás lotes.",
 			"lineHeight": 1.25
 		},
 		{
 			"id": "Yk-4QAo_A5M9USl7o7R3A",
 			"type": "frame",
-			"x": -264.5546875,
-			"y": -174.3359375,
-			"width": 635.71875,
-			"height": 230.05078125000003,
+			"x": -422.796875,
+			"y": -174.08984375,
+			"width": 793.9609375,
+			"height": 268.26953125,
 			"angle": 0,
 			"strokeColor": "#bbb",
 			"backgroundColor": "transparent",
@@ -83,11 +85,11 @@ afectará a los demás lotes. ^A0VB41P5
 			"frameId": null,
 			"roundness": null,
 			"seed": 2120779374,
-			"version": 357,
-			"versionNonce": 1033644722,
+			"version": 553,
+			"versionNonce": 862538994,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712322844163,
+			"updated": 1712322881278,
 			"link": null,
 			"locked": false,
 			"name": "1º-Separar el proyecto en varias contratos independientes"
@@ -111,11 +113,11 @@ afectará a los demás lotes. ^A0VB41P5
 			"frameId": "Yk-4QAo_A5M9USl7o7R3A",
 			"roundness": null,
 			"seed": 733399470,
-			"version": 5,
-			"versionNonce": 1979912178,
+			"version": 17,
+			"versionNonce": 1336957490,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1712322844267,
+			"updated": 1712322881349,
 			"link": null,
 			"locked": false,
 			"text": "",
