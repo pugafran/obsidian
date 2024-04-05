@@ -53,7 +53,8 @@ Público. En su lugar se refiere a “concursos con único criterio de adjudicac
 económico”. En cualquier caso, para facilitar la distinción de ambas
 modalidades, mantendremos ambos términos en las transparencias. ^qbe2xN1c
 
-La diferencia entre subasta y concurso son los citerios a utilizar, ^Rg6qUfCx
+La diferencia entre subasta y concurso son los criterios a utilizar, en subasta
+es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 
 %%
 # Drawing
@@ -754,10 +755,10 @@ La diferencia entre subasta y concurso son los citerios a utilizar, ^Rg6qUfCx
 		{
 			"id": "Rg6qUfCx",
 			"type": "text",
-			"x": 870.1976237683882,
-			"y": 158.06937435444627,
-			"width": 661.0994873046875,
-			"height": 25,
+			"x": 724.562421849867,
+			"y": 71.61524160743352,
+			"width": 791.1993408203125,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -770,22 +771,22 @@ La diferencia entre subasta y concurso son los citerios a utilizar, ^Rg6qUfCx
 			"frameId": null,
 			"roundness": null,
 			"seed": 105881518,
-			"version": 86,
-			"versionNonce": 1695524594,
+			"version": 276,
+			"versionNonce": 1839248814,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712324358648,
+			"updated": 1712324510010,
 			"link": null,
 			"locked": false,
-			"text": "La diferencia entre subasta y concurso son los citerios a utilizar,",
-			"rawText": "La diferencia entre subasta y concurso son los citerios a utilizar,",
+			"text": "La diferencia entre subasta y concurso son los criterios a utilizar, en subasta\nes la más barata, en el concurso se tienen en cuenta otras variables.",
+			"rawText": "La diferencia entre subasta y concurso son los criterios a utilizar, en subasta\nes la más barata, en el concurso se tienen en cuenta otras variables.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 43,
 			"containerId": null,
-			"originalText": "La diferencia entre subasta y concurso son los citerios a utilizar,",
+			"originalText": "La diferencia entre subasta y concurso son los criterios a utilizar, en subasta\nes la más barata, en el concurso se tienen en cuenta otras variables.",
 			"lineHeight": 1.25
 		},
 		{
