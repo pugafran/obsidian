@@ -56,6 +56,11 @@ modalidades, mantendremos ambos términos en las transparencias. ^qbe2xN1c
 La diferencia entre subasta y concurso son los criterios a utilizar, en subasta
 es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 
+-Empresas homologadas previamente
+-Factores técnicos, éticos y económico-financieros
+-Referencias de proyectos realizados anteriormente
+-Mínimo de 3 a 6 empresas ^evh3EXVq
+
 %%
 # Drawing
 ```json
@@ -790,6 +795,71 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 			"lineHeight": 1.25
 		},
 		{
+			"id": "evh3EXVq",
+			"type": "text",
+			"x": 1690.7555907705064,
+			"y": -495.4616756427399,
+			"width": 735.1388907150038,
+			"height": 144.22419154838153,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "1hfjzVYusyQoNMG8SoL1S",
+			"roundness": null,
+			"seed": 1831433006,
+			"version": 149,
+			"versionNonce": 896992306,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325058996,
+			"link": null,
+			"locked": false,
+			"text": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas",
+			"rawText": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas",
+			"fontSize": 28.844838309676277,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 133.00000000000014,
+			"containerId": null,
+			"originalText": "-Empresas homologadas previamente\n-Factores técnicos, éticos y económico-financieros\n-Referencias de proyectos realizados anteriormente\n-Mínimo de 3 a 6 empresas",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "1hfjzVYusyQoNMG8SoL1S",
+			"type": "frame",
+			"x": 1677.1380719627837,
+			"y": -506.38357639296123,
+			"width": 775.585931572581,
+			"height": 514.309560008583,
+			"angle": 0,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1503472750,
+			"version": 91,
+			"versionNonce": 1373947566,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325045078,
+			"link": null,
+			"locked": false,
+			"name": "3º- Seleccionar a las empresas que han de ofertar"
+		},
+		{
 			"id": "fzdNeBaY",
 			"type": "text",
 			"x": 830.3402182640202,
@@ -955,8 +1025,8 @@ es la más barata, en el concurso se tienen en cuenta otras variables. ^Rg6qUfCx
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -205.53764279399297,
-		"scrollY": 722.899167861082,
+		"scrollX": -1302.3077334498698,
+		"scrollY": 770.4907694280029,
 		"zoom": {
 			"value": 0.9245328703243719
 		},
