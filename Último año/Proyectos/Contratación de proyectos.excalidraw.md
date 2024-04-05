@@ -36,7 +36,14 @@ Llave en mano
 (Lista para vivir) ^GYisNbZ0
 
 Puede haber subcontratación de cosas pero hay un único contratista responsable,
- ^dMLhvBdn
+precio fijo, listo para usar/llevar/vivir xd. ^dMLhvBdn
+
+Subasta(*): adjudicación al más barato
+-Concurso-Subasta: exigir unos requisitos previos a los contratistas y
+luego una vez seleccionados adjudicarlo al de menor precio.
+-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea
+el más barato
+- Concurso restringido ^34W4Zoke
 
 %%
 # Drawing
@@ -383,11 +390,48 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 			]
 		},
 		{
+			"id": "34W4Zoke",
+			"type": "text",
+			"x": 724.8194203411788,
+			"y": -243.11136289106457,
+			"width": 730.1073559322969,
+			"height": 156.95399107662686,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "iRPQjr7rkrRIVP4Dy6UP0",
+			"roundness": null,
+			"seed": 1865211954,
+			"version": 76,
+			"versionNonce": 1655158190,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712324165828,
+			"link": null,
+			"locked": false,
+			"text": "Subasta(*): adjudicación al más barato\n-Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea\nel más barato\n- Concurso restringido",
+			"rawText": "Subasta(*): adjudicación al más barato\n-Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea\nel más barato\n- Concurso restringido",
+			"fontSize": 20.927198810216918,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 148.99999999999997,
+			"containerId": null,
+			"originalText": "Subasta(*): adjudicación al más barato\n-Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea\nel más barato\n- Concurso restringido",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "iRPQjr7rkrRIVP4Dy6UP0",
 			"type": "frame",
 			"x": 718.1570168538974,
 			"y": -250.4555094660322,
-			"width": 552.5570911801217,
+			"width": 806.7908495167233,
 			"height": 504.86712652887746,
 			"angle": 0,
 			"strokeColor": "#bbb",
@@ -401,14 +445,14 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 			"frameId": null,
 			"roundness": null,
 			"seed": 938845166,
-			"version": 19,
-			"versionNonce": 1926128750,
+			"version": 186,
+			"versionNonce": 572491378,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712323883067,
+			"updated": 1712324162361,
 			"link": null,
 			"locked": false,
-			"name": null
+			"name": "2º-Definir el tipo de solicitud de la oferta a realizar"
 		},
 		{
 			"id": "ovJS_D-7PtlhKk_LQDkks",
@@ -503,10 +547,10 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 		{
 			"id": "EorQ7oRk1_BUz5GBKH8iV",
 			"type": "arrow",
-			"x": -159.22473163850663,
-			"y": 711.156955471066,
-			"width": 174.1630390927083,
-			"height": 157.43893213337822,
+			"x": -141.30659578864365,
+			"y": 711.4507804350093,
+			"width": 156.2449032428453,
+			"height": 157.7327570973215,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -521,11 +565,11 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 				"type": 2
 			},
 			"seed": 669094190,
-			"version": 274,
-			"versionNonce": 1820548078,
+			"version": 316,
+			"versionNonce": 446531762,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712323930401,
+			"updated": 1712324115876,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -534,16 +578,20 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 					0
 				],
 				[
-					134.10376348532435,
-					-68.31088754746565
+					116.18562763546137,
+					-68.60471251140893
 				],
 				[
-					174.1630390927083,
-					-157.43893213337822
+					156.2449032428453,
+					-157.7327570973215
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "dMLhvBdn",
+				"focus": -0.3672809584038825,
+				"gap": 8.876247166565804
+			},
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -551,8 +599,8 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 		{
 			"id": "dMLhvBdn",
 			"type": "text",
-			"x": -282.7986283927472,
-			"y": 749.2072883017215,
+			"x": -441.11220227925907,
+			"y": 720.3270276015751,
 			"width": 815.4793701171875,
 			"height": 50,
 			"angle": 0,
@@ -567,22 +615,27 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 			"frameId": null,
 			"roundness": null,
 			"seed": 737463666,
-			"version": 105,
-			"versionNonce": 1757004974,
+			"version": 284,
+			"versionNonce": 1371354866,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1712323951983,
+			"boundElements": [
+				{
+					"id": "EorQ7oRk1_BUz5GBKH8iV",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712324115876,
 			"link": null,
 			"locked": false,
-			"text": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\n",
-			"rawText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\n",
+			"text": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\nprecio fijo, listo para usar/llevar/vivir xd.",
+			"rawText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\nprecio fijo, listo para usar/llevar/vivir xd.",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 43,
 			"containerId": null,
-			"originalText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\n",
+			"originalText": "Puede haber subcontratación de cosas pero hay un único contratista responsable,\nprecio fijo, listo para usar/llevar/vivir xd.",
 			"lineHeight": 1.25
 		},
 		{
@@ -649,6 +702,43 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 			"link": null,
 			"locked": false,
 			"name": "{\"type\":\"excalidraw/clipboard\",\"elements\":[{\"id\":\"fzdNeBaY\",\"type\":\"text\",\"x\":830.3402182640202,\"y\":-20.037080674816366,\"width\":533.5595092773438,\"height\":25,\"angle\":0,\"strokeColor\":\"#1e1e1e\",\"backgroundColor\":\"transparent\",\"fillStyle\":\"solid\",\"strokeWidth\":2,\"strokeStyle\":\"solid\",\"roughness\":1,\"opacity\":100,\"groupIds\":[],\"frameId\":null,\"roundness\":null,\"seed\":1333613042,\"version\":1,\"versionNonce\":0,\"isDeleted\":false,\"boundElements\":null,\"updated\":1712323843741,\"link\":null,\"locked\":false,\"text\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"rawText\":\"2º-Definir el tipo de solicitud de la oferta a realizar\",\"fontSize\":20,\"fontFamily\":1,\"textAlign"
+		},
+		{
+			"id": "kytC4LMl",
+			"type": "text",
+			"x": 848.9878001620024,
+			"y": -170.9158359947208,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "iRPQjr7rkrRIVP4Dy6UP0",
+			"roundness": null,
+			"seed": 425319150,
+			"version": 8,
+			"versionNonce": 424608690,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1712324162564,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -666,8 +756,8 @@ Puede haber subcontratación de cosas pero hay un único contratista responsable
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 619.9730242257117,
-		"scrollY": -128.6626307308956,
+		"scrollX": -387.61427538408077,
+		"scrollY": 362.88603453013195,
 		"zoom": {
 			"value": 1.1433252487860197
 		},
