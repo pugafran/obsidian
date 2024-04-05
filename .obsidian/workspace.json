@@ -41,11 +41,9 @@
             "id": "86d8cc14fb8a267e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md"
               }
             }
           }
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md"
               }
             }
           }
@@ -198,11 +196,12 @@
   },
   "active": "86d8cc14fb8a267e",
   "lastOpenFiles": [
-    "Último año/Proyectos/Drawing 2024-04-02 16.07.29.excalidraw.md",
-    "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-12 15.41.07.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-15 15.14.47.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md",
+    "Último año/Proyectos/Drawing 2024-04-02 16.07.29.excalidraw.md",
+    "Home.md",
+    "Último año/Proyectos/Drawing 2024-03-01 15.11.32.excalidraw.md",
     "Último año/Proyectos/Sin título 1.md",
     "Último año/Proyectos/Sin título 2.md",
     "Último año/Proyectos/Sin título.md",
@@ -228,7 +227,6 @@
     "Último año/GTI/PL/Práctica 7.md",
     "Sistemas Operativos/Opcional.md",
     "Último año/Mecalux",
-    "Último año/Mecalux/Drawing 2024-02-19 16.45.47.excalidraw.md",
     "Último año/Mecalux",
     "Pasted Image 20240206152947_330.png",
     "Pasted Image 20240130155319_042.png",
