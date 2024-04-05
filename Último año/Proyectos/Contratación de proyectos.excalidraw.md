@@ -38,12 +38,15 @@ Llave en mano
 Puede haber subcontratación de cosas pero hay un único contratista responsable,
 precio fijo, listo para usar/llevar/vivir xd. ^dMLhvBdn
 
-Subasta(*): adjudicación al más barato
--Concurso-Subasta: exigir unos requisitos previos a los contratistas y
+* Subasta: adjudicación al más barato
+
+* Concurso-Subasta: exigir unos requisitos previos a los contratistas y
 luego una vez seleccionados adjudicarlo al de menor precio.
--Concurso: adjudicación al más idóneo por sus méritos, aunque no sea
-el más barato
-- Concurso restringido ^34W4Zoke
+
+* Concurso: adjudicación al más idóneo por sus méritos, aunque no sea 
+el más barato.
+
+* Concurso restringido ^34W4Zoke
 
 %%
 # Drawing
@@ -394,8 +397,8 @@ el más barato
 			"type": "text",
 			"x": 724.8194203411788,
 			"y": -243.11136289106457,
-			"width": 730.1073559322969,
-			"height": 156.95399107662686,
+			"width": 802.3284912109375,
+			"height": 254.18759277456846,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -408,22 +411,22 @@ el más barato
 			"frameId": "iRPQjr7rkrRIVP4Dy6UP0",
 			"roundness": null,
 			"seed": 1865211954,
-			"version": 76,
-			"versionNonce": 1655158190,
+			"version": 192,
+			"versionNonce": 1930254126,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712324165828,
+			"updated": 1712324214886,
 			"link": null,
 			"locked": false,
-			"text": "Subasta(*): adjudicación al más barato\n-Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea\nel más barato\n- Concurso restringido",
-			"rawText": "Subasta(*): adjudicación al más barato\n-Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea\nel más barato\n- Concurso restringido",
-			"fontSize": 20.927198810216918,
+			"text": "* Subasta: adjudicación al más barato\n\n* Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n\n* Concurso: adjudicación al más idóneo por sus méritos, aunque no sea \nel más barato.\n\n* Concurso restringido",
+			"rawText": "* Subasta: adjudicación al más barato\n\n* Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n\n* Concurso: adjudicación al más idóneo por sus méritos, aunque no sea \nel más barato.\n\n* Concurso restringido",
+			"fontSize": 22.594452691072753,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 148.99999999999997,
+			"baseline": 245,
 			"containerId": null,
-			"originalText": "Subasta(*): adjudicación al más barato\n-Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n-Concurso: adjudicación al más idóneo por sus méritos, aunque no sea\nel más barato\n- Concurso restringido",
+			"originalText": "* Subasta: adjudicación al más barato\n\n* Concurso-Subasta: exigir unos requisitos previos a los contratistas y\nluego una vez seleccionados adjudicarlo al de menor precio.\n\n* Concurso: adjudicación al más idóneo por sus méritos, aunque no sea \nel más barato.\n\n* Concurso restringido",
 			"lineHeight": 1.25
 		},
 		{
