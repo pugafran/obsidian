@@ -48,6 +48,13 @@ Sí o no ^fL0bP4aI
 
 ¿Estamos de acuerdo no? ^piG0CFKg
 
+Solo existe un suceso inicio de proyecto y 
+fin de proyecto.
+
+ ^IL4llo3n
+
+ ^Ec82PYUh
+
 
 # Embedded files
 db75e3377048cb852d44ae0b491a0932fb23eeaa: [[Pasted Image 20240405163849_221.png]]
@@ -3075,6 +3082,80 @@ db75e3377048cb852d44ae0b491a0932fb23eeaa: [[Pasted Image 20240405163849_221.png]
 			"baseline": 13,
 			"containerId": null,
 			"originalText": "¿Estamos de acuerdo no?",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "IL4llo3n",
+			"type": "text",
+			"x": 574.25,
+			"y": 250.7421875,
+			"width": 422.65960693359375,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 835834414,
+			"version": 85,
+			"versionNonce": 136876722,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712328205785,
+			"link": null,
+			"locked": false,
+			"text": "Solo existe un suceso inicio de proyecto y \nfin de proyecto.\n\n",
+			"rawText": "Solo existe un suceso inicio de proyecto y \nfin de proyecto.\n\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "Solo existe un suceso inicio de proyecto y \nfin de proyecto.\n\n",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Ec82PYUh",
+			"type": "text",
+			"x": 324.25,
+			"y": 339.7421875,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 617658414,
+			"version": 13,
+			"versionNonce": 1280569010,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712328228283,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		},
 		{
