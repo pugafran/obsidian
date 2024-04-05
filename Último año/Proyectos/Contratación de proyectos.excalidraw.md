@@ -53,6 +53,8 @@ Público. En su lugar se refiere a “concursos con único criterio de adjudicac
 económico”. En cualquier caso, para facilitar la distinción de ambas
 modalidades, mantendremos ambos términos en las transparencias. ^qbe2xN1c
 
+La diferencia entre subasta y concurso son los citerios a utilizar, ^Rg6qUfCx
+
 %%
 # Drawing
 ```json
@@ -750,6 +752,43 @@ modalidades, mantendremos ambos términos en las transparencias. ^qbe2xN1c
 			"lineHeight": 1.25
 		},
 		{
+			"id": "Rg6qUfCx",
+			"type": "text",
+			"x": 870.1976237683882,
+			"y": 158.06937435444627,
+			"width": 661.0994873046875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 105881518,
+			"version": 86,
+			"versionNonce": 1695524594,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712324358648,
+			"link": null,
+			"locked": false,
+			"text": "La diferencia entre subasta y concurso son los citerios a utilizar,",
+			"rawText": "La diferencia entre subasta y concurso son los citerios a utilizar,",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "La diferencia entre subasta y concurso son los citerios a utilizar,",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "fzdNeBaY",
 			"type": "text",
 			"x": 830.3402182640202,
@@ -915,8 +954,8 @@ modalidades, mantendremos ambos términos en las transparencias. ^qbe2xN1c
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -294.23108207780183,
-		"scrollY": 755.3479871112561,
+		"scrollX": -205.53764279399297,
+		"scrollY": 722.899167861082,
 		"zoom": {
 			"value": 0.9245328703243719
 		},
