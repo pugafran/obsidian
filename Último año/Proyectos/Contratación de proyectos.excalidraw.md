@@ -25,6 +25,13 @@ Fragmentación de contratos => Si son muchos contratos de una cantidad pequeña 
 hay menos restricciones de control de que el dinero se este usando bien al ser menor, y se puede
 dar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser ilegal. ^Obitz2TY
 
+Contrato con precio ^fJ1lbao1
+
+   Fijo
+(lump-sum) ^Q0t2HiNT
+
+Variable ^11qAmTBW
+
 %%
 # Drawing
 ```json
@@ -136,6 +143,240 @@ dar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser i
 			"lineHeight": 1.25
 		},
 		{
+			"id": "fJ1lbao1",
+			"type": "text",
+			"x": 21.25,
+			"y": 416.7421875,
+			"width": 194.2798309326172,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2037958322,
+			"version": 34,
+			"versionNonce": 1484299374,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "nH8WVqbVGHvwIjML9plUA",
+					"type": "arrow"
+				},
+				{
+					"id": "137sxAIuaYQi_Yx1dd-vO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712323703281,
+			"link": null,
+			"locked": false,
+			"text": "Contrato con precio",
+			"rawText": "Contrato con precio",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Contrato con precio",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Q0t2HiNT",
+			"type": "text",
+			"x": -9.0546875,
+			"y": 558.1328125,
+			"width": 97.29988098144531,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1112570350,
+			"version": 90,
+			"versionNonce": 58587374,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "nH8WVqbVGHvwIjML9plUA",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712323738533,
+			"link": null,
+			"locked": false,
+			"text": "   Fijo\n(lump-sum)",
+			"rawText": "   Fijo\n(lump-sum)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "   Fijo\n(lump-sum)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "11qAmTBW",
+			"type": "text",
+			"x": 204.25,
+			"y": 556.7421875,
+			"width": 76.35993957519531,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1629983150,
+			"version": 16,
+			"versionNonce": 1502796014,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "137sxAIuaYQi_Yx1dd-vO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1712323703281,
+			"link": null,
+			"locked": false,
+			"text": "Variable",
+			"rawText": "Variable",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Variable",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "nH8WVqbVGHvwIjML9plUA",
+			"type": "arrow",
+			"x": 117.55154534822529,
+			"y": 449.96875,
+			"width": 82.09477614790484,
+			"height": 99.859375,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1729503214,
+			"version": 155,
+			"versionNonce": 1196103022,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712323738535,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-82.09477614790484,
+					99.859375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "fJ1lbao1",
+				"focus": -0.15082457218501982,
+				"gap": 8.2265625
+			},
+			"endBinding": {
+				"elementId": "Q0t2HiNT",
+				"focus": -0.4554514470464931,
+				"gap": 8.3046875
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "137sxAIuaYQi_Yx1dd-vO",
+			"type": "arrow",
+			"x": 113.11328125,
+			"y": 448.484375,
+			"width": 120.8828125,
+			"height": 98.95703125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1487572274,
+			"version": 72,
+			"versionNonce": 608624302,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712323703281,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					120.8828125,
+					98.95703125
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "fJ1lbao1",
+				"focus": 0.25604848400815355,
+				"gap": 6.7421875
+			},
+			"endBinding": {
+				"elementId": "11qAmTBW",
+				"focus": 0.34045686712509127,
+				"gap": 9.30078125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
 			"id": "uwiQS1xQ",
 			"type": "text",
 			"x": 128.25,
@@ -225,8 +466,8 @@ dar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser i
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 667.25,
-		"scrollY": 485.7421875,
+		"scrollX": 639.25,
+		"scrollY": -24.2578125,
 		"zoom": {
 			"value": 1
 		},
