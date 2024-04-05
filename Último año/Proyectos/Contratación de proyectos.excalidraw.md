@@ -85,7 +85,8 @@ socia, capacidad de la empresa para participar en el concurso, etc.) ^2tICBxDN
 
 IMPORTANTE: Es muy importante tener en cuenta que no se
 puede incluir información económica dentro la oferta. Hacerlo
-implicará la exclusión del ofertante del proceso. ^jFC2hfDn
+implicará la exclusión del ofertante del proceso. Si metes en lo
+técnico algo económico te lo excluyen xd. ^jFC2hfDn
 
 %%
 # Drawing
@@ -955,8 +956,8 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 			"type": "text",
 			"x": 2827.7060785437134,
 			"y": -42.32499377780107,
-			"width": 1101.8602492035864,
-			"height": 135.98746656310004,
+			"width": 1128.3382568359375,
+			"height": 181.31662208413337,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -969,8 +970,8 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 			"frameId": null,
 			"roundness": null,
 			"seed": 146600878,
-			"version": 158,
-			"versionNonce": 1488042674,
+			"version": 245,
+			"versionNonce": 1449518190,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -978,25 +979,25 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 					"type": "arrow"
 				}
 			],
-			"updated": 1712325428782,
+			"updated": 1712325501798,
 			"link": null,
 			"locked": false,
-			"text": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
-			"rawText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
+			"text": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso. Si metes en lo\ntécnico algo económico te lo excluyen xd.",
+			"rawText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso. Si metes en lo\ntécnico algo económico te lo excluyen xd.",
 			"fontSize": 36.26332441682668,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 122,
+			"baseline": 167,
 			"containerId": null,
-			"originalText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso.",
+			"originalText": "IMPORTANTE: Es muy importante tener en cuenta que no se\npuede incluir información económica dentro la oferta. Hacerlo\nimplicará la exclusión del ofertante del proceso. Si metes en lo\ntécnico algo económico te lo excluyen xd.",
 			"lineHeight": 1.25
 		},
 		{
 			"id": "L9MdreADllmnwqgG4yrhM",
 			"type": "arrow",
-			"x": 3267.617608611165,
-			"y": -54.41294007708427,
+			"x": 3279.725426768403,
+			"y": -54.412940077084286,
 			"width": 282.8154467170084,
 			"height": 196.278028034604,
 			"angle": 0,
@@ -1013,11 +1014,11 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 				"type": 2
 			},
 			"seed": 1078937646,
-			"version": 471,
-			"versionNonce": 1584426802,
+			"version": 557,
+			"versionNonce": 88811182,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712325464321,
+			"updated": 1712325501799,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1026,11 +1027,11 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 					0
 				],
 				[
-					81.09312099370482,
+					68.98530283646687,
 					-185.47442602962008
 				],
 				[
-					-201.72232572330358,
+					-213.83014388054153,
 					-196.278028034604
 				]
 			],
@@ -1210,10 +1211,10 @@ implicará la exclusión del ofertante del proceso. ^jFC2hfDn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2450.39688911528,
-		"scrollY": 738.5670913463733,
+		"scrollX": -2229.2639401157667,
+		"scrollY": 957.8694965755916,
 		"zoom": {
-			"value": 0.8272703859210015
+			"value": 0.6804024204611778
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
