@@ -21,6 +21,10 @@ enfocarse en una tarea específica y ofrecer una cotización más precisa. Adem�
 ayudar a evitar retrasos en el proyecto, ya que si un lote se retrasa, no necesariamente
 afectará a los demás lotes. ^A0VB41P5
 
+Fragmentación de contratos => Si son muchos contratos de una cantidad pequeña de dinero, 
+hay menos restricciones de control de que el dinero se este usando bien al ser menor, y se puede
+dar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser ilegal. ^Obitz2TY
+
 %%
 # Drawing
 ```json
@@ -93,6 +97,43 @@ afectará a los demás lotes. ^A0VB41P5
 			"link": null,
 			"locked": false,
 			"name": "1º-Separar el proyecto en varias contratos independientes"
+		},
+		{
+			"id": "Obitz2TY",
+			"type": "text",
+			"x": -326.75,
+			"y": 181.7421875,
+			"width": 965.7592163085938,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1241214834,
+			"version": 345,
+			"versionNonce": 1286119086,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712323286772,
+			"link": null,
+			"locked": false,
+			"text": "Fragmentación de contratos => Si son muchos contratos de una cantidad pequeña de dinero, \nhay menos restricciones de control de que el dinero se este usando bien al ser menor, y se puede\ndar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser ilegal.",
+			"rawText": "Fragmentación de contratos => Si son muchos contratos de una cantidad pequeña de dinero, \nhay menos restricciones de control de que el dinero se este usando bien al ser menor, y se puede\ndar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser ilegal.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "Fragmentación de contratos => Si son muchos contratos de una cantidad pequeña de dinero, \nhay menos restricciones de control de que el dinero se este usando bien al ser menor, y se puede\ndar contratos/dinero a dedo sin que se controle mucho la vaina, y se puede ser ilegal.",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "uwiQS1xQ",
