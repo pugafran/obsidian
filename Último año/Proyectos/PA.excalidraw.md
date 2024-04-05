@@ -44,7 +44,9 @@ B ^SC5NfwFW
 
 C ^AlO72tVz
 
-S ^fL0bP4aI
+Sí o no ^fL0bP4aI
+
+¿Estamos de acuerdo no? ^piG0CFKg
 
 
 # Embedded files
@@ -3004,9 +3006,9 @@ db75e3377048cb852d44ae0b491a0932fb23eeaa: [[Pasted Image 20240405163849_221.png]
 		{
 			"id": "fL0bP4aI",
 			"type": "text",
-			"x": 285.25,
-			"y": 497.7421875,
-			"width": 23.0999755859375,
+			"x": 308.2109375,
+			"y": 480.7578125,
+			"width": 69.93995666503906,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -3020,22 +3022,59 @@ db75e3377048cb852d44ae0b491a0932fb23eeaa: [[Pasted Image 20240405163849_221.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 894275506,
-			"version": 11,
-			"versionNonce": 1354885870,
+			"version": 62,
+			"versionNonce": 1095138094,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1712327928917,
+			"updated": 1712327948834,
 			"link": null,
 			"locked": false,
-			"text": "Se",
-			"rawText": "Se",
+			"text": "Sí o no",
+			"rawText": "Sí o no",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "Se",
+			"originalText": "Sí o no",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "piG0CFKg",
+			"type": "text",
+			"x": 253.34375,
+			"y": 358.0257704723344,
+			"width": 188.55148315429688,
+			"height": 18.595323277665607,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 176356338,
+			"version": 163,
+			"versionNonce": 1325706610,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712327978967,
+			"link": null,
+			"locked": false,
+			"text": "¿Estamos de acuerdo no?",
+			"rawText": "¿Estamos de acuerdo no?",
+			"fontSize": 14.876258622132486,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 13,
+			"containerId": null,
+			"originalText": "¿Estamos de acuerdo no?",
 			"lineHeight": 1.25
 		},
 		{
