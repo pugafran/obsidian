@@ -90,8 +90,10 @@ técnico algo económico te lo excluyen xd. ^jFC2hfDn
 
 -Con apertura pública de pliegos, se levanta acta con indicación de los
 asistentes y de las características fundamentales de las ofertas.
+
 -Cuando sea un concurso, se comprueba que las ofertas cumplen lo
 solicitado en las bases y si hay errores en los cálculos.
+
 -Se establecen cuadros de comparación con los ofertantes y las partidas
 más importantes valoradas. ^dLbMcVur
 
@@ -1053,6 +1055,43 @@ más importantes valoradas. ^dLbMcVur
 			"endArrowhead": "arrow"
 		},
 		{
+			"id": "dLbMcVur",
+			"type": "text",
+			"x": 4145.415128064676,
+			"y": -980.1104705123751,
+			"width": 1159.2381591796875,
+			"height": 315.87827552427524,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "qVX-aPlRV0NlfzJiHUc-I",
+			"roundness": null,
+			"seed": 127685806,
+			"version": 352,
+			"versionNonce": 2022910322,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1712325666226,
+			"link": null,
+			"locked": false,
+			"text": "-Con apertura pública de pliegos, se levanta acta con indicación de los\nasistentes y de las características fundamentales de las ofertas.\n\n-Cuando sea un concurso, se comprueba que las ofertas cumplen lo\nsolicitado en las bases y si hay errores en los cálculos.\n\n-Se establecen cuadros de comparación con los ofertantes y las partidas\nmás importantes valoradas.",
+			"rawText": "-Con apertura pública de pliegos, se levanta acta con indicación de los\nasistentes y de las características fundamentales de las ofertas.\n\n-Cuando sea un concurso, se comprueba que las ofertas cumplen lo\nsolicitado en las bases y si hay errores en los cálculos.\n\n-Se establecen cuadros de comparación con los ofertantes y las partidas\nmás importantes valoradas.",
+			"fontSize": 31.587827552427523,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 304,
+			"containerId": null,
+			"originalText": "-Con apertura pública de pliegos, se levanta acta con indicación de los\nasistentes y de las características fundamentales de las ofertas.\n\n-Cuando sea un concurso, se comprueba que las ofertas cumplen lo\nsolicitado en las bases y si hay errores en los cálculos.\n\n-Se establecen cuadros de comparación con los ofertantes y las partidas\nmás importantes valoradas.",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "qVX-aPlRV0NlfzJiHUc-I",
 			"type": "frame",
 			"x": 4129.012840367882,
@@ -1079,43 +1118,6 @@ más importantes valoradas. ^dLbMcVur
 			"link": null,
 			"locked": false,
 			"name": "5º- Estudio y Comparación de las ofertas recibidas"
-		},
-		{
-			"id": "dLbMcVur",
-			"type": "text",
-			"x": 4147.487660741801,
-			"y": -968.915349403257,
-			"width": 734.159423828125,
-			"height": 150,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 127685806,
-			"version": 65,
-			"versionNonce": 1267622066,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1712325648421,
-			"link": null,
-			"locked": false,
-			"text": "-Con apertura pública de pliegos, se levanta acta con indicación de los\nasistentes y de las características fundamentales de las ofertas.\n-Cuando sea un concurso, se comprueba que las ofertas cumplen lo\nsolicitado en las bases y si hay errores en los cálculos.\n-Se establecen cuadros de comparación con los ofertantes y las partidas\nmás importantes valoradas.",
-			"rawText": "-Con apertura pública de pliegos, se levanta acta con indicación de los\nasistentes y de las características fundamentales de las ofertas.\n-Cuando sea un concurso, se comprueba que las ofertas cumplen lo\nsolicitado en las bases y si hay errores en los cálculos.\n-Se establecen cuadros de comparación con los ofertantes y las partidas\nmás importantes valoradas.",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 143,
-			"containerId": null,
-			"originalText": "-Con apertura pública de pliegos, se levanta acta con indicación de los\nasistentes y de las características fundamentales de las ofertas.\n-Cuando sea un concurso, se comprueba que las ofertas cumplen lo\nsolicitado en las bases y si hay errores en los cálculos.\n-Se establecen cuadros de comparación con los ofertantes y las partidas\nmás importantes valoradas.",
-			"lineHeight": 1.25
 		},
 		{
 			"id": "fzdNeBaY",
@@ -1505,7 +1507,7 @@ más importantes valoradas. ^dLbMcVur
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -3363.8865939810144,
+		"scrollX": -3663.709160546443,
 		"scrollY": 1240.0554415783497,
 		"zoom": {
 			"value": 0.6804024204611778
