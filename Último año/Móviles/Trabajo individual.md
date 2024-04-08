@@ -25,4 +25,12 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 8. Originalidad respecto a otras aplicaciones existentes.
 9. Si se usa un API del SDK superior al mínimo exigido, justificación del porqué.
 
-Requisitos de diseño mínimos
+### Requisitos de diseño mínimos:
+
+1. Diseño de la aplicación utilizando el modelo de arquitectura MVVM.  
+2. Código legible y comentado  
+3. Respeto a las normas de nomenclatura de Kotlin (nombres de paquetes, clases, métodos, variables, etc).
+4. División clara y lógica de la aplicación en clases y agrupación de las clases en paquetes por finalidad (Acceso a datos, presentación, etc).
+5. Acceso a datos (si hay) utilizando Room  
+6. Utilización de librerías externas adecuadas, justificando su utilización.
+7. Implementación de pruebas de interfaz de usuario
