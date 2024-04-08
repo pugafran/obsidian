@@ -21,9 +21,11 @@
             "id": "8d26c4bab038ec56",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Proyectos/PA.excalidraw.md"
+                "file": "Último año/Móviles/Trabajo individual.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/PA.excalidraw.md",
+                "file": "Último año/Móviles/Trabajo individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/PA.excalidraw.md",
+                "file": "Último año/Móviles/Trabajo individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/PA.excalidraw.md"
+                "file": "Último año/Móviles/Trabajo individual.md"
               }
             }
           }
@@ -176,10 +178,11 @@
   },
   "active": "8d26c4bab038ec56",
   "lastOpenFiles": [
+    "Último año/Proyectos/PA.excalidraw.md",
+    "Último año/Móviles/Trabajo individual.md",
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20240405163849_221.png",
     "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
-    "Último año/Proyectos/PA.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-02-16 15.48.12.excalidraw.md",
     "Último año/Mecalux/Drawing 2024-02-20 08.20.10.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
@@ -215,7 +218,6 @@
     "Pasted image 20240122182103.png",
     "Último año/Móviles/PL",
     "Pasted image 20240122165923.png",
-    "Pasted image 20240122165703.png",
     "Último año/Móviles",
     "Último año/Ondas/Electrostática en el espacio libre de materia",
     "Último año/Ondas",
