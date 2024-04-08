@@ -12,3 +12,17 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 * Mostrará información de detalle asociada a cada alimento escaneado. 
 * Se guardará el historial de los cálculos (con sus respectivos alimentos y datos asociados). 
 * Permitirá la realización de busquedas sobre los datos del historial (carbohidratos, indice glucémico, azúcares, grasas, fecha)
+
+### Requsitos funcionales mínimos:
+
+1. Desarrollo personal y original.
+2. Adaptación: idioma, pantalla y versión del operativo. Al menos, dos idiomas (uno español), dos dispositivos (tableta nexus 7 y teléfono) y API 16 y posteriores.
+3. Uso de esquema de navegación apropiado de forma justificada (ToolBar, Drawer, Tabs).
+4. Uso de la API de Navegación + fragmentos para toda la interfaz de usuario. 
+5. Robustez ante interrupciones (cambios de configuración, llamadas entrantes, etc.).
+6. Respeto a la guía de diseño de Google.
+7. Uso de imágenes y recursos propios o con licencia que permite su uso incluso para fines comerciales.
+8. Originalidad respecto a otras aplicaciones existentes.
+9. Si se usa un API del SDK superior al mínimo exigido, justificación del porqué.
+
+Requisitos de diseño mínimos
