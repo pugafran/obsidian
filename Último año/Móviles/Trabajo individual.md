@@ -1,3 +1,8 @@
+
+Room:
+https://developer.android.com/training/data-storage/room?hl=es-419#kts
+
+
 ## Calculadora de raciones
 
 #### Descripción:
