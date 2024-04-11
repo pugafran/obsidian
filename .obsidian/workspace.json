@@ -21,9 +21,11 @@
             "id": "8d26c4bab038ec56",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md"
+                "file": "Último año/Móviles/Trabajo individual.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
+                "file": "Último año/Móviles/Trabajo individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
+                "file": "Último año/Móviles/Trabajo individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md"
+                "file": "Último año/Móviles/Trabajo individual.md"
               }
             }
           }
@@ -176,6 +178,7 @@
   },
   "active": "8d26c4bab038ec56",
   "lastOpenFiles": [
+    "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
     "Último año/Proyectos/Planificación.md",
     "Último año/Proyectos/Coña mala.md",
     "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
@@ -195,7 +198,6 @@
     "Último año/Proyectos/Drawing 2024-02-27 15.12.35.excalidraw.md",
     "Último año/Proyectos/Sin título 2.md",
     "Último año/Proyectos/Sin título.md",
-    "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-12 15.41.07.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-15 15.14.47.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md",
