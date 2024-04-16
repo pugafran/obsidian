@@ -21,9 +21,11 @@
             "id": "8d26c4bab038ec56",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md"
+                "file": "Último año/Proyectos/Sin título.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+                "file": "Último año/Proyectos/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
+                "file": "Último año/Proyectos/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md"
+                "file": "Último año/Proyectos/Sin título.md"
               }
             }
           }
@@ -176,6 +178,10 @@
   },
   "active": "8d26c4bab038ec56",
   "lastOpenFiles": [
+    "Último año/Proyectos/Planificación.md",
+    "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
+    "Último año/Proyectos/Coña mala.md",
+    "Último año/Álgebra/Drawing 2023-10-18 11.33.50.excalidraw.md",
     "Último año/Álgebra/antes de la práctica 3.md",
     "Último año/Álgebra/Práctica 4 Matlab.md",
     "Último año/Álgebra/Práctica 3 Matlab.md",
@@ -183,9 +189,6 @@
     "Último año/Álgebra/Práctica 1 Matlab.md",
     "Último año/Móviles/Trabajo individual.md",
     "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
-    "Último año/Proyectos/Planificación.md",
-    "Último año/Proyectos/Coña mala.md",
-    "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
     "Último año/Móviles/Tercera clase de teoría.md",
     "Último año/Móviles/PL/Kotlin.md",
     "Último año/Móviles/Primera clase de teoría.md",
@@ -203,7 +206,6 @@
     "Último año/Proyectos/Sin título.md",
     "Último año/Proyectos/Drawing 2024-03-12 15.41.07.excalidraw.md",
     "Último año/Proyectos/Drawing 2024-03-15 15.14.47.excalidraw.md",
-    "Último año/Proyectos/Drawing 2024-03-22 22.47.09.excalidraw.md",
     "Pasted Image 20240322224727_814.png",
     "Pasted Image 20240220132115_288.png",
     "Pasted Image 20240220132027_298.png",
