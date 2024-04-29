@@ -32,6 +32,5 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 3. Respeto a las normas de nomenclatura de Kotlin (nombres de paquetes, clases, métodos, variables, etc).
 4. División clara y lógica de la aplicación en clases y agrupación de las clases en paquetes por finalidad (Acceso a datos, presentación, etc).
 5. Acceso a datos (si hay) utilizando Room  
-    
 6. Utilización de librerías externas adecuadas, justificando su utilización.
 7. Implementación de pruebas de interfaz de usuario
