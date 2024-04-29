@@ -9,9 +9,10 @@ https://developer.android.com/training/data-storage/room?hl=es-419#kts
 La aplicación permitirá a los usuarios calcular la cantidad de raciones de carbohidratos en sus comidas
 
 * Mostrará la información resumen asociada a cada alimento escaneado con su imagen asociada:
-	* Raciones
+	* Raciones (calculado por la aplicación)
 	* Índice glucémico (estimado llamando a la API de OpenAI )
 * Mostrará información de detalle asociada a cada alimento escaneado:
+	* Todas las fotos
 	* Raciones
 	* Índice glucémico
 	* Marca
@@ -27,7 +28,7 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 		* Fibra
 		* Proteínas
 		* Sal
-		* 
+		
 * Se guardará el historial de los cálculos (con sus respectivos alimentos y datos asociados). 
 * Permitirá la realización de busquedas sobre los datos del historial (carbohidratos, indice glucémico, azúcares, grasas, fecha)
 
