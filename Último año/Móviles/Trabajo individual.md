@@ -16,6 +16,8 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 	* Índice glucémico
 	* Marca
 	* Nutri-score
+	* NOVA (Para saber si son alimentos procesados y como de procesados)
+	* Eco-score
 * Se guardará el historial de los cálculos (con sus respectivos alimentos y datos asociados). 
 * Permitirá la realización de busquedas sobre los datos del historial (carbohidratos, indice glucémico, azúcares, grasas, fecha)
 
