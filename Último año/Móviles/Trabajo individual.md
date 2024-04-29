@@ -20,7 +20,7 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 	* NOVA (Para saber si son alimentos procesados y como de procesados)
 	* Análisis de los ingredientes (Aceite de palma?/Vegano?/Vegetariano?)
 	* Eco-score
-	* Información nutricional (100g) y comparación frente a la media de ese tipo de producto
+	* Información nutricional (100g) 
 		* Calorías
 		* Grasas
 			* Grasas saturadas
