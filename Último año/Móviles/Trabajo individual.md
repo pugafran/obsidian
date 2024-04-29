@@ -18,6 +18,7 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 	* Marca
 	* Nutri-score
 	* NOVA (Para saber si son alimentos procesados y como de procesados)
+	* Análisis de los ingredientes (Aceite de palma?/Vegano?/Vegetariano?)
 	* Eco-score
 	* Información nutricional (100g)
 		* Calorías
