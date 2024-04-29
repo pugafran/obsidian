@@ -31,7 +31,7 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 		* Sal
 		
 * Se guardará el historial de los cálculos (con sus respectivos alimentos y datos asociados). 
-* Permitirá la realización de busquedas sobre los datos del historial (carbohidratos, indice glucémico, azúcares, grasas, fecha)
+* Permitirá la realización de busquedas sobre los datos del historial (hidratos de carbono, indice glucémico, azúcares, grasas, fecha)
 
 ### Requsitos funcionales mínimos:
 
