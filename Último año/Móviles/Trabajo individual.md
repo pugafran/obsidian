@@ -14,7 +14,8 @@ La aplicación permitirá a los usuarios calcular la cantidad de raciones de car
 * Mostrará información de detalle asociada a cada alimento escaneado:
 	* Raciones
 	* Índice glucémico
-	* 
+	* Marca
+	* Nutri-score
 * Se guardará el historial de los cálculos (con sus respectivos alimentos y datos asociados). 
 * Permitirá la realización de busquedas sobre los datos del historial (carbohidratos, indice glucémico, azúcares, grasas, fecha)
 
