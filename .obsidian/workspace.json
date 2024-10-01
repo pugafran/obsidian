@@ -11,44 +11,15 @@
             "id": "0b2a0551f69be059",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Proyectos/Contratación de proyectos.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8d26c4bab038ec56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c496c4689eead5f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Último año/Proyectos/Contratación de proyectos.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8d71a4bb71586be9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
+                "file": "Home.md"
               }
             }
           }
@@ -194,11 +165,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8d71a4bb71586be9",
+  "active": "0b2a0551f69be059",
   "lastOpenFiles": [
+    "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
+    "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
+    "Infra/Infraestructura Tema 6.md",
+    "Infra/Infraestructura Tema 5.md",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
@@ -219,9 +194,6 @@
     "Último año/Servicios/Proxies y  cachés.md",
     "Último año/Servicios/Sin título.md",
     "Último año/Servicios/Untitled.md",
-    "Último año/Servicios/SMTP.md",
-    "Último año/Servicios/Sin título 1.md",
-    "Último año/Servicios/HTTP.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20240405163849_221.png",
