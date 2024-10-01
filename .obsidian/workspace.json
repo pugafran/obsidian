@@ -41,9 +41,9 @@
             "id": "8d71a4bb71586be9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md"
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md"
+                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
               }
             }
           }
@@ -196,13 +196,16 @@
   },
   "active": "8d71a4bb71586be9",
   "lastOpenFiles": [
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+    "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
+    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Sistemas Operativos/Identificadores de un proceso.md",
     "Sistemas Operativos/Opcional.md",
     "Sistemas Operativos/Untitled 1.md",
     "Sistemas Operativos/Untitled.md",
-    "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Último año/Redes/Subredes.md",
@@ -219,9 +222,6 @@
     "Último año/Servicios/SMTP.md",
     "Último año/Servicios/Sin título 1.md",
     "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/Ejemplo iOS.md",
-    "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20240405163849_221.png",
@@ -234,7 +234,6 @@
     "Pasted Image 20240206152947_330.png",
     "Pasted Image 20240130155319_042.png",
     "Último año/Proyectos",
-    "Pasted image 20240122182103.png",
     "Último año/Móviles/PL",
     "Último año/Móviles",
     "Último año/Ondas/Electrostática en el espacio libre de materia",
