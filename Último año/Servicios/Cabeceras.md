@@ -1,4 +1,4 @@
-Las restantes lineas del sobre son cabeceras todas con la misma estructura, hay un estandar de como se ponen los datos, es insensible a mayuscula minusculas.
+Las restantes líneas del sobre son cabeceras todas con la misma estructura, hay un estándar de como se ponen los datos, es insensible a mayúscula minúsculas.
 
 Tipos de cabecera:
 * Generales (Peticiones y respuestas)
