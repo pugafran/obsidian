@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bffac6ea79d39635",
+        "id": "ffdc601b628deaa8",
         "type": "tabs",
         "children": [
           {
-            "id": "0b2a0551f69be059",
+            "id": "0f877f22d904e19b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0b2a0551f69be059",
+  "active": "0f877f22d904e19b",
   "lastOpenFiles": [
+    "Último año/Redes/Subredes.md",
+    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
+    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
+    "Home.md",
     "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
     "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
@@ -183,9 +187,6 @@
     "Sistemas Operativos/Untitled.md",
     "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
-    "Último año/Redes/Subredes.md",
-    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
-    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
     "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/NAT.md",
     "Último año/Servicios/NAT.excalidraw.md",
@@ -193,7 +194,6 @@
     "Último año/Servicios/Práctica 3.md",
     "Último año/Servicios/Proxies y  cachés.md",
     "Último año/Servicios/Sin título.md",
-    "Último año/Servicios/Untitled.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20240405163849_221.png",
