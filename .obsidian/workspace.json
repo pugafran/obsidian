@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Mecalux/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Mecalux/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Mecalux/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Mecalux/Untitled.md"
               }
             }
           }
@@ -167,10 +167,12 @@
   },
   "active": "0f877f22d904e19b",
   "lastOpenFiles": [
+    "Home.md",
+    "Mecalux/Untitled.md",
+    "Mecalux",
     "Último año/Redes/Subredes.md",
     "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
     "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
-    "Home.md",
     "Último año/Proyectos/Contratación de proyectos.excalidraw.md",
     "Último año/Proyectos/VAN-TIR-VIABILIDAD-DEPRECIACION.excalidraw.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
@@ -193,7 +195,6 @@
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/Práctica 3.md",
     "Último año/Servicios/Proxies y  cachés.md",
-    "Último año/Servicios/Sin título.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20240405163849_221.png",
@@ -211,7 +212,6 @@
     "Último año/Ondas/Electrostática en el espacio libre de materia",
     "Último año/Ondas",
     "Local",
-    "Último año/Redes",
-    "Último año/Álgebra"
+    "Último año/Redes"
   ]
 }
