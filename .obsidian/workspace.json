@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08ce24dd244bad7f",
+        "id": "7c54d43c205b2768",
         "type": "tabs",
         "children": [
           {
-            "id": "90823d28956b3e13",
+            "id": "13ae9a04435c24f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,7 +165,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "90823d28956b3e13",
+  "active": "13ae9a04435c24f6",
   "lastOpenFiles": [
     "Home.md",
     "Mecalux/Métricas.md",
