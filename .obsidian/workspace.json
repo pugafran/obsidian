@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Mecalux/Métricas.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "19c9e0a140f3add3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md"
               }
             }
           }
@@ -165,9 +176,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "422d992c65714d89",
+  "active": "19c9e0a140f3add3",
   "lastOpenFiles": [
     "Mecalux/Métricas.md",
+    "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
     "Home.md",
     "Mecalux",
     "Último año/Redes/Subredes.md",
@@ -194,7 +206,6 @@
     "Último año/Servicios/NAT.excalidraw.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/Práctica 3.md",
-    "Último año/Servicios/Proxies y  cachés.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20240405163849_221.png",
