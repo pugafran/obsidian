@@ -15,3 +15,10 @@ PKCS#12 => Para guardar un certificado (clave pública) y su clave privada
 
 
 I
+Supresion
+L
+Autnomia
+P
+O
+Rectifc
+NO ser derecho 
