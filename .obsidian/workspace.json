@@ -25,10 +25,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted Image 20240206152947_330.png"
+                "file": "Pasted image 20240122182103.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted Image 20240206152947_330"
+              "title": "Pasted image 20240122182103"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20240206152947_330.png",
+                "file": "Pasted image 20240122182103.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted Image 20240206152947_330"
+              "title": "Backlinks for Pasted image 20240122182103"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20240206152947_330.png",
+                "file": "Pasted image 20240122182103.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted Image 20240206152947_330"
+              "title": "Outgoing links from Pasted image 20240122182103"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20240206152947_330.png",
+                "file": "Pasted image 20240122182103.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted Image 20240206152947_330"
+              "title": "Outline of Pasted image 20240122182103"
             }
           }
         ]
@@ -205,6 +205,10 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
+    "Pasted image 20240122165923.png",
+    "Pasted image 20240122182103.png",
+    "Pasted Image 20240130155319_042.png",
+    "Pasted Image 20240206152947_330.png",
     "Pasted Image 20240220131706_454.png",
     "Pasted Image 20240220132027_298.png",
     "Pasted Image 20240220132115_288.png",
@@ -213,9 +217,7 @@
     "Pasted Image 20240405164449_472.png",
     "Pasted Image 20251230083750_868.png",
     "Práctica 3.md",
-    "Pasted Image 20230929004441_386.png",
     "Home.md",
-    "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Mecalux/Métricas.md",
     "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
     "Mecalux",
@@ -228,7 +230,6 @@
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Infra/Infraestructura Tema 6.md",
     "Infra/Infraestructura Tema 5.md",
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
