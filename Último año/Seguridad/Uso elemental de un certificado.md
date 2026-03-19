@@ -11,3 +11,7 @@ Formato joDER
 CMS contiene => Mensaje texto plano + firma
 
 PKCS#12 => Para guardar un certificado (clave pública) y su clave privada
+
+
+
+I

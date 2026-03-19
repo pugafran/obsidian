@@ -23,12 +23,14 @@
             "id": "3629607b6622b1cc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md"
+                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2023-09-29 17.03.53.excalidraw"
+              "icon": "lucide-file",
+              "title": "Uso elemental de un certificado"
             }
           }
         ],
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
+                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2023-09-29 17.03.53.excalidraw"
+              "title": "Backlinks for Uso elemental de un certificado"
             }
           },
           {
@@ -144,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
+                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2023-09-29 17.03.53.excalidraw"
+              "title": "Outgoing links from Uso elemental de un certificado"
             }
           },
           {
@@ -173,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
+                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2023-09-29 17.03.53.excalidraw"
+              "title": "Outline of Uso elemental de un certificado"
             }
           }
         ]
@@ -205,6 +207,19 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
+    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
+    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
+    "Último año/Seguridad/Uso elemental de un certificado.md",
+    "Último año/Seguridad/Sin título 1.md",
+    "Último año/Seguridad/Sin título.md",
+    "Último año/Seguridad/Seguridad entra examen 2.md",
+    "Último año/Seguridad/Política de seguridad.excalidraw.md",
+    "Último año/Seguridad/Normativa sobre seguridad.excalidraw.md",
+    "Último año/Seguridad/infraestructura de clave pública.md",
+    "Último año/Seguridad/Drawing 2023-11-23 16.09.18.excalidraw.md",
+    "Último año/Seguridad/Firma digital.md",
+    "Último año/Seguridad/Drawing 2023-10-26 16.18.55.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
     "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
     "Último año/Seguridad/Diffie-Hellman.md",
@@ -218,19 +233,6 @@
     "Último año/Servicios/Sin título 1.md",
     "Último año/Servicios/Practica 1.excalidraw.md",
     "Último año/Servicios/NAT.excalidraw.md",
-    "Último año/Servicios/NAT.md",
-    "Último año/Servicios/HTTP.excalidraw.md",
-    "Último año/Servicios/HTTP.md",
-    "Último año/Servicios/Ejemplo iOS.md",
-    "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
-    "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
-    "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20230929004441_386.png",
     "Pasted Image 20231004184039_267.png",
