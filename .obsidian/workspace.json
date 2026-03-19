@@ -25,10 +25,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240122182103.png"
+                "file": "Pasted image 20240122165923.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20240122182103"
+              "title": "Pasted image 20240122165923"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240122182103.png",
+                "file": "Pasted image 20240122165923.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20240122182103"
+              "title": "Backlinks for Pasted image 20240122165923"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240122182103.png",
+                "file": "Pasted image 20240122165923.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20240122182103"
+              "title": "Outgoing links from Pasted image 20240122165923"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240122182103.png",
+                "file": "Pasted image 20240122165923.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20240122182103"
+              "title": "Outline of Pasted image 20240122165923"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
-    "Pasted image 20240122165923.png",
     "Pasted image 20240122182103.png",
+    "Pasted image 20240122165923.png",
     "Pasted Image 20240130155319_042.png",
     "Pasted Image 20240206152947_330.png",
     "Pasted Image 20240220131706_454.png",
