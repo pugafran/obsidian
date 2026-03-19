@@ -23,14 +23,12 @@
             "id": "3629607b6622b1cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Uso elemental de un certificado"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2023-09-14 15.18.21.excalidraw"
             }
           }
         ],
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uso elemental de un certificado"
+              "title": "Backlinks for Drawing 2023-09-14 15.18.21.excalidraw"
             }
           },
           {
@@ -146,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uso elemental de un certificado"
+              "title": "Outgoing links from Drawing 2023-09-14 15.18.21.excalidraw"
             }
           },
           {
@@ -175,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Uso elemental de un certificado.md",
+                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uso elemental de un certificado"
+              "title": "Outline of Drawing 2023-09-14 15.18.21.excalidraw"
             }
           }
         ]
@@ -207,9 +205,9 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
+    "Último año/Seguridad/Uso elemental de un certificado.md",
     "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
-    "Último año/Seguridad/Uso elemental de un certificado.md",
     "Último año/Seguridad/Sin título 1.md",
     "Último año/Seguridad/Sin título.md",
     "Último año/Seguridad/Seguridad entra examen 2.md",
