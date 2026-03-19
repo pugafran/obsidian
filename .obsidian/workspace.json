@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md"
+                "file": "Último año/Servicios/NAT.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "HTTP.excalidraw"
+              "title": "NAT.excalidraw"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Servicios/NAT.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTTP.excalidraw"
+              "title": "Backlinks for NAT.excalidraw"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Servicios/NAT.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HTTP.excalidraw"
+              "title": "Outgoing links from NAT.excalidraw"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/HTTP.excalidraw.md",
+                "file": "Último año/Servicios/NAT.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTTP.excalidraw"
+              "title": "Outline of NAT.excalidraw"
             }
           }
         ]
@@ -205,6 +205,8 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
+    "Último año/Servicios/NAT.md",
+    "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/HTTP.md",
     "Último año/Servicios/Ejemplo iOS.md",
     "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
@@ -240,8 +242,6 @@
     "Infra/Infraestructura Tema 6.md",
     "Infra/Infraestructura Tema 5.md",
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
     "Último año/Mecalux",
     "Último año/Mecalux",
     "Último año/Proyectos",
