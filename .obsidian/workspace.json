@@ -23,14 +23,12 @@
             "id": "3629607b6622b1cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted Image 20240206152947_330.png"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20240206152947_330"
             }
           }
         ],
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Pasted Image 20240206152947_330.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Pasted Image 20240206152947_330"
             }
           },
           {
@@ -146,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Pasted Image 20240206152947_330.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Pasted Image 20240206152947_330"
             }
           },
           {
@@ -175,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Pasted Image 20240206152947_330.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Pasted Image 20240206152947_330"
             }
           }
         ]
@@ -205,11 +203,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c3900cfa1e4f1a58",
+  "active": "3629607b6622b1cc",
   "lastOpenFiles": [
-    "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
-    "Home.md",
+    "Pasted Image 20240220131706_454.png",
+    "Pasted Image 20240220132027_298.png",
+    "Pasted Image 20240220132115_288.png",
+    "Pasted Image 20240322224727_814.png",
+    "Pasted Image 20240405163849_221.png",
+    "Pasted Image 20240405164449_472.png",
     "Pasted Image 20251230083750_868.png",
+    "Práctica 3.md",
+    "Pasted Image 20230929004441_386.png",
+    "Home.md",
+    "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Mecalux/Métricas.md",
     "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
     "Mecalux",
@@ -235,16 +241,8 @@
     "Último año/Servicios/HTTP.excalidraw.md",
     "Último año/Servicios/NAT.md",
     "Último año/Servicios/NAT.excalidraw.md",
-    "Último año/Servicios/Practica 1.excalidraw.md",
-    "Pasted Image 20240405164449_472.png",
-    "Pasted Image 20240405163849_221.png",
-    "Pasted Image 20240322224727_814.png",
-    "Pasted Image 20240220132115_288.png",
-    "Pasted Image 20240220132027_298.png",
-    "Pasted Image 20240220131706_454.png",
     "Último año/Mecalux",
     "Último año/Mecalux",
-    "Pasted Image 20240206152947_330.png",
     "Último año/Proyectos",
     "Último año/Móviles/PL",
     "Último año/Móviles",
