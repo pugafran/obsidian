@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md"
+                "file": "Último año/Servicios/HTTP.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2023-10-08 15.28.07.excalidraw"
+              "title": "HTTP.excalidraw"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2023-10-08 15.28.07.excalidraw"
+              "title": "Backlinks for HTTP.excalidraw"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2023-10-08 15.28.07.excalidraw"
+              "title": "Outgoing links from HTTP.excalidraw"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
+                "file": "Último año/Servicios/HTTP.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2023-10-08 15.28.07.excalidraw"
+              "title": "Outline of HTTP.excalidraw"
             }
           }
         ]
@@ -205,7 +205,13 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
+    "Último año/Servicios/HTTP.md",
+    "Último año/Servicios/Ejemplo iOS.md",
+    "Último año/Servicios/Drawing 2023-11-12 18.19.31.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-18 18.10.44.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-17 17.10.22.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-06 12.14.02.excalidraw.md",
+    "Último año/Servicios/Drawing 2023-10-08 15.28.07.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-20 17.43.33.excalidraw.md",
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
@@ -236,12 +242,6 @@
     "Sistemas Operativos/Drawing 2023-04-13 16.23.22.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 16.07.11.excalidraw.md",
     "Sistemas Operativos/Drawing 2023-06-18 19.44.47.excalidraw.md",
-    "Sistemas Operativos/Identificadores de un proceso.md",
-    "Sistemas Operativos/Opcional.md",
-    "Sistemas Operativos/Untitled 1.md",
-    "Sistemas Operativos/Untitled.md",
-    "Sistemas Operativos/Drawing 2023-03-14 16.07.13.excalidraw.md",
-    "Sistemas Operativos/Drawing 2023-03-19 16.33.22.excalidraw.md",
     "Último año/Mecalux",
     "Último año/Mecalux",
     "Último año/Proyectos",
