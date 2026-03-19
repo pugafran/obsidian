@@ -23,14 +23,12 @@
             "id": "3629607b6622b1cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Último año/Seguridad/Diffie-Hellman.md",
-                "mode": "source",
-                "source": false
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Diffie-Hellman"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2023-09-29 17.03.53.excalidraw"
             }
           }
         ],
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/Seguridad/Diffie-Hellman.md",
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diffie-Hellman"
+              "title": "Backlinks for Drawing 2023-09-29 17.03.53.excalidraw"
             }
           },
           {
@@ -146,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/Seguridad/Diffie-Hellman.md",
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diffie-Hellman"
+              "title": "Outgoing links from Drawing 2023-09-29 17.03.53.excalidraw"
             }
           },
           {
@@ -175,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/Seguridad/Diffie-Hellman.md",
+                "file": "Último año/Seguridad/Drawing 2023-09-29 17.03.53.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diffie-Hellman"
+              "title": "Outline of Drawing 2023-09-29 17.03.53.excalidraw"
             }
           }
         ]
@@ -207,6 +205,9 @@
   },
   "active": "3629607b6622b1cc",
   "lastOpenFiles": [
+    "Último año/Seguridad/Drawing 2023-09-21 17.32.16.excalidraw.md",
+    "Último año/Seguridad/Drawing 2023-09-14 16.08.18.excalidraw.md",
+    "Último año/Seguridad/Diffie-Hellman.md",
     "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
     "Último año/Seguridad/Calculo de la clave RSA.md",
     "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
@@ -230,9 +231,7 @@
     "Último año/Servicios/Drawing 2023-10-02 15.38.42.excalidraw.md",
     "Último año/Servicios/Drawing 2023-09-12 17.32.18.excalidraw.md",
     "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
-    "Mecalux/Métricas.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
-    "Home.md",
     "Pasted Image 20230929004441_386.png",
     "Pasted Image 20231004184039_267.png",
     "Pasted Image 20231005171656_571.png",
@@ -242,7 +241,6 @@
     "Pasted image 20231122151522.png",
     "Pasted image 20231122151530.png",
     "Pasted image 20240122164811.png",
-    "Práctica 3.md",
     "Mecalux",
     "Último año/Mecalux",
     "Último año/Mecalux",
