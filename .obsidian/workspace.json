@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2023-09-14 15.18.21.excalidraw"
             }
+          },
+          {
+            "id": "6b6390d86759aabf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted Image 20230914154019_827 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20230914154019_827 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 581.5
   },
   "right": {
     "id": "924a86bd6f21203e",
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+                "file": "imagenes/Pasted Image 20230914154019_827 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2023-09-14 15.18.21.excalidraw"
+              "title": "Backlinks for Pasted Image 20230914154019_827 1"
             }
           },
           {
@@ -144,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+                "file": "imagenes/Pasted Image 20230914154019_827 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2023-09-14 15.18.21.excalidraw"
+              "title": "Outgoing links from Pasted Image 20230914154019_827 1"
             }
           },
           {
@@ -173,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
+                "file": "imagenes/Pasted Image 20230914154019_827 1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2023-09-14 15.18.21.excalidraw"
+              "title": "Outline of Pasted Image 20230914154019_827 1"
             }
           }
         ]
@@ -203,8 +215,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3629607b6622b1cc",
+  "active": "6b6390d86759aabf",
   "lastOpenFiles": [
+    "imagenes/Pasted Image 20230914154019_827.png",
+    "imagenes/Pasted Image 20230914154019_827 1.png",
+    "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
     "Último año/Seguridad/Uso elemental de un certificado.md",
     "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
     "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
@@ -229,8 +244,6 @@
     "Último año/Servicios/SMTP.md",
     "Último año/Servicios/Sin título.md",
     "Último año/Servicios/Sin título 1.md",
-    "Último año/Servicios/Practica 1.excalidraw.md",
-    "Último año/Servicios/NAT.excalidraw.md",
     "bad_bunny_wwe_oficial_render_2021_png_by_lunaticwolfda_def4gzm-pre.png",
     "Pasted Image 20230929004441_386.png",
     "Pasted Image 20231004184039_267.png",
@@ -240,7 +253,6 @@
     "Pasted Image 20231113133125_757.png",
     "Pasted image 20231122151522.png",
     "Pasted image 20231122151530.png",
-    "Pasted image 20240122164811.png",
     "Mecalux",
     "Último año/Mecalux",
     "Último año/Mecalux",
