@@ -47,12 +47,14 @@
             "id": "eea3e9e500cc916d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png"
+                "file": "Último año/Seguridad/Diffie-Hellman.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Drawing 2023-03-22 19.14.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "Diffie-Hellman"
             }
           }
         ],
@@ -229,8 +231,21 @@
   },
   "active": "eea3e9e500cc916d",
   "lastOpenFiles": [
-    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
+    "Último año/Seguridad/Desarrollo de un sistema de gestion.excalidraw.md",
+    "Último año/Seguridad/Calculo de inversos modulares.excalidraw.md",
+    "Último año/Seguridad/Calculo de la clave RSA.md",
+    "Último año/Redes/Subredes.md",
+    "Último año/General/Sin título.md",
+    "Sistemas Operativos/Untitled 1.md",
+    "Sistemas Operativos/Untitled.md",
+    "Sistemas Operativos/Opcional.md",
+    "Sistemas Operativos/Identificadores de un proceso.md",
+    "Mecalux/Drawing 2025-12-30 08.13.38.excalidraw.md",
+    "Mecalux/Métricas.md",
+    "Juan/notas puga porque alejandro no me dejó el enchufe (rata).md",
+    "Ingeniería de redes/Escenario del examen.md",
     "Infra/Drawing 2023-03-22 19.14.01.excalidraw.png",
+    "Infra/Drawing 2023-03-22 19.14.01.excalidraw.md",
     "Infra/Drawing 2023-03-20 09.28.10.excalidraw.md",
     "Distribuidos/Trabajo Distribuidos 2.md",
     "Distribuidos/Sincronización de relojes lógicos.md",
@@ -243,10 +258,6 @@
     "Distribuidos/cola circular.md",
     "Distribuidos/Chat.md",
     "Distribuidos/Arquitectura descentralizada.md",
-    "CPM/Untitled.md",
-    "Blockchain/Polkadot/Untitled.md",
-    "Blockchain/Polkadot/Los objetivos de Polkadot.md",
-    "Home.md",
     "imagenes/Pasted Image 20230912173650_229.png",
     "imagenes/Pasted Image 20230913182409_645.png",
     "imagenes/Pasted Image 20230914154019_827.png",
@@ -256,14 +267,6 @@
     "imagenes/Pasted Image 20230918191128_156.png",
     "imagenes/Pasted Image 20230918191434_682.png",
     "imagenes/Pasted Image 20230921151516_479.png",
-    "Último año/ED/Drawing 2023-09-14 15.18.21.excalidraw.md",
-    "Último año/Seguridad/Uso elemental de un certificado.md",
-    "Último año/Redes/Drawing 2023-11-13 13.10.21.excalidraw.md",
-    "Último año/Redes/Drawing 2023-10-26 11.20.10.excalidraw.md",
-    "Último año/Seguridad/Sin título 1.md",
-    "Último año/Seguridad/Sin título.md",
-    "Último año/Seguridad/Seguridad entra examen 2.md",
-    "Último año/Seguridad/Política de seguridad.excalidraw.md",
     "Mecalux",
     "Último año/Mecalux",
     "Último año/Mecalux",
